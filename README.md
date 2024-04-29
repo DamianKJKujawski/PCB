@@ -20,3 +20,7 @@ GOTO: [Base-Projects](https://github.com/DamianKJKujawski/Base-Projects) [Ideas-
 
 ![image](https://github.com/DamianKJKujawski/PCB/assets/160174331/156eea33-c1c6-450b-a4aa-916314ca650c)
 
+### Layer 6:
+
+![image](https://github.com/DamianKJKujawski/PCB/assets/160174331/2a11d59d-3e43-4349-9725-ff766042671c)
+
