@@ -8,6 +8,10 @@ GOTO: [Base-Projects](https://github.com/DamianKJKujawski/Base-Projects) [Ideas-
 
 ![Model](https://github.com/DamianKJKujawski/PCB/assets/160174331/518f5a54-8ba5-4e70-8c17-e57654997c92)
 
+### Diagram:
+
+![Parallella block diagram](https://github.com/DamianKJKujawski/PCB/assets/160174331/e71611d2-4566-41b5-8bad-77a54c246489)
+
 ### Stackup:
 
 ![Stackup](https://github.com/DamianKJKujawski/PCB/assets/160174331/d38a44d2-bc5f-4f35-891a-89b3db1f45f3)
