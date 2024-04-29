@@ -1,0 +1,43 @@
+Wed Nov 09 14:35:11 2016
+
+Project path: J:\!projekt\parallella_proj\database
+
+Env. WDIR: C:\WDIR\EEVX.2;C:\MentorGraphics\EEVX.2\SDD_HOME\standard;
+WDIRs: 
+	C:\WDIR\EEVX.2
+	C:\MentorGraphics\EEVX.2\SDD_HOME\standard
+
+Loaded cns files: 
+	C:\WDIR\EEVX.2\user.cns=a1df-07d0-2eca-716f-2999-7187-9997-1850-dcc0-0ecd-bc09-8bf9
+	C:\MentorGraphics\EEVX.2\SDD_HOME\standard\ce_ee.cns=7.10.56
+
+Loaded cns - data stored in database: C:\WDIR\EEVX.2\user.cns=a1df-07d0-2eca-716f-2999-7187-9997-1850-dcc0-0ecd-bc09-8bf9;C:\MentorGraphics\EEVX.2\SDD_HOME\standard\ce_ee.cns=7.10.56
+Before global upgrade from version: 7.10.56 to version: 7.10.56
+
+BeforeGlobalUpgrade took 14ms, 0s
+
+Upgrade snapshot DxD
+UpgradeSnapshot took 46ms, 0s
+
+Upgrade snapshot __ise_DxD
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot xIOPT
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot parallella_layout_temp
+UpgradeSnapshot took 45ms, 0s
+
+Upgrade snapshot parallella
+UpgradeSnapshot took 43ms, 0s
+
+Upgrade snapshot parallella_RefSync
+UpgradeSnapshot took 43ms, 0s
+
+Upgrade snapshot parallella_LDDTemp
+UpgradeSnapshot took 43ms, 0s
+
+After global upgrade
+Set database cns file versions: ce_ee.cns=7.10.56;user.cns=a1df-07d0-2eca-716f-2999-7187-9997-1850-dcc0-0ecd-bc09-8bf9
+AfterGlobalUpgrade took 1ms, 0s
+

@@ -1,0 +1,10 @@
+# Library Integrity Checker log created on: 2015/10/29 09:21:08 PM
+#
+# Log format:<obj_file_content>:<obj_file_name>:<pdb_file_content>:<lmc_file_content> PARTITION:<partition> ACTION:<action>
+
+esrope.1 : ripper.1 :  : ripper PARTITION: builtin ACTION: obj_file_name
+Repair status: OK
+newa4sheet : a4sheet.1 :  : a4sheet PARTITION: Borders ACTION: obj_file_name
+Repair status: OK
+
+Repairing process finished sucessfully.

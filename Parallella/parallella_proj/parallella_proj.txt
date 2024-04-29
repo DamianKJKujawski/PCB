@@ -1,0 +1,103 @@
+Part Lister output for parallella
+Generated on Wednesday, May 09, 2018
+ |#    |QTY  |Part Number      |Description                                |Value |Ref Designator  |
+----------------------------------------------------------------------------------------------------
+ | 1   | 19  |CAP0402_4P7UF_X5 |CAP, 0402, 4.7UF, X5R, 6.3V                |4.7UF |C1-C19          |
+ |     |     |R                |                                           |      |                |
+ | 2   | 5   |CAP0402_0P047UF_ |CAP, 0402, 0.047UF, X5R, 25V               |0.047 |C20-C24         |
+ |     |     |X5R              |                                           |UF    |                |
+ | 3   | 18  |CAP0402_10NF_X7R |CAP, 0402, 10NF, X7R, 16V                  |10nF  |C25-C42         |
+ |     |     |_16V             |                                           |      |                |
+ | 4   | 17  |CAP1210_100UF_X5 |CAP, 1210, 100UF, X5R, 6.3V, LOW ESR       |100uF |C43-C59         |
+ |     |     |R_LOESR          |                                           |      |                |
+ | 5   | 78  |CAP0402_0P47UF_X |CAP, 0402, 0.47UF, X5R, 16V                |0.47U |C60-C137        |
+ |     |     |5R               |                                           |F     |                |
+ | 6   | 67  |CAP0402_0P1UF_X5 |CAP, 0402, 0.1UF, X5R, 35V                 |0.1UF |C138-C204       |
+ |     |     |R_35V            |                                           |      |                |
+ | 7   | 17  |CAP0603_4P7UF_16 |CAP, 0603, 4.7UF, X5R, 16V                 |4.7UF |C205-C221       |
+ |     |     |V_X5R            |                                           |      |                |
+ | 8   | 13  |CAP0603_10UF_X5R |CAP, 0603, 10UF, X5R, 10V                  |10UF  |C222-C234       |
+ | 9   | 4   |CAP0402_6PF_NPO_ |CAP, 0402, 6PF, NPO, 50V                   |6pF   |C235-C238       |
+ |     |     |50V              |                                           |      |                |
+ | 10  | 2   |CAP0402_2P2UF_X5 |CAP, 0402, 2.2UF, X5R, 6.3V                |2.2UF |C239,C240       |
+ |     |     |R                |                                           |      |                |
+ | 11  | 10  |CAP0805_10UF_16V |CAP, 0805, 10UF, X5R, 16V                  |10UF  |C241-C250       |
+ |     |     |_X5R             |                                           |      |                |
+ | 12  | 2   |CAP0805_6800PF_X |CAP, 0805, 6800PF, X7R, 100V               |6800P |C251,C252       |
+ |     |     |7R               |                                           |F     |                |
+ | 13  | 3   |CAP0603_1UF_X5R  |CAP, 0603, 10UF, X5R, 10V                  |10UF  |C253-C255       |
+ | 14  | 2   |LED_0603_5MA_RED |LED, 0603, 5MA, SMT, RED                   |RED   |CR1,CR2         |
+ | 15  | 4   |LED_0603_5MA_GRN |LED, 0603, 5MA, SMT, GREEN                 |GREEN |CR3-CR6         |
+ | 16  | 1   |DIODE_BAS16XV2T1 |DIODE, SWITCH, 200mA, 75V, SOD523          |      |D1              |
+ |     |     |G                |                                           |      |                |
+ | 17  | 1   |FUSE0603_4A      |FUSE, 4A, 32V, FAST, 0603                  |      |F1              |
+ | 18  | 10  |BLM15AG121SN1D   |FERRITE, BEAD, 0402, 120 OHM@ 100MHZ,      |      |FB1-FB10        |
+ |     |     |                 | 500mA, SMT                                |      |                |
+ | 19  | 3   |BLM18SG121TN1D   |FERRITE, BEAD, FILTER, 0603, 3A            |      |FB11-FB13       |
+ | 20  | 4   |CON_BSH_030_VERT |                                           |      |J1-J4           |
+ | 21  | 1   |HDMI_MICRO_D_RA_ |CONN, HDMI, RCPT, MICRO D, RA, SMT         |      |J5              |
+ |     |     |SMT              |                                           |      |                |
+ | 22  | 1   |CONN_MICROSD_CAR |CONN, MICRO SD CARD, PUSH-PUSH             |      |J6              |
+ |     |     |D                |                                           |      |                |
+ | 23  | 2   |HDR_1X3_TH_VER_0 |HDR, 1ROW, 3POS, VERT, TH, 1X3,            |      |J7,J8           |
+ |     |     |.1P              | 0.100 PITCH                               |      |                |
+ | 24  | 1   |RJ45-10_100_1000 |RJ45 JACK, INTEGRATED MAG AND LED          |      |J9              |
+ |     |     |-BELFUSE         |                                           |      |                |
+ | 25  | 1   |USB_MICRO_AB_RA_ |CONN, USB, RCPT, MICRO AB, RA, SMT         |      |J10             |
+ |     |     |SMT              |                                           |      |                |
+ | 26  | 1   |USB_MICRO_B_RA_S |CONN, USB, RCPT, MICRO B, RA, SMT          |      |J11             |
+ |     |     |MT               |                                           |      |                |
+ | 27  | 1   |CON_POWER_PJ002A |CON, PWR, BARREL, PCB, PJ002A_TH           |      |J12             |
+ |     |     |_TH              |                                           |      |                |
+ | 28  | 1   |HDR_1X2_TH_VER   |HDR, 1ROW, 2POS, VERT, TH, 1X2             |      |J13             |
+ | 29  | 4   |IND_1P5UH_2A     |IND, 1.5uH, 2A                             |1.5uH |L1-L4           |
+ | 30  | 4   |PTH125_200PAD    |                                           |      |PTH1-PTH4       |
+ | 31  | 39  |RES0402_0        |RES, 0402, 0 OHM, 1%                       |0     |R1-R39          |
+ | 32  | 24  |RES0402_1K       |RES, 0402, 1K                              |1K    |R40-R63         |
+ | 33  | 30  |RES0402_4K75     |RES, 0402, 4.75K, 1%                       |4.75K |R64-R93         |
+ | 34  | 25  |RES0402_33       |RES, 0402, 33, 1%                          |33    |R94-R118        |
+ | 35  | 3   |RES0402_80P6     |RES, 0402, 80.6, 1%                        |80.6  |R119-R121       |
+ | 36  | 10  |RES0402_22R1     |RES, 0402, 22.1, 1%                        |22.1  |R122-R131       |
+ | 37  | 6   |RES0402_240      |RES, 0402, 240, 1%                         |240   |R132-R137       |
+ | 38  | 52  |RES0402_100      |RES, 0402, 100, 1%                         |100   |R138-R189       |
+ | 39  | 21  |RES0402_10K      |RES, 0402, 10K                             |10K   |R190-R210       |
+ | 40  | 1   |RES0402_27K4     |RES, 0402, 27.4K                           |27.4K |R211            |
+ | 41  | 1   |RES0402_887      |RES, 0402, 887                             |887   |R212            |
+ | 42  | 9   |RES0402_20K      |RES, 0402, 20K                             |20K   |R213-R221       |
+ | 43  | 1   |RES0402_4K99     |RES, 0402, 4.99K, 1%                       |4.99K |R222            |
+ | 44  | 2   |RES0402_8K06     |RES, 0402, 8.06K                           |8.06K |R223,R224       |
+ | 45  | 3   |RES0402_620      |RES, 0402, 620, 1%                         |620   |R225-R227       |
+ | 46  | 1   |RES0603_24K9     |RES, 0603, 24.9K                           |24.9K |R228            |
+ | 47  | 1   |RES0603_100K     |RES, 0603, 100K                            |100K  |R229            |
+ | 48  | 1   |RES0402_56K2     |RES, 0402, 56.2K                           |56.2K |R230            |
+ | 49  | 1   |RES0603_69K8     |RES, 0603, 69.8K                           |69.8K |R231            |
+ | 50  | 1   |SW_PB_SPST_2PIN  |SW, PUSHBUTTON, SPST, NORMALLY OPEN, SMT   |      |SW1             |
+ | 51  | 2   |TEST_TERM_RED    |PC TEST POINT MINIATURE                    |      |TP1,TP2         |
+ | 52  | 2   |TEST_TERM_BLK    |PC Test Point Miniature                    |      |TP3,TP4         |
+ | 53  | 1   |ZYNQ_7Z020_CLG40 |IC, EPP, XILINX, ZYNQ, 7Z020, CLG400       |      |U1              |
+ |     |     |0                |                                           |      |                |
+ | 54  | 1   |DDR3_256MX32     |IC, DDR3, 8Gb, 256M32, BGA136              |      |U2              |
+ | 55  | 1   |EPIPHANY_E16G301 |IC, 16-CORE MICROPROCESSOR, ADAPTEVA,      |      |U3              |
+ |     |     |                 | E16G301, BGA324                           |      |                |
+ | 56  | 1   |SN65LVDS4        |IC, LINE RECEIVER, DIFFERENTIAL LVDS,      |      |U4              |
+ |     |     |                 | UFQFN10                                   |      |                |
+ | 57  | 1   |TPD12S016        |IC, HDMI ESD PROT AND LEVEL SHIFT, TSSOP24 |      |U5              |
+ | 58  | 1   |HDMI_DVI_XCVR_AD |IC, HDMI/DVI TRANSMITTER, PQFP64           |      |U6              |
+ |     |     |V7513            |                                           |      |                |
+ | 59  | 2   |NC7SZ125         |                                           |      |U7,U8           |
+ | 60  | 1   |VOLTMON_4IN_3P3  |IC,  SUPPLY MONITOR, 4 INPUTS, TSSOP8      |      |U9              |
+ | 61  | 3   |NC7WZ16          |                                           |      |U10-U12         |
+ | 62  | 1   |IC_SI51219       |IC, PROGRAMMABLE CLOCK GEN, 3 OUTPUTS,     |      |U13             |
+ |     |     |                 | TSSOP8                                    |      |                |
+ | 63  | 1   |IC_SPI_FLASH_QUA |SPI FLASH, QUAD, 128M-BIT, VPDFN8, 1.8V    |      |U14             |
+ |     |     |D_128Mb          |                                           |      |                |
+ | 64  | 1   |88E1318_QFN48    |IC, GIGE PHY, QFN48                        |      |U15             |
+ | 65  | 1   |MIC2025_1_USB_SW |IC, USB DISTRIBUTION SW, 1 CH, SOIC8       |      |U16             |
+ | 66  | 2   |USB3320_ULPI_XCV |IC, USB ULPI XCVR, SINGLE SUPPLY, QFN32    |      |U17,U18         |
+ |     |     |R                |                                           |      |                |
+ | 67  | 1   |                 |IC, dual step-down converters + dual LDOs, |      |U19             |
+ |     |     |                 | TQFN16                                    |      |                |
+ | 68  | 1   |IC_ISL9305_DCDC_ |IC, dual step-down converters + dual LDOs, |      |U20             |
+ |     |     |CONV             | I2C interface, TQFN16                     |      |                |
+ | 69  | 1   |CRYSTAL_4P_24MHZ |XTAL, 2X1.6MM, 24MHZ, 4PIN, SMT            |      |Y1              |
+ | 70  | 1   |XTAL_4P_25MHZ    |XTAL, 2X1.6MM, 25MHZ, 4PIN, SMT            |      |Y2              |

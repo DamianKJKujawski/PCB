@@ -1,0 +1,512 @@
+Import Layout Template.
+Copyright 2015 Mentor Graphics Corporation. All Rights Reserved.
+
+-prj: C:\proj_test3\proj_test3.prj
+-sn: DxD
+-topblock: Schematic1
+-LT: 8 Layer Template
+-log: C:\proj_test3\PCB\LogFiles\LT_Import.log
+
+ConsReuse: Copy Layout Template
+Source database:
+	path: C:\test1_lib\Templates\Layout\8 Layer Template/keyin.icdb
+	snapshot name: PCB
+	topblock name: PCB
+Target database:
+	path: C:\proj_test3\database
+	snapshot name: DxD
+	topblock name: Schematic1
+
+Transaction started 
+Importing Layout Template ...
+Importing general clearances ...
+	Skip add constraint (name: CMH2MH) - default value
+	Skip add constraint (name: CMH2NC) - default value
+	Skip add constraint (name: PLCOUT2PLCOUT) - default value
+	Skip add constraint (name: PLCOUT2PLCOB) - default value
+	Skip add constraint (name: PLCOUT2BRDEDGE) - default value
+	Skip add constraint (name: TRACE2RESISTOR) - default value
+	Skip add constraint (name: PAD2RESISTOR) - default value
+	Skip add constraint (name: TPCENTER2TPCENTER) - default value
+General clearances imported (time: 0ms, 0s)
+Importing layers ...
+	Layer 'DIELECTRIC_1' added.
+	Constraint added. Name: LAYER_DESC, value: Solder_Mask
+	Constraint added. Name: LAYER_USAGE, value: Substrate
+	Skip add constraint (name: LAYER_TECH) - default value
+	Constraint added. Name: HEIGHT, value: 76200.000000000000000
+	Skip add constraint (name: DIELCONST) - default value
+	Skip add constraint (name: EXTRACTED_DIELECTRIC) - default value
+	Skip add constraint (name: CONDUCTOR) - default value
+	Skip add constraint (name: LAYER_ENABLED) - default value
+	Skip add constraint (name: DIRECTIONAL_BIAS) - default value
+	Layer 'SIGNAL_1' added.
+	Constraint added. Name: LAYER_DESC, value: Microstrip
+	Constraint added. Name: LAYER_USAGE, value: Signal
+	Skip add constraint (name: LAYER_TECH) - default value
+	Constraint added. Name: HEIGHT, value: 17780.000000000000000
+	Skip add constraint (name: EXTRACTED_DIELECTRIC) - default value
+	Skip add constraint (name: CONDUCTOR) - default value
+	Constraint added. Name: BULK_RES, value: 0.000000017240000
+	Constraint added. Name: LAYER_PAIR, value: 8
+	Skip add constraint (name: LAYER_ENABLED) - default value
+	Constraint added. Name: LAYER_DIFFPAIR, value: 1
+	Skip add constraint (name: DIRECTIONAL_BIAS) - default value
+	Layer 'DIELECTRIC_3' added.
+	Constraint added. Name: LAYER_DESC, value: Core/Pre-preg
+	Constraint added. Name: LAYER_USAGE, value: Substrate
+	Skip add constraint (name: LAYER_TECH) - default value
+	Constraint added. Name: HEIGHT, value: 508000.000000000000000
+	Constraint added. Name: DIELCONST, value: 4.700000000000000
+	Skip add constraint (name: EXTRACTED_DIELECTRIC) - default value
+	Skip add constraint (name: CONDUCTOR) - default value
+	Skip add constraint (name: LAYER_ENABLED) - default value
+	Skip add constraint (name: DIRECTIONAL_BIAS) - default value
+	Layer 'SIGNAL_2' added.
+	Constraint added. Name: LAYER_DESC, value: Plane
+	Constraint added. Name: LAYER_USAGE, value: Signal
+	Skip add constraint (name: LAYER_TECH) - default value
+	Constraint added. Name: HEIGHT, value: 17780.000000000000000
+	Skip add constraint (name: EXTRACTED_DIELECTRIC) - default value
+	Skip add constraint (name: CONDUCTOR) - default value
+	Constraint added. Name: BULK_RES, value: 0.000000017240000
+	Constraint added. Name: LAYER_PAIR, value: 7
+	Skip add constraint (name: LAYER_ENABLED) - default value
+	Constraint added. Name: LAYER_DIFFPAIR, value: 2
+	Constraint added. Name: DIRECTIONAL_BIAS, value: VERTICAL
+	Layer 'DIELECTRIC_5' added.
+	Constraint added. Name: LAYER_DESC, value: Core/Pre-preg
+	Constraint added. Name: LAYER_USAGE, value: Substrate
+	Skip add constraint (name: LAYER_TECH) - default value
+	Constraint added. Name: HEIGHT, value: 508000.000000000000000
+	Constraint added. Name: DIELCONST, value: 4.700000000000000
+	Skip add constraint (name: EXTRACTED_DIELECTRIC) - default value
+	Skip add constraint (name: CONDUCTOR) - default value
+	Skip add constraint (name: LAYER_ENABLED) - default value
+	Skip add constraint (name: DIRECTIONAL_BIAS) - default value
+	Layer 'SIGNAL_3' added.
+	Constraint added. Name: LAYER_DESC, value: Plane
+	Constraint added. Name: LAYER_USAGE, value: Signal
+	Skip add constraint (name: LAYER_TECH) - default value
+	Constraint added. Name: HEIGHT, value: 17780.000000000000000
+	Skip add constraint (name: EXTRACTED_DIELECTRIC) - default value
+	Skip add constraint (name: CONDUCTOR) - default value
+	Constraint added. Name: BULK_RES, value: 0.000000017240000
+	Constraint added. Name: LAYER_PAIR, value: 6
+	Skip add constraint (name: LAYER_ENABLED) - default value
+	Constraint added. Name: LAYER_DIFFPAIR, value: 3
+	Skip add constraint (name: DIRECTIONAL_BIAS) - default value
+	Layer 'DIELECTRIC_7' added.
+	Constraint added. Name: LAYER_DESC, value: Core/Pre-preg
+	Constraint added. Name: LAYER_USAGE, value: Substrate
+	Skip add constraint (name: LAYER_TECH) - default value
+	Constraint added. Name: HEIGHT, value: 508000.000000000000000
+	Constraint added. Name: DIELCONST, value: 4.700000000000000
+	Skip add constraint (name: EXTRACTED_DIELECTRIC) - default value
+	Skip add constraint (name: CONDUCTOR) - default value
+	Skip add constraint (name: LAYER_ENABLED) - default value
+	Skip add constraint (name: DIRECTIONAL_BIAS) - default value
+	Layer 'SIGNAL_8' added.
+	Constraint added. Name: LAYER_DESC, value: Microstrip
+	Constraint added. Name: LAYER_USAGE, value: Signal
+	Skip add constraint (name: LAYER_TECH) - default value
+	Constraint added. Name: HEIGHT, value: 17780.000000000000000
+	Skip add constraint (name: EXTRACTED_DIELECTRIC) - default value
+	Skip add constraint (name: CONDUCTOR) - default value
+	Constraint added. Name: BULK_RES, value: 0.000000017240000
+	Constraint added. Name: LAYER_PAIR, value: 1
+	Skip add constraint (name: LAYER_ENABLED) - default value
+	Constraint added. Name: LAYER_DIFFPAIR, value: 8
+	Constraint added. Name: DIRECTIONAL_BIAS, value: VERTICAL
+	Layer 'DIELECTRIC_17' added.
+	Constraint added. Name: LAYER_DESC, value: Solder_Mask
+	Constraint added. Name: LAYER_USAGE, value: Substrate
+	Skip add constraint (name: LAYER_TECH) - default value
+	Constraint added. Name: HEIGHT, value: 76200.000000000000000
+	Skip add constraint (name: DIELCONST) - default value
+	Skip add constraint (name: EXTRACTED_DIELECTRIC) - default value
+	Skip add constraint (name: CONDUCTOR) - default value
+	Skip add constraint (name: LAYER_ENABLED) - default value
+	Skip add constraint (name: DIRECTIONAL_BIAS) - default value
+	Layer 'SIGNAL_4' added.
+	Constraint added. Name: LAYER_DESC, value: Stripline
+	Constraint added. Name: LAYER_USAGE, value: Signal
+	Skip add constraint (name: LAYER_TECH) - default value
+	Constraint added. Name: HEIGHT, value: 35560.000000000000000
+	Skip add constraint (name: EXTRACTED_DIELECTRIC) - default value
+	Skip add constraint (name: CONDUCTOR) - default value
+	Constraint added. Name: BULK_RES, value: 0.000000016700000
+	Constraint added. Name: LAYER_PAIR, value: 5
+	Skip add constraint (name: LAYER_ENABLED) - default value
+	Constraint added. Name: LAYER_DIFFPAIR, value: 4
+	Constraint added. Name: PLANE_TYPE, value: POSITIVE
+	Skip add constraint (name: DIRECTIONAL_BIAS) - default value
+	Layer 'DIELECTRIC_9' added.
+	Constraint added. Name: LAYER_DESC, value: Core/Pre-preg
+	Constraint added. Name: LAYER_USAGE, value: Rigid Substrate
+	Skip add constraint (name: LAYER_TECH) - default value
+	Constraint added. Name: HEIGHT, value: 508000.000000000000000
+	Constraint added. Name: DIELCONST, value: 4.700000000000000
+	Skip add constraint (name: EXTRACTED_DIELECTRIC) - default value
+	Skip add constraint (name: CONDUCTOR) - default value
+	Constraint added. Name: BULK_RES, value: 0.000000000000000
+	Constraint added. Name: LAYER_ENABLED, value: FALSE
+	Constraint added. Name: PLANE_TYPE, value: POSITIVE
+	Skip add constraint (name: DIRECTIONAL_BIAS) - default value
+	Layer 'SIGNAL_5' added.
+	Constraint added. Name: LAYER_DESC, value: Stripline
+	Constraint added. Name: LAYER_USAGE, value: Signal
+	Skip add constraint (name: LAYER_TECH) - default value
+	Constraint added. Name: HEIGHT, value: 17780.000000000000000
+	Skip add constraint (name: EXTRACTED_DIELECTRIC) - default value
+	Skip add constraint (name: CONDUCTOR) - default value
+	Constraint added. Name: BULK_RES, value: 0.000000016700000
+	Constraint added. Name: LAYER_PAIR, value: 4
+	Skip add constraint (name: LAYER_ENABLED) - default value
+	Constraint added. Name: LAYER_DIFFPAIR, value: 5
+	Constraint added. Name: PLANE_TYPE, value: POSITIVE
+	Skip add constraint (name: DIRECTIONAL_BIAS) - default value
+	Layer 'DIELECTRIC_11' added.
+	Constraint added. Name: LAYER_DESC, value: Core/Pre-preg
+	Constraint added. Name: LAYER_USAGE, value: Rigid Substrate
+	Skip add constraint (name: LAYER_TECH) - default value
+	Constraint added. Name: HEIGHT, value: 508000.000000000000000
+	Constraint added. Name: DIELCONST, value: 4.700000000000000
+	Skip add constraint (name: EXTRACTED_DIELECTRIC) - default value
+	Skip add constraint (name: CONDUCTOR) - default value
+	Constraint added. Name: BULK_RES, value: 0.000000000000000
+	Constraint added. Name: LAYER_ENABLED, value: FALSE
+	Constraint added. Name: PLANE_TYPE, value: POSITIVE
+	Skip add constraint (name: DIRECTIONAL_BIAS) - default value
+	Layer 'SIGNAL_6' added.
+	Constraint added. Name: LAYER_DESC, value: Stripline
+	Constraint added. Name: LAYER_USAGE, value: Signal
+	Skip add constraint (name: LAYER_TECH) - default value
+	Constraint added. Name: HEIGHT, value: 17780.000000000000000
+	Skip add constraint (name: EXTRACTED_DIELECTRIC) - default value
+	Skip add constraint (name: CONDUCTOR) - default value
+	Constraint added. Name: BULK_RES, value: 0.000000016700000
+	Constraint added. Name: LAYER_PAIR, value: 3
+	Skip add constraint (name: LAYER_ENABLED) - default value
+	Constraint added. Name: LAYER_DIFFPAIR, value: 6
+	Constraint added. Name: PLANE_TYPE, value: POSITIVE
+	Skip add constraint (name: DIRECTIONAL_BIAS) - default value
+	Layer 'DIELECTRIC_13' added.
+	Constraint added. Name: LAYER_DESC, value: Core/Pre-preg
+	Constraint added. Name: LAYER_USAGE, value: Rigid Substrate
+	Skip add constraint (name: LAYER_TECH) - default value
+	Constraint added. Name: HEIGHT, value: 508000.000000000000000
+	Constraint added. Name: DIELCONST, value: 4.700000000000000
+	Skip add constraint (name: EXTRACTED_DIELECTRIC) - default value
+	Skip add constraint (name: CONDUCTOR) - default value
+	Constraint added. Name: BULK_RES, value: 0.000000000000000
+	Constraint added. Name: LAYER_ENABLED, value: FALSE
+	Constraint added. Name: PLANE_TYPE, value: POSITIVE
+	Skip add constraint (name: DIRECTIONAL_BIAS) - default value
+	Layer 'SIGNAL_7' added.
+	Constraint added. Name: LAYER_DESC, value: Stripline
+	Constraint added. Name: LAYER_USAGE, value: Signal
+	Skip add constraint (name: LAYER_TECH) - default value
+	Constraint added. Name: HEIGHT, value: 17780.000000000000000
+	Skip add constraint (name: EXTRACTED_DIELECTRIC) - default value
+	Skip add constraint (name: CONDUCTOR) - default value
+	Constraint added. Name: BULK_RES, value: 0.000000016700000
+	Constraint added. Name: LAYER_PAIR, value: 2
+	Skip add constraint (name: LAYER_ENABLED) - default value
+	Constraint added. Name: LAYER_DIFFPAIR, value: 7
+	Constraint added. Name: PLANE_TYPE, value: POSITIVE
+	Skip add constraint (name: DIRECTIONAL_BIAS) - default value
+	Layer 'DIELECTRIC_15' added.
+	Constraint added. Name: LAYER_DESC, value: Core/Pre-preg
+	Constraint added. Name: LAYER_USAGE, value: Rigid Substrate
+	Skip add constraint (name: LAYER_TECH) - default value
+	Constraint added. Name: HEIGHT, value: 508000.000000000000000
+	Constraint added. Name: DIELCONST, value: 4.700000000000000
+	Skip add constraint (name: EXTRACTED_DIELECTRIC) - default value
+	Skip add constraint (name: CONDUCTOR) - default value
+	Constraint added. Name: BULK_RES, value: 0.000000000000000
+	Constraint added. Name: LAYER_ENABLED, value: FALSE
+	Constraint added. Name: PLANE_TYPE, value: POSITIVE
+	Skip add constraint (name: DIRECTIONAL_BIAS) - default value
+Layers imported (time: 15ms, 0s)
+Importing clearance rules ...
+Clearance rules imported (time: 0ms, 0s)
+Importing net classes ...
+Net classes imported (time: 16ms, 0s)
+Importing vias ...
+	Via '026VIA' added.
+Vias imported (time: 0ms, 0s)
+Importing via spans ...
+	Constraint added. Name: DEFAULT_VIA, value: 026VIA
+Via spans imported (time: 0ms, 0s)
+Importing schemes ...
+Copying net class from (Master)/(Default) to (Master)/(Default)
+	Skip add constraint (name: VIA_ASSIGN) - default value
+	Skip add constraint (name: ROUTE) - default value
+	Skip add constraint (name: MIN_TRACE_WIDTH) - default value
+	Skip add constraint (name: TYP_TRACE_WIDTH) - default value
+	Skip add constraint (name: EXP_TRACE_WIDTH) - default value
+	Skip add constraint (name: NET_CLASS_VIA) - default value
+	Skip add constraint (name: ROUTE) - default value
+	Skip add constraint (name: MIN_TRACE_WIDTH) - default value
+	Skip add constraint (name: TYP_TRACE_WIDTH) - default value
+	Skip add constraint (name: EXP_TRACE_WIDTH) - default value
+	Constraint added. Name: TYP_IMPEDANCE, value: 50.000000000000000
+	Skip add constraint (name: DIFF_SPACING) - default value
+	Skip add constraint (name: ROUTE) - default value
+	Skip add constraint (name: MIN_TRACE_WIDTH) - default value
+	Skip add constraint (name: TYP_TRACE_WIDTH) - default value
+	Skip add constraint (name: EXP_TRACE_WIDTH) - default value
+	Constraint added. Name: TYP_IMPEDANCE, value: 50.000000000000000
+	Skip add constraint (name: DIFF_SPACING) - default value
+	Skip add constraint (name: ROUTE) - default value
+	Skip add constraint (name: MIN_TRACE_WIDTH) - default value
+	Skip add constraint (name: TYP_TRACE_WIDTH) - default value
+	Skip add constraint (name: EXP_TRACE_WIDTH) - default value
+	Constraint added. Name: TYP_IMPEDANCE, value: 50.000000000000000
+	Skip add constraint (name: DIFF_SPACING) - default value
+	Skip add constraint (name: ROUTE) - default value
+	Skip add constraint (name: MIN_TRACE_WIDTH) - default value
+	Skip add constraint (name: TYP_TRACE_WIDTH) - default value
+	Skip add constraint (name: EXP_TRACE_WIDTH) - default value
+	Constraint added. Name: TYP_IMPEDANCE, value: 50.000000000000000
+	Skip add constraint (name: DIFF_SPACING) - default value
+	Skip add constraint (name: ROUTE) - default value
+	Skip add constraint (name: MIN_TRACE_WIDTH) - default value
+	Skip add constraint (name: TYP_TRACE_WIDTH) - default value
+	Skip add constraint (name: EXP_TRACE_WIDTH) - default value
+	Skip add constraint (name: ROUTE) - default value
+	Skip add constraint (name: MIN_TRACE_WIDTH) - default value
+	Skip add constraint (name: TYP_TRACE_WIDTH) - default value
+	Skip add constraint (name: EXP_TRACE_WIDTH) - default value
+	Skip add constraint (name: ROUTE) - default value
+	Skip add constraint (name: MIN_TRACE_WIDTH) - default value
+	Skip add constraint (name: TYP_TRACE_WIDTH) - default value
+	Skip add constraint (name: EXP_TRACE_WIDTH) - default value
+	Skip add constraint (name: ROUTE) - default value
+	Skip add constraint (name: MIN_TRACE_WIDTH) - default value
+	Skip add constraint (name: TYP_TRACE_WIDTH) - default value
+	Skip add constraint (name: EXP_TRACE_WIDTH) - default value
+Copying clear rule from (Master)/(Default Rule) to (Master)/(Default Rule)
+	Skip add constraint (name: TRACE_TO_TRACE) - default value
+	Skip add constraint (name: TRACE_TO_PAD) - default value
+	Skip add constraint (name: TRACE_TO_VIA) - default value
+	Skip add constraint (name: TRACE_TO_PLANE) - default value
+	Skip add constraint (name: SMDPAD_TO_TRACE) - default value
+	Skip add constraint (name: PAD_TO_PAD) - default value
+	Skip add constraint (name: PAD_TO_VIA) - default value
+	Skip add constraint (name: PAD_TO_PLANE) - default value
+	Skip add constraint (name: VIA_TO_VIA) - default value
+	Skip add constraint (name: VIA_TO_PLANE) - default value
+	Skip add constraint (name: SMDPAD_TO_VIA) - default value
+	Skip add constraint (name: PLANE_TO_PLANE) - default value
+	Skip add constraint (name: RESISTOR_TO_TRACE) - default value
+	Skip add constraint (name: RESISTOR_TO_PAD) - default value
+	Skip add constraint (name: RESISTOR_TO_VIA) - default value
+	Skip add constraint (name: RESISTOR_TO_RESISTOR) - default value
+	Skip add constraint (name: MASK_TO_TRACE) - default value
+	Skip add constraint (name: MASK_TO_PAD) - default value
+	Skip add constraint (name: MASK_TO_VIA) - default value
+	Skip add constraint (name: MASK_TO_RESISTOR) - default value
+	Skip add constraint (name: TRACE_TO_TRACE) - default value
+	Skip add constraint (name: TRACE_TO_PAD) - default value
+	Skip add constraint (name: TRACE_TO_VIA) - default value
+	Skip add constraint (name: TRACE_TO_PLANE) - default value
+	Skip add constraint (name: SMDPAD_TO_TRACE) - default value
+	Skip add constraint (name: PAD_TO_PAD) - default value
+	Skip add constraint (name: PAD_TO_VIA) - default value
+	Skip add constraint (name: PAD_TO_PLANE) - default value
+	Skip add constraint (name: VIA_TO_VIA) - default value
+	Skip add constraint (name: VIA_TO_PLANE) - default value
+	Skip add constraint (name: SMDPAD_TO_VIA) - default value
+	Skip add constraint (name: PLANE_TO_PLANE) - default value
+	Skip add constraint (name: RESISTOR_TO_TRACE) - default value
+	Skip add constraint (name: RESISTOR_TO_PAD) - default value
+	Skip add constraint (name: RESISTOR_TO_VIA) - default value
+	Skip add constraint (name: RESISTOR_TO_RESISTOR) - default value
+	Skip add constraint (name: MASK_TO_TRACE) - default value
+	Skip add constraint (name: MASK_TO_PAD) - default value
+	Skip add constraint (name: MASK_TO_VIA) - default value
+	Skip add constraint (name: MASK_TO_RESISTOR) - default value
+	Skip add constraint (name: TRACE_TO_TRACE) - default value
+	Skip add constraint (name: TRACE_TO_PAD) - default value
+	Skip add constraint (name: TRACE_TO_VIA) - default value
+	Skip add constraint (name: TRACE_TO_PLANE) - default value
+	Skip add constraint (name: SMDPAD_TO_TRACE) - default value
+	Skip add constraint (name: PAD_TO_PAD) - default value
+	Skip add constraint (name: PAD_TO_VIA) - default value
+	Skip add constraint (name: PAD_TO_PLANE) - default value
+	Skip add constraint (name: VIA_TO_VIA) - default value
+	Skip add constraint (name: VIA_TO_PLANE) - default value
+	Skip add constraint (name: SMDPAD_TO_VIA) - default value
+	Skip add constraint (name: PLANE_TO_PLANE) - default value
+	Skip add constraint (name: RESISTOR_TO_TRACE) - default value
+	Skip add constraint (name: RESISTOR_TO_PAD) - default value
+	Skip add constraint (name: RESISTOR_TO_VIA) - default value
+	Skip add constraint (name: RESISTOR_TO_RESISTOR) - default value
+	Skip add constraint (name: MASK_TO_TRACE) - default value
+	Skip add constraint (name: MASK_TO_PAD) - default value
+	Skip add constraint (name: MASK_TO_VIA) - default value
+	Skip add constraint (name: MASK_TO_RESISTOR) - default value
+	Skip add constraint (name: TRACE_TO_TRACE) - default value
+	Skip add constraint (name: TRACE_TO_PAD) - default value
+	Skip add constraint (name: TRACE_TO_VIA) - default value
+	Skip add constraint (name: TRACE_TO_PLANE) - default value
+	Skip add constraint (name: SMDPAD_TO_TRACE) - default value
+	Skip add constraint (name: PAD_TO_PAD) - default value
+	Skip add constraint (name: PAD_TO_VIA) - default value
+	Skip add constraint (name: PAD_TO_PLANE) - default value
+	Skip add constraint (name: VIA_TO_VIA) - default value
+	Skip add constraint (name: VIA_TO_PLANE) - default value
+	Skip add constraint (name: SMDPAD_TO_VIA) - default value
+	Skip add constraint (name: PLANE_TO_PLANE) - default value
+	Skip add constraint (name: RESISTOR_TO_TRACE) - default value
+	Skip add constraint (name: RESISTOR_TO_PAD) - default value
+	Skip add constraint (name: RESISTOR_TO_VIA) - default value
+	Skip add constraint (name: RESISTOR_TO_RESISTOR) - default value
+	Skip add constraint (name: MASK_TO_TRACE) - default value
+	Skip add constraint (name: MASK_TO_PAD) - default value
+	Skip add constraint (name: MASK_TO_VIA) - default value
+	Skip add constraint (name: MASK_TO_RESISTOR) - default value
+	Skip add constraint (name: TRACE_TO_TRACE) - default value
+	Skip add constraint (name: TRACE_TO_PAD) - default value
+	Skip add constraint (name: TRACE_TO_VIA) - default value
+	Skip add constraint (name: TRACE_TO_PLANE) - default value
+	Skip add constraint (name: SMDPAD_TO_TRACE) - default value
+	Skip add constraint (name: PAD_TO_PAD) - default value
+	Skip add constraint (name: PAD_TO_VIA) - default value
+	Skip add constraint (name: PAD_TO_PLANE) - default value
+	Skip add constraint (name: VIA_TO_VIA) - default value
+	Skip add constraint (name: VIA_TO_PLANE) - default value
+	Skip add constraint (name: SMDPAD_TO_VIA) - default value
+	Skip add constraint (name: PLANE_TO_PLANE) - default value
+	Skip add constraint (name: RESISTOR_TO_TRACE) - default value
+	Skip add constraint (name: RESISTOR_TO_PAD) - default value
+	Skip add constraint (name: RESISTOR_TO_VIA) - default value
+	Skip add constraint (name: RESISTOR_TO_RESISTOR) - default value
+	Skip add constraint (name: MASK_TO_TRACE) - default value
+	Skip add constraint (name: MASK_TO_PAD) - default value
+	Skip add constraint (name: MASK_TO_VIA) - default value
+	Skip add constraint (name: MASK_TO_RESISTOR) - default value
+	Skip add constraint (name: TRACE_TO_TRACE) - default value
+	Skip add constraint (name: TRACE_TO_PAD) - default value
+	Skip add constraint (name: TRACE_TO_VIA) - default value
+	Skip add constraint (name: TRACE_TO_PLANE) - default value
+	Skip add constraint (name: SMDPAD_TO_TRACE) - default value
+	Skip add constraint (name: PAD_TO_PAD) - default value
+	Skip add constraint (name: PAD_TO_VIA) - default value
+	Skip add constraint (name: PAD_TO_PLANE) - default value
+	Skip add constraint (name: VIA_TO_VIA) - default value
+	Skip add constraint (name: VIA_TO_PLANE) - default value
+	Skip add constraint (name: SMDPAD_TO_VIA) - default value
+	Skip add constraint (name: PLANE_TO_PLANE) - default value
+	Skip add constraint (name: RESISTOR_TO_TRACE) - default value
+	Skip add constraint (name: RESISTOR_TO_PAD) - default value
+	Skip add constraint (name: RESISTOR_TO_VIA) - default value
+	Skip add constraint (name: RESISTOR_TO_RESISTOR) - default value
+	Skip add constraint (name: MASK_TO_TRACE) - default value
+	Skip add constraint (name: MASK_TO_PAD) - default value
+	Skip add constraint (name: MASK_TO_VIA) - default value
+	Skip add constraint (name: MASK_TO_RESISTOR) - default value
+	Skip add constraint (name: TRACE_TO_TRACE) - default value
+	Skip add constraint (name: TRACE_TO_PAD) - default value
+	Skip add constraint (name: TRACE_TO_VIA) - default value
+	Skip add constraint (name: TRACE_TO_PLANE) - default value
+	Skip add constraint (name: SMDPAD_TO_TRACE) - default value
+	Skip add constraint (name: PAD_TO_PAD) - default value
+	Skip add constraint (name: PAD_TO_VIA) - default value
+	Skip add constraint (name: PAD_TO_PLANE) - default value
+	Skip add constraint (name: VIA_TO_VIA) - default value
+	Skip add constraint (name: VIA_TO_PLANE) - default value
+	Skip add constraint (name: SMDPAD_TO_VIA) - default value
+	Skip add constraint (name: PLANE_TO_PLANE) - default value
+	Skip add constraint (name: RESISTOR_TO_TRACE) - default value
+	Skip add constraint (name: RESISTOR_TO_PAD) - default value
+	Skip add constraint (name: RESISTOR_TO_VIA) - default value
+	Skip add constraint (name: RESISTOR_TO_RESISTOR) - default value
+	Skip add constraint (name: MASK_TO_TRACE) - default value
+	Skip add constraint (name: MASK_TO_PAD) - default value
+	Skip add constraint (name: MASK_TO_VIA) - default value
+	Skip add constraint (name: MASK_TO_RESISTOR) - default value
+	Skip add constraint (name: TRACE_TO_TRACE) - default value
+	Skip add constraint (name: TRACE_TO_PAD) - default value
+	Skip add constraint (name: TRACE_TO_VIA) - default value
+	Skip add constraint (name: TRACE_TO_PLANE) - default value
+	Skip add constraint (name: SMDPAD_TO_TRACE) - default value
+	Skip add constraint (name: PAD_TO_PAD) - default value
+	Skip add constraint (name: PAD_TO_VIA) - default value
+	Skip add constraint (name: PAD_TO_PLANE) - default value
+	Skip add constraint (name: VIA_TO_VIA) - default value
+	Skip add constraint (name: VIA_TO_PLANE) - default value
+	Skip add constraint (name: SMDPAD_TO_VIA) - default value
+	Skip add constraint (name: PLANE_TO_PLANE) - default value
+	Skip add constraint (name: RESISTOR_TO_TRACE) - default value
+	Skip add constraint (name: RESISTOR_TO_PAD) - default value
+	Skip add constraint (name: RESISTOR_TO_VIA) - default value
+	Skip add constraint (name: RESISTOR_TO_RESISTOR) - default value
+	Skip add constraint (name: MASK_TO_TRACE) - default value
+	Skip add constraint (name: MASK_TO_PAD) - default value
+	Skip add constraint (name: MASK_TO_VIA) - default value
+	Skip add constraint (name: MASK_TO_RESISTOR) - default value
+	Skip add constraint (name: TRACE_TO_TRACE) - default value
+	Skip add constraint (name: TRACE_TO_PAD) - default value
+	Skip add constraint (name: TRACE_TO_VIA) - default value
+	Skip add constraint (name: TRACE_TO_PLANE) - default value
+	Skip add constraint (name: SMDPAD_TO_TRACE) - default value
+	Skip add constraint (name: PAD_TO_PAD) - default value
+	Skip add constraint (name: PAD_TO_VIA) - default value
+	Skip add constraint (name: PAD_TO_PLANE) - default value
+	Skip add constraint (name: VIA_TO_VIA) - default value
+	Skip add constraint (name: VIA_TO_PLANE) - default value
+	Skip add constraint (name: SMDPAD_TO_VIA) - default value
+	Skip add constraint (name: PLANE_TO_PLANE) - default value
+	Skip add constraint (name: RESISTOR_TO_TRACE) - default value
+	Skip add constraint (name: RESISTOR_TO_PAD) - default value
+	Skip add constraint (name: RESISTOR_TO_VIA) - default value
+	Skip add constraint (name: RESISTOR_TO_RESISTOR) - default value
+	Skip add constraint (name: MASK_TO_TRACE) - default value
+	Skip add constraint (name: MASK_TO_PAD) - default value
+	Skip add constraint (name: MASK_TO_VIA) - default value
+	Skip add constraint (name: MASK_TO_RESISTOR) - default value
+Schemes imported (time: 47ms, 0s)
+Importing constraint classes ...
+	Constraint added. Name: ANALOG, value: 0
+	Constraint added. Name: BUS, value: 0
+	Skip add constraint (name: ORDER_TYPE) - default value
+	Skip add constraint (name: STUB_LENGTH) - default value
+	Skip add constraint (name: DELAY_TYPE) - default value
+	Constraint added. Name: SIM_SETTINGS, value: Default
+	Constraint added. Name: SIM_STIM, value: Default
+	Skip add constraint (name: SIM_DELAY_TYPE) - default value
+	Constraint class assigned to net class "(Default)".
+Constraint classes imported (time: 16ms, 0s)
+Importing part tech ...
+Part tech imported (time: 0ms, 0s)
+Importing constants & variables ...
+Constants & variables imported (time: 0ms, 0s)
+Importing Z-Axis clearances rules ...
+Importing C2CClearRule ...
+	Constraint added. Name: C2C_SCHEME, value: (Master)
+	Constraint added. Name: C2C_FRCLASS, value: (All)
+	Constraint added. Name: C2C_TOCLASS, value: (All)
+	Constraint added. Name: C2C_RULE, value: (Default Rule)
+	Skip add constraint (name: C2C_SCHEME) - the same value
+	Skip add constraint (name: C2C_FRCLASS) - the same value
+	Skip add constraint (name: C2C_TOCLASS) - the same value
+	Skip add constraint (name: C2C_RULE) - the same value
+	Constraint added. Name: C2C_SCHEME, value: (Minimum)
+	Constraint added. Name: C2C_FRCLASS, value: (All)
+	Constraint added. Name: C2C_TOCLASS, value: (All)
+	Constraint added. Name: C2C_RULE, value: (Default Rule)
+	Skip add constraint (name: C2C_SCHEME) - the same value
+	Skip add constraint (name: C2C_FRCLASS) - the same value
+	Skip add constraint (name: C2C_TOCLASS) - the same value
+	Skip add constraint (name: C2C_RULE) - the same value
+C2CClearRule imported (time: 0ms, 0s)
+Importing PkgTypeClearRule ...
+Importing Pkg2PkgClearRule ...
+Importing parallelism rule definitions ...
+Parallelism rule definitions imported (time: 0ms, 0s)
+Importing noise rules ...
+Layout Template imported (time: 94ms, 0s)
+Layout template imported.

@@ -1,0 +1,759 @@
+[2018.06.17 07:27:21] [0000m.00s.059ms] [0] WELCOME
+[2018.06.17 07:27:21] [0000m.00s.059ms] [1] iCDB Server ver.2.202, 88Zh1V4+7Fzqu6g9/cuD/w, build:7609897 created 2017-06-23 16:20:58, sources stamp:88Zh1V4+7Fzqu6g9/cuD/w
+[2018.06.17 07:27:21] [0000m.00s.059ms] [1] Copyright 2017 Mentor Graphics Corporation.  All Rights Reserved.
+[2018.06.17 07:27:21] [0000m.00s.059ms] [1] Base flow version [VX.2.2]
+[2018.06.17 07:27:21] [0000m.00s.059ms] [1] Install Id [1589114], Flow Id [X-ENTP VX.2.2], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.2], Exact Access Date [2017/05/01]
+[2018.06.17 07:27:21] [0000m.00s.069ms] [1] Machine [DAMKU]  IP [127.0.0.1,192.168.0.103]  User [Damian]  PID [7348]
+[2018.06.17 07:27:21] [0000m.00s.069ms] [1] Operating system [Microsoft Business Edition, 64-bit (build 9200)]
+[2018.06.17 07:27:21] [0000m.00s.069ms] [1] Current working dir [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj]
+[2018.06.17 07:27:21] [0000m.00s.069ms] [1] PATH [D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\bin;D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\lib;D:\Aplikacje\MentorGraphics\EEVX.2.2\MGC_HOME.ixw\bin;D:\Aplikacje\MentorGraphics\EEVX.2.2\MGC_HOME.ixw\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\MPI-RT\5.0.2.044\intel64\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\Aplikacje\MiKTeX\miktex\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Aplikacje\Matlab\runtime\win64;D:\Aplikacje\Matlab\bin;D:\Aplikacje\Skype\Phone\;C:\WINDOWS\System32\OpenSSH\;D:\Aplikacje\CUPL\WINCUPL\EXE;D:\Aplikacje\CUPL\WINCUPL\FITTERS;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;]
+[2018.06.17 07:27:21] [0000m.00s.069ms] [1] SDD_HOME [D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME] on file system [NTFS]
+[2018.06.17 07:27:21] [0000m.00s.069ms] [1] SDD_PLATFORM [win64]
+[2018.06.17 07:27:21] [0000m.00s.069ms] [1] WDIR [C:\WDIR\EEVX.2.2;D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\standard;]
+[2018.06.17 07:27:21] [0000m.00s.069ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.2\iCDB] on file system [NTFS]
+[2018.06.17 07:27:21] [0000m.00s.069ms] [2] S: Loading config files
+[2018.06.17 07:27:21] [0000m.00s.119ms] [1] Config file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\cdbsvr\Server.cfg] not found
+[2018.06.17 07:27:21] [0000m.00s.119ms] [3] S: Config loaded
+[2018.06.17 07:27:21] [0000m.00s.169ms] [0] S: Project path [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] on file system [NTFS]
+[2018.06.17 07:27:21] [0000m.00s.169ms] [0] S: Project file (.prj) path [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\parallella.prj] on file system [NTFS]
+[2018.06.17 07:27:21] [0000m.00s.169ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2018.06.17 07:27:21] [0000m.00s.169ms] [0] S: Single-user mode (auto)
+[2018.06.17 07:27:21] [0000m.00s.169ms] [0] S: Event polling mode autodetection
+[2018.06.17 07:27:21] [0000m.00s.169ms] [0] S: Started up automatically by iCDB Client: DAMKU:Damian:8688
+[2018.06.17 07:27:21] [0000m.00s.169ms] [0] S: Auto close mode
+[2018.06.17 07:27:21] [0000m.00s.169ms] [0] S: Database ID [663c-dd03-b7ba-00f0-831f-52bd-31f5-2b50-7e8e-7e7d-9e46-86c5]
+[2018.06.17 07:27:21] [0000m.00s.169ms] [0] PathTranslator: BEGIN dumping
+[2018.06.17 07:27:21] [0000m.00s.169ms] [0] PathTranslator: Local -> global path prefix list
+[2018.06.17 07:27:21] [0000m.00s.169ms] [0] PathTranslator: [E:\Instalatory] -> [\\DAMKU\Instalatory]
+[2018.06.17 07:27:21] [0000m.00s.169ms] [0] PathTranslator: Global -> local path prefix list
+[2018.06.17 07:27:21] [0000m.00s.169ms] [0] PathTranslator: [\\DAMKU\Instalatory] -> [E:\Instalatory]
+[2018.06.17 07:27:21] [0000m.00s.169ms] [0] PathTranslator: END dumping
+[2018.06.17 07:27:21] [0000m.00s.169ms] [0] S: START
+[2018.06.17 07:27:21] [0000m.00s.169ms] [0] S: Server startup lock file created
+[2018.06.17 07:27:21] [0000m.00s.169ms] [0] S: Listening for client connections on port [10000]
+[2018.06.17 07:27:21] [0000m.00s.169ms] [0] S: Server network ID [DAMKU:192.168.0.103,DAMKU:10000]
+[2018.06.17 07:27:21] [0000m.00s.169ms] [0] S: Server GUID [b4d9-a314-11ab-9c10-931f-52be-31f5-2b50-f9cf-7e7d-9e46-86c5]
+[2018.06.17 07:27:21] [0000m.00s.169ms] [0] S: Project GUID [663c-dd03-b7ba-00f0-831f-52bd-31f5-2b50-7e8e-7e7d-9e46-86c5]
+[2018.06.17 07:27:21] [0000m.00s.179ms] [0] S: Wrote data to server address file
+[2018.06.17 07:27:21] [0000m.00s.179ms] [0] S: Server startup lock file removed
+[2018.06.17 07:27:21] [0000m.00s.179ms] [1] ProjectBackupManager: Setting project file (.prj) path: [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\parallella.prj]
+[2018.06.17 07:27:22] [0000m.01s.239ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2018.06.17 07:27:22] [0000m.01s.239ms] [1] ServerToolkit: INFO: Plugin found in SDD_COMMON_BIN [D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\bin]
+[2018.06.17 07:27:22] [0000m.01s.239ms] [0] S: Local disc access time: 48 us
+[2018.06.17 07:27:22] [0000m.01s.239ms] [0] S: File server access time: 59 us
+[2018.06.17 07:27:22] [0000m.01s.249ms] [0] Single file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] size [1926136 (1.8 MB)]
+[2018.06.17 07:27:22] [0000m.01s.249ms] [1] Single file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] opened in read-write mode
+[2018.06.17 07:27:22] [0000m.01s.249ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.17 07:27:22] [0000m.01s.249ms] [0] Database GUARD OK: [1926136]
+[2018.06.17 07:27:22] [0000m.01s.249ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.17 07:27:22] [0000m.01s.249ms] [0] Database GUARD OK: [1926136]
+[2018.06.17 07:27:22] [0000m.01s.249ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.17 07:27:22] [0000m.01s.249ms] [0] Database GUARD OK: [1926136]
+[2018.06.17 07:27:22] [0000m.01s.249ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.17 07:27:22] [0000m.01s.249ms] [0] Database GUARD OK: [1926136]
+[2018.06.17 07:27:22] [0000m.01s.249ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.17 07:27:22] [0000m.01s.249ms] [0] Database GUARD OK: [1926136]
+[2018.06.17 07:27:22] [0000m.01s.249ms] [0] SingleFile: [58d9-be3e-87f6-b117] SFI version check [1009] [1009]
+[2018.06.17 07:27:22] [0000m.01s.269ms] [0] SingleFile: [58d9-be3e-87f6-b117] Database SFI header has been read in [14ms 985us]
+[2018.06.17 07:27:22] [0000m.01s.279ms] [0] iCDB Server PI: Server & plugin session [3367]
+[2018.06.17 07:27:22] [0000m.01s.279ms] [0] iCDB Server PI: Opening database [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database]
+[2018.06.17 07:27:22] [0000m.01s.279ms] [0] iCDB Server PI: Database [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] opened
+[2018.06.17 07:27:22] [0000m.01s.359ms] [0] iCDB Database: Checking existence of constraint definitions
+[2018.06.17 07:27:22] [0000m.01s.359ms] [0] iCDB Database: Checking constraint definitions version
+[2018.06.17 07:27:23] [0000m.01s.449ms] [0] iCDB Database: Creating database content backup before upgrade
+[2018.06.17 07:27:23] [0000m.01s.449ms] [1] iCDB Storage Server: Database backup: ProjectPath[E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database]
+[2018.06.17 07:27:23] [0000m.01s.599ms] [0] iCDB Storage Server Backup Thread: Database backup: BackupPath[E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\cdbback\2018-06-17 07.27.23-7348.zip]
+[2018.06.17 07:27:23] [0000m.01s.969ms] [0] iCDB Storage Server Backup Thread: Backup database DONE: Result[ Succeeded[TRUE]] BackupPath[E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\cdbback\2018-06-17 07.27.23-7348.zip]
+[2018.06.17 07:27:23] [0000m.02s.029ms] [0] iCDB Database: Database content backed up to [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\cdbback\2018-06-17 07.27.23-7348.zip] of size [3 058 887 bytes (2.9 MB)]  in [574ms 409us]
+[2018.06.17 07:27:23] [0000m.02s.049ms] [0] iCDB Database: Upgrading constraint definitions from version [ce_ee.cns=7.10.56;user.cns=e1f5-07a6-a6d1-219c-7533-43ac-5334-3a50-6533-8e1d-0c4b-ba98]
+[2018.06.17 07:27:23] [0000m.02s.109ms] [0] iCDB Database: Loading snapshot [1:DxD] version [3300]
+[2018.06.17 07:27:23] [0000m.02s.399ms] [0] iCDB Database: Snapshot [1:DxD] loaded in [294ms 536us]
+[2018.06.17 07:27:23] [0000m.02s.399ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [1:DxD]
+[2018.06.17 07:27:24] [0000m.02s.489ms] [0] iCDB Database: Constraint definitions for snapshot [1:DxD] upgraded in [83ms 545us]
+[2018.06.17 07:27:24] [0000m.02s.489ms] [0] iCDB Database: Saving snapshot [1:DxD]
+[2018.06.17 07:27:24] [0000m.02s.489ms] [0] iCDB Database: Snapshot [1:DxD] saved in [94us]
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[LineDxD] [23] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[LineDxD] [22] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[LineDxD] [21] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[LineDxD] [20] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[LineDxD] [19] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[LineDxD] [13] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[LineDxD] [12] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[LineDxD] [11] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[LineDxD] [7] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[LineDxD] [6] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[LineDxD] [5] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[LineDxD] [1] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[ArcDxD] [22] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[ArcDxD] [21] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[ArcDxD] [20] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[ArcDxD] [19] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[ArcDxD] [13] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[ArcDxD] [12] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[ArcDxD] [11] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[ArcDxD] [6] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[ArcDxD] [5] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[ArcDxD] [1] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[RectDxD] [23] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[RectDxD] [22] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[RectDxD] [19] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[RectDxD] [13] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[RectDxD] [12] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[TextDxD] [23] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[TextDxD] [22] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[TextDxD] [19] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.499ms] [1] Diagnostic: Warning: {[TextDxD] [11] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.02s.519ms] [1] Diagnostic: Warning: {[BlockViewDxD] [BLOCK DIAGRAM] [1253-1-68] [25] } --> Could not get sheet size
+[2018.06.17 07:27:24] [0000m.02s.519ms] [1] Diagnostic: Check failed on Block: parallella
+[2018.06.17 07:27:24] [0000m.02s.599ms] [1] Diagnostic: Snapshot [1:DxD] integrity check FAILED
+[2018.06.17 07:27:24] [0000m.02s.649ms] [0] iCDB Database: Loading snapshot [2:__ise_DxD] version [3300]
+[2018.06.17 07:27:24] [0000m.02s.649ms] [0] iCDB Database: Snapshot [2:__ise_DxD] loaded in [1ms 767us]
+[2018.06.17 07:27:24] [0000m.02s.649ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [2:__ise_DxD]
+[2018.06.17 07:27:24] [0000m.02s.649ms] [0] iCDB Database: Constraint definitions for snapshot [2:__ise_DxD] upgraded in [109us]
+[2018.06.17 07:27:24] [0000m.02s.649ms] [0] iCDB Database: Saving snapshot [2:__ise_DxD]
+[2018.06.17 07:27:24] [0000m.02s.649ms] [0] iCDB Database: Snapshot [2:__ise_DxD] saved in [5us]
+[2018.06.17 07:27:24] [0000m.02s.649ms] [0] iCDB Database: Loading snapshot [3:xIOPT] version [3300]
+[2018.06.17 07:27:24] [0000m.02s.649ms] [0] iCDB Database: Snapshot [3:xIOPT] loaded in [1ms 492us]
+[2018.06.17 07:27:24] [0000m.02s.649ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [3:xIOPT]
+[2018.06.17 07:27:24] [0000m.02s.649ms] [0] iCDB Database: Constraint definitions for snapshot [3:xIOPT] upgraded in [101us]
+[2018.06.17 07:27:24] [0000m.02s.649ms] [0] iCDB Database: Saving snapshot [3:xIOPT]
+[2018.06.17 07:27:24] [0000m.02s.649ms] [0] iCDB Database: Snapshot [3:xIOPT] saved in [5us]
+[2018.06.17 07:27:24] [0000m.02s.649ms] [0] iCDB Database: Loading snapshot [4:parallella_layout_temp] version [3300]
+[2018.06.17 07:27:24] [0000m.02s.699ms] [0] iCDB Database: Snapshot [4:parallella_layout_temp] loaded in [47ms 285us]
+[2018.06.17 07:27:24] [0000m.02s.699ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [4:parallella_layout_temp]
+[2018.06.17 07:27:24] [0000m.02s.759ms] [0] iCDB Database: Constraint definitions for snapshot [4:parallella_layout_temp] upgraded in [57ms 872us]
+[2018.06.17 07:27:24] [0000m.02s.759ms] [0] iCDB Database: Saving snapshot [4:parallella_layout_temp]
+[2018.06.17 07:27:24] [0000m.02s.759ms] [0] iCDB Database: Snapshot [4:parallella_layout_temp] saved in [63us]
+[2018.06.17 07:27:24] [0000m.02s.809ms] [0] iCDB Database: Loading snapshot [5:parallella] version [3300]
+[2018.06.17 07:27:24] [0000m.02s.859ms] [0] iCDB Database: Snapshot [5:parallella] loaded in [47ms 25us]
+[2018.06.17 07:27:24] [0000m.02s.859ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [5:parallella]
+[2018.06.17 07:27:24] [0000m.02s.919ms] [0] iCDB Database: Constraint definitions for snapshot [5:parallella] upgraded in [59ms 170us]
+[2018.06.17 07:27:24] [0000m.02s.919ms] [0] iCDB Database: Saving snapshot [5:parallella]
+[2018.06.17 07:27:24] [0000m.02s.919ms] [0] iCDB Database: Snapshot [5:parallella] saved in [62us]
+[2018.06.17 07:27:24] [0000m.02s.959ms] [0] iCDB Database: Loading snapshot [6:parallella_RefSync] version [3300]
+[2018.06.17 07:27:24] [0000m.03s.049ms] [0] iCDB Database: Snapshot [6:parallella_RefSync] loaded in [87ms 469us]
+[2018.06.17 07:27:24] [0000m.03s.049ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [6:parallella_RefSync]
+[2018.06.17 07:27:24] [0000m.03s.129ms] [0] iCDB Database: Constraint definitions for snapshot [6:parallella_RefSync] upgraded in [75ms 491us]
+[2018.06.17 07:27:24] [0000m.03s.129ms] [0] iCDB Database: Saving snapshot [6:parallella_RefSync]
+[2018.06.17 07:27:24] [0000m.03s.129ms] [0] iCDB Database: Snapshot [6:parallella_RefSync] saved in [70us]
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[LineDxD] [23] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[LineDxD] [22] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[LineDxD] [21] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[LineDxD] [20] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[LineDxD] [19] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[LineDxD] [13] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[LineDxD] [12] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[LineDxD] [11] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[LineDxD] [7] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[LineDxD] [6] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[LineDxD] [5] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[LineDxD] [1] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[ArcDxD] [22] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[ArcDxD] [21] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[ArcDxD] [20] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[ArcDxD] [19] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[ArcDxD] [13] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[ArcDxD] [12] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[ArcDxD] [11] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[ArcDxD] [6] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[ArcDxD] [5] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[ArcDxD] [1] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[RectDxD] [23] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[RectDxD] [22] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[RectDxD] [19] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[RectDxD] [13] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[RectDxD] [12] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[TextDxD] [23] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[TextDxD] [22] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[TextDxD] [19] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.129ms] [1] Diagnostic: Warning: {[TextDxD] [11] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.139ms] [1] Diagnostic: Warning: {[BlockViewDxD] [BLOCK DIAGRAM] [1253-1-68] [25] } --> Could not get sheet size
+[2018.06.17 07:27:24] [0000m.03s.139ms] [1] Diagnostic: Check failed on Block: parallella
+[2018.06.17 07:27:24] [0000m.03s.169ms] [1] Diagnostic: Snapshot [6:parallella_RefSync] integrity check FAILED
+[2018.06.17 07:27:24] [0000m.03s.199ms] [0] iCDB Database: Loading snapshot [7:parallella_LDDTemp] version [3300]
+[2018.06.17 07:27:24] [0000m.03s.309ms] [0] iCDB Database: Snapshot [7:parallella_LDDTemp] loaded in [113ms 231us]
+[2018.06.17 07:27:24] [0000m.03s.309ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [7:parallella_LDDTemp]
+[2018.06.17 07:27:24] [0000m.03s.379ms] [0] iCDB Database: Constraint definitions for snapshot [7:parallella_LDDTemp] upgraded in [71ms 569us]
+[2018.06.17 07:27:24] [0000m.03s.379ms] [0] iCDB Database: Saving snapshot [7:parallella_LDDTemp]
+[2018.06.17 07:27:24] [0000m.03s.379ms] [0] iCDB Database: Snapshot [7:parallella_LDDTemp] saved in [83us]
+[2018.06.17 07:27:24] [0000m.03s.379ms] [1] Diagnostic: Warning: {[LineDxD] [23] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.379ms] [1] Diagnostic: Warning: {[LineDxD] [22] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.379ms] [1] Diagnostic: Warning: {[LineDxD] [21] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.379ms] [1] Diagnostic: Warning: {[LineDxD] [20] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.379ms] [1] Diagnostic: Warning: {[LineDxD] [19] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.379ms] [1] Diagnostic: Warning: {[LineDxD] [13] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.379ms] [1] Diagnostic: Warning: {[LineDxD] [12] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.379ms] [1] Diagnostic: Warning: {[LineDxD] [11] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.379ms] [1] Diagnostic: Warning: {[LineDxD] [7] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.379ms] [1] Diagnostic: Warning: {[LineDxD] [6] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.379ms] [1] Diagnostic: Warning: {[LineDxD] [5] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.379ms] [1] Diagnostic: Warning: {[LineDxD] [1] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.379ms] [1] Diagnostic: Warning: {[ArcDxD] [22] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.389ms] [1] Diagnostic: Warning: {[ArcDxD] [21] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.389ms] [1] Diagnostic: Warning: {[ArcDxD] [20] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.389ms] [1] Diagnostic: Warning: {[ArcDxD] [19] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.389ms] [1] Diagnostic: Warning: {[ArcDxD] [13] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.389ms] [1] Diagnostic: Warning: {[ArcDxD] [12] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.389ms] [1] Diagnostic: Warning: {[ArcDxD] [11] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.389ms] [1] Diagnostic: Warning: {[ArcDxD] [6] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.389ms] [1] Diagnostic: Warning: {[ArcDxD] [5] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.389ms] [1] Diagnostic: Warning: {[ArcDxD] [1] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.389ms] [1] Diagnostic: Warning: {[RectDxD] [23] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.389ms] [1] Diagnostic: Warning: {[RectDxD] [22] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.389ms] [1] Diagnostic: Warning: {[RectDxD] [19] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.389ms] [1] Diagnostic: Warning: {[RectDxD] [13] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.389ms] [1] Diagnostic: Warning: {[RectDxD] [12] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.389ms] [1] Diagnostic: Warning: {[TextDxD] [23] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.389ms] [1] Diagnostic: Warning: {[TextDxD] [22] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.389ms] [1] Diagnostic: Warning: {[TextDxD] [19] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.389ms] [1] Diagnostic: Warning: {[TextDxD] [11] } --> UID does not exist
+[2018.06.17 07:27:24] [0000m.03s.409ms] [1] Diagnostic: Warning: {[BlockViewDxD] [BLOCK DIAGRAM] [1253-1-68] [25] } --> Could not get sheet size
+[2018.06.17 07:27:24] [0000m.03s.409ms] [1] Diagnostic: Check failed on Block: parallella
+[2018.06.17 07:27:25] [0000m.03s.439ms] [1] Diagnostic: Snapshot [7:parallella_LDDTemp] integrity check FAILED
+[2018.06.17 07:27:25] [0000m.03s.459ms] [0] iCDB Database: Constraint definitions upgraded to version [ce_ee.cns=7.10.56;user.cns=c446-4279-9a5f-b38c-02a4-91a5-2a49-1a50-15ed-be5d-7e59-b9c5]
+[2018.06.17 07:27:25] [0000m.03s.659ms] [0] iCDB Server PI: Initializing plugins
+[2018.06.17 07:27:25] [0000m.03s.659ms] [0] iCDB Server PI: Plugins initialized
+[2018.06.17 07:27:25] [0000m.03s.659ms] [0] S: iCDB database loaded
+[2018.06.17 07:27:26] [0000m.04s.839ms] [1] PrjBackupMgr: Successfully created Project Backup [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\ProjectBackup\backups\2018-06-17 07.27.25 - consDefUpgr.zip] with GUID [da29-f4c1-ad3a-59b6-d31f-52b2-41f5-2b50-f9cf-7e7d-9e46-86c5]
+[2018.06.17 07:27:26] [0000m.04s.869ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[ad65-3f9c-e086-89ca-f846-52b4-9465-2b50-2b23-8e1d-2c4b-ba98] CreationTime[Saturday, June 16, 2018 19:27:11] Type[ConsDefUpgrade] Creator[iCDB Server (2018-06-16 21.27.09-4244)] ApplicationName[iCDB Server (2018-06-16 21.27.09-4244)] UserName[HOME] MachineName[HOME-PC-W7] Description[Before constraint definitions upgrade from version:\n    ce_ee.cns=7.10.56;user.cns=c446-4279-9a5f-b38c-02a4-91a5-2a49-1a50-15ed-be5d-7e59-b9c5\nto version:\n    ce_ee.cns=7.10.56;user.cns=e1f5-07a6-a6d1-219c-7533-43ac-5334-3a50-6533-8e1d-0c4b-ba98\nof the same flow install:\n    Xpedition Enterprise X-ENTP VX.2.2\n    Flow Id: EEVX.2.2\n    Install Id: 1589114\n    iCDB Build Id: 7609897\n    iCDB Version: 3300] FullFlowName[Xpedition Enterprise X-ENTP VX.2.2] FlowId[EEVX.2.2] GBSInstallId[1589114] GBSBuildId[7609897] IcdbVersion[3300] ReferenceLogFilePath[database\cdbsvr\dbupgrade\2018-06-16 21.27.10-4244\2018.06.16.upgrade.txt] BackupFilePath[E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\ProjectBackup\backups\2018-06-16 21.27.11 - consDefUpgr.zip] BackupFileSize[5496721] Persistent[FALSE]
+[2018.06.17 07:27:26] [0000m.04s.879ms] [0] PrjBackupMgr: Project Backup file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\ProjectBackup\backups\2018-06-16 21.27.11 - consDefUpgr.zip] with GUID [ad65-3f9c-e086-89ca-f846-52b4-9465-2b50-2b23-8e1d-2c4b-ba98] removed
+[2018.06.17 07:27:26] [0000m.04s.889ms] [1] PrjBackupMgr: Migrated iCDB content backup file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\cdbback\2018-06-17 07.27.23-7348.zip] removed
+[2018.06.17 07:27:26] [0000m.04s.889ms] [0] S: Starting threads
+[2018.06.17 07:27:26] [0000m.04s.889ms] [0] BT: Listening for broadcast messages on port [10000]
+[2018.06.17 07:27:26] [0000m.04s.889ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2018.06.17 07:27:26] [0000m.04s.889ms] [1] SCL: WARNING: Could not find client [3368] stat data
+[2018.06.17 07:27:26] [0000m.04s.889ms] [0] IT: Session [3368] for host [DAMKU] user [Damian] with process ID [8688] created
+[2018.06.17 07:27:26] [0000m.04s.899ms] [1] SC[3368]: Registered sub-client [DxD] with ID [1] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:26] [0000m.04s.909ms] [0] MWT: WindowProc: WM_NCCREATE
+[2018.06.17 07:27:26] [0000m.05s.009ms] [1] CMT: There are [1] clients now: 3368
+[2018.06.17 07:27:26] [0000m.05s.149ms] [1] SC[3368]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:26] [0000m.05s.149ms] [1] SC[3368]: Registered sub-client [xprob] with ID [3] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:26] [0000m.05s.329ms] [1] SC[3368]: Registered sub-client [StartServerClientde0] with ID [4] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:26] [0000m.05s.429ms] [1] SC[3368]: UnRegistered sub-client [StartServerClientde0] with ID [4] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:28] [0000m.07s.279ms] [1] SC[3368]: Registered sub-client [SymbolEditor] with ID [5] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:28] [0000m.07s.279ms] [1] SC[3368]: Registered sub-client [SelectionHolder] with ID [6] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:28] [0000m.07s.299ms] [1] SC[3368]: Registered sub-client [EEVM_EEVM_244819104] with ID [7] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:28] [0000m.07s.299ms] [1] SC[3368]: UnRegistered sub-client [EEVM_EEVM_244819104] with ID [7] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:28] [0000m.07s.299ms] [1] SC[3368]: Registered sub-client [EEVM_EEVM_244819104] with ID [8] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:28] [0000m.07s.379ms] [1] SC[3368]: UnRegistered sub-client [EEVM_EEVM_244819104] with ID [8] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:28] [0000m.07s.379ms] [1] SC[3368]: Registered sub-client [EEVM_EEVM_244819104] with ID [9] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:28] [0000m.07s.379ms] [1] SC[3368]: UnRegistered sub-client [EEVM_EEVM_244819104] with ID [9] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:28] [0000m.07s.389ms] [1] SC[3368]: Registered sub-client [EEVM_EEVM_244819104] with ID [10] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:29] [0000m.07s.619ms] [1] SC[3368]: UnRegistered sub-client [EEVM_EEVM_244819104] with ID [10] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:29] [0000m.07s.639ms] [1] SC[3368]: Registered sub-client [SystemDesignDll] with ID [11] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:29] [0000m.07s.639ms] [1] SC[3368]: UnRegistered sub-client [SystemDesignDll] with ID [11] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:29] [0000m.07s.639ms] [1] SC[3368]: Registered sub-client [SystemDesignDll] with ID [12] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:31] [0000m.09s.929ms] [1] SC[3368]: Registered sub-client [DesignSearcher2] with ID [13] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:31] [0000m.09s.939ms] [1] SC[3368]: Registered sub-client [HdlProject] with ID [14] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:31] [0000m.09s.989ms] [1] SC[3368]: Registered sub-client [Navigator] with ID [15] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:31] [0000m.10s.019ms] [1] SC[3368]: Registered sub-client [OutputWindow] with ID [16] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:31] [0000m.10s.019ms] [1] SC[3368]: Registered sub-client [PlaceDevice] with ID [17] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:31] [0000m.10s.309ms] [1] SC[3368]: Registered sub-client [LocalSymbolsDataProvider] with ID [18] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:31] [0000m.10s.359ms] [1] SC[3368]: Registered sub-client [FFSearch_Controller_0] with ID [19] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:31] [0000m.10s.369ms] [1] SC[3368]: Registered sub-client [FFSearch_Controller_1] with ID [20] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:32] [0000m.11s.259ms] [1] SC[3368]: Registered sub-client [FFSearch_Controller_2] with ID [21] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:32] [0000m.11s.259ms] [1] SC[3368]: Registered sub-client [FFSearch_Controller_3] with ID [22] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:33] [0000m.12s.019ms] [1] SC[3368]: Registered sub-client [FFSearch_Controller_4] with ID [23] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:33] [0000m.12s.029ms] [1] SC[3368]: Registered sub-client [FFSearch_Controller_5] with ID [24] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:34] [0000m.12s.799ms] [1] SC[3368]: Registered sub-client [FFSearch_Controller_6] with ID [25] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:34] [0000m.12s.799ms] [1] SC[3368]: Registered sub-client [FFSearch_Controller_7] with ID [26] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:35] [0000m.13s.559ms] [1] SC[3368]: Registered sub-client [FFSearch_Controller_8] with ID [27] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:35] [0000m.13s.569ms] [1] SC[3368]: Registered sub-client [FFSearch_Controller_9] with ID [28] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:35] [0000m.14s.329ms] [1] SC[3368]: Registered sub-client [FFSSelListener] with ID [29] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:35] [0000m.14s.389ms] [1] SC[3368]: Registered sub-client [SAE] with ID [30] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:35] [0000m.14s.389ms] [1] SC[3368]: Registered sub-client [CCZAddin] with ID [31] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:35] [0000m.14s.399ms] [1] SC[3368]: Registered sub-client [DxThumbnails] with ID [32] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:35] [0000m.14s.399ms] [1] SC[3368]: Registered sub-client [MyParts] with ID [33] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:35] [0000m.14s.409ms] [1] SC[3368]: Registered sub-client [PinsList] with ID [34] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:36] [0000m.14s.509ms] [1] SC[3368]: Registered sub-client [toolboxes] with ID [35] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:36] [0000m.14s.549ms] [1] SC[3368]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:570263936] with ID [36] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:36] [0000m.14s.549ms] [1] SC[3368]: Registered sub-client [Core::DesignListener-30068] with ID [37] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:36] [0000m.14s.609ms] [1] SC[3368]: Registered sub-client [SheetConnectorsCacheDxD:1529213256] with ID [38] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:36] [0000m.14s.749ms] [1] SC[3368]: Registered sub-client [NetsNamesCollectorDxD:1529213256] with ID [39] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:36] [0000m.14s.809ms] [1] SC[3368]: Registered sub-client [PartReplaceUtils] with ID [40] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:36] [0000m.14s.809ms] [1] SC[3368]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [41] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:36] [0000m.14s.909ms] [1] SC[3368]: Registered sub-client [ObjectHolder_576491888] with ID [42] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:36] [0000m.14s.919ms] [1] SC[3368]: Registered sub-client [BlockCacheDxD:571863696] with ID [43] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:36] [0000m.14s.919ms] [1] SC[3368]: Registered sub-client [GlobalNetAliasUpdater_467313360] with ID [44] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:27:36] [0000m.14s.929ms] [1] SC[3368]: Registered sub-client [IcdbNetProcessorSubClientDxD:467290160] with ID [45] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:28:04] [0000m.42s.914ms] [0] DFAMT: File server access time: 69 us
+[2018.06.17 07:28:08] [0000m.46s.814ms] [1] SC[3368]: Registered sub-client [Dx2Exp_1096187] with ID [46] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:28:08] [0000m.46s.814ms] [1] SC[3368]: UnRegistered sub-client [Dx2Exp_1096187] with ID [46] for session ID [3368] host [DAMKU] user [Damian] process ID [8688]
+[2018.06.17 07:28:58] [0001m.36s.587ms] [0] IT: Session [3369] for host [DAMKU] user [Damian] with process ID [4840] created
+[2018.06.17 07:28:58] [0001m.36s.587ms] [1] SC[3369]: Registered sub-client [Expedition PCB_1145781] with ID [1] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:28:58] [0001m.36s.657ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 07:28:58] [0001m.36s.837ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_367527712] with ID [2] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:28:58] [0001m.37s.287ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_367527712] with ID [2] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:28:58] [0001m.37s.297ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_367527712] with ID [3] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:28:59] [0001m.37s.447ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_367527712] with ID [3] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:29:03] [0001m.41s.725ms] [1] SC[3369]: Registered sub-client [JobPrefsDBPI_1151109] with ID [4] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:29:03] [0001m.41s.955ms] [1] SC[3369]: UnRegistered sub-client [JobPrefsDBPI_1151109] with ID [4] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:29:12] [0001m.50s.925ms] [1] SC[3369]: Registered sub-client [JobPrefsDBPI_1160296] with ID [5] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:29:12] [0001m.50s.925ms] [1] SC[3369]: UnRegistered sub-client [JobPrefsDBPI_1160296] with ID [5] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:29:17] [0001m.55s.487ms] [1] SC[3369]: Registered sub-client [ExpeditionCrossProber] with ID [6] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:29:17] [0001m.55s.492ms] [1] SC[3369]: Registered sub-client [StartServerClient2084] with ID [7] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:29:17] [0001m.55s.493ms] [1] SC[3369]: UnRegistered sub-client [StartServerClient2084] with ID [7] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:29:25] [0002m.04s.021ms] [1] SC[3369]: Registered sub-client [Damian] with ID [8] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:29:25] [0002m.04s.031ms] [1] SC[3369]: UnRegistered sub-client [Damian] with ID [8] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:29:25] [0002m.04s.221ms] [1] SC[3369]: Registered sub-client [Damian (Exp-iCES parallella)] with ID [9] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:29:25] [0002m.04s.401ms] [1] SC[3369]: Registered sub-client [Damian (Exp-iCES)] with ID [10] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:34:52] [0007m.31s.209ms] [1] SC[3369]: Registered sub-client [JobPrefsDBPI_1500593] with ID [11] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:34:52] [0007m.31s.279ms] [1] SC[3369]: UnRegistered sub-client [JobPrefsDBPI_1500593] with ID [11] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:35:22] [0008m.01s.367ms] [1] SC[3369]: Registered sub-client [JobPrefsDBPI_1530750] with ID [12] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:35:22] [0008m.01s.397ms] [1] SC[3369]: UnRegistered sub-client [JobPrefsDBPI_1530750] with ID [12] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:45:55] [0018m.33s.777ms] [1] SC[3369]: Registered sub-client [JobPrefsDBPI_2157468] with ID [13] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:45:55] [0018m.33s.877ms] [1] SC[3369]: UnRegistered sub-client [JobPrefsDBPI_2157468] with ID [13] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:47:42] [0020m.21s.281ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [14] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:47:42] [0020m.21s.282ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [14] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:47:46] [0020m.24s.951ms] [0] IT: Session [3370] for host [DAMKU] user [Damian] with process ID [4336] created
+[2018.06.17 07:47:46] [0020m.24s.951ms] [1] SC[3370]: Registered sub-client [Expedition_2268421] with ID [1] for session ID [3370] host [DAMKU] user [Damian] process ID [4336]
+[2018.06.17 07:47:46] [0020m.25s.001ms] [1] CMT: There are [3] clients now: 3368, 3369, 3370
+[2018.06.17 07:47:47] [0020m.25s.491ms] [1] SC[3370]: UnRegistered sub-client [Expedition_2268421] with ID [1] for session ID [3370] host [DAMKU] user [Damian] process ID [4336]
+[2018.06.17 07:47:47] [0020m.25s.691ms] [1] CMT: Removed client [3370]
+[2018.06.17 07:47:47] [0020m.25s.691ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 07:52:48] [0025m.27s.416ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [15] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:52:48] [0025m.27s.418ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [15] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:52:50] [0025m.28s.884ms] [0] IT: Session [3371] for host [DAMKU] user [Damian] with process ID [10072] created
+[2018.06.17 07:52:50] [0025m.28s.884ms] [1] SC[3371]: Registered sub-client [Expedition_2572296] with ID [1] for session ID [3371] host [DAMKU] user [Damian] process ID [10072]
+[2018.06.17 07:52:50] [0025m.28s.949ms] [1] CMT: There are [3] clients now: 3368, 3369, 3371
+[2018.06.17 07:52:50] [0025m.29s.258ms] [1] SC[3371]: UnRegistered sub-client [Expedition_2572296] with ID [1] for session ID [3371] host [DAMKU] user [Damian] process ID [10072]
+[2018.06.17 07:52:50] [0025m.29s.353ms] [1] CMT: Removed client [3371]
+[2018.06.17 07:52:50] [0025m.29s.353ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 07:53:08] [0025m.47s.256ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [16] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:53:08] [0025m.47s.257ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [16] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 07:53:09] [0025m.47s.837ms] [0] IT: Session [3372] for host [DAMKU] user [Damian] with process ID [2024] created
+[2018.06.17 07:53:09] [0025m.47s.839ms] [1] SC[3372]: Registered sub-client [Expedition_2591171] with ID [1] for session ID [3372] host [DAMKU] user [Damian] process ID [2024]
+[2018.06.17 07:53:09] [0025m.47s.867ms] [1] CMT: There are [3] clients now: 3368, 3369, 3372
+[2018.06.17 07:53:09] [0025m.48s.240ms] [1] SC[3372]: UnRegistered sub-client [Expedition_2591171] with ID [1] for session ID [3372] host [DAMKU] user [Damian] process ID [2024]
+[2018.06.17 07:53:09] [0025m.48s.270ms] [1] CMT: Removed client [3372]
+[2018.06.17 07:53:09] [0025m.48s.270ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 08:01:51] [0034m.30s.171ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [17] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:01:51] [0034m.30s.172ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [17] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:01:52] [0034m.30s.774ms] [0] IT: Session [3373] for host [DAMKU] user [Damian] with process ID [7340] created
+[2018.06.17 08:01:52] [0034m.30s.776ms] [1] SC[3373]: Registered sub-client [Expedition_3114078] with ID [1] for session ID [3373] host [DAMKU] user [Damian] process ID [7340]
+[2018.06.17 08:01:52] [0034m.30s.824ms] [1] CMT: There are [3] clients now: 3368, 3369, 3373
+[2018.06.17 08:01:52] [0034m.31s.198ms] [1] SC[3373]: UnRegistered sub-client [Expedition_3114078] with ID [1] for session ID [3373] host [DAMKU] user [Damian] process ID [7340]
+[2018.06.17 08:01:52] [0034m.31s.228ms] [1] CMT: Removed client [3373]
+[2018.06.17 08:01:52] [0034m.31s.228ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 08:07:27] [0040m.05s.954ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [18] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:07:27] [0040m.05s.955ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [18] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:07:28] [0040m.06s.540ms] [0] IT: Session [3374] for host [DAMKU] user [Damian] with process ID [9696] created
+[2018.06.17 08:07:28] [0040m.06s.541ms] [1] SC[3374]: Registered sub-client [Expedition_3449906] with ID [1] for session ID [3374] host [DAMKU] user [Damian] process ID [9696]
+[2018.06.17 08:07:28] [0040m.06s.605ms] [1] CMT: There are [3] clients now: 3368, 3369, 3374
+[2018.06.17 08:07:28] [0040m.07s.195ms] [1] SC[3374]: UnRegistered sub-client [Expedition_3449906] with ID [1] for session ID [3374] host [DAMKU] user [Damian] process ID [9696]
+[2018.06.17 08:07:28] [0040m.07s.211ms] [1] CMT: Removed client [3374]
+[2018.06.17 08:07:28] [0040m.07s.211ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 08:13:58] [0046m.36s.922ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [19] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:13:58] [0046m.36s.923ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [19] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:13:59] [0046m.37s.713ms] [0] IT: Session [3375] for host [DAMKU] user [Damian] with process ID [6528] created
+[2018.06.17 08:13:59] [0046m.37s.714ms] [1] SC[3375]: Registered sub-client [Expedition_3840890] with ID [1] for session ID [3375] host [DAMKU] user [Damian] process ID [6528]
+[2018.06.17 08:13:59] [0046m.37s.718ms] [1] CMT: There are [3] clients now: 3368, 3369, 3375
+[2018.06.17 08:13:59] [0046m.38s.113ms] [1] SC[3375]: UnRegistered sub-client [Expedition_3840890] with ID [1] for session ID [3375] host [DAMKU] user [Damian] process ID [6528]
+[2018.06.17 08:13:59] [0046m.38s.122ms] [1] CMT: Removed client [3375]
+[2018.06.17 08:13:59] [0046m.38s.122ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 08:14:31] [0047m.09s.901ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [20] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:14:31] [0047m.09s.901ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [20] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:14:32] [0047m.10s.540ms] [0] IT: Session [3376] for host [DAMKU] user [Damian] with process ID [9828] created
+[2018.06.17 08:14:32] [0047m.10s.547ms] [1] SC[3376]: Registered sub-client [Expedition_3873859] with ID [1] for session ID [3376] host [DAMKU] user [Damian] process ID [9828]
+[2018.06.17 08:14:32] [0047m.10s.617ms] [1] CMT: There are [3] clients now: 3368, 3369, 3376
+[2018.06.17 08:14:32] [0047m.10s.955ms] [1] SC[3376]: UnRegistered sub-client [Expedition_3873859] with ID [1] for session ID [3376] host [DAMKU] user [Damian] process ID [9828]
+[2018.06.17 08:14:32] [0047m.11s.022ms] [1] CMT: Removed client [3376]
+[2018.06.17 08:14:32] [0047m.11s.022ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 08:14:48] [0047m.26s.692ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [21] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:14:48] [0047m.26s.693ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [21] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:14:49] [0047m.27s.558ms] [0] IT: Session [3377] for host [DAMKU] user [Damian] with process ID [4712] created
+[2018.06.17 08:14:49] [0047m.27s.559ms] [1] SC[3377]: Registered sub-client [Expedition_3890812] with ID [1] for session ID [3377] host [DAMKU] user [Damian] process ID [4712]
+[2018.06.17 08:14:49] [0047m.27s.658ms] [1] CMT: There are [3] clients now: 3368, 3369, 3377
+[2018.06.17 08:14:49] [0047m.28s.035ms] [1] SC[3377]: UnRegistered sub-client [Expedition_3890812] with ID [1] for session ID [3377] host [DAMKU] user [Damian] process ID [4712]
+[2018.06.17 08:14:49] [0047m.28s.073ms] [1] CMT: Removed client [3377]
+[2018.06.17 08:14:49] [0047m.28s.073ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 08:19:41] [0052m.19s.876ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [22] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:19:41] [0052m.19s.877ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [22] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:19:42] [0052m.20s.503ms] [0] IT: Session [3378] for host [DAMKU] user [Damian] with process ID [7592] created
+[2018.06.17 08:19:42] [0052m.20s.504ms] [1] SC[3378]: Registered sub-client [Expedition_4183812] with ID [1] for session ID [3378] host [DAMKU] user [Damian] process ID [7592]
+[2018.06.17 08:19:42] [0052m.20s.554ms] [1] CMT: There are [3] clients now: 3368, 3369, 3378
+[2018.06.17 08:19:42] [0052m.21s.099ms] [1] SC[3378]: UnRegistered sub-client [Expedition_4183812] with ID [1] for session ID [3378] host [DAMKU] user [Damian] process ID [7592]
+[2018.06.17 08:19:42] [0052m.21s.181ms] [1] CMT: Removed client [3378]
+[2018.06.17 08:19:42] [0052m.21s.181ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 08:20:24] [0053m.02s.930ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [23] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:20:24] [0053m.02s.931ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [23] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:20:25] [0053m.03s.781ms] [0] IT: Session [3379] for host [DAMKU] user [Damian] with process ID [1232] created
+[2018.06.17 08:20:25] [0053m.03s.782ms] [1] SC[3379]: Registered sub-client [Expedition_4227156] with ID [1] for session ID [3379] host [DAMKU] user [Damian] process ID [1232]
+[2018.06.17 08:20:25] [0053m.03s.786ms] [1] CMT: There are [3] clients now: 3368, 3369, 3379
+[2018.06.17 08:20:25] [0053m.04s.374ms] [1] SC[3379]: UnRegistered sub-client [Expedition_4227156] with ID [1] for session ID [3379] host [DAMKU] user [Damian] process ID [1232]
+[2018.06.17 08:20:25] [0053m.04s.430ms] [1] CMT: Removed client [3379]
+[2018.06.17 08:20:25] [0053m.04s.430ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 08:24:42] [0057m.21s.274ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [24] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:24:42] [0057m.21s.274ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [24] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:24:43] [0057m.22s.275ms] [0] IT: Session [3380] for host [DAMKU] user [Damian] with process ID [5464] created
+[2018.06.17 08:24:43] [0057m.22s.276ms] [1] SC[3380]: Registered sub-client [Expedition_4485437] with ID [1] for session ID [3380] host [DAMKU] user [Damian] process ID [5464]
+[2018.06.17 08:24:43] [0057m.22s.370ms] [1] CMT: There are [3] clients now: 3368, 3369, 3380
+[2018.06.17 08:24:44] [0057m.22s.743ms] [1] SC[3380]: UnRegistered sub-client [Expedition_4485437] with ID [1] for session ID [3380] host [DAMKU] user [Damian] process ID [5464]
+[2018.06.17 08:24:44] [0057m.22s.774ms] [1] CMT: Removed client [3380]
+[2018.06.17 08:24:44] [0057m.22s.774ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 08:28:53] [0061m.31s.686ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [25] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:28:53] [0061m.31s.687ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [25] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:28:54] [0061m.32s.638ms] [0] IT: Session [3381] for host [DAMKU] user [Damian] with process ID [1348] created
+[2018.06.17 08:28:54] [0061m.32s.640ms] [1] SC[3381]: Registered sub-client [Expedition_4735859] with ID [1] for session ID [3381] host [DAMKU] user [Damian] process ID [1348]
+[2018.06.17 08:28:54] [0061m.32s.666ms] [1] CMT: There are [3] clients now: 3368, 3369, 3381
+[2018.06.17 08:28:54] [0061m.33s.425ms] [1] SC[3381]: UnRegistered sub-client [Expedition_4735859] with ID [1] for session ID [3381] host [DAMKU] user [Damian] process ID [1348]
+[2018.06.17 08:28:55] [0061m.33s.502ms] [1] CMT: Removed client [3381]
+[2018.06.17 08:28:55] [0061m.33s.502ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 08:32:32] [0065m.11s.072ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [26] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:32:32] [0065m.11s.072ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [26] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:32:33] [0065m.12s.153ms] [0] IT: Session [3382] for host [DAMKU] user [Damian] with process ID [4992] created
+[2018.06.17 08:32:33] [0065m.12s.154ms] [1] SC[3382]: Registered sub-client [Expedition_4955062] with ID [1] for session ID [3382] host [DAMKU] user [Damian] process ID [4992]
+[2018.06.17 08:32:33] [0065m.12s.244ms] [1] CMT: There are [3] clients now: 3368, 3369, 3382
+[2018.06.17 08:32:34] [0065m.12s.587ms] [1] SC[3382]: UnRegistered sub-client [Expedition_4955062] with ID [1] for session ID [3382] host [DAMKU] user [Damian] process ID [4992]
+[2018.06.17 08:32:34] [0065m.12s.662ms] [1] CMT: Removed client [3382]
+[2018.06.17 08:32:34] [0065m.12s.662ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 08:32:41] [0065m.20s.175ms] [1] PrjBackupMgr: Successfully created Project Backup [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\ProjectBackup\backups\2018-06-17 08.32.31 - auto.zip] with GUID [bc5a-cdb9-b2c6-cbf0-f700-62b4-8006-2b50-fc3f-7e7d-9e46-86c5]
+[2018.06.17 08:32:41] [0065m.20s.182ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[9e8b-485a-a3cb-d4f1-e4c8-32b3-5c83-2b50-1c9f-2f5d-ce49-86c5] CreationTime[Friday, June 15, 2018 09:52:14] Type[Autosave] Creator[iCDB Server (2018-06-15 10.47.02-8764)] ApplicationName[iCDB Server (2018-06-15 10.47.02-8764)] UserName[Damian] MachineName[DAMKU] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.2] FlowId[EEVX.2.2] GBSInstallId[1589114] GBSBuildId[7609897] IcdbVersion[3300] ReferenceLogFilePath[] BackupFilePath[E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\ProjectBackup\backups\2018-06-15 11.52.14 - auto.zip] BackupFileSize[6931114] Persistent[FALSE]
+[2018.06.17 08:32:41] [0065m.20s.189ms] [0] PrjBackupMgr: Project Backup file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\ProjectBackup\backups\2018-06-15 11.52.14 - auto.zip] with GUID [9e8b-485a-a3cb-d4f1-e4c8-32b3-5c83-2b50-1c9f-2f5d-ce49-86c5] removed
+[2018.06.17 08:32:41] [0065m.20s.194ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[bc5a-cdb9-b2c6-cbf0-f700-62b4-8006-2b50-fc3f-7e7d-9e46-86c5] CreationTime[Sunday, June 17, 2018 06:32:31] Type[Autosave] Creator[iCDB Server (2018-06-17 07.27.21-7348)] ApplicationName[iCDB Server (2018-06-17 07.27.21-7348)] UserName[Damian] MachineName[DAMKU] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.2] FlowId[EEVX.2.2] GBSInstallId[1589114] GBSBuildId[7609897] IcdbVersion[3300] ReferenceLogFilePath[] BackupFilePath[E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\ProjectBackup\backups\2018-06-17 08.32.31 - auto.zip] BackupFileSize[7018735] Persistent[FALSE]
+[2018.06.17 08:45:17] [0077m.56s.230ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [27] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:45:17] [0077m.56s.231ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [27] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:45:18] [0077m.57s.066ms] [0] IT: Session [3383] for host [DAMKU] user [Damian] with process ID [6476] created
+[2018.06.17 08:45:18] [0077m.57s.068ms] [1] SC[3383]: Registered sub-client [Expedition_5720234] with ID [1] for session ID [3383] host [DAMKU] user [Damian] process ID [6476]
+[2018.06.17 08:45:18] [0077m.57s.160ms] [1] CMT: There are [3] clients now: 3368, 3369, 3383
+[2018.06.17 08:45:19] [0077m.57s.477ms] [1] SC[3383]: UnRegistered sub-client [Expedition_5720234] with ID [1] for session ID [3383] host [DAMKU] user [Damian] process ID [6476]
+[2018.06.17 08:45:19] [0077m.57s.564ms] [1] CMT: Removed client [3383]
+[2018.06.17 08:45:19] [0077m.57s.564ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 08:45:32] [0078m.11s.148ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [28] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:45:32] [0078m.11s.149ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [28] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:45:33] [0078m.11s.819ms] [0] IT: Session [3384] for host [DAMKU] user [Damian] with process ID [3540] created
+[2018.06.17 08:45:33] [0078m.11s.820ms] [1] SC[3384]: Registered sub-client [Expedition_5735125] with ID [1] for session ID [3384] host [DAMKU] user [Damian] process ID [3540]
+[2018.06.17 08:45:33] [0078m.11s.915ms] [1] CMT: There are [3] clients now: 3368, 3369, 3384
+[2018.06.17 08:45:33] [0078m.12s.170ms] [1] SC[3384]: UnRegistered sub-client [Expedition_5735125] with ID [1] for session ID [3384] host [DAMKU] user [Damian] process ID [3540]
+[2018.06.17 08:45:33] [0078m.12s.218ms] [1] CMT: Removed client [3384]
+[2018.06.17 08:45:33] [0078m.12s.218ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 08:46:41] [0079m.20s.208ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [29] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:46:41] [0079m.20s.209ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [29] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:46:42] [0079m.20s.948ms] [0] IT: Session [3385] for host [DAMKU] user [Damian] with process ID [6212] created
+[2018.06.17 08:46:42] [0079m.20s.949ms] [1] SC[3385]: Registered sub-client [Expedition_5804281] with ID [1] for session ID [3385] host [DAMKU] user [Damian] process ID [6212]
+[2018.06.17 08:46:42] [0079m.20s.975ms] [1] CMT: There are [3] clients now: 3368, 3369, 3385
+[2018.06.17 08:46:42] [0079m.21s.306ms] [1] SC[3385]: UnRegistered sub-client [Expedition_5804281] with ID [1] for session ID [3385] host [DAMKU] user [Damian] process ID [6212]
+[2018.06.17 08:46:42] [0079m.21s.379ms] [1] CMT: Removed client [3385]
+[2018.06.17 08:46:42] [0079m.21s.379ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 08:48:16] [0080m.54s.641ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [30] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:48:16] [0080m.54s.643ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [30] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:48:17] [0080m.55s.525ms] [0] IT: Session [3386] for host [DAMKU] user [Damian] with process ID [4924] created
+[2018.06.17 08:48:17] [0080m.55s.528ms] [1] SC[3386]: Registered sub-client [Expedition_5898765] with ID [1] for session ID [3386] host [DAMKU] user [Damian] process ID [4924]
+[2018.06.17 08:48:17] [0080m.55s.530ms] [1] CMT: There are [3] clients now: 3368, 3369, 3386
+[2018.06.17 08:48:17] [0080m.56s.101ms] [1] SC[3386]: UnRegistered sub-client [Expedition_5898765] with ID [1] for session ID [3386] host [DAMKU] user [Damian] process ID [4924]
+[2018.06.17 08:48:17] [0080m.56s.142ms] [1] CMT: Removed client [3386]
+[2018.06.17 08:48:17] [0080m.56s.142ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 08:49:30] [0082m.09s.077ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [31] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:49:30] [0082m.09s.078ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [31] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 08:49:31] [0082m.09s.938ms] [0] IT: Session [3387] for host [DAMKU] user [Damian] with process ID [1252] created
+[2018.06.17 08:49:31] [0082m.09s.940ms] [1] SC[3387]: Registered sub-client [Expedition_5973187] with ID [1] for session ID [3387] host [DAMKU] user [Damian] process ID [1252]
+[2018.06.17 08:49:31] [0082m.09s.966ms] [1] CMT: There are [3] clients now: 3368, 3369, 3387
+[2018.06.17 08:49:32] [0082m.10s.447ms] [1] SC[3387]: UnRegistered sub-client [Expedition_5973187] with ID [1] for session ID [3387] host [DAMKU] user [Damian] process ID [1252]
+[2018.06.17 08:49:32] [0082m.10s.476ms] [1] CMT: Removed client [3387]
+[2018.06.17 08:49:32] [0082m.10s.476ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 09:08:59] [0101m.37s.523ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [32] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 09:08:59] [0101m.37s.524ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [32] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 09:08:59] [0101m.38s.266ms] [0] IT: Session [3388] for host [DAMKU] user [Damian] with process ID [2672] created
+[2018.06.17 09:08:59] [0101m.38s.268ms] [1] SC[3388]: Registered sub-client [Expedition_7141609] with ID [1] for session ID [3388] host [DAMKU] user [Damian] process ID [2672]
+[2018.06.17 09:08:59] [0101m.38s.332ms] [1] CMT: There are [3] clients now: 3368, 3369, 3388
+[2018.06.17 09:09:00] [0101m.38s.717ms] [1] SC[3388]: UnRegistered sub-client [Expedition_7141609] with ID [1] for session ID [3388] host [DAMKU] user [Damian] process ID [2672]
+[2018.06.17 09:09:00] [0101m.38s.735ms] [1] CMT: Removed client [3388]
+[2018.06.17 09:09:00] [0101m.38s.735ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 09:19:57] [0112m.35s.648ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [33] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 09:19:57] [0112m.35s.649ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [33] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 09:19:58] [0112m.36s.483ms] [0] IT: Session [3389] for host [DAMKU] user [Damian] with process ID [8152] created
+[2018.06.17 09:19:58] [0112m.36s.484ms] [1] SC[3389]: Registered sub-client [Expedition_7799812] with ID [1] for session ID [3389] host [DAMKU] user [Damian] process ID [8152]
+[2018.06.17 09:19:58] [0112m.36s.555ms] [1] CMT: There are [3] clients now: 3368, 3369, 3389
+[2018.06.17 09:19:58] [0112m.37s.294ms] [1] SC[3389]: UnRegistered sub-client [Expedition_7799812] with ID [1] for session ID [3389] host [DAMKU] user [Damian] process ID [8152]
+[2018.06.17 09:19:58] [0112m.37s.363ms] [1] CMT: Removed client [3389]
+[2018.06.17 09:19:58] [0112m.37s.363ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 09:20:27] [0113m.05s.968ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [34] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 09:20:27] [0113m.05s.969ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [34] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 09:20:28] [0113m.06s.817ms] [0] IT: Session [3390] for host [DAMKU] user [Damian] with process ID [584] created
+[2018.06.17 09:20:28] [0113m.06s.818ms] [1] SC[3390]: Registered sub-client [Expedition_7830062] with ID [1] for session ID [3390] host [DAMKU] user [Damian] process ID [584]
+[2018.06.17 09:20:28] [0113m.06s.824ms] [1] CMT: There are [3] clients now: 3368, 3369, 3390
+[2018.06.17 09:20:28] [0113m.07s.432ms] [1] SC[3390]: UnRegistered sub-client [Expedition_7830062] with ID [1] for session ID [3390] host [DAMKU] user [Damian] process ID [584]
+[2018.06.17 09:20:29] [0113m.07s.443ms] [1] CMT: Removed client [3390]
+[2018.06.17 09:20:29] [0113m.07s.443ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 09:33:50] [0126m.28s.708ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [35] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 09:33:50] [0126m.28s.709ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [35] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 09:33:51] [0126m.29s.520ms] [0] IT: Session [3391] for host [DAMKU] user [Damian] with process ID [1444] created
+[2018.06.17 09:33:51] [0126m.29s.523ms] [1] SC[3391]: Registered sub-client [Expedition_8632656] with ID [1] for session ID [3391] host [DAMKU] user [Damian] process ID [1444]
+[2018.06.17 09:33:51] [0126m.29s.539ms] [1] CMT: There are [3] clients now: 3368, 3369, 3391
+[2018.06.17 09:33:51] [0126m.30s.042ms] [1] SC[3391]: UnRegistered sub-client [Expedition_8632656] with ID [1] for session ID [3391] host [DAMKU] user [Damian] process ID [1444]
+[2018.06.17 09:33:51] [0126m.30s.063ms] [1] CMT: Removed client [3391]
+[2018.06.17 09:33:51] [0126m.30s.063ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 09:41:04] [0133m.43s.394ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [36] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 09:41:04] [0133m.43s.395ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [36] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 09:41:05] [0133m.43s.999ms] [0] IT: Session [3392] for host [DAMKU] user [Damian] with process ID [4332] created
+[2018.06.17 09:41:05] [0133m.44s.000ms] [1] CMT: There are [3] clients now: 3368, 3369, 3392
+[2018.06.17 09:41:05] [0133m.44s.000ms] [1] SC[3392]: Registered sub-client [Expedition_9067296] with ID [1] for session ID [3392] host [DAMKU] user [Damian] process ID [4332]
+[2018.06.17 09:41:05] [0133m.44s.373ms] [1] SC[3392]: UnRegistered sub-client [Expedition_9067296] with ID [1] for session ID [3392] host [DAMKU] user [Damian] process ID [4332]
+[2018.06.17 09:41:05] [0133m.44s.404ms] [1] CMT: Removed client [3392]
+[2018.06.17 09:41:05] [0133m.44s.405ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 09:46:16] [0138m.54s.872ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [37] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 09:46:16] [0138m.54s.873ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [37] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 09:46:17] [0138m.55s.581ms] [0] IT: Session [3393] for host [DAMKU] user [Damian] with process ID [8408] created
+[2018.06.17 09:46:17] [0138m.55s.582ms] [1] SC[3393]: Registered sub-client [Expedition_9378843] with ID [1] for session ID [3393] host [DAMKU] user [Damian] process ID [8408]
+[2018.06.17 09:46:17] [0138m.55s.598ms] [1] CMT: There are [3] clients now: 3368, 3369, 3393
+[2018.06.17 09:46:17] [0138m.56s.256ms] [1] SC[3393]: UnRegistered sub-client [Expedition_9378843] with ID [1] for session ID [3393] host [DAMKU] user [Damian] process ID [8408]
+[2018.06.17 09:46:17] [0138m.56s.317ms] [1] CMT: Removed client [3393]
+[2018.06.17 09:46:17] [0138m.56s.317ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 09:49:57] [0142m.36s.334ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [38] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 09:49:57] [0142m.36s.335ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [38] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 09:49:58] [0142m.37s.266ms] [0] IT: Session [3394] for host [DAMKU] user [Damian] with process ID [6648] created
+[2018.06.17 09:49:58] [0142m.37s.267ms] [1] SC[3394]: Registered sub-client [Expedition_9600312] with ID [1] for session ID [3394] host [DAMKU] user [Damian] process ID [6648]
+[2018.06.17 09:49:58] [0142m.37s.316ms] [1] CMT: There are [3] clients now: 3368, 3369, 3394
+[2018.06.17 09:49:59] [0142m.37s.750ms] [1] SC[3394]: UnRegistered sub-client [Expedition_9600312] with ID [1] for session ID [3394] host [DAMKU] user [Damian] process ID [6648]
+[2018.06.17 09:49:59] [0142m.37s.822ms] [1] CMT: Removed client [3394]
+[2018.06.17 09:49:59] [0142m.37s.822ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 09:51:54] [0144m.32s.733ms] [1] SC[3369]: Registered sub-client [EEVM_EEVM_24238888] with ID [39] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 09:51:54] [0144m.32s.733ms] [1] SC[3369]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [39] for session ID [3369] host [DAMKU] user [Damian] process ID [4840]
+[2018.06.17 09:51:54] [0144m.33s.339ms] [0] IT: Session [3395] for host [DAMKU] user [Damian] with process ID [1052] created
+[2018.06.17 09:51:54] [0144m.33s.339ms] [1] SC[3395]: Registered sub-client [Expedition_9716750] with ID [1] for session ID [3395] host [DAMKU] user [Damian] process ID [1052]
+[2018.06.17 09:51:54] [0144m.33s.389ms] [1] CMT: There are [3] clients now: 3368, 3369, 3395
+[2018.06.17 09:51:55] [0144m.33s.752ms] [1] SC[3395]: UnRegistered sub-client [Expedition_9716750] with ID [1] for session ID [3395] host [DAMKU] user [Damian] process ID [1052]
+[2018.06.17 09:51:55] [0144m.33s.832ms] [1] CMT: Removed client [3395]
+[2018.06.17 09:51:55] [0144m.33s.832ms] [1] CMT: There are [2] clients now: 3368, 3369
+[2018.06.17 09:53:14] [0145m.52s.743ms] [0] MWT: PBT_APMSTANDBY || PBT_APMSUSPEND
+[2018.06.17 09:53:14] [0145m.52s.743ms] [0] MWT: Requesting emergency server stop: System goes to SLEEP
+[2018.06.17 09:53:14] [0145m.52s.773ms] [0] Removing server address file.
+[2018.06.17 09:53:14] [0145m.52s.813ms] [0] S: Closing server
+[2018.06.17 09:53:14] [0145m.52s.833ms] [5] SC[3368]: Received command: Server # ClientCommandID[82549] # SubClientID[1] @ PIMCommand # CDBCommand.Size[34]
+[2018.06.17 09:53:14] [0145m.52s.833ms] [5] ET: Executing client [3368] command: Server # ClientCommandID[82549] # SubClientID[1] @ PIMCommand # CDBCommand.Size[34]
+[2018.06.17 09:53:14] [0145m.52s.893ms] [4] SMCL: Distributing notify to registered [General] iCDB Server Manager clients [NotifyServerStatus @ Version[1] # Id[Sender GUID[b4d9-a314-11ab-9c10-931f-52be-31f5-2b50-f9cf-7e7d-9e46-86c5] Command number[124625]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[10000] # Status [Closing]]
+[2018.06.17 09:53:14] [0145m.52s.893ms] [3] IT: FREE
+[2018.06.17 09:53:14] [0145m.52s.893ms] [4] IT: Waiting for finish
+[2018.06.17 09:53:14] [0145m.52s.893ms] [4] IT: Empty client connection popped from the waiting queue
+[2018.06.17 09:53:14] [0145m.52s.893ms] [2] IT: STOP
+[2018.06.17 09:53:14] [0145m.52s.893ms] [3] ET: Suspend request
+[2018.06.17 09:53:14] [0145m.52s.983ms] [4] iCDB Server PI: Executing PIM command from sub-client [1]: CDBCommand { EPIMCommand {GetPIManager} PIInfo { FESnapshotName[DxD] FETopLevelUID[3-1-5 (Block)] BESnapshotName[parallella_layout_temp]} bool {FALSE}}
+[2018.06.17 09:53:14] [0145m.52s.983ms] [5] iCDB PIM Wrapper: Executing AddPISession: PIInfo[ FESnapshotName[DxD] FETopLevelUID[3-1-5 (Block)] BESnapshotName[parallella_layout_temp]]
+[2018.06.17 09:53:14] [0145m.52s.983ms] [4] iCDB Server PI: Returning result from PIM command from sub-client [1]: CDBCommand { Index {0-2-127 (ProjectIntegration)}}
+[2018.06.17 09:53:14] [0145m.52s.983ms] [5] ET: From client [3368] command executed
+[2018.06.17 09:53:14] [0145m.52s.983ms] [5] ET: To client [3368] command reply: Client # ServerCommandID[124626] # ClientCommandID[82549] # NotifyCount[0] @ PIMCommand # CDBCommand.Size[5]
+[2018.06.17 09:53:14] [0145m.52s.983ms] [7] SC[3368]: Adding reply command to send: Client # ServerCommandID[124626] # ClientCommandID[82549] # NotifyCount[0] @ PIMCommand # CDBCommand.Size[5]
+[2018.06.17 09:53:14] [0145m.52s.983ms] [7] SC[3368]: Added reply command [00000000088209B0] to send
+[2018.06.17 09:53:14] [0145m.52s.983ms] [3] ET: Suspend request finished
+[2018.06.17 09:53:14] [0145m.52s.983ms] [2] ET: SUSPENDED
+[2018.06.17 09:53:14] [0145m.52s.983ms] [2] SCL: Removing all clients
+[2018.06.17 09:53:14] [0145m.52s.983ms] [7] CST[3368]: Trying to send command [00000000088209B0] of size [41]
+[2018.06.17 09:53:14] [0145m.52s.983ms] [3] SC[3368]: FREE
+[2018.06.17 09:53:14] [0145m.52s.983ms] [7] CST[3368]: Sent command [00000000088209B0]
+[2018.06.17 09:53:14] [0145m.52s.983ms] [5] SC[3368]: Received command: Server # ClientCommandID[82550] # SubClientID[1] @ PIMCommand # CDBCommand.Size[9]
+[2018.06.17 09:53:14] [0145m.52s.983ms] [4] SMCL: Distributing notify to registered [ClientList] iCDB Server Manager clients [NotifyServerClientRemove @ Version[1] # Id[Sender GUID[b4d9-a314-11ab-9c10-931f-52be-31f5-2b50-f9cf-7e7d-9e46-86c5] Command number[124627]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[10000] # Client [Address[DAMKU] User[Damian] PID[8688] Session[3368] Status[Active] Dead elapsed time sec[0] Version[2.202] Sub-clients[ ( Sub-client[Name[DxD] Id[1]], Sub-client[Name[TransactionRollbackSubClient] Id[2]], Sub-client[Name[xprob] Id[3]], Sub-client[Name[SymbolEditor] Id[5]], Sub-client[Name[SelectionHolder] Id[6]], Sub-client[Name[SystemDesignDll] Id[12]], Sub-client[Name[DesignSearcher2] Id[13]], Sub-client[Name[HdlProject] Id[14]], Sub-client[Name[Navigator] Id[15]], Sub-client[Name[OutputWindow] Id[16]], Sub-client[Name[PlaceDevice] Id[17]], Sub-client[Name[LocalSymbolsDataProvider] Id[18]], Sub-client[Name[FFSearch_Controller_0] Id[19]], Sub-client[Name[FFSearch_Controller_1] Id[20]], Sub-client[Name[FFSearch_Controller_2] Id[21]], Sub-client[Name[FFSearch_Controller_3] Id[22]], Sub-client[Name[FFSearch_Controller_4] Id[23]], Sub-client[Name[FFSearch_Controller_5] Id[24]], Sub-client[Name[FFSearch_Controller_6] Id[25]], Sub-client[Name[FFSearch_Controller_7] Id[26]], Sub-client[Name[FFSearch_Controller_8] Id[27]], Sub-client[Name[FFSearch_Controller_9] Id[28]], Sub-client[Name[FFSSelListener] Id[29]], Sub-client[Name[SAE] Id[30]], Sub-client[Name[CCZAddin] Id[31]], Sub-client[Name[DxThumbnails] Id[32]], Sub-client[Name[MyParts] Id[33]], Sub-client[Name[PinsList] Id[34]], Sub-client[Name[toolboxes] Id[35]], Sub-client[Name[ProjectIntegrationIcdbCacheDxD:570263936] Id[36]], Sub-client[Name[Core::DesignListener-30068] Id[37]], Sub-client[Name[SheetConnectorsCacheDxD:1529213256] Id[38]], Sub-client[Name[NetsNamesCollectorDxD:1529213256] Id[39]], Sub-client[Name[PartReplaceUtils] Id[40]], Sub-client[Name[PartReplaceUtilsSelectionListener] Id[41]], Sub-client[Name[ObjectHolder_576491888] Id[42]], Sub-client[Name[BlockCacheDxD:571863696] Id[43]], Sub-client[Name[GlobalNetAliasUpdater_467313360] Id[44]], Sub-client[Name[IcdbNetProcessorSubClientDxD:467290160] Id[45]])]]]
+[2018.06.17 09:53:14] [0145m.52s.983ms] [3] CRT[3368]: FREE
+[2018.06.17 09:53:14] [0145m.52s.983ms] [4] CRT[3368]: Waiting for finish
+[2018.06.17 09:53:14] [0145m.53s.093ms] [2] CRT[3368]: STOP
+[2018.06.17 09:53:14] [0145m.53s.093ms] [3] CST[3368]: FREE
+[2018.06.17 09:53:14] [0145m.53s.093ms] [4] CST[3368]: Waiting for finish
+[2018.06.17 09:53:14] [0145m.53s.093ms] [2] CST[3368]: STOP
+[2018.06.17 09:53:14] [0145m.53s.093ms] [1] SC[3368]: WARNING: Session is still active while destroying
+[2018.06.17 09:53:14] [0145m.53s.093ms] [2] SC[3368]: Disconnecting from peer
+[2018.06.17 09:53:14] [0145m.53s.093ms] [6] iCDB Server PI: ReleaseOpenSnapshotRefCount [1]: 0
+[2018.06.17 09:53:14] [0145m.53s.093ms] [3] iCDB Server PI: No one is using snapshot [1] - removing from cache
+[2018.06.17 09:53:14] [0145m.53s.093ms] [6] iCDB Storage Server: Checking existence of file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbblks\3000000010000050.blk\rbcatl.v]
+[2018.06.17 09:53:14] [0145m.53s.093ms] [6] iCDB Storage Server: File [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbblks\3000000010000050.blk\rbcatl.v] doesn't exist
+[2018.06.17 09:53:15] [0145m.53s.503ms] [6] iCDB Storage Server: Checking existence of file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\uids]
+[2018.06.17 09:53:15] [0145m.53s.503ms] [6] iCDB Storage Server: File [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\uids] exists
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] ServerObserverSnapshot: OnDestruct SnapshotID[1]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Saving all modified files
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] ServerObserverSnapshot: OnDestruct Finish
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading directory [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbblks\3000000010000050.blk\blk_obj_state]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbblks\3000000010000050.blk\blkatl.v]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbblks\3000000010000050.blk\dxdatl.v]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcatlg\catlgatl.v]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcatlg\grpatl.v]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcatlg\grpobj]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcmpcache\cmp_obj_state]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcmpcache\cmpatl.v]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcmpcache\dxdatl.v]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcmps\cmpatl.v]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcnfgs\3000000010000050.blk\ces_obj_state]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcnfgs\3000000010000050.blk\cesatl.v]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcnfgs\3000000010000050.blk\cnfgatl.v]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcnfgs\3000000010000050.blk\varatl.v]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\dsgn_obj_state]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\oryg]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\uids]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [5] iCDB Server PI: Snapshot [1] removed from cache
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Server PI: ReleaseOpenSnapshotRefCount [2]: 0
+[2018.06.17 09:53:15] [0145m.53s.513ms] [3] iCDB Server PI: No one is using snapshot [2] - removing from cache
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] ServerObserverSnapshot: OnDestruct SnapshotID[2]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Saving all modified files
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Checking existence of file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s2\uids]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: File [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s2\uids] exists
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading directory [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s2]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s2\cdbcatlg\catlgatl.v]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s2\cdbcatlg\grpatl.v]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s2\cdbcatlg\grpobj]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s2\cdbcmpcache\cmpatl.v]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s2\cdbcmps\cmpatl.v]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s2\oryg]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s2\uids]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [6] ServerObserverSnapshot: OnDestruct Finish
+[2018.06.17 09:53:15] [0145m.53s.513ms] [5] iCDB Server PI: Snapshot [2] removed from cache
+[2018.06.17 09:53:15] [0145m.53s.513ms] [3] SC[3369]: FREE
+[2018.06.17 09:53:15] [0145m.53s.513ms] [4] SMCL: Distributing notify to registered [ClientList] iCDB Server Manager clients [NotifyServerClientRemove @ Version[1] # Id[Sender GUID[b4d9-a314-11ab-9c10-931f-52be-31f5-2b50-f9cf-7e7d-9e46-86c5] Command number[124628]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[10000] # Client [Address[DAMKU] User[Damian] PID[4840] Session[3369] Status[Active] Dead elapsed time sec[0] Version[2.202] Sub-clients[ ( Sub-client[Name[Expedition PCB_1145781] Id[1]], Sub-client[Name[ExpeditionCrossProber] Id[6]], Sub-client[Name[Damian (Exp-iCES parallella)] Id[9]], Sub-client[Name[Damian (Exp-iCES)] Id[10]])]]]
+[2018.06.17 09:53:15] [0145m.53s.513ms] [3] CRT[3369]: FREE
+[2018.06.17 09:53:15] [0145m.53s.513ms] [4] CRT[3369]: Waiting for finish
+[2018.06.17 09:53:15] [0145m.53s.573ms] [2] CRT[3369]: STOP
+[2018.06.17 09:53:15] [0145m.53s.573ms] [3] CST[3369]: FREE
+[2018.06.17 09:53:15] [0145m.53s.573ms] [4] CST[3369]: Waiting for finish
+[2018.06.17 09:53:15] [0145m.53s.573ms] [2] CST[3369]: STOP
+[2018.06.17 09:53:15] [0145m.53s.573ms] [1] SC[3369]: WARNING: Session is still active while destroying
+[2018.06.17 09:53:15] [0145m.53s.573ms] [2] SC[3369]: Disconnecting from peer
+[2018.06.17 09:53:15] [0145m.53s.573ms] [6] iCDB Server PI: ReleaseOpenSnapshotRefCount [4]: 0
+[2018.06.17 09:53:15] [0145m.53s.573ms] [3] iCDB Server PI: No one is using snapshot [4] - removing from cache
+[2018.06.17 09:53:15] [0145m.53s.573ms] [6] iCDB Storage Server: Checking existence of file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s4\cdbblks\3000000010000050.blk\rbcatl.v]
+[2018.06.17 09:53:15] [0145m.53s.573ms] [6] iCDB Storage Server: File [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s4\cdbblks\3000000010000050.blk\rbcatl.v] doesn't exist
+[2018.06.17 09:53:15] [0145m.53s.583ms] [6] iCDB Storage Server: Checking existence of file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s4\uids]
+[2018.06.17 09:53:15] [0145m.53s.583ms] [6] iCDB Storage Server: File [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s4\uids] exists
+[2018.06.17 09:53:15] [0145m.53s.583ms] [6] ServerObserverSnapshot: OnDestruct SnapshotID[4]
+[2018.06.17 09:53:15] [0145m.53s.583ms] [6] iCDB Storage Server: Saving all modified files
+[2018.06.17 09:53:15] [0145m.53s.583ms] [6] ServerObserverSnapshot: OnDestruct Finish
+[2018.06.17 09:53:15] [0145m.53s.583ms] [6] iCDB Storage Server: Unloading directory [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s4]
+[2018.06.17 09:53:15] [0145m.53s.583ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s4\cdbblks\3000000010000050.blk\blkatl.v]
+[2018.06.17 09:53:15] [0145m.53s.583ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s4\cdbcatlg\catlgatl.v]
+[2018.06.17 09:53:15] [0145m.53s.583ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s4\cdbcatlg\grpatl.v]
+[2018.06.17 09:53:15] [0145m.53s.583ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s4\cdbcatlg\grpobj]
+[2018.06.17 09:53:15] [0145m.53s.583ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s4\cdbcmpcache\cmpatl.v]
+[2018.06.17 09:53:15] [0145m.53s.583ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s4\cdbcmpcache\dxdatl.v]
+[2018.06.17 09:53:15] [0145m.53s.583ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s4\cdbcmps\cmpatl.v]
+[2018.06.17 09:53:15] [0145m.53s.583ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s4\cdbcnfgs\3000000010000050.blk\ces_obj_state]
+[2018.06.17 09:53:15] [0145m.53s.583ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s4\cdbcnfgs\3000000010000050.blk\cesatl.v]
+[2018.06.17 09:53:15] [0145m.53s.583ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s4\cdbcnfgs\3000000010000050.blk\cnfg_obj_state]
+[2018.06.17 09:53:15] [0145m.53s.583ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s4\cdbcnfgs\3000000010000050.blk\cnfgatl.v]
+[2018.06.17 09:53:15] [0145m.53s.583ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s4\cdbcnfgs\3000000010000050.blk\varatl.v]
+[2018.06.17 09:53:15] [0145m.53s.583ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s4\oryg]
+[2018.06.17 09:53:15] [0145m.53s.583ms] [6] iCDB Storage Server: Unloading file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s4\uids]
+[2018.06.17 09:53:15] [0145m.53s.583ms] [5] iCDB Server PI: Snapshot [4] removed from cache
+[2018.06.17 09:53:15] [0145m.53s.583ms] [3] ET: Discarding pending commands
+[2018.06.17 09:53:15] [0145m.53s.583ms] [3] ET: Resume request
+[2018.06.17 09:53:15] [0145m.53s.583ms] [3] ET: Resume request finished
+[2018.06.17 09:53:15] [0145m.53s.583ms] [2] ET: RESUMED
+[2018.06.17 09:53:15] [0145m.53s.583ms] [2] ET: WARNING: Discarding client [3368] command: Server # ClientCommandID[82550] # SubClientID[1] @ PIMCommand # CDBCommand.Size[9]
+[2018.06.17 09:53:15] [0145m.53s.603ms] [2] PrjBackupEngine: STOP
+[2018.06.17 09:53:15] [0145m.53s.603ms] [3] PrjBackupEngine: FREE
+[2018.06.17 09:53:15] [0145m.53s.603ms] [4] PrjBackupEngine: Waiting for finish
+[2018.06.17 09:53:15] [0145m.53s.603ms] [3] ET: FREE
+[2018.06.17 09:53:15] [0145m.53s.603ms] [4] ET: Waiting for finish
+[2018.06.17 09:53:15] [0145m.53s.603ms] [2] ET: STOP
+[2018.06.17 09:53:15] [0145m.53s.603ms] [2] SCL: Stopping all send threads
+[2018.06.17 09:53:15] [0145m.53s.603ms] [3] CMT: FREE
+[2018.06.17 09:53:15] [0145m.53s.603ms] [4] CMT: Waiting for finish
+[2018.06.17 09:53:15] [0145m.53s.613ms] [2] CMT: STOP
+[2018.06.17 09:53:15] [0145m.53s.613ms] [3] DMT: FREE
+[2018.06.17 09:53:15] [0145m.53s.613ms] [4] DMT: Waiting for finish
+[2018.06.17 09:53:15] [0145m.53s.613ms] [2] DMT: STOP
+[2018.06.17 09:53:15] [0145m.53s.613ms] [3] DFAMT: FREE
+[2018.06.17 09:53:15] [0145m.53s.613ms] [4] DFAMT: Waiting for finish
+[2018.06.17 09:53:15] [0145m.53s.633ms] [2] DFAMT: Filer project path [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] access monitoring ended
+[2018.06.17 09:53:15] [0145m.53s.633ms] [2] DFAMT: STOP
+[2018.06.17 09:53:15] [0145m.53s.633ms] [4] DFAMT: FINISHED
+[2018.06.17 09:53:15] [0145m.53s.633ms] [3] DiagSystemMemoryMonitorThread: FREE
+[2018.06.17 09:53:15] [0145m.53s.633ms] [4] DiagSystemMemoryMonitorThread: Waiting for finish
+[2018.06.17 09:53:15] [0145m.53s.653ms] [2] DiagSystemMemoryMonitorThread: System memory usage monitoring ended
+[2018.06.17 09:53:15] [0145m.53s.653ms] [2] DiagSystemMemoryMonitorThread: STOP
+[2018.06.17 09:53:15] [0145m.53s.653ms] [4] DiagSystemMemoryMonitorThread: FINISHED
+[2018.06.17 09:53:15] [0145m.53s.653ms] [4] DMT: FINISHED
+[2018.06.17 09:53:15] [0145m.53s.653ms] [2] SCL: Removing all clients
+[2018.06.17 09:53:15] [0145m.54s.263ms] [1] Named Locks: WARNING: There are still [1] registered locks
+[2018.06.17 09:53:15] [0145m.54s.263ms] [1] Named Locks: WARNING: Removing lock [ProcessNotifier]
+[2018.06.17 09:53:15] [0145m.54s.263ms] [2] iCDB Server PI: Unloading observers
+[2018.06.17 09:53:15] [0145m.54s.263ms] [2] iCDB Server PI: Observers unloaded
+[2018.06.17 09:53:15] [0145m.54s.263ms] [0] iCDB Server PI: Closing plugins
+[2018.06.17 09:53:15] [0145m.54s.263ms] [2] iCDB Server PI: Closing PIM plugin
+[2018.06.17 09:53:15] [0145m.54s.263ms] [5] iCDB PIM Wrapper: FREE
+[2018.06.17 09:53:15] [0145m.54s.263ms] [2] iCDB Server PI: Closing ENetGen plugin
+[2018.06.17 09:53:15] [0145m.54s.263ms] [5] iCDB ENetGen Wrapper: FREE
+[2018.06.17 09:53:15] [0145m.54s.263ms] [0] iCDB Server PI: Plugins closed
+[2018.06.17 09:53:15] [0145m.54s.263ms] [0] iCDB Server PI: Unloading database
+[2018.06.17 09:53:15] [0145m.54s.263ms] [7] DCM: CDBCesDefConstraintManager::LoadVersionInfo(force[0] cumulativesaveVersion[0000000000000000] transporter[0000000000000000]) -- isModified[0] upgradeFlag[0]
+[2018.06.17 09:53:15] [0145m.54s.263ms] [6] iCDB Storage Server: Saving all modified files
+[2018.06.17 09:53:15] [0145m.54s.263ms] [0] iCDB Server PI: Saving storage
+[2018.06.17 09:53:15] [0145m.54s.263ms] [6] iCDB Storage Server: Saving all modified files
+[2018.06.17 09:53:15] [0145m.54s.303ms] [0] iCDB Server PI: Closing database
+[2018.06.17 09:53:15] [0145m.54s.303ms] [7] Holes::writing holes [7] prev [0] from [2002684] 
+[2018.06.17 09:53:15] [0145m.54s.303ms] [7] Holes::write <35948,36075>
+[2018.06.17 09:53:15] [0145m.54s.303ms] [7] Holes::write <840940,845355>
+[2018.06.17 09:53:15] [0145m.54s.303ms] [7] Holes::write <846444,1149419>
+[2018.06.17 09:53:15] [0145m.54s.303ms] [7] Holes::write <1580604,1587707>
+[2018.06.17 09:53:15] [0145m.54s.303ms] [7] Holes::write <1911228,1919419>
+[2018.06.17 09:53:15] [0145m.54s.303ms] [7] Holes::write <1931708,1984955>
+[2018.06.17 09:53:15] [0145m.54s.303ms] [7] Holes::write <1992235,1999867>
+[2018.06.17 09:53:16] [0145m.54s.473ms] [7] Holes have been successfully saved 7 CRC [202745760]
+[2018.06.17 09:53:16] [0145m.54s.473ms] [1] iCDB Server PI: Stats: Database defragmentation: max[3] avg[1] holes[11%] data[98%]
+[2018.06.17 09:53:16] [0145m.54s.473ms] [1] iCDB Server PI: Stats: Database file size [2002744 (1.9 MB)]
+[2018.06.17 09:53:16] [0145m.54s.473ms] [7] Holes::writing holes [7] prev [7] from [2002740] 
+[2018.06.17 09:53:16] [0145m.54s.473ms] [7] Holes::write <35948,36075>
+[2018.06.17 09:53:16] [0145m.54s.473ms] [7] Holes::write <840940,845355>
+[2018.06.17 09:53:16] [0145m.54s.473ms] [7] Holes::write <846444,1149419>
+[2018.06.17 09:53:16] [0145m.54s.473ms] [7] Holes::write <1580604,1587707>
+[2018.06.17 09:53:16] [0145m.54s.473ms] [7] Holes::write <1911228,1919419>
+[2018.06.17 09:53:16] [0145m.54s.473ms] [7] Holes::write <1931708,1984955>
+[2018.06.17 09:53:16] [0145m.54s.473ms] [7] Holes::write <1992235,1999867>
+[2018.06.17 09:53:16] [0145m.54s.613ms] [7] Holes have been successfully saved 7 CRC [202745760]
+[2018.06.17 09:53:16] [0145m.54s.613ms] [7] DCM: CDBCesDefConstraintManager::UnLoad()
+[2018.06.17 09:53:16] [0145m.54s.613ms] [3] iCDB Storage Server: FREE
+[2018.06.17 09:53:16] [0145m.54s.613ms] [3] iCDB Storage Server Save Thread: FREE
+[2018.06.17 09:53:16] [0145m.54s.613ms] [4] iCDB Storage Server Save Thread: Waiting for finish
+[2018.06.17 09:53:16] [0145m.54s.613ms] [2] iCDB Storage Server Save Thread: STOP
+[2018.06.17 09:53:16] [0145m.54s.613ms] [3] iCDB Storage Server Backup Thread: FREE
+[2018.06.17 09:53:16] [0145m.54s.613ms] [4] iCDB Storage Server Backup Thread: Waiting for finish
+[2018.06.17 09:53:16] [0145m.54s.723ms] [2] iCDB Storage Server Backup Thread: STOP
+[2018.06.17 09:53:16] [0145m.54s.763ms] [3] SingleFile: [0000-0000-0000-0000] Modification time updated for file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat]
+[2018.06.17 09:53:16] [0145m.54s.763ms] [3] SingleFile: [0000-0000-0000-0000] Closing file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] restrained
+[2018.06.17 09:53:16] [0145m.54s.763ms] [0] iCDB Server PI: Database closed
+[2018.06.17 09:53:16] [0145m.54s.763ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [5958124] ticks
+[2018.06.17 09:53:16] [0145m.54s.763ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [3057623] microseconds
+[2018.06.17 09:53:16] [0145m.54s.763ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [40897]
+[2018.06.17 09:53:16] [0145m.54s.763ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [13375] commands per second
+[2018.06.17 09:53:16] [0145m.54s.763ms] [0] Single file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] closed with size [2002744 (1.9 MB)]
+[2018.06.17 09:53:16] [0145m.54s.763ms] [2] SDL: Removing all connected iCDB Server Monitor
+[2018.06.17 09:53:16] [0145m.54s.773ms] [2] S: Unloading ENetGen plugin from file [D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\bin\..\lib\ENetGen70.dll]
+[2018.06.17 09:53:17] [0145m.56s.183ms] [2] S: Unloading PIM plugin from file [D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\bin\..\lib\PIM.dll]
+[2018.06.17 09:53:17] [0145m.56s.243ms] [3] ST: FREE
+[2018.06.17 09:53:17] [0145m.56s.243ms] [4] ST: Waiting for finish
+[2018.06.17 09:53:17] [0145m.56s.243ms] [2] ST: STOP
+[2018.06.17 09:53:17] [0145m.56s.243ms] [3] MET: FREE
+[2018.06.17 09:53:17] [0145m.56s.243ms] [4] MET: Waiting for finish
+[2018.06.17 09:53:17] [0145m.56s.243ms] [2] MET: STOP
+[2018.06.17 09:53:17] [0145m.56s.243ms] [3] MCE: FREE
+[2018.06.17 09:53:17] [0145m.56s.243ms] [3] ELMT: FREE
+[2018.06.17 09:53:17] [0145m.56s.243ms] [4] ELMT: Waiting for finish
+[2018.06.17 09:53:17] [0145m.56s.243ms] [2] ELMT: STOP
+[2018.06.17 09:53:17] [0145m.56s.303ms] [3] EventLogDataFile: EventLog data file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\cdbsvr\events\events.dat] closed
+[2018.06.17 09:53:17] [0145m.56s.303ms] [3] EventLogIndexFile: EventLog index file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\cdbsvr\events\events.idx] closed
+[2018.06.17 09:53:17] [0145m.56s.303ms] [4] ELMT: FINISHED
+[2018.06.17 09:53:17] [0145m.56s.303ms] [3] AT: FREE
+[2018.06.17 09:53:17] [0145m.56s.303ms] [4] AT: Waiting for finish
+[2018.06.17 09:53:17] [0145m.56s.373ms] [2] AT: Removing server address file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\cdbsvr\sAddress.adr]
+[2018.06.17 09:53:17] [0145m.56s.373ms] [0] AT: ERROR: Could not remove server address file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\cdbsvr\sAddress.adr]
+[2018.06.17 09:53:17] [0145m.56s.373ms] [2] AT: STOP
+[2018.06.17 09:53:17] [0145m.56s.373ms] [3] BT: FREE
+[2018.06.17 09:53:17] [0145m.56s.373ms] [4] BT: Waiting for finish
+[2018.06.17 09:53:17] [0145m.56s.393ms] [4] BT: Sending broadcast on port [10000]: NotifyProjectGlobalStatus @ Version[1] # Id[Sender GUID[b4d9-a314-11ab-9c10-931f-52be-31f5-2b50-f9cf-7e7d-9e46-86c5] Command number[124632]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[0] # ProjectId [GUID[663c-dd03-b7ba-00f0-831f-52bd-31f5-2b50-7e8e-7e7d-9e46-86c5] Address[Host[DAMKU] Port[10000]] IsLauncher[FALSE] Launcher[GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Address[Host[] Port[0]]] Path[E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] ReadOnly[FALSE] Server GUID[b4d9-a314-11ab-9c10-931f-52be-31f5-2b50-f9cf-7e7d-9e46-86c5]] # Status [Shutdown]
+[2018.06.17 09:53:17] [0145m.56s.393ms] [2] BT: STOP
+[2018.06.17 09:53:17] [0145m.56s.393ms] [3] MWT: FREE
+[2018.06.17 09:53:17] [0145m.56s.393ms] [4] MWT: Waiting for finish
+[2018.06.17 09:53:17] [0145m.56s.393ms] [0] MWT: Destroy the shutdown block reason.
+[2018.06.17 09:53:17] [0145m.56s.393ms] [0] MWT: STOP
+[2018.06.17 09:53:17] [0145m.56s.393ms] [0] S: STOP
+[2018.06.17 09:53:17] [0145m.56s.393ms] [3] S: FREE
+[2018.06.17 09:53:17] [0145m.56s.393ms] [3] S: FREE: Server implementation
+[2018.06.17 09:53:17] [0145m.56s.393ms] [3] CLSVRM: FREE
+[2018.06.17 09:53:17] [0145m.56s.393ms] [3] SDSM: FREE
+[2018.06.17 09:53:17] [0145m.56s.393ms] [3] SDL: FREE
+[2018.06.17 09:53:17] [0145m.56s.413ms] [3] SCL: FREE
+[2018.06.17 09:53:17] [0145m.56s.413ms] [6] SSM: FREE
+[2018.06.17 09:53:17] [0145m.56s.413ms] [3] SMCL: FREE
+[2018.06.17 09:53:17] [0145m.56s.413ms] [3] SS: FREE
+[2018.06.17 09:53:17] [0145m.56s.413ms] [3] SM: FREE
+[2018.06.17 09:53:17] [0145m.56s.413ms] [3] SingleMessageSender: Send thread: FREE
+[2018.06.17 09:53:17] [0145m.56s.413ms] [4] SingleMessageSender: Send thread: Waiting for finish
+[2018.06.17 09:53:17] [0145m.56s.413ms] [2] SingleMessageSender: Send thread: STOP
+[2018.06.17 09:53:17] [0145m.56s.413ms] [4] SingleMessageSender: Send thread: FINISHED
+[2018.06.17 09:53:17] [0145m.56s.413ms] [3] SCQ: FREE
+[2018.06.17 09:53:17] [0145m.56s.413ms] [3] MCQ: FREE

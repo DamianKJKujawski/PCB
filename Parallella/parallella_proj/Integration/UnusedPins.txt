@@ -1,0 +1,101 @@
+
+Schematic unused pins from : Packager  18-Jun-2018  22:05
+
+------------------------------------------------------------------------
+            Part/Reference             |          Unused pins
+                                       |  (G) - Gate, (P) - Partial Gate
+------------------------------------------------------------------------
+ Part BLM15AG121SN1D                   |
+ Part BLM18SG121TN1D                   |
+ Part CAP0402_0P1UF_X5R_35V            |
+ Part CAP0402_0P47UF_X5R               |
+ Part CAP0402_0P047UF_X5R              |
+ Part CAP0402_2P2UF_X5R                |
+ Part CAP0402_4P7UF_X5R                |
+ Part CAP0402_6PF_NPO_50V              |
+ Part CAP0402_10NF_X7R_16V             |
+ Part CAP0603_1UF_X5R                  |
+ Part CAP0603_4P7UF_16V_X5R            |
+ Part CAP0603_10UF_X5R                 |
+ Part CAP0805_10UF_16V_X5R             |
+ Part CAP0805_6800PF_X7R               |
+ Part CAP1210_100UF_X5R_LOESR          |
+ Part CONN_MICROSD_CARD                |
+ Part CON_BSH_030_VERT                 |
+  J4                                   | (P)  10
+ Part CON_POWER_PJ002A_TH              |
+ Part CRYSTAL_4P_24MHZ                 |
+  Y1                                   | (P)  2 4
+ Part DDR3_256MX32                     |
+  U2                                   | (P)  G2 H11 H12 J10
+ Part DIODE_BAS16XV2T1G                |
+ Part EPIPHANY_E16G301                 |
+  U3                                   | (P)  U1 T2 R3 P4 R1 P2 N3 M4
+                                       |  T1 R2 P3 N4 P1 N2 M3 L4 M1 N1
+                                       |  J2 K2 K3 L3 H4 G3 F2 E1 F4 E3
+                                       |  D2 C1 G4 F3 E2 D1 E4 D3 C2 B1
+                                       |  F1 G1 G2 H2 H3 J3
+ Part FUSE0603_4A                      |
+ Part HDMI_DVI_XCVR_ADV7513            |
+  U6                                   | (P)  62 61 60 59 58 57 56 55
+ Part HDMI_MICRO_D_RA_SMT              |
+  J5                                   | (P)  2
+ Part HDR_1X2_TH_VER                   |
+ Part HDR_1X3_TH_VER_0.1P              |
+ Part IC_ISL9305_DCDC_CONV             |
+ Part IC_ISL9307_DCDC_CONV             |
+ Part IC_SI51219                       |
+  U13                                  | (P)  6
+ Part IC_SPI_FLASH_QUAD_128Mb          |
+ Part IND_1P5UH_2A                     |
+ Part LED_0603_5MA_GRN                 |
+ Part LED_0603_5MA_RED                 |
+ Part MIC2025_1_USB_SW                 |
+  U16                                  | (P)  4 5
+ Part NC7SZ125                         |
+ Part NC7WZ16                          |
+  U12                                  | (P)  4
+ Part PTH125_200PAD                    |
+ Part RES0402_0                        |
+  R17                                  | (P)  2
+  R20                                  | (P)  2
+ Part RES0402_1K                       |
+ Part RES0402_4K75                     |
+ Part RES0402_4K99                     |
+ Part RES0402_8K06                     |
+ Part RES0402_10K                      |
+ Part RES0402_20K                      |
+ Part RES0402_22R1                     |
+ Part RES0402_27K4                     |
+ Part RES0402_33                       |
+ Part RES0402_56K2                     |
+ Part RES0402_80P6                     |
+ Part RES0402_100                      |
+ Part RES0402_240                      |
+ Part RES0402_620                      |
+ Part RES0402_887                      |
+ Part RES0603_24K9                     |
+ Part RES0603_69K8                     |
+ Part RES0603_100K                     |
+ Part RJ45-10_100_1000-BELFUSE         |
+  J9                                   | (P)  15
+ Part SN65LVDS4                        |
+  U4                                   | (P)  4 6 9
+ Part SW_PB_SPST_2PIN                  |
+ Part TEST_TERM_BLK                    |
+ Part TEST_TERM_RED                    |
+ Part TPD12S016                        |
+ Part USB_MICRO_AB_RA_SMT              |
+ Part USB_MICRO_B_RA_SMT               |
+  J11                                  | (P)  4
+ Part USB3320_ULPI_XCVR                |
+  U17                                  | (P)  25 16 12
+  U18                                  | (P)  25 16 15 17 12
+ Part VOLTMON_4IN_3P3                  |
+ Part XTAL_4P_25MHZ                    |
+  Y2                                   | (P)  2 4
+ Part ZYNQ_7Z020_CLG400                |
+  U1                                   | (P)  V5
+ Part 88E1318_QFN48                    |
+  U15                                  | (P)  3 8
+  U15                                  | (G)  16 21

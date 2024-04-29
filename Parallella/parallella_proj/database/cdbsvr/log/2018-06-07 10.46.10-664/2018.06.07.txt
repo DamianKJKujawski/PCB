@@ -1,0 +1,416 @@
+[2018.06.07 10:46:10] [0000m.00s.106ms] [0] WELCOME
+[2018.06.07 10:46:10] [0000m.00s.146ms] [1] iCDB Server ver.2.202, 88Zh1V4+7Fzqu6g9/cuD/w, build:7609897 created 2017-06-23 16:20:58, sources stamp:88Zh1V4+7Fzqu6g9/cuD/w
+[2018.06.07 10:46:10] [0000m.00s.146ms] [1] Copyright 2017 Mentor Graphics Corporation.  All Rights Reserved.
+[2018.06.07 10:46:10] [0000m.00s.146ms] [1] Base flow version [VX.2.2]
+[2018.06.07 10:46:10] [0000m.00s.146ms] [1] Install Id [1589114], Flow Id [X-ENTP VX.2.2], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.2], Exact Access Date [2017/05/01]
+[2018.06.07 10:46:10] [0000m.00s.151ms] [1] Machine [HOME-PC-W7]  IP [127.0.0.1,192.168.0.102]  User [HOME]  PID [664]
+[2018.06.07 10:46:10] [0000m.00s.152ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2018.06.07 10:46:10] [0000m.00s.152ms] [1] Current working dir [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj]
+[2018.06.07 10:46:10] [0000m.00s.152ms] [1] PATH [C:\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.2.2\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.2.2\MGC_HOME.ixw\lib;C:\Program Files (x86)\Intel\MPI-RT\5.0.2.044\intel64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MATLAB\R2017a\bin;C:\Wincupl\WINCUPL\EXE;C:\Wincupl\WINCUPL\FITTERS]
+[2018.06.07 10:46:10] [0000m.00s.152ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.2\SDD_HOME] on file system [NTFS]
+[2018.06.07 10:46:10] [0000m.00s.152ms] [1] SDD_PLATFORM [win64]
+[2018.06.07 10:46:10] [0000m.00s.152ms] [1] WDIR [C:\WDIR\EEVX.2.2;C:\MentorGraphics\EEVX.2.2\SDD_HOME\standard;]
+[2018.06.07 10:46:10] [0000m.00s.152ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.2\iCDB] on file system [NTFS]
+[2018.06.07 10:46:10] [0000m.00s.152ms] [2] S: Loading config files
+[2018.06.07 10:46:10] [0000m.00s.165ms] [1] Config file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\cdbsvr\Server.cfg] not found
+[2018.06.07 10:46:10] [0000m.00s.166ms] [3] S: Config loaded
+[2018.06.07 10:46:10] [0000m.00s.298ms] [0] S: Project path [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] on file system [NTFS]
+[2018.06.07 10:46:10] [0000m.00s.300ms] [0] S: Project global path [\\HOME-PC-W7\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] on file system [NTFS]
+[2018.06.07 10:46:10] [0000m.00s.300ms] [0] S: Project file (.prj) path [\\HOME-PC-W7\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\parallella.prj] on file system [UNKNOWN]
+[2018.06.07 10:46:10] [0000m.00s.300ms] [0] S: Project file (.prj) local path [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\parallella.prj] on file system [NTFS]
+[2018.06.07 10:46:10] [0000m.00s.306ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2018.06.07 10:46:10] [0000m.00s.306ms] [0] S: Single-user mode (auto)
+[2018.06.07 10:46:10] [0000m.00s.306ms] [0] S: Event polling mode autodetection
+[2018.06.07 10:46:10] [0000m.00s.307ms] [0] S: Started up automatically by iCDB Client: HOME-PC-W7:HOME:4888
+[2018.06.07 10:46:10] [0000m.00s.307ms] [0] S: Auto close mode
+[2018.06.07 10:46:10] [0000m.00s.307ms] [0] S: Database ID [bf09-6b82-4c8e-7254-d6e8-61b2-7e86-1b50-a323-8e1d-0c4b-ba98]
+[2018.06.07 10:46:10] [0000m.00s.307ms] [0] PathTranslator: BEGIN dumping
+[2018.06.07 10:46:10] [0000m.00s.307ms] [0] PathTranslator: Local -> global path prefix list
+[2018.06.07 10:46:10] [0000m.00s.308ms] [0] PathTranslator: [C:\Users] -> [\\HOME-PC-W7\Users]
+[2018.06.07 10:46:10] [0000m.00s.308ms] [0] PathTranslator: Global -> local path prefix list
+[2018.06.07 10:46:10] [0000m.00s.308ms] [0] PathTranslator: [\\HOME-PC-W7\Users] -> [C:\Users]
+[2018.06.07 10:46:10] [0000m.00s.308ms] [0] PathTranslator: END dumping
+[2018.06.07 10:46:10] [0000m.00s.308ms] [0] S: START
+[2018.06.07 10:46:10] [0000m.00s.308ms] [0] S: Server startup lock file created
+[2018.06.07 10:46:10] [0000m.00s.310ms] [0] S: Listening for client connections on port [10000]
+[2018.06.07 10:46:11] [0000m.00s.320ms] [0] S: Server network ID [HOME-PC-W7:192.168.0.102,HOME-PC-W7:10000]
+[2018.06.07 10:46:11] [0000m.00s.320ms] [0] S: Server GUID [205e-8a0a-0fd9-9c79-2d0f-81b7-d0f8-1b50-6282-8e1d-0c4b-ba98]
+[2018.06.07 10:46:11] [0000m.00s.320ms] [0] S: Project GUID [bf09-6b82-4c8e-7254-d6e8-61b2-7e86-1b50-a323-8e1d-0c4b-ba98]
+[2018.06.07 10:46:11] [0000m.00s.321ms] [0] S: Wrote data to server address file
+[2018.06.07 10:46:11] [0000m.00s.321ms] [0] S: Server startup lock file removed
+[2018.06.07 10:46:11] [0000m.00s.322ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\parallella.prj]
+[2018.06.07 10:46:11] [0000m.01s.156ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2018.06.07 10:46:11] [0000m.01s.156ms] [1] ServerToolkit: INFO: Plugin found in SDD_COMMON_BIN [C:\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\bin]
+[2018.06.07 10:46:11] [0000m.01s.156ms] [0] S: Local disc access time: 41 us
+[2018.06.07 10:46:11] [0000m.01s.156ms] [0] S: File server access time: 47 us
+[2018.06.07 10:46:11] [0000m.01s.249ms] [0] Single file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] size [1977856 (1.9 MB)]
+[2018.06.07 10:46:11] [0000m.01s.249ms] [1] Single file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] opened in read-write mode
+[2018.06.07 10:46:11] [0000m.01s.249ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.07 10:46:11] [0000m.01s.249ms] [0] Database GUARD OK: [1977856]
+[2018.06.07 10:46:11] [0000m.01s.281ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.07 10:46:11] [0000m.01s.281ms] [0] Database GUARD OK: [1977856]
+[2018.06.07 10:46:11] [0000m.01s.281ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.07 10:46:11] [0000m.01s.281ms] [0] Database GUARD OK: [1977856]
+[2018.06.07 10:46:11] [0000m.01s.281ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.07 10:46:11] [0000m.01s.282ms] [0] Database GUARD OK: [1977856]
+[2018.06.07 10:46:11] [0000m.01s.294ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.07 10:46:11] [0000m.01s.294ms] [0] Database GUARD OK: [1977856]
+[2018.06.07 10:46:11] [0000m.01s.294ms] [0] SingleFile: [2a15-5b52-c660-584d] SFI version check [1009] [1009]
+[2018.06.07 10:46:12] [0000m.01s.350ms] [0] SingleFile: [2a15-5b52-c660-584d] Database SFI header has been read in [55ms 893us]
+[2018.06.07 10:46:12] [0000m.01s.379ms] [0] iCDB Server PI: Server & plugin session [2365]
+[2018.06.07 10:46:12] [0000m.01s.379ms] [0] iCDB Server PI: Opening database [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database]
+[2018.06.07 10:46:12] [0000m.01s.379ms] [0] iCDB Server PI: Database [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] opened
+[2018.06.07 10:46:12] [0000m.01s.413ms] [0] iCDB Database: Checking existence of constraint definitions
+[2018.06.07 10:46:12] [0000m.01s.413ms] [0] iCDB Database: Checking constraint definitions version
+[2018.06.07 10:46:12] [0000m.01s.649ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.56;user.cns=e1f5-07a6-a6d1-219c-7533-43ac-5334-3a50-6533-8e1d-0c4b-ba98] up to date
+[2018.06.07 10:46:12] [0000m.01s.839ms] [0] iCDB Server PI: Initializing plugins
+[2018.06.07 10:46:12] [0000m.01s.841ms] [0] iCDB Server PI: Plugins initialized
+[2018.06.07 10:46:12] [0000m.01s.841ms] [0] S: iCDB database loaded
+[2018.06.07 10:46:12] [0000m.01s.844ms] [0] S: Starting threads
+[2018.06.07 10:46:12] [0000m.01s.844ms] [0] BT: Listening for broadcast messages on port [10000]
+[2018.06.07 10:46:12] [0000m.01s.845ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2018.06.07 10:46:12] [0000m.01s.846ms] [0] MWT: WindowProc: WM_NCCREATE
+[2018.06.07 10:46:12] [0000m.01s.871ms] [0] IT: Session [2366] for host [HOME-PC-W7] user [HOME] with process ID [4888] created
+[2018.06.07 10:46:12] [0000m.01s.936ms] [1] SC[2366]: Registered sub-client [DxD] with ID [1] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:12] [0000m.01s.945ms] [1] CMT: There are [1] clients now: 2366
+[2018.06.07 10:46:13] [0000m.02s.877ms] [1] SC[2366]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:13] [0000m.02s.886ms] [1] SC[2366]: Registered sub-client [xprob] with ID [3] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:13] [0000m.03s.076ms] [1] SC[2366]: Registered sub-client [StartServerClient131c] with ID [4] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:13] [0000m.03s.087ms] [1] SC[2366]: UnRegistered sub-client [StartServerClient131c] with ID [4] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:15] [0000m.04s.814ms] [1] SC[2366]: Registered sub-client [SymbolEditor] with ID [5] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:15] [0000m.04s.874ms] [1] SC[2366]: Registered sub-client [SelectionHolder] with ID [6] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:15] [0000m.04s.910ms] [1] SC[2366]: Registered sub-client [EEVM_EEVM_296900096] with ID [7] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:15] [0000m.04s.910ms] [1] SC[2366]: UnRegistered sub-client [EEVM_EEVM_296900096] with ID [7] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:15] [0000m.04s.912ms] [1] SC[2366]: Registered sub-client [EEVM_EEVM_296900096] with ID [8] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:15] [0000m.05s.088ms] [1] SC[2366]: UnRegistered sub-client [EEVM_EEVM_296900096] with ID [8] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:15] [0000m.05s.092ms] [1] SC[2366]: Registered sub-client [EEVM_EEVM_296900096] with ID [9] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:15] [0000m.05s.093ms] [1] SC[2366]: UnRegistered sub-client [EEVM_EEVM_296900096] with ID [9] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:15] [0000m.05s.095ms] [1] SC[2366]: Registered sub-client [EEVM_EEVM_296900096] with ID [10] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:15] [0000m.05s.139ms] [1] SC[2366]: UnRegistered sub-client [EEVM_EEVM_296900096] with ID [10] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:15] [0000m.05s.285ms] [1] SC[2366]: Registered sub-client [SystemDesignDll] with ID [11] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:16] [0000m.05s.325ms] [1] SC[2366]: UnRegistered sub-client [SystemDesignDll] with ID [11] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:16] [0000m.05s.329ms] [1] SC[2366]: Registered sub-client [SystemDesignDll] with ID [12] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:17] [0000m.06s.688ms] [1] SC[2366]: Registered sub-client [DesignSearcher2] with ID [13] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:17] [0000m.06s.690ms] [1] SC[2366]: Registered sub-client [HdlProject] with ID [14] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:17] [0000m.06s.768ms] [1] SC[2366]: Registered sub-client [Navigator] with ID [15] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:17] [0000m.06s.862ms] [1] SC[2366]: Registered sub-client [OutputWindow] with ID [16] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:17] [0000m.06s.877ms] [1] SC[2366]: Registered sub-client [PlaceDevice] with ID [17] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:17] [0000m.07s.034ms] [1] SC[2366]: Registered sub-client [LocalSymbolsDataProvider] with ID [18] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:17] [0000m.07s.092ms] [1] SC[2366]: Registered sub-client [FFSearch_Controller_0] with ID [19] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:17] [0000m.07s.138ms] [1] SC[2366]: Registered sub-client [FFSearch_Controller_1] with ID [20] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:18] [0000m.07s.447ms] [1] SC[2366]: Registered sub-client [FFSSelListener] with ID [21] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:18] [0000m.07s.452ms] [1] SC[2366]: Registered sub-client [SAE] with ID [22] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:18] [0000m.07s.454ms] [1] SC[2366]: Registered sub-client [CCZAddin] with ID [23] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:18] [0000m.07s.455ms] [1] SC[2366]: Registered sub-client [DxThumbnails] with ID [24] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:18] [0000m.07s.457ms] [1] SC[2366]: Registered sub-client [MyParts] with ID [25] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:18] [0000m.07s.469ms] [1] SC[2366]: Registered sub-client [PinsList] with ID [26] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:18] [0000m.07s.832ms] [1] SC[2366]: Registered sub-client [toolboxes] with ID [27] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:18] [0000m.07s.933ms] [1] SC[2366]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:506711136] with ID [28] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:18] [0000m.07s.973ms] [1] SC[2366]: Registered sub-client [Core::DesignListener-19068] with ID [29] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:18] [0000m.08s.103ms] [1] SC[2366]: Registered sub-client [SheetConnectorsCacheDxD:1528361178] with ID [30] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:18] [0000m.08s.224ms] [1] SC[2366]: Registered sub-client [NetsNamesCollectorDxD:1528361178] with ID [31] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:19] [0000m.08s.474ms] [1] SC[2366]: Registered sub-client [PartReplaceUtils] with ID [32] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:19] [0000m.08s.477ms] [1] SC[2366]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [33] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:19] [0000m.08s.749ms] [1] SC[2366]: Registered sub-client [ObjectHolder_507653280] with ID [34] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:19] [0000m.08s.752ms] [1] SC[2366]: Registered sub-client [BlockCacheDxD:507624736] with ID [35] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:19] [0000m.08s.753ms] [1] SC[2366]: Registered sub-client [GlobalNetAliasUpdater_482049616] with ID [36] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:19] [0000m.08s.760ms] [1] SC[2366]: Registered sub-client [IcdbNetProcessorSubClientDxD:508531280] with ID [37] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:20] [0000m.09s.473ms] [1] SC[2366]: Registered sub-client [DxDbSearch] with ID [38] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:33] [0000m.22s.745ms] [1] SC[2366]: Registered sub-client [Dx2Exp_154222] with ID [39] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:33] [0000m.22s.749ms] [1] SC[2366]: UnRegistered sub-client [Dx2Exp_154222] with ID [39] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 10:46:41] [0000m.30s.874ms] [0] DFAMT: File server access time: 49 us
+[2018.06.07 10:46:51] [0000m.40s.794ms] [0] IT: Session [2367] for host [HOME-PC-W7] user [HOME] with process ID [2760] created
+[2018.06.07 10:46:51] [0000m.40s.795ms] [1] SC[2367]: Registered sub-client [Expedition PCB_172225] with ID [1] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 10:46:51] [0000m.40s.864ms] [1] CMT: There are [2] clients now: 2366, 2367
+[2018.06.07 10:46:51] [0000m.40s.965ms] [1] SC[2367]: Registered sub-client [EEVM_EEVM_351922752] with ID [2] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 10:46:51] [0000m.41s.074ms] [1] SC[2367]: UnRegistered sub-client [EEVM_EEVM_351922752] with ID [2] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 10:46:51] [0000m.41s.077ms] [1] SC[2367]: Registered sub-client [EEVM_EEVM_351922752] with ID [3] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 10:46:51] [0000m.41s.100ms] [1] SC[2367]: UnRegistered sub-client [EEVM_EEVM_351922752] with ID [3] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 10:46:52] [0000m.42s.249ms] [1] SC[2367]: Registered sub-client [JobPrefsDBPI_173738] with ID [4] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 10:46:52] [0000m.42s.303ms] [1] SC[2367]: UnRegistered sub-client [JobPrefsDBPI_173738] with ID [4] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 10:46:56] [0000m.45s.379ms] [1] SC[2367]: Registered sub-client [JobPrefsDBPI_176858] with ID [5] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 10:46:56] [0000m.45s.382ms] [1] SC[2367]: UnRegistered sub-client [JobPrefsDBPI_176858] with ID [5] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 10:46:57] [0000m.46s.349ms] [1] SC[2367]: Registered sub-client [ExpeditionCrossProber] with ID [6] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 10:46:57] [0000m.46s.353ms] [1] SC[2367]: Registered sub-client [StartServerClient3a4] with ID [7] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 10:46:57] [0000m.46s.353ms] [1] SC[2367]: UnRegistered sub-client [StartServerClient3a4] with ID [7] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 10:47:02] [0000m.51s.359ms] [1] SC[2367]: Registered sub-client [HOME] with ID [8] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 10:47:02] [0000m.51s.406ms] [1] SC[2367]: UnRegistered sub-client [HOME] with ID [8] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 10:47:02] [0000m.51s.536ms] [1] SC[2367]: Registered sub-client [HOME (Exp-iCES parallella)] with ID [9] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 10:47:02] [0000m.51s.674ms] [1] SC[2367]: Registered sub-client [HOME (Exp-iCES)] with ID [10] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 10:59:05] [0012m.55s.280ms] [1] SC[2367]: Registered sub-client [EEVM_EEVM_20241768] with ID [11] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 10:59:05] [0012m.55s.281ms] [1] SC[2367]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [11] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 10:59:06] [0012m.55s.481ms] [0] IT: Session [2368] for host [HOME-PC-W7] user [HOME] with process ID [508] created
+[2018.06.07 10:59:06] [0012m.55s.483ms] [1] SC[2368]: Registered sub-client [Expedition_906849] with ID [1] for session ID [2368] host [HOME-PC-W7] user [HOME] process ID [508]
+[2018.06.07 10:59:06] [0012m.55s.484ms] [1] CMT: There are [3] clients now: 2366, 2367, 2368
+[2018.06.07 10:59:06] [0012m.55s.613ms] [1] SC[2368]: UnRegistered sub-client [Expedition_906849] with ID [1] for session ID [2368] host [HOME-PC-W7] user [HOME] process ID [508]
+[2018.06.07 10:59:06] [0012m.55s.684ms] [1] CMT: Removed client [2368]
+[2018.06.07 10:59:06] [0012m.55s.684ms] [1] CMT: There are [2] clients now: 2366, 2367
+[2018.06.07 10:59:20] [0013m.09s.947ms] [1] SC[2367]: Registered sub-client [EEVM_EEVM_20241768] with ID [12] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 10:59:20] [0013m.09s.947ms] [1] SC[2367]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [12] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 10:59:20] [0013m.10s.170ms] [0] IT: Session [2369] for host [HOME-PC-W7] user [HOME] with process ID [5700] created
+[2018.06.07 10:59:20] [0013m.10s.171ms] [1] SC[2369]: Registered sub-client [Expedition_921513] with ID [1] for session ID [2369] host [HOME-PC-W7] user [HOME] process ID [5700]
+[2018.06.07 10:59:20] [0013m.10s.205ms] [1] CMT: There are [3] clients now: 2366, 2367, 2369
+[2018.06.07 10:59:20] [0013m.10s.315ms] [1] SC[2369]: UnRegistered sub-client [Expedition_921513] with ID [1] for session ID [2369] host [HOME-PC-W7] user [HOME] process ID [5700]
+[2018.06.07 10:59:21] [0013m.10s.405ms] [1] CMT: Removed client [2369]
+[2018.06.07 10:59:21] [0013m.10s.405ms] [1] CMT: There are [2] clients now: 2366, 2367
+[2018.06.07 11:07:14] [0021m.04s.218ms] [1] SC[2367]: Registered sub-client [EEVM_EEVM_20241768] with ID [13] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 11:07:14] [0021m.04s.219ms] [1] SC[2367]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [13] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 11:07:15] [0021m.04s.414ms] [0] IT: Session [2370] for host [HOME-PC-W7] user [HOME] with process ID [5988] created
+[2018.06.07 11:07:15] [0021m.04s.415ms] [1] SC[2370]: Registered sub-client [Expedition_1395772] with ID [1] for session ID [2370] host [HOME-PC-W7] user [HOME] process ID [5988]
+[2018.06.07 11:07:15] [0021m.04s.487ms] [1] CMT: There are [3] clients now: 2366, 2367, 2370
+[2018.06.07 11:07:15] [0021m.04s.541ms] [1] SC[2370]: UnRegistered sub-client [Expedition_1395772] with ID [1] for session ID [2370] host [HOME-PC-W7] user [HOME] process ID [5988]
+[2018.06.07 11:07:15] [0021m.04s.587ms] [1] CMT: Removed client [2370]
+[2018.06.07 11:07:15] [0021m.04s.587ms] [1] CMT: There are [2] clients now: 2366, 2367
+[2018.06.07 11:12:52] [0026m.41s.492ms] [1] SC[2367]: Registered sub-client [EEVM_EEVM_20241768] with ID [14] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 11:12:52] [0026m.41s.492ms] [1] SC[2367]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [14] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 11:12:52] [0026m.41s.681ms] [0] IT: Session [2371] for host [HOME-PC-W7] user [HOME] with process ID [2464] created
+[2018.06.07 11:12:52] [0026m.41s.682ms] [1] SC[2371]: Registered sub-client [Expedition_1733046] with ID [1] for session ID [2371] host [HOME-PC-W7] user [HOME] process ID [2464]
+[2018.06.07 11:12:52] [0026m.41s.724ms] [1] CMT: There are [3] clients now: 2366, 2367, 2371
+[2018.06.07 11:12:52] [0026m.41s.800ms] [1] SC[2371]: UnRegistered sub-client [Expedition_1733046] with ID [1] for session ID [2371] host [HOME-PC-W7] user [HOME] process ID [2464]
+[2018.06.07 11:12:52] [0026m.41s.824ms] [1] CMT: Removed client [2371]
+[2018.06.07 11:12:52] [0026m.41s.824ms] [1] CMT: There are [2] clients now: 2366, 2367
+[2018.06.07 11:38:06] [0051m.55s.748ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\ProjectBackup\backups\2018-06-07 11.38.03 - auto.zip] with GUID [e660-fb75-0f05-aad2-bfcf-81b0-0df8-1b50-a633-8e1d-0c4b-ba98]
+[2018.06.07 11:38:06] [0051m.55s.749ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[7b7b-a4ac-c7ec-9b8b-a662-41bf-6624-1b50-6313-8e1d-1c4b-ba98] CreationTime[Sunday, June 03, 2018 17:33:30] Type[Autosave] Creator[iCDB Server (2018-06-03 14.28.24-6124)] ApplicationName[iCDB Server (2018-06-03 14.28.24-6124)] UserName[HOME] MachineName[HOME-PC-W7] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.2] FlowId[EEVX.2.2] GBSInstallId[1589114] GBSBuildId[7609897] IcdbVersion[3300] ReferenceLogFilePath[] BackupFilePath[C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\ProjectBackup\backups\2018-06-03 19.33.30 - auto.zip] BackupFileSize[6365739] Persistent[FALSE]
+[2018.06.07 11:38:06] [0051m.55s.749ms] [0] PrjBackupMgr: Project Backup file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\ProjectBackup\backups\2018-06-03 19.33.30 - auto.zip] with GUID [7b7b-a4ac-c7ec-9b8b-a662-41bf-6624-1b50-6313-8e1d-1c4b-ba98] removed
+[2018.06.07 11:38:06] [0051m.55s.750ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[e660-fb75-0f05-aad2-bfcf-81b0-0df8-1b50-a633-8e1d-0c4b-ba98] CreationTime[Thursday, June 07, 2018 09:38:03] Type[Autosave] Creator[iCDB Server (2018-06-07 10.46.10-664)] ApplicationName[iCDB Server (2018-06-07 10.46.10-664)] UserName[HOME] MachineName[HOME-PC-W7] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.2] FlowId[EEVX.2.2] GBSInstallId[1589114] GBSBuildId[7609897] IcdbVersion[3300] ReferenceLogFilePath[] BackupFilePath[C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\ProjectBackup\backups\2018-06-07 11.38.03 - auto.zip] BackupFileSize[6412502] Persistent[FALSE]
+[2018.06.07 12:03:50] [0077m.39s.763ms] [1] SC[2367]: Registered sub-client [EEVM_EEVM_20241768] with ID [15] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 12:03:50] [0077m.39s.763ms] [1] SC[2367]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [15] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 12:03:50] [0077m.40s.030ms] [0] IT: Session [2372] for host [HOME-PC-W7] user [HOME] with process ID [1200] created
+[2018.06.07 12:03:50] [0077m.40s.030ms] [1] SC[2372]: Registered sub-client [Expedition_4791321] with ID [1] for session ID [2372] host [HOME-PC-W7] user [HOME] process ID [1200]
+[2018.06.07 12:03:50] [0077m.40s.051ms] [1] CMT: There are [3] clients now: 2366, 2367, 2372
+[2018.06.07 12:03:50] [0077m.40s.149ms] [1] SC[2372]: UnRegistered sub-client [Expedition_4791321] with ID [1] for session ID [2372] host [HOME-PC-W7] user [HOME] process ID [1200]
+[2018.06.07 12:03:50] [0077m.40s.151ms] [1] CMT: Removed client [2372]
+[2018.06.07 12:03:50] [0077m.40s.151ms] [1] CMT: There are [2] clients now: 2366, 2367
+[2018.06.07 12:53:24] [0127m.13s.706ms] [1] SC[2367]: Registered sub-client [EEVM_EEVM_20241768] with ID [16] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 12:53:24] [0127m.13s.706ms] [1] SC[2367]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [16] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 12:53:24] [0127m.13s.900ms] [0] IT: Session [2373] for host [HOME-PC-W7] user [HOME] with process ID [4756] created
+[2018.06.07 12:53:24] [0127m.13s.901ms] [1] SC[2373]: Registered sub-client [Expedition_7765261] with ID [1] for session ID [2373] host [HOME-PC-W7] user [HOME] process ID [4756]
+[2018.06.07 12:53:24] [0127m.13s.961ms] [1] CMT: There are [3] clients now: 2366, 2367, 2373
+[2018.06.07 12:53:24] [0127m.14s.023ms] [1] SC[2373]: UnRegistered sub-client [Expedition_7765261] with ID [1] for session ID [2373] host [HOME-PC-W7] user [HOME] process ID [4756]
+[2018.06.07 12:53:24] [0127m.14s.061ms] [1] CMT: Removed client [2373]
+[2018.06.07 12:53:24] [0127m.14s.061ms] [1] CMT: There are [2] clients now: 2366, 2367
+[2018.06.07 12:58:46] [0132m.35s.774ms] [1] SC[2367]: Registered sub-client [EEVM_EEVM_20241768] with ID [17] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 12:58:46] [0132m.35s.775ms] [1] SC[2367]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [17] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 12:58:46] [0132m.35s.963ms] [0] IT: Session [2374] for host [HOME-PC-W7] user [HOME] with process ID [5828] created
+[2018.06.07 12:58:46] [0132m.35s.963ms] [1] SC[2374]: Registered sub-client [Expedition_8087325] with ID [1] for session ID [2374] host [HOME-PC-W7] user [HOME] process ID [5828]
+[2018.06.07 12:58:46] [0132m.36s.004ms] [1] CMT: There are [3] clients now: 2366, 2367, 2374
+[2018.06.07 12:58:46] [0132m.36s.083ms] [1] SC[2374]: UnRegistered sub-client [Expedition_8087325] with ID [1] for session ID [2374] host [HOME-PC-W7] user [HOME] process ID [5828]
+[2018.06.07 12:58:46] [0132m.36s.104ms] [1] CMT: Removed client [2374]
+[2018.06.07 12:58:46] [0132m.36s.104ms] [1] CMT: There are [2] clients now: 2366, 2367
+[2018.06.07 12:58:49] [0132m.39s.104ms] [1] SC[2367]: UnRegistered sub-client [HOME (Exp-iCES parallella)] with ID [9] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 12:58:49] [0132m.39s.109ms] [1] SC[2367]: UnRegistered sub-client [HOME (Exp-iCES)] with ID [10] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 12:58:49] [0132m.39s.173ms] [1] SC[2367]: UnRegistered sub-client [ExpeditionCrossProber] with ID [6] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 12:58:50] [0132m.39s.690ms] [1] SC[2367]: UnRegistered sub-client [Expedition PCB_172225] with ID [1] for session ID [2367] host [HOME-PC-W7] user [HOME] process ID [2760]
+[2018.06.07 12:58:50] [0132m.39s.704ms] [1] CMT: Removed client [2367]
+[2018.06.07 12:58:50] [0132m.39s.704ms] [1] CMT: There are [1] clients now: 2366
+[2018.06.07 12:58:52] [0132m.41s.404ms] [1] SC[2366]: UnRegistered sub-client [SystemDesignDll] with ID [12] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:52] [0132m.41s.638ms] [1] SC[2366]: UnRegistered sub-client [DesignSearcher2] with ID [13] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:52] [0132m.41s.694ms] [1] SC[2366]: UnRegistered sub-client [GlobalNetAliasUpdater_482049616] with ID [36] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:52] [0132m.41s.694ms] [1] SC[2366]: UnRegistered sub-client [BlockCacheDxD:507624736] with ID [35] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:52] [0132m.41s.694ms] [1] SC[2366]: UnRegistered sub-client [ObjectHolder_507653280] with ID [34] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:52] [0132m.41s.694ms] [1] SC[2366]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:508531280] with ID [37] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:52] [0132m.41s.705ms] [1] SC[2366]: UnRegistered sub-client [Navigator] with ID [15] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:52] [0132m.41s.705ms] [1] SC[2366]: UnRegistered sub-client [FFSSelListener] with ID [21] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:52] [0132m.41s.707ms] [1] SC[2366]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [18] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:52] [0132m.41s.710ms] [1] SC[2366]: UnRegistered sub-client [FFSearch_Controller_1] with ID [20] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:52] [0132m.41s.710ms] [1] SC[2366]: UnRegistered sub-client [FFSearch_Controller_0] with ID [19] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:52] [0132m.41s.773ms] [1] SC[2366]: UnRegistered sub-client [MyParts] with ID [25] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:52] [0132m.41s.774ms] [1] SC[2366]: UnRegistered sub-client [toolboxes] with ID [27] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:52] [0132m.41s.943ms] [1] SC[2366]: UnRegistered sub-client [SelectionHolder] with ID [6] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:52] [0132m.41s.943ms] [1] SC[2366]: UnRegistered sub-client [PartReplaceUtils] with ID [32] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:52] [0132m.41s.943ms] [1] SC[2366]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [33] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:52] [0132m.41s.944ms] [1] SC[2366]: UnRegistered sub-client [Core::DesignListener-19068] with ID [29] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:53] [0132m.42s.844ms] [1] SC[2366]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:506711136] with ID [28] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:53] [0132m.42s.844ms] [1] SC[2366]: UnRegistered sub-client [SheetConnectorsCacheDxD:1528361178] with ID [30] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:53] [0132m.42s.845ms] [1] SC[2366]: UnRegistered sub-client [NetsNamesCollectorDxD:1528361178] with ID [31] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:53] [0132m.42s.845ms] [1] SC[2366]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:53] [0132m.42s.847ms] [1] SC[2366]: UnRegistered sub-client [DxD] with ID [1] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:53] [0132m.42s.852ms] [1] SC[2366]: UnRegistered sub-client [xprob] with ID [3] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:53] [0132m.42s.852ms] [1] SC[2366]: UnRegistered sub-client [SymbolEditor] with ID [5] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:53] [0132m.42s.855ms] [1] SC[2366]: UnRegistered sub-client [OutputWindow] with ID [16] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:53] [0132m.42s.857ms] [1] SC[2366]: UnRegistered sub-client [DxDbSearch] with ID [38] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:53] [0132m.42s.859ms] [1] SC[2366]: UnRegistered sub-client [SAE] with ID [22] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:53] [0132m.42s.862ms] [1] SC[2366]: UnRegistered sub-client [CCZAddin] with ID [23] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:53] [0132m.42s.862ms] [1] SC[2366]: UnRegistered sub-client [DxThumbnails] with ID [24] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:53] [0132m.43s.293ms] [1] SC[2366]: UnRegistered sub-client [PinsList] with ID [26] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:53] [0132m.43s.303ms] [1] SC[2366]: UnRegistered sub-client [PlaceDevice] with ID [17] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:53] [0132m.43s.317ms] [1] SC[2366]: UnRegistered sub-client [HdlProject] with ID [14] for session ID [2366] host [HOME-PC-W7] user [HOME] process ID [4888]
+[2018.06.07 12:58:54] [0132m.43s.399ms] [0] MWT: WM_QUERYENDSESSION
+[2018.06.07 12:58:54] [0132m.43s.399ms] [0] MWT: Requesting emergency server stop: Got a message: WM_QUERYENDSESSION
+[2018.06.07 12:58:54] [0132m.43s.399ms] [0] Removing server address file.
+[2018.06.07 12:58:54] [0132m.43s.494ms] [0] S: Closing server
+[2018.06.07 12:58:54] [0132m.43s.494ms] [4] SMCL: Distributing notify to registered [General] iCDB Server Manager clients [NotifyServerStatus @ Version[1] # Id[Sender GUID[205e-8a0a-0fd9-9c79-2d0f-81b7-d0f8-1b50-6282-8e1d-0c4b-ba98] Command number[88189]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[10000] # Status [Closing]]
+[2018.06.07 12:58:54] [0132m.43s.494ms] [3] IT: FREE
+[2018.06.07 12:58:54] [0132m.43s.494ms] [4] IT: Waiting for finish
+[2018.06.07 12:58:54] [0132m.43s.494ms] [4] IT: Empty client connection popped from the waiting queue
+[2018.06.07 12:58:54] [0132m.43s.494ms] [2] IT: STOP
+[2018.06.07 12:58:54] [0132m.43s.494ms] [3] ET: Suspend request
+[2018.06.07 12:58:54] [0132m.43s.494ms] [3] ET: Suspend request finished
+[2018.06.07 12:58:54] [0132m.43s.494ms] [2] SCL: Removing all clients
+[2018.06.07 12:58:54] [0132m.43s.494ms] [2] ET: SUSPENDED
+[2018.06.07 12:58:54] [0132m.43s.494ms] [3] SC[2366]: FREE
+[2018.06.07 12:58:54] [0132m.43s.494ms] [4] SMCL: Distributing notify to registered [ClientList] iCDB Server Manager clients [NotifyServerClientRemove @ Version[1] # Id[Sender GUID[205e-8a0a-0fd9-9c79-2d0f-81b7-d0f8-1b50-6282-8e1d-0c4b-ba98] Command number[88190]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[10000] # Client [Address[HOME-PC-W7] User[HOME] PID[4888] Session[2366] Status[Dead] Dead elapsed time sec[0] Version[2.202] Sub-clients[ ()]]]
+[2018.06.07 12:58:54] [0132m.43s.494ms] [3] CRT[2366]: FREE
+[2018.06.07 12:58:54] [0132m.43s.494ms] [4] CRT[2366]: Waiting for finish
+[2018.06.07 12:58:54] [0132m.43s.494ms] [3] CST[2366]: FREE
+[2018.06.07 12:58:54] [0132m.43s.494ms] [4] CST[2366]: Waiting for finish
+[2018.06.07 12:58:54] [0132m.43s.494ms] [6] iCDB Server PI: ReleaseOpenSnapshotRefCount [1]: 0
+[2018.06.07 12:58:54] [0132m.43s.494ms] [3] iCDB Server PI: No one is using snapshot [1] - removing from cache
+[2018.06.07 12:58:54] [0132m.43s.494ms] [6] iCDB Storage Server: Checking existence of file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbblks\3000000010000050.blk\rbcatl.v]
+[2018.06.07 12:58:54] [0132m.43s.494ms] [6] iCDB Storage Server: File [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbblks\3000000010000050.blk\rbcatl.v] doesn't exist
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: Checking existence of file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\uids]
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: File [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\uids] exists
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] ServerObserverSnapshot: OnDestruct SnapshotID[1]
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: Saving all modified files
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] ServerObserverSnapshot: OnDestruct Finish
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: Unloading directory [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1]
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbblks\3000000010000050.blk\blk_obj_state]
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbblks\3000000010000050.blk\blkatl.v]
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbblks\3000000010000050.blk\dxdatl.v]
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcatlg\catlgatl.v]
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcatlg\grpatl.v]
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcatlg\grpobj]
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcmpcache\cmp_obj_state]
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcmpcache\cmpatl.v]
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcmpcache\dxdatl.v]
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcmps\cmpatl.v]
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcnfgs\3000000010000050.blk\ces_obj_state]
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcnfgs\3000000010000050.blk\cesatl.v]
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcnfgs\3000000010000050.blk\cnfgatl.v]
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\cdbcnfgs\3000000010000050.blk\varatl.v]
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\dsgn_obj_state]
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\oryg]
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\params]
+[2018.06.07 12:58:54] [0132m.43s.502ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s1\uids]
+[2018.06.07 12:58:54] [0132m.43s.503ms] [5] iCDB Server PI: Snapshot [1] removed from cache
+[2018.06.07 12:58:54] [0132m.43s.503ms] [6] iCDB Server PI: ReleaseOpenSnapshotRefCount [2]: 0
+[2018.06.07 12:58:54] [0132m.43s.503ms] [3] iCDB Server PI: No one is using snapshot [2] - removing from cache
+[2018.06.07 12:58:54] [0132m.43s.503ms] [6] ServerObserverSnapshot: OnDestruct SnapshotID[2]
+[2018.06.07 12:58:54] [0132m.43s.503ms] [6] iCDB Storage Server: Saving all modified files
+[2018.06.07 12:58:54] [0132m.43s.503ms] [6] iCDB Storage Server: Checking existence of file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s2\uids]
+[2018.06.07 12:58:54] [0132m.43s.503ms] [6] iCDB Storage Server: File [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s2\uids] exists
+[2018.06.07 12:58:54] [0132m.43s.503ms] [6] iCDB Storage Server: Unloading directory [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s2]
+[2018.06.07 12:58:54] [0132m.43s.503ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s2\cdbcatlg\catlgatl.v]
+[2018.06.07 12:58:54] [0132m.43s.503ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s2\cdbcatlg\grpatl.v]
+[2018.06.07 12:58:54] [0132m.43s.503ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s2\cdbcatlg\grpobj]
+[2018.06.07 12:58:54] [0132m.43s.503ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s2\cdbcmpcache\cmpatl.v]
+[2018.06.07 12:58:54] [0132m.43s.503ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s2\cdbcmps\cmpatl.v]
+[2018.06.07 12:58:54] [0132m.43s.503ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s2\oryg]
+[2018.06.07 12:58:54] [0132m.43s.503ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s2\params]
+[2018.06.07 12:58:54] [0132m.43s.503ms] [6] iCDB Storage Server: Unloading file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\s2\uids]
+[2018.06.07 12:58:54] [0132m.43s.503ms] [6] ServerObserverSnapshot: OnDestruct Finish
+[2018.06.07 12:58:54] [0132m.43s.503ms] [5] iCDB Server PI: Snapshot [2] removed from cache
+[2018.06.07 12:58:54] [0132m.43s.503ms] [3] ET: Discarding pending commands
+[2018.06.07 12:58:54] [0132m.43s.503ms] [3] ET: Resume request
+[2018.06.07 12:58:54] [0132m.43s.503ms] [3] ET: Resume request finished
+[2018.06.07 12:58:54] [0132m.43s.503ms] [2] ET: RESUMED
+[2018.06.07 12:58:54] [0132m.43s.508ms] [2] PrjBackupEngine: STOP
+[2018.06.07 12:58:54] [0132m.43s.508ms] [3] PrjBackupEngine: FREE
+[2018.06.07 12:58:54] [0132m.43s.508ms] [4] PrjBackupEngine: Waiting for finish
+[2018.06.07 12:58:54] [0132m.43s.508ms] [3] ET: FREE
+[2018.06.07 12:58:54] [0132m.43s.508ms] [4] ET: Waiting for finish
+[2018.06.07 12:58:54] [0132m.43s.508ms] [2] ET: STOP
+[2018.06.07 12:58:54] [0132m.43s.508ms] [2] SCL: Stopping all send threads
+[2018.06.07 12:58:54] [0132m.43s.508ms] [3] CMT: FREE
+[2018.06.07 12:58:54] [0132m.43s.508ms] [4] CMT: Waiting for finish
+[2018.06.07 12:58:54] [0132m.43s.604ms] [2] CMT: STOP
+[2018.06.07 12:58:54] [0132m.43s.604ms] [3] DMT: FREE
+[2018.06.07 12:58:54] [0132m.43s.604ms] [4] DMT: Waiting for finish
+[2018.06.07 12:58:54] [0132m.43s.604ms] [2] DMT: STOP
+[2018.06.07 12:58:54] [0132m.43s.604ms] [3] DFAMT: FREE
+[2018.06.07 12:58:54] [0132m.43s.604ms] [4] DFAMT: Waiting for finish
+[2018.06.07 12:58:54] [0132m.43s.612ms] [2] DFAMT: Filer project path [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] access monitoring ended
+[2018.06.07 12:58:54] [0132m.43s.612ms] [2] DFAMT: STOP
+[2018.06.07 12:58:54] [0132m.43s.612ms] [4] DFAMT: FINISHED
+[2018.06.07 12:58:54] [0132m.43s.612ms] [3] DiagSystemMemoryMonitorThread: FREE
+[2018.06.07 12:58:54] [0132m.43s.612ms] [4] DiagSystemMemoryMonitorThread: Waiting for finish
+[2018.06.07 12:58:54] [0132m.43s.620ms] [2] DiagSystemMemoryMonitorThread: System memory usage monitoring ended
+[2018.06.07 12:58:54] [0132m.43s.620ms] [2] DiagSystemMemoryMonitorThread: STOP
+[2018.06.07 12:58:54] [0132m.43s.620ms] [4] DiagSystemMemoryMonitorThread: FINISHED
+[2018.06.07 12:58:54] [0132m.43s.620ms] [4] DMT: FINISHED
+[2018.06.07 12:58:54] [0132m.43s.620ms] [2] SCL: Removing all clients
+[2018.06.07 12:58:54] [0132m.43s.620ms] [2] iCDB Server PI: Unloading observers
+[2018.06.07 12:58:54] [0132m.43s.620ms] [2] iCDB Server PI: Observers unloaded
+[2018.06.07 12:58:54] [0132m.43s.620ms] [0] iCDB Server PI: Closing plugins
+[2018.06.07 12:58:54] [0132m.43s.620ms] [2] iCDB Server PI: Closing PIM plugin
+[2018.06.07 12:58:54] [0132m.43s.620ms] [5] iCDB PIM Wrapper: FREE
+[2018.06.07 12:58:54] [0132m.43s.620ms] [2] iCDB Server PI: Closing ENetGen plugin
+[2018.06.07 12:58:54] [0132m.43s.620ms] [5] iCDB ENetGen Wrapper: FREE
+[2018.06.07 12:58:54] [0132m.43s.620ms] [0] iCDB Server PI: Plugins closed
+[2018.06.07 12:58:54] [0132m.43s.620ms] [0] iCDB Server PI: Unloading database
+[2018.06.07 12:58:54] [0132m.43s.620ms] [7] DCM: CDBCesDefConstraintManager::LoadVersionInfo(force[0] cumulativesaveVersion[0000000000000000] transporter[0000000000000000]) -- isModified[0] upgradeFlag[0]
+[2018.06.07 12:58:54] [0132m.43s.620ms] [6] iCDB Storage Server: Saving all modified files
+[2018.06.07 12:58:54] [0132m.43s.620ms] [0] iCDB Server PI: Saving storage
+[2018.06.07 12:58:54] [0132m.43s.620ms] [6] iCDB Storage Server: Saving all modified files
+[2018.06.07 12:58:54] [0132m.43s.620ms] [0] iCDB Server PI: Closing database
+[2018.06.07 12:58:54] [0132m.43s.620ms] [7] Holes::writing holes [10] prev [8] from [1977852] 
+[2018.06.07 12:58:54] [0132m.43s.620ms] [7] Holes::write <35948,36075>
+[2018.06.07 12:58:54] [0132m.43s.620ms] [7] Holes::write <40812,43755>
+[2018.06.07 12:58:54] [0132m.43s.620ms] [7] Holes::write <840428,946923>
+[2018.06.07 12:58:54] [0132m.43s.620ms] [7] Holes::write <996076,1065707>
+[2018.06.07 12:58:54] [0132m.43s.620ms] [7] Holes::write <1181244,1230395>
+[2018.06.07 12:58:54] [0132m.43s.620ms] [7] Holes::write <1254972,1263163>
+[2018.06.07 12:58:54] [0132m.43s.620ms] [7] Holes::write <1279548,1287739>
+[2018.06.07 12:58:54] [0132m.43s.620ms] [7] Holes::write <1402428,1521211>
+[2018.06.07 12:58:54] [0132m.43s.620ms] [7] Holes::write <1525308,1552891>
+[2018.06.07 12:58:54] [0132m.43s.620ms] [7] Holes::write <1941308,1965883>
+[2018.06.07 12:58:54] [0132m.43s.660ms] [7] Holes have been successfully saved 10 CRC [2428279055]
+[2018.06.07 12:58:54] [0132m.43s.660ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[13%] data[98%]
+[2018.06.07 12:58:54] [0132m.43s.660ms] [1] iCDB Server PI: Stats: Database file size [1977872 (1.9 MB)]
+[2018.06.07 12:58:54] [0132m.43s.660ms] [7] Holes::writing holes [10] prev [10] from [1977868] 
+[2018.06.07 12:58:54] [0132m.43s.660ms] [7] Holes::write <35948,36075>
+[2018.06.07 12:58:54] [0132m.43s.660ms] [7] Holes::write <40812,43755>
+[2018.06.07 12:58:54] [0132m.43s.660ms] [7] Holes::write <840428,946923>
+[2018.06.07 12:58:54] [0132m.43s.660ms] [7] Holes::write <996076,1065707>
+[2018.06.07 12:58:54] [0132m.43s.660ms] [7] Holes::write <1181244,1230395>
+[2018.06.07 12:58:54] [0132m.43s.660ms] [7] Holes::write <1254972,1263163>
+[2018.06.07 12:58:54] [0132m.43s.660ms] [7] Holes::write <1279548,1287739>
+[2018.06.07 12:58:54] [0132m.43s.660ms] [7] Holes::write <1402428,1521211>
+[2018.06.07 12:58:54] [0132m.43s.660ms] [7] Holes::write <1525308,1552891>
+[2018.06.07 12:58:54] [0132m.43s.660ms] [7] Holes::write <1941308,1965883>
+[2018.06.07 12:58:54] [0132m.43s.679ms] [7] Holes have been successfully saved 10 CRC [2428279055]
+[2018.06.07 12:58:54] [0132m.43s.679ms] [7] DCM: CDBCesDefConstraintManager::UnLoad()
+[2018.06.07 12:58:54] [0132m.43s.679ms] [3] iCDB Storage Server: FREE
+[2018.06.07 12:58:54] [0132m.43s.679ms] [3] iCDB Storage Server Save Thread: FREE
+[2018.06.07 12:58:54] [0132m.43s.679ms] [4] iCDB Storage Server Save Thread: Waiting for finish
+[2018.06.07 12:58:54] [0132m.43s.679ms] [2] iCDB Storage Server Save Thread: STOP
+[2018.06.07 12:58:54] [0132m.43s.679ms] [3] iCDB Storage Server Backup Thread: FREE
+[2018.06.07 12:58:54] [0132m.43s.679ms] [4] iCDB Storage Server Backup Thread: Waiting for finish
+[2018.06.07 12:58:54] [0132m.43s.679ms] [2] iCDB Storage Server Backup Thread: STOP
+[2018.06.07 12:58:54] [0132m.43s.680ms] [3] SingleFile: [0000-0000-0000-0000] Modification time updated for file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat]
+[2018.06.07 12:58:54] [0132m.43s.680ms] [3] SingleFile: [0000-0000-0000-0000] Closing file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] restrained
+[2018.06.07 12:58:54] [0132m.43s.680ms] [0] iCDB Server PI: Database closed
+[2018.06.07 12:58:54] [0132m.43s.680ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [731263] ticks
+[2018.06.07 12:58:54] [0132m.43s.680ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [233771] microseconds
+[2018.06.07 12:58:54] [0132m.43s.680ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [5471]
+[2018.06.07 12:58:54] [0132m.43s.680ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [23403] commands per second
+[2018.06.07 12:58:54] [0132m.43s.682ms] [0] Single file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] closed with size [1977872 (1.9 MB)]
+[2018.06.07 12:58:54] [0132m.43s.682ms] [2] SDL: Removing all connected iCDB Server Monitor
+[2018.06.07 12:58:54] [0132m.43s.682ms] [2] S: Unloading ENetGen plugin from file [C:\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\bin\..\lib\ENetGen70.dll]
+[2018.06.07 12:58:54] [0132m.43s.682ms] [2] S: Unloading PIM plugin from file [C:\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\bin\..\lib\PIM.dll]
+[2018.06.07 12:58:54] [0132m.43s.683ms] [3] ST: FREE
+[2018.06.07 12:58:54] [0132m.43s.683ms] [4] ST: Waiting for finish
+[2018.06.07 12:58:54] [0132m.43s.683ms] [2] ST: STOP
+[2018.06.07 12:58:54] [0132m.43s.683ms] [3] MET: FREE
+[2018.06.07 12:58:54] [0132m.43s.683ms] [4] MET: Waiting for finish
+[2018.06.07 12:58:54] [0132m.43s.683ms] [2] MET: STOP
+[2018.06.07 12:58:54] [0132m.43s.684ms] [3] MCE: FREE
+[2018.06.07 12:58:54] [0132m.43s.684ms] [3] ELMT: FREE
+[2018.06.07 12:58:54] [0132m.43s.684ms] [4] ELMT: Waiting for finish
+[2018.06.07 12:58:54] [0132m.43s.684ms] [2] ELMT: STOP
+[2018.06.07 12:58:54] [0132m.43s.684ms] [3] EventLogDataFile: EventLog data file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\cdbsvr\events\events.dat] closed
+[2018.06.07 12:58:54] [0132m.43s.684ms] [3] EventLogIndexFile: EventLog index file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\cdbsvr\events\events.idx] closed
+[2018.06.07 12:58:54] [0132m.43s.684ms] [4] ELMT: FINISHED
+[2018.06.07 12:58:54] [0132m.43s.684ms] [3] AT: FREE
+[2018.06.07 12:58:54] [0132m.43s.684ms] [4] AT: Waiting for finish
+[2018.06.07 12:58:54] [0132m.43s.735ms] [2] AT: Removing server address file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\cdbsvr\sAddress.adr]
+[2018.06.07 12:58:54] [0132m.43s.735ms] [0] AT: ERROR: Could not remove server address file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\cdbsvr\sAddress.adr]
+[2018.06.07 12:58:54] [0132m.43s.735ms] [2] AT: STOP
+[2018.06.07 12:58:54] [0132m.43s.735ms] [3] BT: FREE
+[2018.06.07 12:58:54] [0132m.43s.735ms] [4] BT: Waiting for finish
+[2018.06.07 12:58:54] [0132m.43s.738ms] [4] BT: Sending broadcast on port [10000]: NotifyProjectGlobalStatus @ Version[1] # Id[Sender GUID[205e-8a0a-0fd9-9c79-2d0f-81b7-d0f8-1b50-6282-8e1d-0c4b-ba98] Command number[88193]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[0] # ProjectId [GUID[bf09-6b82-4c8e-7254-d6e8-61b2-7e86-1b50-a323-8e1d-0c4b-ba98] Address[Host[HOME-PC-W7] Port[10000]] IsLauncher[FALSE] Launcher[GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Address[Host[] Port[0]]] Path[\\HOME-PC-W7\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] ReadOnly[FALSE] Server GUID[205e-8a0a-0fd9-9c79-2d0f-81b7-d0f8-1b50-6282-8e1d-0c4b-ba98]] # Status [Shutdown]
+[2018.06.07 12:58:54] [0132m.43s.738ms] [2] BT: STOP
+[2018.06.07 12:58:54] [0132m.43s.738ms] [3] MWT: FREE
+[2018.06.07 12:58:54] [0132m.43s.738ms] [4] MWT: Waiting for finish
+[2018.06.07 12:58:54] [0132m.43s.738ms] [0] MWT: Destroy the shutdown block reason.
+[2018.06.07 12:58:54] [0132m.43s.739ms] [0] MWT: STOP

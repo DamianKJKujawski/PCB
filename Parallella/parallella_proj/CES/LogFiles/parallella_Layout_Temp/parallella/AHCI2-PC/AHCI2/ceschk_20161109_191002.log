@@ -1,0 +1,229 @@
+iCDB database checker (CES part) ver. 0.1 build 446871 created 2011-04-08 14:13:49
+Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+Built with iCDB build 5065110 created 2016-08-18 13:51:16
+Using iCDB dynamic library build 5065110 created 2016-08-18 13:51:16
+
+CES check started...
+Test: CES database initialization
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Net class name unique
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Constraint class name unique
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Scheme and clearance rule name unique
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Clearance rule in all schemes
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Net class in all schemes
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Layer consistency
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Layer in all net classes
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Layer in all Z-axis clearance rules
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Victims and aggressors valid
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Component valid
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Pin in net and component
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Component name unique
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Pin sets consistency
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Physical net unique
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Pin reference to net valid
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Electrical net unique
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Electrical net consistency
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Analog nets consistency
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: All used constraint classes valid
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: All used net classes valid
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Differential pair with two electrical nets
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Electrical nets belonging to differential pair assigned to the same net class
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Unique pin pairs in electrical net
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Connection pin pairs in electrical net
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Power Net Topology
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Unique from-tos in physical net
+Result: OK
+Time: 1 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: From-to in only one net
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Constants and variables valid
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Match groups valid
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Constraints consistency
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Default objects
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Mapping of schematic and physical nets
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Reference designator vs. component name
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Attributes vs. constraints
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Via span valid
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Unique virtual pin names
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Schemes and rules in all class to class clearance rules
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Unique template names
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Valid template
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: All used package clearance type rules valid
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Physical net topology
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+Test: Nets constraint values consistency
+Result: OK
+Time: 0 seconds
+
+---------------------------------------------------------------------------------------------------
+CES check finished...
+
+Report summary:
+Tests passed: 43
+Tests with error(s): 0
+
+Database is closing...
+Check finished. Execution time: 2 seconds

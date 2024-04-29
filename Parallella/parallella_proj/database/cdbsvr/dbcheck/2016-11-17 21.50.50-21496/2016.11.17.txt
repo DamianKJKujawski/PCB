@@ -1,0 +1,450 @@
+[2016.11.17 21:50:50] [0000m.03s.686ms] [0] WELCOME
+[2016.11.17 21:50:50] [0000m.03s.686ms] [1] iCDB Diagnostic ver.2.200, jmoSXI5tfcQi0m1NxN3JKg, build:5065110 created 2016-08-18 13:51:16, sources stamp:jmoSXI5tfcQi0m1NxN3JKg
+[2016.11.17 21:50:50] [0000m.03s.686ms] [1] Copyright 2016 Mentor Graphics Corporation.  All Rights Reserved.
+[2016.11.17 21:50:50] [0000m.03s.686ms] [1] Base flow version [VX.2]
+[2016.11.17 21:50:50] [0000m.03s.686ms] [1] Install Id [1410548], Flow Id [X-ENTP VX.2], Full Flow Name [Xpedition Enterprise X-ENTP VX.2], Exact Access Date [2016/05/01]
+[2016.11.17 21:50:50] [0000m.03s.686ms] [1] Machine [S805-DWO02]  User [user]  PID [21496]
+[2016.11.17 21:50:50] [0000m.03s.686ms] [1] Operating system [Microsoft Windows 7 Enterprise Edition, 64-bit Service Pack 1 (build 7601)]
+[2016.11.17 21:50:50] [0000m.03s.686ms] [1] Current working dir [C:\WDIR\EEVX.2\DxProjects\parallella_proj]
+[2016.11.17 21:50:50] [0000m.03s.687ms] [1] PATH [C:\MentorGraphics\EEVX.2\MGC_HOME.ixn\bin;C:\MentorGraphics\EEVX.2\MGC_HOME.ixn\lib;C:\MentorGraphics\EEVX.2\SDD_HOME\common\win32\bin;C:\MentorGraphics\EEVX.2\SDD_HOME\common\win32\lib;C:\MentorGraphics\EEVX.2\MGC_HOME.ixn\bin;C:\MentorGraphics\EEVX.2\MGC_HOME.ixn\lib;C:\MentorGraphics\EEVX.2\SDD_HOME\wv\win32\bin;C:\Program Files (x86)\Intel\MPI-RT\5.0.2.044\intel64\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\MATLAB\R2013bx64\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TekVISA\BIN;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\]
+[2016.11.17 21:50:50] [0000m.03s.687ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2\SDD_HOME] on file system [NTFS]
+[2016.11.17 21:50:50] [0000m.03s.687ms] [1] SDD_PLATFORM [win32]
+[2016.11.17 21:50:50] [0000m.03s.687ms] [1] WDIR [C:\WDIR\EEVX.2;C:\MentorGraphics\EEVX.2\SDD_HOME\standard;]
+[2016.11.17 21:50:50] [0000m.03s.687ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2\iCDB] on file system [NTFS]
+[2016.11.17 21:50:50] [0000m.04s.032ms] [2] Diagnostic: Checking snapshot [1:DxD] integrity
+[2016.11.17 21:50:50] [0000m.04s.032ms] [2] Diagnostic: SnapshotCheck: CDBImplBlock
+[2016.11.17 21:50:50] [0000m.04s.040ms] [2] Diagnostic: SnapshotCheck: CDBImplComp
+[2016.11.17 21:50:50] [0000m.04s.041ms] [2] Diagnostic: SnapshotCheck: DxDCompView (cached)
+[2016.11.17 21:50:50] [0000m.04s.042ms] [2] Diagnostic: DxDCheck: LineDxD
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[LineDxD] [23] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[LineDxD] [22] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[LineDxD] [21] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[LineDxD] [20] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[LineDxD] [19] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[LineDxD] [13] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[LineDxD] [12] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[LineDxD] [11] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[LineDxD] [7] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[LineDxD] [6] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[LineDxD] [5] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[LineDxD] [1] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [2] Diagnostic: DxDCheck: CircleDxD
+[2016.11.17 21:50:50] [0000m.04s.042ms] [2] Diagnostic: DxDCheck: ArcDxD
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[ArcDxD] [22] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[ArcDxD] [21] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[ArcDxD] [20] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[ArcDxD] [19] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[ArcDxD] [13] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[ArcDxD] [12] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[ArcDxD] [11] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[ArcDxD] [6] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[ArcDxD] [5] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[ArcDxD] [1] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [2] Diagnostic: DxDCheck: RectDxD
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[RectDxD] [23] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[RectDxD] [22] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[RectDxD] [19] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[RectDxD] [13] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[RectDxD] [12] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [2] Diagnostic: DxDCheck: TextDxD
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[TextDxD] [23] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[TextDxD] [22] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[TextDxD] [19] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [1] Diagnostic: Warning: {[TextDxD] [11] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.042ms] [2] Diagnostic: SnapshotCheck: CDBImplGroup
+[2016.11.17 21:50:50] [0000m.04s.043ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (regular)
+[2016.11.17 21:50:50] [0000m.04s.043ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (regular)
+[2016.11.17 21:50:50] [0000m.04s.043ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (cached)
+[2016.11.17 21:50:50] [0000m.04s.047ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (cached)
+[2016.11.17 21:50:50] [0000m.04s.047ms] [2] Diagnostic: Block: parallella
+[2016.11.17 21:50:50] [0000m.04s.047ms] [2] Diagnostic: BlockCheck: CDBImplNet
+[2016.11.17 21:50:50] [0000m.04s.051ms] [2] Diagnostic: BlockCheck: CDBImplBus
+[2016.11.17 21:50:50] [0000m.04s.051ms] [2] Diagnostic: BlockCheck: CDBImplPin
+[2016.11.17 21:50:50] [0000m.04s.053ms] [2] Diagnostic: BlockCheck: CDBImplPort
+[2016.11.17 21:50:50] [0000m.04s.053ms] [2] Diagnostic: BlockCheck: CDBImplComp
+[2016.11.17 21:50:50] [0000m.04s.055ms] [2] Diagnostic: BlockCheck: AttributesUtility
+[2016.11.17 21:50:50] [0000m.04s.055ms] [2] Diagnostic: BlockCheck: CDBImplBlockViewDxD
+[2016.11.17 21:50:50] [0000m.04s.071ms] [2] Diagnostic: BlockViewDxDCheck: CDBImplNetDxD
+[2016.11.17 21:50:50] [0000m.04s.072ms] [2] Diagnostic: BlockViewDxDCheck: CDBImplRipperDxD
+[2016.11.17 21:50:50] [0000m.04s.098ms] [2] Diagnostic: CesConfigCheck: CesConstraint
+[2016.11.17 21:50:50] [0000m.04s.169ms] [2] Diagnostic: CesConfigCheck: CesPin
+[2016.11.17 21:50:50] [0000m.04s.171ms] [2] Diagnostic: CesConfigCheck: CesFromTo
+[2016.11.17 21:50:50] [0000m.04s.171ms] [2] Diagnostic: CesConfigCheck: CesPhysicalNet
+[2016.11.17 21:50:50] [0000m.04s.173ms] [2] Diagnostic: CesConfigCheck: CesPinPair
+[2016.11.17 21:50:50] [0000m.04s.173ms] [2] Diagnostic: CesConfigCheck: CesElectricalNet
+[2016.11.17 21:50:50] [0000m.04s.174ms] [2] Diagnostic: CesConfigCheck: CesDiffPair
+[2016.11.17 21:50:50] [0000m.04s.174ms] [2] Diagnostic: CesConfigCheck: CesComponent
+[2016.11.17 21:50:50] [0000m.04s.175ms] [2] Diagnostic: CesConfigCheck: CesPartPin
+[2016.11.17 21:50:50] [0000m.04s.175ms] [2] Diagnostic: CesConfigCheck: CesPartPinPair
+[2016.11.17 21:50:50] [0000m.04s.175ms] [2] Diagnostic: CesConfigCheck: CesPart
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesDesign
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesLayerClearRule
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesSchemeClearRule
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesViaAssign
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesLayerRule
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesSchemeNetClassRule
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesScheme
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesLayer
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesNetClass
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesClearRule
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesConstraintClass
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesViaSpan
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesGenClear
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesPartTech
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesConstVar
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesC2CClearRule
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesPkgTypeClearRule
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesP2PClearRule
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesParRuleSection
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesParRuleDef
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesNoiseRule
+[2016.11.17 21:50:50] [0000m.04s.176ms] [2] Diagnostic: CesConfigCheck: CesGenObj
+[2016.11.17 21:50:50] [0000m.04s.177ms] [2] Diagnostic: CesConfigCheck: CesGenCompObj
+[2016.11.17 21:50:50] [0000m.04s.177ms] [2] Diagnostic: CesConfigCheck: CesGenObjType
+[2016.11.17 21:50:50] [0000m.04s.177ms] [2] Diagnostic: CesConfigCheck: CesVia
+[2016.11.17 21:50:50] [0000m.04s.177ms] [2] Diagnostic: CesConfigCheck: CesZAxisLayerRule
+[2016.11.17 21:50:50] [0000m.04s.177ms] [2] Diagnostic: CesConfigCheck: CesZAxisClearRule
+[2016.11.17 21:50:50] [0000m.04s.177ms] [2] Diagnostic: ConfigCheck: CDBImplComp
+[2016.11.17 21:50:50] [0000m.04s.178ms] [2] Diagnostic: ConfigCheck: CDBImplNet
+[2016.11.17 21:50:50] [0000m.04s.178ms] [2] Diagnostic: ConfigCheck: CDBImplPin
+[2016.11.17 21:50:50] [0000m.04s.178ms] [1] Diagnostic: Snapshot [1:DxD] integrity check FAILED
+[2016.11.17 21:50:50] [0000m.04s.202ms] [2] Diagnostic: Checking snapshot [2:__ise_DxD] integrity
+[2016.11.17 21:50:50] [0000m.04s.202ms] [2] Diagnostic: SnapshotCheck: CDBImplBlock
+[2016.11.17 21:50:50] [0000m.04s.202ms] [2] Diagnostic: SnapshotCheck: CDBImplComp
+[2016.11.17 21:50:50] [0000m.04s.202ms] [2] Diagnostic: SnapshotCheck: CDBImplGroup
+[2016.11.17 21:50:50] [0000m.04s.202ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (regular)
+[2016.11.17 21:50:50] [0000m.04s.202ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (regular)
+[2016.11.17 21:50:50] [0000m.04s.202ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (cached)
+[2016.11.17 21:50:50] [0000m.04s.202ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (cached)
+[2016.11.17 21:50:50] [0000m.04s.202ms] [2] Diagnostic: Snapshot [2:__ise_DxD] integrity check PASSED in [249us]
+[2016.11.17 21:50:50] [0000m.04s.203ms] [2] Diagnostic: Checking snapshot [3:xIOPT] integrity
+[2016.11.17 21:50:50] [0000m.04s.203ms] [2] Diagnostic: SnapshotCheck: CDBImplBlock
+[2016.11.17 21:50:50] [0000m.04s.203ms] [2] Diagnostic: SnapshotCheck: CDBImplComp
+[2016.11.17 21:50:50] [0000m.04s.203ms] [2] Diagnostic: SnapshotCheck: CDBImplGroup
+[2016.11.17 21:50:50] [0000m.04s.203ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (regular)
+[2016.11.17 21:50:50] [0000m.04s.203ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (regular)
+[2016.11.17 21:50:50] [0000m.04s.203ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (cached)
+[2016.11.17 21:50:50] [0000m.04s.203ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (cached)
+[2016.11.17 21:50:50] [0000m.04s.203ms] [2] Diagnostic: Snapshot [3:xIOPT] integrity check PASSED in [241us]
+[2016.11.17 21:50:50] [0000m.04s.249ms] [2] Diagnostic: Checking snapshot [4:parallella_layout_temp] integrity
+[2016.11.17 21:50:50] [0000m.04s.249ms] [2] Diagnostic: SnapshotCheck: CDBImplBlock
+[2016.11.17 21:50:50] [0000m.04s.249ms] [2] Diagnostic: SnapshotCheck: CDBImplComp
+[2016.11.17 21:50:50] [0000m.04s.249ms] [2] Diagnostic: SnapshotCheck: DxDCompView (cached)
+[2016.11.17 21:50:50] [0000m.04s.249ms] [2] Diagnostic: DxDCheck: LineDxD
+[2016.11.17 21:50:50] [0000m.04s.249ms] [2] Diagnostic: DxDCheck: CircleDxD
+[2016.11.17 21:50:50] [0000m.04s.249ms] [2] Diagnostic: DxDCheck: ArcDxD
+[2016.11.17 21:50:50] [0000m.04s.249ms] [2] Diagnostic: DxDCheck: RectDxD
+[2016.11.17 21:50:50] [0000m.04s.249ms] [2] Diagnostic: DxDCheck: TextDxD
+[2016.11.17 21:50:50] [0000m.04s.249ms] [2] Diagnostic: SnapshotCheck: CDBImplGroup
+[2016.11.17 21:50:50] [0000m.04s.250ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (regular)
+[2016.11.17 21:50:50] [0000m.04s.250ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (regular)
+[2016.11.17 21:50:50] [0000m.04s.250ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (cached)
+[2016.11.17 21:50:50] [0000m.04s.253ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (cached)
+[2016.11.17 21:50:50] [0000m.04s.253ms] [2] Diagnostic: Block: parallella
+[2016.11.17 21:50:50] [0000m.04s.254ms] [2] Diagnostic: BlockCheck: CDBImplNet
+[2016.11.17 21:50:50] [0000m.04s.254ms] [2] Diagnostic: BlockCheck: CDBImplBus
+[2016.11.17 21:50:50] [0000m.04s.254ms] [2] Diagnostic: BlockCheck: CDBImplPin
+[2016.11.17 21:50:50] [0000m.04s.255ms] [2] Diagnostic: BlockCheck: CDBImplPort
+[2016.11.17 21:50:50] [0000m.04s.255ms] [2] Diagnostic: BlockCheck: CDBImplComp
+[2016.11.17 21:50:50] [0000m.04s.257ms] [2] Diagnostic: BlockCheck: AttributesUtility
+[2016.11.17 21:50:50] [0000m.04s.257ms] [2] Diagnostic: CesConfigCheck: CesConstraint
+[2016.11.17 21:50:50] [0000m.04s.262ms] [2] Diagnostic: CesConfigCheck: CesPin
+[2016.11.17 21:50:50] [0000m.04s.264ms] [2] Diagnostic: CesConfigCheck: CesFromTo
+[2016.11.17 21:50:50] [0000m.04s.264ms] [2] Diagnostic: CesConfigCheck: CesPhysicalNet
+[2016.11.17 21:50:50] [0000m.04s.266ms] [2] Diagnostic: CesConfigCheck: CesPinPair
+[2016.11.17 21:50:50] [0000m.04s.266ms] [2] Diagnostic: CesConfigCheck: CesElectricalNet
+[2016.11.17 21:50:50] [0000m.04s.267ms] [2] Diagnostic: CesConfigCheck: CesDiffPair
+[2016.11.17 21:50:50] [0000m.04s.267ms] [2] Diagnostic: CesConfigCheck: CesComponent
+[2016.11.17 21:50:50] [0000m.04s.268ms] [2] Diagnostic: CesConfigCheck: CesPartPin
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesPartPinPair
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesPart
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesDesign
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesLayerClearRule
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesSchemeClearRule
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesViaAssign
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesLayerRule
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesSchemeNetClassRule
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesScheme
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesLayer
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesNetClass
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesClearRule
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesConstraintClass
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesViaSpan
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesGenClear
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesPartTech
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesConstVar
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesC2CClearRule
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesPkgTypeClearRule
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesP2PClearRule
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesParRuleSection
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesParRuleDef
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesNoiseRule
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesGenObj
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesGenCompObj
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesGenObjType
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesVia
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesZAxisLayerRule
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: CesConfigCheck: CesZAxisClearRule
+[2016.11.17 21:50:50] [0000m.04s.269ms] [2] Diagnostic: ConfigCheck: CDBImplComp
+[2016.11.17 21:50:50] [0000m.04s.270ms] [2] Diagnostic: ConfigCheck: CDBImplNet
+[2016.11.17 21:50:50] [0000m.04s.270ms] [2] Diagnostic: ConfigCheck: CDBImplPin
+[2016.11.17 21:50:50] [0000m.04s.271ms] [2] Diagnostic: Snapshot [4:parallella_layout_temp] integrity check PASSED in [22ms 274us]
+[2016.11.17 21:50:50] [0000m.04s.318ms] [2] Diagnostic: Checking snapshot [5:parallella] integrity
+[2016.11.17 21:50:50] [0000m.04s.318ms] [2] Diagnostic: SnapshotCheck: CDBImplBlock
+[2016.11.17 21:50:50] [0000m.04s.318ms] [2] Diagnostic: SnapshotCheck: CDBImplComp
+[2016.11.17 21:50:50] [0000m.04s.319ms] [2] Diagnostic: SnapshotCheck: DxDCompView (cached)
+[2016.11.17 21:50:50] [0000m.04s.319ms] [2] Diagnostic: DxDCheck: LineDxD
+[2016.11.17 21:50:50] [0000m.04s.319ms] [2] Diagnostic: DxDCheck: CircleDxD
+[2016.11.17 21:50:50] [0000m.04s.319ms] [2] Diagnostic: DxDCheck: ArcDxD
+[2016.11.17 21:50:50] [0000m.04s.319ms] [2] Diagnostic: DxDCheck: RectDxD
+[2016.11.17 21:50:50] [0000m.04s.319ms] [2] Diagnostic: DxDCheck: TextDxD
+[2016.11.17 21:50:50] [0000m.04s.319ms] [2] Diagnostic: SnapshotCheck: CDBImplGroup
+[2016.11.17 21:50:50] [0000m.04s.319ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (regular)
+[2016.11.17 21:50:50] [0000m.04s.319ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (regular)
+[2016.11.17 21:50:50] [0000m.04s.319ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (cached)
+[2016.11.17 21:50:50] [0000m.04s.323ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (cached)
+[2016.11.17 21:50:50] [0000m.04s.323ms] [2] Diagnostic: Block: parallella
+[2016.11.17 21:50:50] [0000m.04s.323ms] [2] Diagnostic: BlockCheck: CDBImplNet
+[2016.11.17 21:50:50] [0000m.04s.323ms] [2] Diagnostic: BlockCheck: CDBImplBus
+[2016.11.17 21:50:50] [0000m.04s.323ms] [2] Diagnostic: BlockCheck: CDBImplPin
+[2016.11.17 21:50:50] [0000m.04s.324ms] [2] Diagnostic: BlockCheck: CDBImplPort
+[2016.11.17 21:50:50] [0000m.04s.324ms] [2] Diagnostic: BlockCheck: CDBImplComp
+[2016.11.17 21:50:50] [0000m.04s.326ms] [2] Diagnostic: BlockCheck: AttributesUtility
+[2016.11.17 21:50:50] [0000m.04s.326ms] [2] Diagnostic: CesConfigCheck: CesConstraint
+[2016.11.17 21:50:50] [0000m.04s.332ms] [2] Diagnostic: CesConfigCheck: CesPin
+[2016.11.17 21:50:50] [0000m.04s.333ms] [2] Diagnostic: CesConfigCheck: CesFromTo
+[2016.11.17 21:50:50] [0000m.04s.334ms] [2] Diagnostic: CesConfigCheck: CesPhysicalNet
+[2016.11.17 21:50:50] [0000m.04s.336ms] [2] Diagnostic: CesConfigCheck: CesPinPair
+[2016.11.17 21:50:50] [0000m.04s.336ms] [2] Diagnostic: CesConfigCheck: CesElectricalNet
+[2016.11.17 21:50:50] [0000m.04s.336ms] [2] Diagnostic: CesConfigCheck: CesDiffPair
+[2016.11.17 21:50:50] [0000m.04s.337ms] [2] Diagnostic: CesConfigCheck: CesComponent
+[2016.11.17 21:50:50] [0000m.04s.337ms] [2] Diagnostic: CesConfigCheck: CesPartPin
+[2016.11.17 21:50:50] [0000m.04s.338ms] [2] Diagnostic: CesConfigCheck: CesPartPinPair
+[2016.11.17 21:50:50] [0000m.04s.338ms] [2] Diagnostic: CesConfigCheck: CesPart
+[2016.11.17 21:50:50] [0000m.04s.338ms] [2] Diagnostic: CesConfigCheck: CesDesign
+[2016.11.17 21:50:50] [0000m.04s.338ms] [2] Diagnostic: CesConfigCheck: CesLayerClearRule
+[2016.11.17 21:50:50] [0000m.04s.338ms] [2] Diagnostic: CesConfigCheck: CesSchemeClearRule
+[2016.11.17 21:50:50] [0000m.04s.338ms] [2] Diagnostic: CesConfigCheck: CesViaAssign
+[2016.11.17 21:50:50] [0000m.04s.338ms] [2] Diagnostic: CesConfigCheck: CesLayerRule
+[2016.11.17 21:50:50] [0000m.04s.338ms] [2] Diagnostic: CesConfigCheck: CesSchemeNetClassRule
+[2016.11.17 21:50:50] [0000m.04s.338ms] [2] Diagnostic: CesConfigCheck: CesScheme
+[2016.11.17 21:50:50] [0000m.04s.339ms] [2] Diagnostic: CesConfigCheck: CesLayer
+[2016.11.17 21:50:50] [0000m.04s.339ms] [2] Diagnostic: CesConfigCheck: CesNetClass
+[2016.11.17 21:50:50] [0000m.04s.339ms] [2] Diagnostic: CesConfigCheck: CesClearRule
+[2016.11.17 21:50:50] [0000m.04s.339ms] [2] Diagnostic: CesConfigCheck: CesConstraintClass
+[2016.11.17 21:50:50] [0000m.04s.339ms] [2] Diagnostic: CesConfigCheck: CesViaSpan
+[2016.11.17 21:50:50] [0000m.04s.339ms] [2] Diagnostic: CesConfigCheck: CesGenClear
+[2016.11.17 21:50:50] [0000m.04s.339ms] [2] Diagnostic: CesConfigCheck: CesPartTech
+[2016.11.17 21:50:50] [0000m.04s.339ms] [2] Diagnostic: CesConfigCheck: CesConstVar
+[2016.11.17 21:50:50] [0000m.04s.339ms] [2] Diagnostic: CesConfigCheck: CesC2CClearRule
+[2016.11.17 21:50:50] [0000m.04s.339ms] [2] Diagnostic: CesConfigCheck: CesPkgTypeClearRule
+[2016.11.17 21:50:50] [0000m.04s.339ms] [2] Diagnostic: CesConfigCheck: CesP2PClearRule
+[2016.11.17 21:50:50] [0000m.04s.339ms] [2] Diagnostic: CesConfigCheck: CesParRuleSection
+[2016.11.17 21:50:50] [0000m.04s.339ms] [2] Diagnostic: CesConfigCheck: CesParRuleDef
+[2016.11.17 21:50:50] [0000m.04s.339ms] [2] Diagnostic: CesConfigCheck: CesNoiseRule
+[2016.11.17 21:50:50] [0000m.04s.339ms] [2] Diagnostic: CesConfigCheck: CesGenObj
+[2016.11.17 21:50:50] [0000m.04s.339ms] [2] Diagnostic: CesConfigCheck: CesGenCompObj
+[2016.11.17 21:50:50] [0000m.04s.339ms] [2] Diagnostic: CesConfigCheck: CesGenObjType
+[2016.11.17 21:50:50] [0000m.04s.339ms] [2] Diagnostic: CesConfigCheck: CesVia
+[2016.11.17 21:50:50] [0000m.04s.339ms] [2] Diagnostic: CesConfigCheck: CesZAxisLayerRule
+[2016.11.17 21:50:50] [0000m.04s.339ms] [2] Diagnostic: CesConfigCheck: CesZAxisClearRule
+[2016.11.17 21:50:50] [0000m.04s.339ms] [2] Diagnostic: ConfigCheck: CDBImplComp
+[2016.11.17 21:50:50] [0000m.04s.340ms] [2] Diagnostic: ConfigCheck: CDBImplNet
+[2016.11.17 21:50:50] [0000m.04s.340ms] [2] Diagnostic: ConfigCheck: CDBImplPin
+[2016.11.17 21:50:50] [0000m.04s.340ms] [2] Diagnostic: Snapshot [5:parallella] integrity check PASSED in [22ms 310us]
+[2016.11.17 21:50:50] [0000m.04s.419ms] [2] Diagnostic: Checking snapshot [6:parallella_RefSync] integrity
+[2016.11.17 21:50:50] [0000m.04s.419ms] [2] Diagnostic: SnapshotCheck: CDBImplBlock
+[2016.11.17 21:50:50] [0000m.04s.419ms] [2] Diagnostic: SnapshotCheck: CDBImplComp
+[2016.11.17 21:50:50] [0000m.04s.420ms] [2] Diagnostic: SnapshotCheck: DxDCompView (cached)
+[2016.11.17 21:50:50] [0000m.04s.420ms] [2] Diagnostic: DxDCheck: LineDxD
+[2016.11.17 21:50:50] [0000m.04s.420ms] [1] Diagnostic: Warning: {[LineDxD] [23] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.420ms] [1] Diagnostic: Warning: {[LineDxD] [22] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.420ms] [1] Diagnostic: Warning: {[LineDxD] [21] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.420ms] [1] Diagnostic: Warning: {[LineDxD] [20] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.420ms] [1] Diagnostic: Warning: {[LineDxD] [19] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.420ms] [1] Diagnostic: Warning: {[LineDxD] [13] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.420ms] [1] Diagnostic: Warning: {[LineDxD] [12] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.420ms] [1] Diagnostic: Warning: {[LineDxD] [11] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.420ms] [1] Diagnostic: Warning: {[LineDxD] [7] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.420ms] [1] Diagnostic: Warning: {[LineDxD] [6] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.420ms] [1] Diagnostic: Warning: {[LineDxD] [5] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.420ms] [1] Diagnostic: Warning: {[LineDxD] [1] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.420ms] [2] Diagnostic: DxDCheck: CircleDxD
+[2016.11.17 21:50:50] [0000m.04s.420ms] [2] Diagnostic: DxDCheck: ArcDxD
+[2016.11.17 21:50:50] [0000m.04s.420ms] [1] Diagnostic: Warning: {[ArcDxD] [22] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.420ms] [1] Diagnostic: Warning: {[ArcDxD] [21] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.420ms] [1] Diagnostic: Warning: {[ArcDxD] [20] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.420ms] [1] Diagnostic: Warning: {[ArcDxD] [19] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.420ms] [1] Diagnostic: Warning: {[ArcDxD] [13] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.420ms] [1] Diagnostic: Warning: {[ArcDxD] [12] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.420ms] [1] Diagnostic: Warning: {[ArcDxD] [11] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.420ms] [1] Diagnostic: Warning: {[ArcDxD] [6] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.420ms] [1] Diagnostic: Warning: {[ArcDxD] [5] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.421ms] [1] Diagnostic: Warning: {[ArcDxD] [1] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.421ms] [2] Diagnostic: DxDCheck: RectDxD
+[2016.11.17 21:50:50] [0000m.04s.421ms] [1] Diagnostic: Warning: {[RectDxD] [23] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.421ms] [1] Diagnostic: Warning: {[RectDxD] [22] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.421ms] [1] Diagnostic: Warning: {[RectDxD] [19] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.421ms] [1] Diagnostic: Warning: {[RectDxD] [13] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.421ms] [1] Diagnostic: Warning: {[RectDxD] [12] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.421ms] [2] Diagnostic: DxDCheck: TextDxD
+[2016.11.17 21:50:50] [0000m.04s.421ms] [1] Diagnostic: Warning: {[TextDxD] [23] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.421ms] [1] Diagnostic: Warning: {[TextDxD] [22] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.421ms] [1] Diagnostic: Warning: {[TextDxD] [19] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.421ms] [1] Diagnostic: Warning: {[TextDxD] [11] } --> UID does not exist
+[2016.11.17 21:50:50] [0000m.04s.421ms] [2] Diagnostic: SnapshotCheck: CDBImplGroup
+[2016.11.17 21:50:50] [0000m.04s.422ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (regular)
+[2016.11.17 21:50:50] [0000m.04s.422ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (regular)
+[2016.11.17 21:50:50] [0000m.04s.422ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (cached)
+[2016.11.17 21:50:50] [0000m.04s.426ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (cached)
+[2016.11.17 21:50:50] [0000m.04s.426ms] [2] Diagnostic: Block: parallella
+[2016.11.17 21:50:50] [0000m.04s.426ms] [2] Diagnostic: BlockCheck: CDBImplNet
+[2016.11.17 21:50:50] [0000m.04s.426ms] [2] Diagnostic: BlockCheck: CDBImplBus
+[2016.11.17 21:50:50] [0000m.04s.426ms] [2] Diagnostic: BlockCheck: CDBImplPin
+[2016.11.17 21:50:50] [0000m.04s.427ms] [2] Diagnostic: BlockCheck: CDBImplPort
+[2016.11.17 21:50:50] [0000m.04s.427ms] [2] Diagnostic: BlockCheck: CDBImplComp
+[2016.11.17 21:50:50] [0000m.04s.429ms] [2] Diagnostic: BlockCheck: AttributesUtility
+[2016.11.17 21:50:50] [0000m.04s.429ms] [2] Diagnostic: BlockCheck: CDBImplBlockViewDxD
+[2016.11.17 21:50:50] [0000m.04s.430ms] [2] Diagnostic: BlockViewDxDCheck: CDBImplNetDxD
+[2016.11.17 21:50:50] [0000m.04s.431ms] [2] Diagnostic: BlockViewDxDCheck: CDBImplRipperDxD
+[2016.11.17 21:50:50] [0000m.04s.431ms] [2] Diagnostic: CesConfigCheck: CesConstraint
+[2016.11.17 21:50:50] [0000m.04s.436ms] [2] Diagnostic: CesConfigCheck: CesPin
+[2016.11.17 21:50:50] [0000m.04s.438ms] [2] Diagnostic: CesConfigCheck: CesFromTo
+[2016.11.17 21:50:50] [0000m.04s.438ms] [2] Diagnostic: CesConfigCheck: CesPhysicalNet
+[2016.11.17 21:50:50] [0000m.04s.440ms] [2] Diagnostic: CesConfigCheck: CesPinPair
+[2016.11.17 21:50:50] [0000m.04s.440ms] [2] Diagnostic: CesConfigCheck: CesElectricalNet
+[2016.11.17 21:50:50] [0000m.04s.441ms] [2] Diagnostic: CesConfigCheck: CesDiffPair
+[2016.11.17 21:50:50] [0000m.04s.441ms] [2] Diagnostic: CesConfigCheck: CesComponent
+[2016.11.17 21:50:50] [0000m.04s.442ms] [2] Diagnostic: CesConfigCheck: CesPartPin
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesPartPinPair
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesPart
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesDesign
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesLayerClearRule
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesSchemeClearRule
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesViaAssign
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesLayerRule
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesSchemeNetClassRule
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesScheme
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesLayer
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesNetClass
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesClearRule
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesConstraintClass
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesViaSpan
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesGenClear
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesPartTech
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesConstVar
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesC2CClearRule
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesPkgTypeClearRule
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesP2PClearRule
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesParRuleSection
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesParRuleDef
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesNoiseRule
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesGenObj
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesGenCompObj
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesGenObjType
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesVia
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesZAxisLayerRule
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: CesConfigCheck: CesZAxisClearRule
+[2016.11.17 21:50:50] [0000m.04s.443ms] [2] Diagnostic: ConfigCheck: CDBImplComp
+[2016.11.17 21:50:50] [0000m.04s.444ms] [2] Diagnostic: ConfigCheck: CDBImplNet
+[2016.11.17 21:50:50] [0000m.04s.444ms] [2] Diagnostic: ConfigCheck: CDBImplPin
+[2016.11.17 21:50:50] [0000m.04s.445ms] [1] Diagnostic: Snapshot [6:parallella_RefSync] integrity check FAILED
+[2016.11.17 21:50:51] [0000m.04s.529ms] [2] Diagnostic: Checking snapshot [7:parallella_LDDTemp] integrity
+[2016.11.17 21:50:51] [0000m.04s.529ms] [2] Diagnostic: SnapshotCheck: CDBImplBlock
+[2016.11.17 21:50:51] [0000m.04s.529ms] [2] Diagnostic: SnapshotCheck: CDBImplComp
+[2016.11.17 21:50:51] [0000m.04s.530ms] [2] Diagnostic: SnapshotCheck: DxDCompView (cached)
+[2016.11.17 21:50:51] [0000m.04s.530ms] [2] Diagnostic: DxDCheck: LineDxD
+[2016.11.17 21:50:51] [0000m.04s.530ms] [1] Diagnostic: Warning: {[LineDxD] [23] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.530ms] [1] Diagnostic: Warning: {[LineDxD] [22] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.530ms] [1] Diagnostic: Warning: {[LineDxD] [21] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.530ms] [1] Diagnostic: Warning: {[LineDxD] [20] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.530ms] [1] Diagnostic: Warning: {[LineDxD] [19] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.530ms] [1] Diagnostic: Warning: {[LineDxD] [13] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.530ms] [1] Diagnostic: Warning: {[LineDxD] [12] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.530ms] [1] Diagnostic: Warning: {[LineDxD] [11] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.530ms] [1] Diagnostic: Warning: {[LineDxD] [7] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.530ms] [1] Diagnostic: Warning: {[LineDxD] [6] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.530ms] [1] Diagnostic: Warning: {[LineDxD] [5] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.530ms] [1] Diagnostic: Warning: {[LineDxD] [1] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.530ms] [2] Diagnostic: DxDCheck: CircleDxD
+[2016.11.17 21:50:51] [0000m.04s.530ms] [2] Diagnostic: DxDCheck: ArcDxD
+[2016.11.17 21:50:51] [0000m.04s.530ms] [1] Diagnostic: Warning: {[ArcDxD] [22] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.531ms] [1] Diagnostic: Warning: {[ArcDxD] [21] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.531ms] [1] Diagnostic: Warning: {[ArcDxD] [20] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.531ms] [1] Diagnostic: Warning: {[ArcDxD] [19] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.531ms] [1] Diagnostic: Warning: {[ArcDxD] [13] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.531ms] [1] Diagnostic: Warning: {[ArcDxD] [12] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.531ms] [1] Diagnostic: Warning: {[ArcDxD] [11] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.531ms] [1] Diagnostic: Warning: {[ArcDxD] [6] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.531ms] [1] Diagnostic: Warning: {[ArcDxD] [5] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.531ms] [1] Diagnostic: Warning: {[ArcDxD] [1] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.531ms] [2] Diagnostic: DxDCheck: RectDxD
+[2016.11.17 21:50:51] [0000m.04s.531ms] [1] Diagnostic: Warning: {[RectDxD] [23] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.531ms] [1] Diagnostic: Warning: {[RectDxD] [22] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.531ms] [1] Diagnostic: Warning: {[RectDxD] [19] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.531ms] [1] Diagnostic: Warning: {[RectDxD] [13] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.531ms] [1] Diagnostic: Warning: {[RectDxD] [12] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.531ms] [2] Diagnostic: DxDCheck: TextDxD
+[2016.11.17 21:50:51] [0000m.04s.531ms] [1] Diagnostic: Warning: {[TextDxD] [23] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.531ms] [1] Diagnostic: Warning: {[TextDxD] [22] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.531ms] [1] Diagnostic: Warning: {[TextDxD] [19] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.531ms] [1] Diagnostic: Warning: {[TextDxD] [11] } --> UID does not exist
+[2016.11.17 21:50:51] [0000m.04s.531ms] [2] Diagnostic: SnapshotCheck: CDBImplGroup
+[2016.11.17 21:50:51] [0000m.04s.532ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (regular)
+[2016.11.17 21:50:51] [0000m.04s.532ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (regular)
+[2016.11.17 21:50:51] [0000m.04s.532ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (cached)
+[2016.11.17 21:50:51] [0000m.04s.536ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (cached)
+[2016.11.17 21:50:51] [0000m.04s.536ms] [2] Diagnostic: Block: parallella
+[2016.11.17 21:50:51] [0000m.04s.536ms] [2] Diagnostic: BlockCheck: CDBImplNet
+[2016.11.17 21:50:51] [0000m.04s.536ms] [2] Diagnostic: BlockCheck: CDBImplBus
+[2016.11.17 21:50:51] [0000m.04s.536ms] [2] Diagnostic: BlockCheck: CDBImplPin
+[2016.11.17 21:50:51] [0000m.04s.538ms] [2] Diagnostic: BlockCheck: CDBImplPort
+[2016.11.17 21:50:51] [0000m.04s.538ms] [2] Diagnostic: BlockCheck: CDBImplComp
+[2016.11.17 21:50:51] [0000m.04s.539ms] [2] Diagnostic: BlockCheck: AttributesUtility
+[2016.11.17 21:50:51] [0000m.04s.539ms] [2] Diagnostic: BlockCheck: CDBImplBlockViewDxD
+[2016.11.17 21:50:51] [0000m.04s.541ms] [2] Diagnostic: BlockViewDxDCheck: CDBImplNetDxD
+[2016.11.17 21:50:51] [0000m.04s.541ms] [2] Diagnostic: BlockViewDxDCheck: CDBImplRipperDxD
+[2016.11.17 21:50:51] [0000m.04s.541ms] [2] Diagnostic: CesConfigCheck: CesConstraint
+[2016.11.17 21:50:51] [0000m.04s.546ms] [2] Diagnostic: CesConfigCheck: CesPin
+[2016.11.17 21:50:51] [0000m.04s.548ms] [2] Diagnostic: CesConfigCheck: CesFromTo
+[2016.11.17 21:50:51] [0000m.04s.549ms] [2] Diagnostic: CesConfigCheck: CesPhysicalNet
+[2016.11.17 21:50:51] [0000m.04s.551ms] [2] Diagnostic: CesConfigCheck: CesPinPair
+[2016.11.17 21:50:51] [0000m.04s.551ms] [2] Diagnostic: CesConfigCheck: CesElectricalNet
+[2016.11.17 21:50:51] [0000m.04s.551ms] [2] Diagnostic: CesConfigCheck: CesDiffPair
+[2016.11.17 21:50:51] [0000m.04s.551ms] [2] Diagnostic: CesConfigCheck: CesComponent
+[2016.11.17 21:50:51] [0000m.04s.552ms] [2] Diagnostic: CesConfigCheck: CesPartPin
+[2016.11.17 21:50:51] [0000m.04s.553ms] [2] Diagnostic: CesConfigCheck: CesPartPinPair
+[2016.11.17 21:50:51] [0000m.04s.553ms] [2] Diagnostic: CesConfigCheck: CesPart
+[2016.11.17 21:50:51] [0000m.04s.553ms] [2] Diagnostic: CesConfigCheck: CesDesign
+[2016.11.17 21:50:51] [0000m.04s.553ms] [2] Diagnostic: CesConfigCheck: CesLayerClearRule
+[2016.11.17 21:50:51] [0000m.04s.553ms] [2] Diagnostic: CesConfigCheck: CesSchemeClearRule
+[2016.11.17 21:50:51] [0000m.04s.553ms] [2] Diagnostic: CesConfigCheck: CesViaAssign
+[2016.11.17 21:50:51] [0000m.04s.553ms] [2] Diagnostic: CesConfigCheck: CesLayerRule
+[2016.11.17 21:50:51] [0000m.04s.553ms] [2] Diagnostic: CesConfigCheck: CesSchemeNetClassRule
+[2016.11.17 21:50:51] [0000m.04s.553ms] [2] Diagnostic: CesConfigCheck: CesScheme
+[2016.11.17 21:50:51] [0000m.04s.553ms] [2] Diagnostic: CesConfigCheck: CesLayer
+[2016.11.17 21:50:51] [0000m.04s.553ms] [2] Diagnostic: CesConfigCheck: CesNetClass
+[2016.11.17 21:50:51] [0000m.04s.553ms] [2] Diagnostic: CesConfigCheck: CesClearRule
+[2016.11.17 21:50:51] [0000m.04s.553ms] [2] Diagnostic: CesConfigCheck: CesConstraintClass
+[2016.11.17 21:50:51] [0000m.04s.554ms] [2] Diagnostic: CesConfigCheck: CesViaSpan
+[2016.11.17 21:50:51] [0000m.04s.554ms] [2] Diagnostic: CesConfigCheck: CesGenClear
+[2016.11.17 21:50:51] [0000m.04s.554ms] [2] Diagnostic: CesConfigCheck: CesPartTech
+[2016.11.17 21:50:51] [0000m.04s.554ms] [2] Diagnostic: CesConfigCheck: CesConstVar
+[2016.11.17 21:50:51] [0000m.04s.554ms] [2] Diagnostic: CesConfigCheck: CesC2CClearRule
+[2016.11.17 21:50:51] [0000m.04s.554ms] [2] Diagnostic: CesConfigCheck: CesPkgTypeClearRule
+[2016.11.17 21:50:51] [0000m.04s.554ms] [2] Diagnostic: CesConfigCheck: CesP2PClearRule
+[2016.11.17 21:50:51] [0000m.04s.554ms] [2] Diagnostic: CesConfigCheck: CesParRuleSection
+[2016.11.17 21:50:51] [0000m.04s.554ms] [2] Diagnostic: CesConfigCheck: CesParRuleDef
+[2016.11.17 21:50:51] [0000m.04s.554ms] [2] Diagnostic: CesConfigCheck: CesNoiseRule
+[2016.11.17 21:50:51] [0000m.04s.554ms] [2] Diagnostic: CesConfigCheck: CesGenObj
+[2016.11.17 21:50:51] [0000m.04s.554ms] [2] Diagnostic: CesConfigCheck: CesGenCompObj
+[2016.11.17 21:50:51] [0000m.04s.554ms] [2] Diagnostic: CesConfigCheck: CesGenObjType
+[2016.11.17 21:50:51] [0000m.04s.554ms] [2] Diagnostic: CesConfigCheck: CesVia
+[2016.11.17 21:50:51] [0000m.04s.554ms] [2] Diagnostic: CesConfigCheck: CesZAxisLayerRule
+[2016.11.17 21:50:51] [0000m.04s.554ms] [2] Diagnostic: CesConfigCheck: CesZAxisClearRule
+[2016.11.17 21:50:51] [0000m.04s.554ms] [2] Diagnostic: ConfigCheck: CDBImplComp
+[2016.11.17 21:50:51] [0000m.04s.555ms] [2] Diagnostic: ConfigCheck: CDBImplNet
+[2016.11.17 21:50:51] [0000m.04s.555ms] [2] Diagnostic: ConfigCheck: CDBImplPin
+[2016.11.17 21:50:51] [0000m.04s.555ms] [1] Diagnostic: Snapshot [7:parallella_LDDTemp] integrity check FAILED
+[2016.11.17 21:50:51] [0000m.04s.582ms] [0] Diagnostic: FINISH
+[2016.11.17 21:50:51] [0000m.04s.582ms] [0] .

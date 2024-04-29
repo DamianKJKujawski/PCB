@@ -1,0 +1,69 @@
+[2016.10.28 14:40:44] [0000m.01s.234ms] [0] WELCOME
+[2016.10.28 14:40:44] [0000m.01s.234ms] [1] iCDB Server ver.2.102, wYEugeo3DDW9F1Zv0hgL2A, build:700919 created 2016-05-25 11:49:10, sources stamp:wYEugeo3DDW9F1Zv0hgL2A
+[2016.10.28 14:40:44] [0000m.01s.234ms] [1] Copyright 2016 Mentor Graphics Corporation. All Rights Reserved.
+[2016.10.28 14:40:44] [0000m.01s.234ms] [1] Base flow version [VX.1.2]
+[2016.10.28 14:40:44] [0000m.01s.234ms] [1] GBS Install Id [45451], Flow Id [X-ENTP VX.1.2], Full Flow Name [Xpedition Enterprise X-ENTP VX.1.2], Exact Access Date [Nov 1 2015]
+[2016.10.28 14:40:44] [0000m.01s.234ms] [1] UPDATE Install Info, GBS Install Id [45919], UPDATE Name [Xpedition Enterprise X-ENTP VX.1.2 - Update 16]
+[2016.10.28 14:40:44] [0000m.01s.234ms] [1] Machine [SYSTEM-64-PC]  User [system-64]  PID [6928]
+[2016.10.28 14:40:44] [0000m.01s.234ms] [1] Operating system [Microsoft Business Edition, 64-bit (build 9200)]
+[2016.10.28 14:40:44] [0000m.01s.234ms] [1] Current working dir [J:\!projekt\parallella_proj]
+[2016.10.28 14:40:44] [0000m.01s.234ms] [1] PATH [H:\MentorGraphics\EEVX.1.2\SDD_HOME\common\win64\bin;H:\MentorGraphics\EEVX.1.2\SDD_HOME\common\win64\lib;H:\MentorGraphics\EEVX.1.2\MGC_HOME.ixw\bin;H:\MentorGraphics\EEVX.1.2\MGC_HOME.ixw\lib;H:\MentorGraphics\EEVX.1.2\SDD_HOME\wv\win64\bin;H:\WINDOWS\system32;H:\WINDOWS;H:\WINDOWS\System32\Wbem;H:\WINDOWS\System32\WindowsPowerShell\v1.0\;H:\Program Files (x86)\Skype\Phone\;H:\Users\system-64\AppData\Local\Microsoft\WindowsApps;]
+[2016.10.28 14:40:44] [0000m.01s.234ms] [1] SDD_HOME [H:\MentorGraphics\EEVX.1.2\SDD_HOME] on file system [NTFS]
+[2016.10.28 14:40:44] [0000m.01s.234ms] [1] SDD_PLATFORM [win64]
+[2016.10.28 14:40:44] [0000m.01s.234ms] [1] WDIR [H:\WDIR;H:\MentorGraphics\EEVX.1.2\SDD_HOME\standard;]
+[2016.10.28 14:40:44] [0000m.01s.234ms] [1] Local iCDB working dir [H:\WDIR\iCDB] on file system [NTFS]
+[2016.10.28 14:40:44] [0000m.01s.234ms] [0] Creating database content backup before upgrade
+[2016.10.28 14:40:47] [0000m.03s.953ms] [0] Database content backed up to [J:\!projekt\parallella_proj\database\cdbback\2016-10-28 14.40.44-6928.zip] of size [2 405 839 bytes (2.3 MB)] in [2s 717ms]
+[2016.10.28 14:40:47] [0000m.04s.000ms] [0] Upgrading constraint definitions from version [ce_ee.cns=7.10.35;user.cns=ed25-9677-f80c-7960-1561-2656-5612-6550-5497-17a1-4f6c-0fdc]
+[2016.10.28 14:40:47] [0000m.04s.046ms] [0] Upgrading snapshot [1:DxD] from version [2900]
+[2016.10.28 14:40:47] [0000m.04s.218ms] [1] CORE: Upgrade snapshot DxD completed successfully.
+[2016.10.28 14:40:47] [0000m.04s.218ms] [0] Snapshot [1:DxD] upgraded to version [3000] in [170ms 537us]
+[2016.10.28 14:40:47] [0000m.04s.234ms] [0] Upgrading constraint definitions for snapshot [1:DxD]
+[2016.10.28 14:40:48] [0000m.04s.515ms] [0] Constraint definitions for snapshot [1:DxD] upgraded in [283ms 806us]
+[2016.10.28 14:40:48] [0000m.04s.515ms] [0] Saving upgraded snapshot [1:DxD]
+[2016.10.28 14:40:48] [0000m.04s.515ms] [0] Upgraded snapshot [1:DxD] saved in [8ms 379us]
+[2016.10.28 14:40:48] [0000m.04s.656ms] [0] Upgrading snapshot [2:__ise_DxD] from version [2900]
+[2016.10.28 14:40:48] [0000m.04s.656ms] [1] CORE: Upgrade snapshot __ise_DxD completed successfully.
+[2016.10.28 14:40:48] [0000m.04s.656ms] [0] Snapshot [2:__ise_DxD] upgraded to version [3000] in [1ms 623us]
+[2016.10.28 14:40:48] [0000m.04s.656ms] [0] Upgrading constraint definitions for snapshot [2:__ise_DxD]
+[2016.10.28 14:40:48] [0000m.04s.656ms] [0] Constraint definitions for snapshot [2:__ise_DxD] upgraded in [60us]
+[2016.10.28 14:40:48] [0000m.04s.656ms] [0] Saving upgraded snapshot [2:__ise_DxD]
+[2016.10.28 14:40:48] [0000m.04s.656ms] [0] Upgraded snapshot [2:__ise_DxD] saved in [178us]
+[2016.10.28 14:40:48] [0000m.04s.671ms] [0] Upgrading snapshot [3:xIOPT] from version [2900]
+[2016.10.28 14:40:48] [0000m.04s.671ms] [1] CORE: Upgrade snapshot xIOPT completed successfully.
+[2016.10.28 14:40:48] [0000m.04s.671ms] [0] Snapshot [3:xIOPT] upgraded to version [3000] in [1ms 398us]
+[2016.10.28 14:40:48] [0000m.04s.671ms] [0] Upgrading constraint definitions for snapshot [3:xIOPT]
+[2016.10.28 14:40:48] [0000m.04s.671ms] [0] Constraint definitions for snapshot [3:xIOPT] upgraded in [41us]
+[2016.10.28 14:40:48] [0000m.04s.671ms] [0] Saving upgraded snapshot [3:xIOPT]
+[2016.10.28 14:40:48] [0000m.04s.671ms] [0] Upgraded snapshot [3:xIOPT] saved in [176us]
+[2016.10.28 14:40:48] [0000m.04s.671ms] [0] Upgrading snapshot [4:parallella_layout_temp] from version [2900]
+[2016.10.28 14:40:48] [0000m.04s.703ms] [1] CORE: Upgrade snapshot parallella_layout_temp completed successfully.
+[2016.10.28 14:40:48] [0000m.04s.703ms] [0] Snapshot [4:parallella_layout_temp] upgraded to version [3000] in [29ms 218us]
+[2016.10.28 14:40:48] [0000m.04s.703ms] [0] Upgrading constraint definitions for snapshot [4:parallella_layout_temp]
+[2016.10.28 14:40:48] [0000m.04s.734ms] [0] Constraint definitions for snapshot [4:parallella_layout_temp] upgraded in [31ms 841us]
+[2016.10.28 14:40:48] [0000m.04s.734ms] [0] Saving upgraded snapshot [4:parallella_layout_temp]
+[2016.10.28 14:40:48] [0000m.04s.734ms] [0] Upgraded snapshot [4:parallella_layout_temp] saved in [1ms 184us]
+[2016.10.28 14:40:48] [0000m.04s.797ms] [0] Upgrading snapshot [5:parallella] from version [2900]
+[2016.10.28 14:40:48] [0000m.04s.828ms] [1] CORE: Upgrade snapshot parallella completed successfully.
+[2016.10.28 14:40:48] [0000m.04s.828ms] [0] Snapshot [5:parallella] upgraded to version [3000] in [28ms 489us]
+[2016.10.28 14:40:48] [0000m.04s.828ms] [0] Upgrading constraint definitions for snapshot [5:parallella]
+[2016.10.28 14:40:48] [0000m.04s.859ms] [0] Constraint definitions for snapshot [5:parallella] upgraded in [32ms 62us]
+[2016.10.28 14:40:48] [0000m.04s.859ms] [0] Saving upgraded snapshot [5:parallella]
+[2016.10.28 14:40:48] [0000m.04s.859ms] [0] Upgraded snapshot [5:parallella] saved in [1ms 183us]
+[2016.10.28 14:40:48] [0000m.04s.906ms] [0] Upgrading snapshot [6:parallella_RefSync] from version [2900]
+[2016.10.28 14:40:48] [0000m.04s.984ms] [1] CORE: Upgrade snapshot parallella_RefSync completed successfully.
+[2016.10.28 14:40:48] [0000m.04s.984ms] [0] Snapshot [6:parallella_RefSync] upgraded to version [3000] in [66ms 651us]
+[2016.10.28 14:40:48] [0000m.04s.984ms] [0] Upgrading constraint definitions for snapshot [6:parallella_RefSync]
+[2016.10.28 14:40:48] [0000m.05s.015ms] [0] Constraint definitions for snapshot [6:parallella_RefSync] upgraded in [31ms 207us]
+[2016.10.28 14:40:48] [0000m.05s.015ms] [0] Saving upgraded snapshot [6:parallella_RefSync]
+[2016.10.28 14:40:48] [0000m.05s.015ms] [0] Upgraded snapshot [6:parallella_RefSync] saved in [1ms 200us]
+[2016.10.28 14:40:48] [0000m.05s.078ms] [0] Upgrading snapshot [7:parallella_LDDTemp] from version [2900]
+[2016.10.28 14:40:48] [0000m.05s.156ms] [1] CORE: Upgrade snapshot parallella_LDDTemp completed successfully.
+[2016.10.28 14:40:48] [0000m.05s.156ms] [0] Snapshot [7:parallella_LDDTemp] upgraded to version [3000] in [66ms 689us]
+[2016.10.28 14:40:48] [0000m.05s.156ms] [0] Upgrading constraint definitions for snapshot [7:parallella_LDDTemp]
+[2016.10.28 14:40:48] [0000m.05s.187ms] [0] Constraint definitions for snapshot [7:parallella_LDDTemp] upgraded in [30ms 883us]
+[2016.10.28 14:40:48] [0000m.05s.187ms] [0] Saving upgraded snapshot [7:parallella_LDDTemp]
+[2016.10.28 14:40:48] [0000m.05s.187ms] [0] Upgraded snapshot [7:parallella_LDDTemp] saved in [1ms 566us]
+[2016.10.28 14:40:49] [0000m.05s.281ms] [0] Constraint definitions upgraded to version [ce_ee.cns=7.10.37;user.cns=373e-f37d-240f-ef3f-52f9-2d7a-2f92-d750-b666-06b4-ff0d-5929]
+[2016.10.28 14:40:49] [0000m.05s.297ms] [0] DONE
+[2016.10.28 14:40:49] [0000m.05s.297ms] [0] .

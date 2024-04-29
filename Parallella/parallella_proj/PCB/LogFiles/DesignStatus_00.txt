@@ -1,0 +1,284 @@
+=======================================================================
+Xpedition Layout - Version 117.0.761.1153
+=======================================================================
+
+Job Directory:        E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\PCB\
+
+Design Status Report: E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\PCB\LogFiles\DesignStatus_00.txt
+
+Mon Jun 18 14:46:18 2018
+
+=======================================================================
+DESIGN STATUS
+=======================================================================
+Board Size Extents  ............ 0 X 0 (in)
+Route Border Extents  .......... 3,67 X 2,1 (in)
+Actual Board Area  ............. 1E-06 (in)
+Actual Route Area  ............. 7,72 (in)
+
+Placement Areas: Name             Available         Required          Required/Available
+                 Entire Board     2E-06 Sq. (in)    5,66 Sq. (in)     (area of parts exceeds area of board)
+
+Pins  .......................... 2562
+Pins per Route Area  ........... 331,97 Pins/Sq. (in)
+
+Layers  ........................ 12
+    Layer 1 is a signal layer
+        Trace Widths  .......... 4, 4,8, 6, 8, 10, 12, 14, 16, 30
+    Layer 2 is a Positive Plane Layer with nets
+        GND
+        Trace Widths  .......... None.
+    Layer 3 is a signal layer
+        Trace Widths  .......... 3,7
+    Layer 4 is a Positive Plane Layer with nets
+        GND
+        Trace Widths  .......... None.
+    Layer 5 is a signal layer
+        Trace Widths  .......... 3,7
+    Layer 6 is a Positive Plane Layer with nets
+        3P3V
+        VDD_DSP
+        VDD_GPIO
+        1P8V
+        1P35V
+        2P5V
+        SYS_5P0V
+        VOLD021
+        VREFP_0
+        V3IN
+        V4IN
+        ZYNQ_VCCPLL
+        1P0V
+        1P0V_FLTR_PHY
+        1P8V_FLTR_PHY
+        5P0V
+        5P0V_IN
+        VDD33
+        GND
+        VMODE_1
+        DVDD_3V
+        RJ45-1P8V
+        VDD_ADJ
+        HDMI_AVDD
+        HDMI_DVDD
+        PTH3
+        AVDDC_18
+        AVDD_18
+        CR4
+        USB_VBUS
+        HDMI_BGVDD
+        Trace Widths  .......... 3,7, 8
+    Layer 7 is a Positive Plane Layer with nets
+        1P8V
+        SYS_5P0V
+        VDD_GPIO
+        1P0V
+        1P35V
+        GND
+        AVDDC_18
+        AVDD_18
+        CR4
+        HDMI_5V
+        VBUS
+        VCC_XADC
+        VDD_ADJ
+        VDD_DSP
+        VDD33
+        VREFP_0
+        V3IN
+        V4IN
+        ZYNQ_VCCPLL
+        1P0V_FLTR_PHY
+        1P8V_FLTR_PHY
+        2P5V
+        3P3V
+        5P0V
+        5P0V_IN
+        USB_VBUS
+        Trace Widths  .......... 3,7, 4, 8, 10
+    Layer 8 is a signal layer
+        Trace Widths  .......... 3,7
+    Layer 9 is a Positive Plane Layer with nets
+        GND
+        Trace Widths  .......... None.
+    Layer 10 is a signal layer
+        Trace Widths  .......... 3,7
+    Layer 11 is a Positive Plane Layer with nets
+        GND
+        Trace Widths  .......... None.
+    Layer 12 is a signal layer
+        Trace Widths  .......... 4, 4,8, 6, 8, 10, 12, 14, 16
+
+Nets  .......................... 558
+Connections  ................... 2172
+Open Connections  .............. 140
+Differential Pairs  ............ 91
+Differential Pair Names:   DDR_CLK_N   DDR_CLK_P
+                           DDR_DQS_N0   DDR_DQS_P0
+                           DDR_DQS_N1   DDR_DQS_P1
+                           DDR_DQS_N2   DDR_DQS_P2
+                           DDR_DQS_N3   DDR_DQS_P3
+                           GPIO0_N   GPIO0_P
+                           GPIO1_N   GPIO1_P
+                           GPIO2_N   GPIO2_P
+                           GPIO3_N   GPIO3_P
+                           GPIO4_N   GPIO4_P
+                           GPIO5_N   GPIO5_P
+                           GPIO6_N   GPIO6_P
+                           GPIO7_N   GPIO7_P
+                           GPIO8_N   GPIO8_P
+                           GPIO9_N   GPIO9_P
+                           GPIO10_N   GPIO10_P
+                           GPIO11_N   GPIO11_P
+                           GPIO12_N   GPIO12_P
+                           GPIO13_N   GPIO13_P
+                           GPIO14_N   GPIO14_P
+                           GPIO15_N   GPIO15_P
+                           GPIO16_N   GPIO16_P
+                           GPIO17_N   GPIO17_P
+                           GPIO18_N   GPIO18_P
+                           GPIO19_N   GPIO19_P
+                           GPIO20_N   GPIO20_P
+                           GPIO21_N   GPIO21_P
+                           GPIO22_N   GPIO22_P
+                           GPIO23_N   GPIO23_P
+                           HDMI_TXC_N   HDMI_TXC_P
+                           HDMI_TX0_N   HDMI_TX0_P
+                           HDMI_TX1_N   HDMI_TX1_P
+                           HDMI_TX2_N   HDMI_TX2_P
+                           P0_USB_DN   P0_USB_DP
+                           RXI_CCLK_N   RXI_CCLK_P
+                           RXI_EA_DATA0_N   RXI_EA_DATA0_P
+                           RXI_EA_DATA1_N   RXI_EA_DATA1_P
+                           RXI_EA_DATA2_N   RXI_EA_DATA2_P
+                           RXI_EA_DATA3_N   RXI_EA_DATA3_P
+                           RXI_EA_DATA4_N   RXI_EA_DATA4_P
+                           RXI_EA_DATA5_N   RXI_EA_DATA5_P
+                           RXI_EA_DATA6_N   RXI_EA_DATA6_P
+                           RXI_EA_DATA7_N   RXI_EA_DATA7_P
+                           RXI_EA_FRAME_N   RXI_EA_FRAME_P
+                           RXI_EA_LCLK_N   RXI_EA_LCLK_P
+                           RXI_NO_DATA0_N   RXI_NO_DATA0_P
+                           RXI_NO_DATA1_N   RXI_NO_DATA1_P
+                           RXI_NO_DATA2_N   RXI_NO_DATA2_P
+                           RXI_NO_DATA3_N   RXI_NO_DATA3_P
+                           RXI_NO_DATA4_N   RXI_NO_DATA4_P
+                           RXI_NO_DATA5_N   RXI_NO_DATA5_P
+                           RXI_NO_DATA6_N   RXI_NO_DATA6_P
+                           RXI_NO_DATA7_N   RXI_NO_DATA7_P
+                           RXI_NO_FRAME_N   RXI_NO_FRAME_P
+                           RXI_NO_LCLK_N   RXI_NO_LCLK_P
+                           RXI_SO_DATA0_N   RXI_SO_DATA0_P
+                           RXI_SO_DATA1_N   RXI_SO_DATA1_P
+                           RXI_SO_DATA2_N   RXI_SO_DATA2_P
+                           RXI_SO_DATA3_N   RXI_SO_DATA3_P
+                           RXI_SO_DATA4_N   RXI_SO_DATA4_P
+                           RXI_SO_DATA5_N   RXI_SO_DATA5_P
+                           RXI_SO_DATA6_N   RXI_SO_DATA6_P
+                           RXI_SO_DATA7_N   RXI_SO_DATA7_P
+                           RXI_SO_FRAME_N   RXI_SO_FRAME_P
+                           RXI_SO_LCLK_N   RXI_SO_LCLK_P
+                           TXI_EA_RD_WAIT_N   TXI_EA_RD_WAIT_P
+                           TXI_EA_WR_WAIT_N   TXI_EA_WR_WAIT_P
+                           TXI_NO_RD_WAIT_N   TXI_NO_RD_WAIT_P
+                           TXI_NO_WR_WAIT_N   TXI_NO_WR_WAIT_P
+                           TXI_SO_RD_WAIT_N   TXI_SO_RD_WAIT_P
+                           TXI_SO_WR_WAIT_N   TXI_SO_WR_WAIT_P
+                           TXO_EA_DATA0_N   TXO_EA_DATA0_P
+                           TXO_EA_DATA1_N   TXO_EA_DATA1_P
+                           TXO_EA_DATA2_N   TXO_EA_DATA2_P
+                           TXO_EA_DATA3_N   TXO_EA_DATA3_P
+                           TXO_EA_DATA4_N   TXO_EA_DATA4_P
+                           TXO_EA_DATA5_N   TXO_EA_DATA5_P
+                           TXO_EA_DATA6_N   TXO_EA_DATA6_P
+                           TXO_EA_DATA7_N   TXO_EA_DATA7_P
+                           TXO_EA_FRAME_N   TXO_EA_FRAME_P
+                           TXO_EA_LCLK_N   TXO_EA_LCLK_P
+                           TXO_NO_FRAME_N   TXO_NO_FRAME_P
+                           TXO_SO_DATA0_N   TXO_SO_DATA0_P
+                           TXO_SO_DATA1_N   TXO_SO_DATA1_P
+                           TXO_SO_DATA2_N   TXO_SO_DATA2_P
+                           TXO_SO_DATA3_N   TXO_SO_DATA3_P
+                           TXO_SO_DATA4_N   TXO_SO_DATA4_P
+                           TXO_SO_DATA5_N   TXO_SO_DATA5_P
+                           TXO_SO_DATA6_N   TXO_SO_DATA6_P
+                           TXO_SO_DATA7_N   TXO_SO_DATA7_P
+                           TXO_SO_LCLK_N   TXO_SO_LCLK_P
+                           
+Percent Routed  ................ 93.55 %
+
+Netline Length  ................ 0,56 (in)
+Netline Manhattan Length  ...... 0,78 (in)
+Total Trace Length  ............ 443,86 (in)
+
+Trace Widths Used (th)  ........ 3,7, 4, 4,8, 6, 8, 10, 12, 14, 16, 30
+Vias  .......................... 1843
+Via Span  Name                   Quantity
+   1-12   026VIA                 16
+          20VIA12                84
+          010VIA                 447
+   1-2    20VIA12                3
+          026VIA                 3
+          010VIA                 43
+   1-3    010VIA                 265
+   1-4    010VIA                 11
+   1-5    010VIA                 179
+   1-6    20VIA12                2
+          026VIA                 7
+          010VIA                 21
+   1-7    010VIA                 76
+   1-8    010VIA                 104
+   1-9    010VIA                 60
+   1-10   010VIA                 82
+   1-11   010VIA                 35
+   2-12   010VIA                 117
+   3-12   010VIA                 38
+   5-12   010VIA                 38
+   6-12   026VIA                 24
+          010VIA                 22
+   7-12   010VIA                 46
+   8-12   010VIA                 66
+  10-12   010VIA                 48
+  11-12   026VIA                 1
+          010VIA                 5
+
+Teardrops....................... 0
+    Pad Teardrops............... 0
+    Trace Teardrops............. 0
+    Custom Teardrops............ 0
+Tracedrops...................... 0
+
+Virtual Pins.................... 0
+Guide Pins ..................... 0
+
+Parts Placed  .................. 562
+    Parts Mounted on Top  ...... 239
+        SMD  ................... 224
+        Through  ............... 15
+        Test Points  ........... 0
+        Mechanical  ............ 0
+    Parts Mounted on Bottom  ... 323
+        SMD  ................... 319
+        Through  ............... 4
+        Test Points  ........... 0
+        Mechanical  ............ 0
+    Embedded Components ........ 0
+        Capacitors ............. 0
+        Resistors .............. 0
+    RF Shapes .................. 0
+
+    Edge Connector Parts  ...... 0
+
+Parts not Placed  .............. 0
+
+Nested Cells  .................. 0
+
+Jumpers  ....................... 0
+
+Through Holes  ................. 601
+    Holes per Board Area  ...... 6,01E+08 Holes/Sq. (in)
+Mounting Holes  ................ 0
+
+Wirebonds
+    Bond Fingers ............... 0
+    Bond Wires ................. 0

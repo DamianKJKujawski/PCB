@@ -1,0 +1,1274 @@
+
+                                Library Services
+                                ----------------
+
+                      01:28 PM Saturday, November 07, 2015
+     Job Name: C:\Users\PCBD5\Desktop\MentorV2\parallella_lib\test1_lib.lmc
+
+
+
+Operation: Import Parts to Library (copy)
+Source:    C:\Users\PCBD5\Desktop\test1A_lib\test1_lib.lmc,
+           Part partition 'new'
+Target:    C:\Users\PCBD5\Desktop\MentorV2\parallella_lib\test1_lib.lmc,
+           Part partition 'new'
+
+The following Parts are the same in the source and target libraries but they contain
+elements that are older in the target library.
+
+Part 'BLM15AG121SN1D': The following Cells are older in the target library:
+    Cell 'FBEAD_0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        BLM15AG121SN1D                 new                           
+    
+
+Part 'BLM18SG121TN1D': The following Cells are older in the target library:
+    Cell 'BEAD_0603': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        BLM18SG121TN1D                 new                           
+    
+
+Part 'CAP1UF_X5R': The following Cells are older in the target library:
+    Cell 'C0603': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        CAP0603_1UF_X5R                new                           
+        CAP0603_10UF_X5R               new                           
+        CAP0603_4P7UF_16V_X5R          new                           
+        CAP1UF_X5R                     new                           
+    
+
+Part 'CAP0402_0P1UF_X5R_35V': The following Cells are older in the target library:
+    Cell 'C0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        CAP0402_10NF_X7R_16V           new                           
+        CAP0402_6PF_NPO_50V            new                           
+        CAP0402_4P7UF_X5R              new                           
+        CAP0402_2P2UF_X5R              new                           
+        CAP0402_0P047UF_X5R            new                           
+        CAP0402_0P47UF_X5R             new                           
+        CAP0402_0P1UF_X5R_35V          new                           
+    
+
+Part 'CAP0402_0P47UF_X5R': The following Cells are older in the target library:
+    Cell 'C0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        CAP0402_10NF_X7R_16V           new                           
+        CAP0402_6PF_NPO_50V            new                           
+        CAP0402_4P7UF_X5R              new                           
+        CAP0402_2P2UF_X5R              new                           
+        CAP0402_0P047UF_X5R            new                           
+        CAP0402_0P47UF_X5R             new                           
+        CAP0402_0P1UF_X5R_35V          new                           
+    
+
+Part 'CAP0402_0P047UF_X5R': The following Cells are older in the target library:
+    Cell 'C0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        CAP0402_10NF_X7R_16V           new                           
+        CAP0402_6PF_NPO_50V            new                           
+        CAP0402_4P7UF_X5R              new                           
+        CAP0402_2P2UF_X5R              new                           
+        CAP0402_0P047UF_X5R            new                           
+        CAP0402_0P47UF_X5R             new                           
+        CAP0402_0P1UF_X5R_35V          new                           
+    
+
+Part 'CAP0402_2P2UF_X5R': The following Cells are older in the target library:
+    Cell 'C0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        CAP0402_10NF_X7R_16V           new                           
+        CAP0402_6PF_NPO_50V            new                           
+        CAP0402_4P7UF_X5R              new                           
+        CAP0402_2P2UF_X5R              new                           
+        CAP0402_0P047UF_X5R            new                           
+        CAP0402_0P47UF_X5R             new                           
+        CAP0402_0P1UF_X5R_35V          new                           
+    
+
+Part 'CAP0402_4P7UF_X5R': The following Cells are older in the target library:
+    Cell 'C0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        CAP0402_10NF_X7R_16V           new                           
+        CAP0402_6PF_NPO_50V            new                           
+        CAP0402_4P7UF_X5R              new                           
+        CAP0402_2P2UF_X5R              new                           
+        CAP0402_0P047UF_X5R            new                           
+        CAP0402_0P47UF_X5R             new                           
+        CAP0402_0P1UF_X5R_35V          new                           
+    
+
+Part 'CAP0402_6PF_NPO_50V': The following Cells are older in the target library:
+    Cell 'C0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        CAP0402_10NF_X7R_16V           new                           
+        CAP0402_6PF_NPO_50V            new                           
+        CAP0402_4P7UF_X5R              new                           
+        CAP0402_2P2UF_X5R              new                           
+        CAP0402_0P047UF_X5R            new                           
+        CAP0402_0P47UF_X5R             new                           
+        CAP0402_0P1UF_X5R_35V          new                           
+    
+
+Part 'CAP0402_10NF_X7R_16V': The following Cells are older in the target library:
+    Cell 'C0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        CAP0402_10NF_X7R_16V           new                           
+        CAP0402_6PF_NPO_50V            new                           
+        CAP0402_4P7UF_X5R              new                           
+        CAP0402_2P2UF_X5R              new                           
+        CAP0402_0P047UF_X5R            new                           
+        CAP0402_0P47UF_X5R             new                           
+        CAP0402_0P1UF_X5R_35V          new                           
+    
+
+Part 'CAP0603_1UF_X5R': The following Cells are older in the target library:
+    Cell 'C0603': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        CAP0603_1UF_X5R                new                           
+        CAP0603_10UF_X5R               new                           
+        CAP0603_4P7UF_16V_X5R          new                           
+        CAP1UF_X5R                     new                           
+    
+
+Part 'CAP0603_4P7UF_16V_X5R': The following Cells are older in the target library:
+    Cell 'C0603': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        CAP0603_1UF_X5R                new                           
+        CAP0603_10UF_X5R               new                           
+        CAP0603_4P7UF_16V_X5R          new                           
+        CAP1UF_X5R                     new                           
+    
+
+Part 'CAP0603_10UF_X5R': The following Cells are older in the target library:
+    Cell 'C0603': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        CAP0603_1UF_X5R                new                           
+        CAP0603_10UF_X5R               new                           
+        CAP0603_4P7UF_16V_X5R          new                           
+        CAP1UF_X5R                     new                           
+    
+
+Part 'CAP0805_10UF_16V_X5R': The following Cells are older in the target library:
+    Cell 'C0805': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        CAP0805_6800PF_X7R             new                           
+        CAP0805_10UF_16V_X5R           new                           
+    
+
+Part 'CAP0805_6800PF_X7R': The following Cells are older in the target library:
+    Cell 'C0805': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        CAP0805_6800PF_X7R             new                           
+        CAP0805_10UF_16V_X5R           new                           
+    
+
+Part 'CAP1210_100UF_X5R_LOESR': The following Cells are older in the target library:
+    Cell 'C1210': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        CAP1210_100UF_X5R_LOESR        new                           
+    
+
+Part 'CONN_MICROSD_CARD': The following Cells are older in the target library:
+    Cell 'SDMICRO_8PIN_REV_15SQX1P51MMH': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        CONN_MICROSD_CARD              new                           
+    
+
+Part 'CON_BSH_030_VERT': The following Cells are older in the target library:
+    Cell 'CONN_BSH60P_13P59X25P88_P5P_V': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        CON_BSH_030_VERT               new                           
+    
+
+Part 'CON_POWER_PJ002A_TH': The following Cells are older in the target library:
+    Cell 'DC_PWR_JCK_9X14P4X11MMH': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        CON_POWER_PJ002A_TH            new                           
+    
+
+Part 'CRYSTAL_4P_24MHZ': The following Cells are older in the target library:
+    Cell 'OSC4_1P6X2X7MMH': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        XTAL_4P_25MHZ                  new                           
+        CRYSTAL_4P_24MHZ               new                           
+    
+
+Part 'DDR3_256MX32': The following Cells are older in the target library:
+    Cell 'FBGA136_11X14X1P1_P8MMP': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        DDR3_256MX32                   new                           
+    
+
+Part 'DIODE_BAS16XV2T1G': The following Cells are older in the target library:
+    Cell 'SOD-523': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        DIODE_BAS16XV2T1G              new                           
+    
+
+Part 'EPIPHANY_E16G301': The following Cells are older in the target library:
+    Cell 'BGA324_15SQX1P5_P8MMP': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        EPIPHANY_E16G301               new                           
+    
+
+Part 'FUSE0603_4A': The following Cells are older in the target library:
+    Cell 'F0603': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        FUSE0603_4A                    new                           
+    
+
+Part 'HDMI_DVI_XCVR_ADV7513': The following Cells are older in the target library:
+    Cell 'LQFP64_10SQX1P6MMH_P5MMP': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        HDMI_DVI_XCVR_ADV7513          new                           
+    
+
+Part 'HDMI_MICRO_D_RA_SMT': The following Cells are older in the target library:
+    Cell 'HDMI_MICRO19_6P5X7P5X2P9H_P4P': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        HDMI_MICRO_D_RA_SMT            new                           
+    
+
+Part 'HDR_1X2_TH_VER': The following Cells are older in the target library:
+    Cell 'HDR_1X2_TH_VER': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        HDR_1X2_TH_VER                 new                           
+    
+
+Part 'HDR_1X3_TH_VER_0.1P': The following Cells are older in the target library:
+    Cell 'HDR_1X3_TH_VER': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        HDR_1X3_TH_VER_0.1P            new                           
+    
+
+Part 'IC_ISL9305_DCDC_CONV': The following Cells are older in the target library:
+    Cell 'TQFN16_4SQXP75H_P65P': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        IC_ISL9307_DCDC_CONV           new                           
+        IC_ISL9305_DCDC_CONV           new                           
+    
+
+Part 'IC_ISL9307_DCDC_CONV': The following Cells are older in the target library:
+    Cell 'TQFN16_4SQXP75H_P65P': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        IC_ISL9307_DCDC_CONV           new                           
+        IC_ISL9305_DCDC_CONV           new                           
+    
+
+Part 'IC_SI51219': The following Cells are older in the target library:
+    Cell 'TSSOP8_3X4P4X1P2H_P65MMP': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        IC_SI51219                     new                           
+    
+
+Part 'IC_SPI_FLASH_QUAD_128Mb': The following Cells are older in the target library:
+    Cell 'VPDFN-8_6X8XP85H_1P27MMP': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        IC_SPI_FLASH_QUAD_128Mb        new                           
+    
+
+Part 'IND_1P5UH_2A': The following Cells are older in the target library:
+    Cell 'IND2_2X2P5X1P2MMH': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        IND_1P5UH_2A                   new                           
+    
+
+Part 'LED_0603_5MA_GRN': The following Cells are older in the target library:
+    Cell 'LED_0603': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        LED_0603_5MA_RED               new                           
+        LED_0603_5MA_GRN               new                           
+    
+
+Part 'LED_0603_5MA_RED': The following Cells are older in the target library:
+    Cell 'LED_0603': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        LED_0603_5MA_RED               new                           
+        LED_0603_5MA_GRN               new                           
+    
+
+Part 'MIC2025_1_USB_SW': The following Cells are older in the target library:
+    Cell 'SOIC8_33P94X4P93X1P63H_P65P': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        MIC2025_1_USB_SW               new                           
+    
+
+Part 'NC7SZ125': The following Cells are older in the target library:
+    Cell 'SOT_5PIN': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        NC7SZ125                       new                           
+    
+
+Part 'NC7WZ16': The following Cells are older in the target library:
+    Cell 'SC_70_6PSMT': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        NC7WZ16                        new                           
+    
+
+Part 'PTH125_200PAD': The following Cells are older in the target library:
+    Cell 'PTH125_200PAD': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        PTH125_200PAD                  new                           
+    
+
+Part 'RES0402_0': The following Cells are older in the target library:
+    Cell 'R0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        RES0402_887                    new                           
+        RES0402_620                    new                           
+        RES0402_240                    new                           
+        RES0402_100                    new                           
+        RES0402_80P6                   new                           
+        RES0402_56K2                   new                           
+        RES0402_33                     new                           
+        RES0402_27K4                   new                           
+        RES0402_22R1                   new                           
+        RES0402_20K                    new                           
+        RES0402_10K                    new                           
+        RES0402_10                     new                           
+        RES0402_8K06                   new                           
+        RES0402_4K99                   new                           
+        RES0402_4K75                   new                           
+        RES0402_1K                     new                           
+        RES0402_0                      new                           
+    
+
+Part 'RES0402_1K': The following Cells are older in the target library:
+    Cell 'R0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        RES0402_887                    new                           
+        RES0402_620                    new                           
+        RES0402_240                    new                           
+        RES0402_100                    new                           
+        RES0402_80P6                   new                           
+        RES0402_56K2                   new                           
+        RES0402_33                     new                           
+        RES0402_27K4                   new                           
+        RES0402_22R1                   new                           
+        RES0402_20K                    new                           
+        RES0402_10K                    new                           
+        RES0402_10                     new                           
+        RES0402_8K06                   new                           
+        RES0402_4K99                   new                           
+        RES0402_4K75                   new                           
+        RES0402_1K                     new                           
+        RES0402_0                      new                           
+    
+
+Part 'RES0402_4K75': The following Cells are older in the target library:
+    Cell 'R0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        RES0402_887                    new                           
+        RES0402_620                    new                           
+        RES0402_240                    new                           
+        RES0402_100                    new                           
+        RES0402_80P6                   new                           
+        RES0402_56K2                   new                           
+        RES0402_33                     new                           
+        RES0402_27K4                   new                           
+        RES0402_22R1                   new                           
+        RES0402_20K                    new                           
+        RES0402_10K                    new                           
+        RES0402_10                     new                           
+        RES0402_8K06                   new                           
+        RES0402_4K99                   new                           
+        RES0402_4K75                   new                           
+        RES0402_1K                     new                           
+        RES0402_0                      new                           
+    
+
+Part 'RES0402_4K99': The following Cells are older in the target library:
+    Cell 'R0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        RES0402_887                    new                           
+        RES0402_620                    new                           
+        RES0402_240                    new                           
+        RES0402_100                    new                           
+        RES0402_80P6                   new                           
+        RES0402_56K2                   new                           
+        RES0402_33                     new                           
+        RES0402_27K4                   new                           
+        RES0402_22R1                   new                           
+        RES0402_20K                    new                           
+        RES0402_10K                    new                           
+        RES0402_10                     new                           
+        RES0402_8K06                   new                           
+        RES0402_4K99                   new                           
+        RES0402_4K75                   new                           
+        RES0402_1K                     new                           
+        RES0402_0                      new                           
+    
+
+Part 'RES0402_8K06': The following Cells are older in the target library:
+    Cell 'R0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        RES0402_887                    new                           
+        RES0402_620                    new                           
+        RES0402_240                    new                           
+        RES0402_100                    new                           
+        RES0402_80P6                   new                           
+        RES0402_56K2                   new                           
+        RES0402_33                     new                           
+        RES0402_27K4                   new                           
+        RES0402_22R1                   new                           
+        RES0402_20K                    new                           
+        RES0402_10K                    new                           
+        RES0402_10                     new                           
+        RES0402_8K06                   new                           
+        RES0402_4K99                   new                           
+        RES0402_4K75                   new                           
+        RES0402_1K                     new                           
+        RES0402_0                      new                           
+    
+
+Part 'RES0402_10': The following Cells are older in the target library:
+    Cell 'R0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        RES0402_887                    new                           
+        RES0402_620                    new                           
+        RES0402_240                    new                           
+        RES0402_100                    new                           
+        RES0402_80P6                   new                           
+        RES0402_56K2                   new                           
+        RES0402_33                     new                           
+        RES0402_27K4                   new                           
+        RES0402_22R1                   new                           
+        RES0402_20K                    new                           
+        RES0402_10K                    new                           
+        RES0402_10                     new                           
+        RES0402_8K06                   new                           
+        RES0402_4K99                   new                           
+        RES0402_4K75                   new                           
+        RES0402_1K                     new                           
+        RES0402_0                      new                           
+    
+
+Part 'RES0402_10K': The following Cells are older in the target library:
+    Cell 'R0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        RES0402_887                    new                           
+        RES0402_620                    new                           
+        RES0402_240                    new                           
+        RES0402_100                    new                           
+        RES0402_80P6                   new                           
+        RES0402_56K2                   new                           
+        RES0402_33                     new                           
+        RES0402_27K4                   new                           
+        RES0402_22R1                   new                           
+        RES0402_20K                    new                           
+        RES0402_10K                    new                           
+        RES0402_10                     new                           
+        RES0402_8K06                   new                           
+        RES0402_4K99                   new                           
+        RES0402_4K75                   new                           
+        RES0402_1K                     new                           
+        RES0402_0                      new                           
+    
+
+Part 'RES0402_20K': The following Cells are older in the target library:
+    Cell 'R0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        RES0402_887                    new                           
+        RES0402_620                    new                           
+        RES0402_240                    new                           
+        RES0402_100                    new                           
+        RES0402_80P6                   new                           
+        RES0402_56K2                   new                           
+        RES0402_33                     new                           
+        RES0402_27K4                   new                           
+        RES0402_22R1                   new                           
+        RES0402_20K                    new                           
+        RES0402_10K                    new                           
+        RES0402_10                     new                           
+        RES0402_8K06                   new                           
+        RES0402_4K99                   new                           
+        RES0402_4K75                   new                           
+        RES0402_1K                     new                           
+        RES0402_0                      new                           
+    
+
+Part 'RES0402_22R1': The following Cells are older in the target library:
+    Cell 'R0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        RES0402_887                    new                           
+        RES0402_620                    new                           
+        RES0402_240                    new                           
+        RES0402_100                    new                           
+        RES0402_80P6                   new                           
+        RES0402_56K2                   new                           
+        RES0402_33                     new                           
+        RES0402_27K4                   new                           
+        RES0402_22R1                   new                           
+        RES0402_20K                    new                           
+        RES0402_10K                    new                           
+        RES0402_10                     new                           
+        RES0402_8K06                   new                           
+        RES0402_4K99                   new                           
+        RES0402_4K75                   new                           
+        RES0402_1K                     new                           
+        RES0402_0                      new                           
+    
+
+Part 'RES0402_27K4': The following Cells are older in the target library:
+    Cell 'R0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        RES0402_887                    new                           
+        RES0402_620                    new                           
+        RES0402_240                    new                           
+        RES0402_100                    new                           
+        RES0402_80P6                   new                           
+        RES0402_56K2                   new                           
+        RES0402_33                     new                           
+        RES0402_27K4                   new                           
+        RES0402_22R1                   new                           
+        RES0402_20K                    new                           
+        RES0402_10K                    new                           
+        RES0402_10                     new                           
+        RES0402_8K06                   new                           
+        RES0402_4K99                   new                           
+        RES0402_4K75                   new                           
+        RES0402_1K                     new                           
+        RES0402_0                      new                           
+    
+
+Part 'RES0402_33': The following Cells are older in the target library:
+    Cell 'R0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        RES0402_887                    new                           
+        RES0402_620                    new                           
+        RES0402_240                    new                           
+        RES0402_100                    new                           
+        RES0402_80P6                   new                           
+        RES0402_56K2                   new                           
+        RES0402_33                     new                           
+        RES0402_27K4                   new                           
+        RES0402_22R1                   new                           
+        RES0402_20K                    new                           
+        RES0402_10K                    new                           
+        RES0402_10                     new                           
+        RES0402_8K06                   new                           
+        RES0402_4K99                   new                           
+        RES0402_4K75                   new                           
+        RES0402_1K                     new                           
+        RES0402_0                      new                           
+    
+
+Part 'RES0402_56K2': The following Cells are older in the target library:
+    Cell 'R0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        RES0402_887                    new                           
+        RES0402_620                    new                           
+        RES0402_240                    new                           
+        RES0402_100                    new                           
+        RES0402_80P6                   new                           
+        RES0402_56K2                   new                           
+        RES0402_33                     new                           
+        RES0402_27K4                   new                           
+        RES0402_22R1                   new                           
+        RES0402_20K                    new                           
+        RES0402_10K                    new                           
+        RES0402_10                     new                           
+        RES0402_8K06                   new                           
+        RES0402_4K99                   new                           
+        RES0402_4K75                   new                           
+        RES0402_1K                     new                           
+        RES0402_0                      new                           
+    
+
+Part 'RES0402_80P6': The following Cells are older in the target library:
+    Cell 'R0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        RES0402_887                    new                           
+        RES0402_620                    new                           
+        RES0402_240                    new                           
+        RES0402_100                    new                           
+        RES0402_80P6                   new                           
+        RES0402_56K2                   new                           
+        RES0402_33                     new                           
+        RES0402_27K4                   new                           
+        RES0402_22R1                   new                           
+        RES0402_20K                    new                           
+        RES0402_10K                    new                           
+        RES0402_10                     new                           
+        RES0402_8K06                   new                           
+        RES0402_4K99                   new                           
+        RES0402_4K75                   new                           
+        RES0402_1K                     new                           
+        RES0402_0                      new                           
+    
+
+Part 'RES0402_100': The following Cells are older in the target library:
+    Cell 'R0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        RES0402_887                    new                           
+        RES0402_620                    new                           
+        RES0402_240                    new                           
+        RES0402_100                    new                           
+        RES0402_80P6                   new                           
+        RES0402_56K2                   new                           
+        RES0402_33                     new                           
+        RES0402_27K4                   new                           
+        RES0402_22R1                   new                           
+        RES0402_20K                    new                           
+        RES0402_10K                    new                           
+        RES0402_10                     new                           
+        RES0402_8K06                   new                           
+        RES0402_4K99                   new                           
+        RES0402_4K75                   new                           
+        RES0402_1K                     new                           
+        RES0402_0                      new                           
+    
+
+Part 'RES0402_240': The following Cells are older in the target library:
+    Cell 'R0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        RES0402_887                    new                           
+        RES0402_620                    new                           
+        RES0402_240                    new                           
+        RES0402_100                    new                           
+        RES0402_80P6                   new                           
+        RES0402_56K2                   new                           
+        RES0402_33                     new                           
+        RES0402_27K4                   new                           
+        RES0402_22R1                   new                           
+        RES0402_20K                    new                           
+        RES0402_10K                    new                           
+        RES0402_10                     new                           
+        RES0402_8K06                   new                           
+        RES0402_4K99                   new                           
+        RES0402_4K75                   new                           
+        RES0402_1K                     new                           
+        RES0402_0                      new                           
+    
+
+Part 'RES0402_620': The following Cells are older in the target library:
+    Cell 'R0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        RES0402_887                    new                           
+        RES0402_620                    new                           
+        RES0402_240                    new                           
+        RES0402_100                    new                           
+        RES0402_80P6                   new                           
+        RES0402_56K2                   new                           
+        RES0402_33                     new                           
+        RES0402_27K4                   new                           
+        RES0402_22R1                   new                           
+        RES0402_20K                    new                           
+        RES0402_10K                    new                           
+        RES0402_10                     new                           
+        RES0402_8K06                   new                           
+        RES0402_4K99                   new                           
+        RES0402_4K75                   new                           
+        RES0402_1K                     new                           
+        RES0402_0                      new                           
+    
+
+Part 'RES0402_887': The following Cells are older in the target library:
+    Cell 'R0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        RES0402_887                    new                           
+        RES0402_620                    new                           
+        RES0402_240                    new                           
+        RES0402_100                    new                           
+        RES0402_80P6                   new                           
+        RES0402_56K2                   new                           
+        RES0402_33                     new                           
+        RES0402_27K4                   new                           
+        RES0402_22R1                   new                           
+        RES0402_20K                    new                           
+        RES0402_10K                    new                           
+        RES0402_10                     new                           
+        RES0402_8K06                   new                           
+        RES0402_4K99                   new                           
+        RES0402_4K75                   new                           
+        RES0402_1K                     new                           
+        RES0402_0                      new                           
+    
+
+Part 'RES0603_24K9': The following Cells are older in the target library:
+    Cell 'R0603': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        RES0603_100K                   new                           
+        RES0603_69K8                   new                           
+        RES0603_24K9                   new                           
+    
+
+Part 'RES0603_69K8': The following Cells are older in the target library:
+    Cell 'R0603': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        RES0603_100K                   new                           
+        RES0603_69K8                   new                           
+        RES0603_24K9                   new                           
+    
+
+Part 'RES0603_100K': The following Cells are older in the target library:
+    Cell 'R0603': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        RES0603_100K                   new                           
+        RES0603_69K8                   new                           
+        RES0603_24K9                   new                           
+    
+
+Part 'RJ45-10_100_1000-BELFUSE': The following Cells are older in the target library:
+    Cell 'RJ45_17PINS_2LED': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        RJ45-10_100_1000-BELFUSE       new                           
+    
+
+Part 'SN65LVDS4': The following Cells are older in the target library:
+    Cell 'QFN-10_1P55X2P05XP6XP5MMP': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        SN65LVDS4                      new                           
+    
+
+Part 'SW_PB_SPST_2PIN': The following Cells are older in the target library:
+    Cell 'SWITCH_2P5X4X1P6MMH': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        SW_PB_SPST_2PIN                new                           
+    
+
+Part 'TPD12S016': The following Cells are older in the target library:
+    Cell 'TSSOP24_6P4X7P9X1P2MMH_P65P': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        TPD12S016                      new                           
+    
+
+Part 'USB_MICRO_AB_RA_SMT': The following Cells are older in the target library:
+    Cell 'USB_MICRO5P_5X7X3P07MMH': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        USB_MICRO_AB_RA_SMT            new                           
+    
+
+Part 'USB_MICRO_B_RA_SMT': The following Cells are older in the target library:
+    Cell 'USB_MICROB_5P05X7P86X3P1MMH_R': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        USB_MICRO_B_RA_SMT             new                           
+    
+
+Part 'USB3320_ULPI_XCVR': The following Cells are older in the target library:
+    Cell 'QFN32_5SQXP9H_P5MMP_3P45PAD': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        USB3320_ULPI_XCVR              new                           
+    
+
+Part 'VOLTMON_4IN_3P3': The following Cells are older in the target library:
+    Cell 'TSSOP8_3SQX1P1H_P65P': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        VOLTMON_4IN_3P3                new                           
+    
+
+Part 'XTAL_4P_25MHZ': The following Cells are older in the target library:
+    Cell 'OSC4_1P6X2X7MMH': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        XTAL_4P_25MHZ                  new                           
+        CRYSTAL_4P_24MHZ               new                           
+    
+
+Part 'ZYNQ_7Z020_CLG400': The following Cells are older in the target library:
+    Cell 'CBGA400_17SQ_1P6H_P8MMP': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        ZYNQ_7Z020_CLG400              new                           
+    
+
+Part '88E1318_QFN48': The following Cells are older in the target library:
+    Cell 'QFN48_7SQXP5PX1MMH_3P1PAD': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+        Part Number                    Part Partition
+        ------------------------------ ------------------------------
+        88E1318_QFN48                  new                           
+    
+
+The following Cells are older in the target library than in the source.  Copying them may
+affect the following Parts:
+
+Cell 'BEAD_0603': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    BLM18SG121TN1D                 new                           
+
+
+Cell 'BGA324_15SQX1P5_P8MMP': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    EPIPHANY_E16G301               new                           
+
+
+Cell 'CBGA400_17SQ_1P6H_P8MMP': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    ZYNQ_7Z020_CLG400              new                           
+
+
+Cell 'CONN_BSH60P_13P59X25P88_P5P_V': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    CON_BSH_030_VERT               new                           
+
+
+Cell 'C0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    CAP0402_10NF_X7R_16V           new                           
+    CAP0402_6PF_NPO_50V            new                           
+    CAP0402_4P7UF_X5R              new                           
+    CAP0402_2P2UF_X5R              new                           
+    CAP0402_0P047UF_X5R            new                           
+    CAP0402_0P47UF_X5R             new                           
+    CAP0402_0P1UF_X5R_35V          new                           
+
+
+Cell 'C0603': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    CAP0603_1UF_X5R                new                           
+    CAP0603_10UF_X5R               new                           
+    CAP0603_4P7UF_16V_X5R          new                           
+    CAP1UF_X5R                     new                           
+
+
+Cell 'C0805': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    CAP0805_6800PF_X7R             new                           
+    CAP0805_10UF_16V_X5R           new                           
+
+
+Cell 'C1210': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    CAP1210_100UF_X5R_LOESR        new                           
+
+
+Cell 'DC_PWR_JCK_9X14P4X11MMH': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    CON_POWER_PJ002A_TH            new                           
+
+
+Cell 'FBEAD_0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    BLM15AG121SN1D                 new                           
+
+
+Cell 'FBGA136_11X14X1P1_P8MMP': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    DDR3_256MX32                   new                           
+
+
+Cell 'F0603': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    FUSE0603_4A                    new                           
+
+
+Cell 'HDMI_MICRO19_6P5X7P5X2P9H_P4P': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    HDMI_MICRO_D_RA_SMT            new                           
+
+
+Cell 'HDR_1X2_TH_VER': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    HDR_1X2_TH_VER                 new                           
+
+
+Cell 'HDR_1X3_TH_VER': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    HDR_1X3_TH_VER_0.1P            new                           
+
+
+Cell 'IND2_2X2P5X1P2MMH': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    IND_1P5UH_2A                   new                           
+
+
+Cell 'LED_0603': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    LED_0603_5MA_RED               new                           
+    LED_0603_5MA_GRN               new                           
+
+
+Cell 'LQFP64_10SQX1P6MMH_P5MMP': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    HDMI_DVI_XCVR_ADV7513          new                           
+
+
+Cell 'OSC4_1P6X2X7MMH': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    XTAL_4P_25MHZ                  new                           
+    CRYSTAL_4P_24MHZ               new                           
+
+
+Cell 'PTH125_200PAD': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    PTH125_200PAD                  new                           
+
+
+Cell 'QFN-10_1P55X2P05XP6XP5MMP': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    SN65LVDS4                      new                           
+
+
+Cell 'QFN32_5SQXP9H_P5MMP_3P45PAD': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    USB3320_ULPI_XCVR              new                           
+
+
+Cell 'QFN48_7SQXP5PX1MMH_3P1PAD': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    88E1318_QFN48                  new                           
+
+
+Cell 'RJ45_17PINS_2LED': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    RJ45-10_100_1000-BELFUSE       new                           
+
+
+Cell 'R0402': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    RES0402_887                    new                           
+    RES0402_620                    new                           
+    RES0402_240                    new                           
+    RES0402_100                    new                           
+    RES0402_80P6                   new                           
+    RES0402_56K2                   new                           
+    RES0402_33                     new                           
+    RES0402_27K4                   new                           
+    RES0402_22R1                   new                           
+    RES0402_20K                    new                           
+    RES0402_10K                    new                           
+    RES0402_10                     new                           
+    RES0402_8K06                   new                           
+    RES0402_4K99                   new                           
+    RES0402_4K75                   new                           
+    RES0402_1K                     new                           
+    RES0402_0                      new                           
+
+
+Cell 'R0603': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    RES0603_100K                   new                           
+    RES0603_69K8                   new                           
+    RES0603_24K9                   new                           
+
+
+Cell 'SC_70_6PSMT': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    NC7WZ16                        new                           
+
+
+Cell 'SDMICRO_8PIN_REV_15SQX1P51MMH': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    CONN_MICROSD_CARD              new                           
+
+
+Cell 'SOD-523': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    DIODE_BAS16XV2T1G              new                           
+
+
+Cell 'SOIC8_33P94X4P93X1P63H_P65P': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    MIC2025_1_USB_SW               new                           
+
+
+Cell 'SOT_5PIN': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    NC7SZ125                       new                           
+
+
+Cell 'SWITCH_2P5X4X1P6MMH': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    SW_PB_SPST_2PIN                new                           
+
+
+Cell 'TQFN16_4SQXP75H_P65P': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    IC_ISL9307_DCDC_CONV           new                           
+    IC_ISL9305_DCDC_CONV           new                           
+
+
+Cell 'TSSOP8_3SQX1P1H_P65P': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    VOLTMON_4IN_3P3                new                           
+
+
+Cell 'TSSOP8_3X4P4X1P2H_P65MMP': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    IC_SI51219                     new                           
+
+
+Cell 'TSSOP24_6P4X7P9X1P2MMH_P65P': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    TPD12S016                      new                           
+
+
+Cell 'USB_MICROB_5P05X7P86X3P1MMH_R': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    USB_MICRO_B_RA_SMT             new                           
+
+
+Cell 'USB_MICRO5P_5X7X3P07MMH': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    USB_MICRO_AB_RA_SMT            new                           
+
+
+Cell 'VPDFN-8_6X8XP85H_1P27MMP': Source partition: 'Temp_Cell', Target partition: 'Temp_Cell'
+
+    Part Number                    Part Partition
+    ------------------------------ ------------------------------
+    IC_SPI_FLASH_QUAD_128Mb        new                           
+
+
+The following Parts will not be copied to the target library because they are the same:
+
+    TEST_TERM_BLK
+    TEST_TERM_RED
+
+
+Cell 'BEAD_0603' was copied because it was newer.
+Cell 'BGA324_15SQX1P5_P8MMP' was copied because it was newer.
+Cell 'CBGA400_17SQ_1P6H_P8MMP' was copied because it was newer.
+Cell 'CONN_BSH60P_13P59X25P88_P5P_V' was copied because it was newer.
+Cell 'C0402' was copied because it was newer.
+Cell 'C0603' was copied because it was newer.
+Cell 'C0805' was copied because it was newer.
+Cell 'C1210' was copied because it was newer.
+Cell 'DC_PWR_JCK_9X14P4X11MMH' was copied because it was newer.
+Cell 'FBEAD_0402' was copied because it was newer.
+Cell 'FBGA136_11X14X1P1_P8MMP' was copied because it was newer.
+Cell 'F0603' was copied because it was newer.
+Cell 'HDMI_MICRO19_6P5X7P5X2P9H_P4P' was copied because it was newer.
+Cell 'HDR_1X2_TH_VER' was copied because it was newer.
+Cell 'HDR_1X3_TH_VER' was copied because it was newer.
+Cell 'IND2_2X2P5X1P2MMH' was copied because it was newer.
+Cell 'LED_0603' was copied because it was newer.
+Cell 'LQFP64_10SQX1P6MMH_P5MMP' was copied because it was newer.
+Cell 'OSC4_1P6X2X7MMH' was copied because it was newer.
+Cell 'PTH125_200PAD' was copied because it was newer.
+Cell 'QFN-10_1P55X2P05XP6XP5MMP' was copied because it was newer.
+Cell 'QFN32_5SQXP9H_P5MMP_3P45PAD' was copied because it was newer.
+Cell 'QFN48_7SQXP5PX1MMH_3P1PAD' was copied because it was newer.
+Cell 'RJ45_17PINS_2LED' was copied because it was newer.
+Cell 'R0402' was copied because it was newer.
+Cell 'R0603' was copied because it was newer.
+Cell 'SC_70_6PSMT' was copied because it was newer.
+Cell 'SDMICRO_8PIN_REV_15SQX1P51MMH' was copied because it was newer.
+Cell 'SOD-523' was copied because it was newer.
+Cell 'SOIC8_33P94X4P93X1P63H_P65P' was copied because it was newer.
+Cell 'SOT_5PIN' was copied because it was newer.
+Cell 'SWITCH_2P5X4X1P6MMH' was copied because it was newer.
+Cell 'TQFN16_4SQXP75H_P65P' was copied because it was newer.
+Cell 'TSSOP8_3SQX1P1H_P65P' was copied because it was newer.
+Cell 'TSSOP8_3X4P4X1P2H_P65MMP' was copied because it was newer.
+Cell 'TSSOP24_6P4X7P9X1P2MMH_P65P' was copied because it was newer.
+Cell 'USB_MICROB_5P05X7P86X3P1MMH_R' was copied because it was newer.
+Cell 'USB_MICRO5P_5X7X3P07MMH' was copied because it was newer.
+Cell 'VPDFN-8_6X8XP85H_1P27MMP' was copied because it was newer.
+
+
+Operation completed successfully.
+---------------------------------

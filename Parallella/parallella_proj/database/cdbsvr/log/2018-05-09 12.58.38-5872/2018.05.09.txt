@@ -1,0 +1,171 @@
+[2018.05.09 12:58:38] [0000m.00s.029ms] [0] WELCOME
+[2018.05.09 12:58:38] [0000m.00s.030ms] [1] iCDB Server ver.2.202, 88Zh1V4+7Fzqu6g9/cuD/w, build:7609897 created 2017-06-23 16:20:58, sources stamp:88Zh1V4+7Fzqu6g9/cuD/w
+[2018.05.09 12:58:38] [0000m.00s.030ms] [1] Copyright 2017 Mentor Graphics Corporation.  All Rights Reserved.
+[2018.05.09 12:58:38] [0000m.00s.030ms] [1] Base flow version [VX.2.2]
+[2018.05.09 12:58:38] [0000m.00s.030ms] [1] Install Id [1589114], Flow Id [X-ENTP VX.2.2], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.2], Exact Access Date [2017/05/01]
+[2018.05.09 12:58:38] [0000m.00s.032ms] [1] Machine [HOME-PC-W7]  IP [127.0.0.1,192.168.0.105]  User [HOME]  PID [5872]
+[2018.05.09 12:58:38] [0000m.00s.032ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2018.05.09 12:58:38] [0000m.00s.032ms] [1] Current working dir [C:\Users\HOME\Desktop\Projekt Parallella\PCBD\!projekt_i_bibioteka\parallella_proj]
+[2018.05.09 12:58:38] [0000m.00s.032ms] [1] PATH [C:\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.2.2\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.2.2\MGC_HOME.ixw\lib;C:\Program Files (x86)\Intel\MPI-RT\5.0.2.044\intel64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MATLAB\R2017a\bin;C:\Wincupl\WINCUPL\EXE;C:\Wincupl\WINCUPL\FITTERS]
+[2018.05.09 12:58:38] [0000m.00s.032ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.2\SDD_HOME] on file system [NTFS]
+[2018.05.09 12:58:38] [0000m.00s.032ms] [1] SDD_PLATFORM [win64]
+[2018.05.09 12:58:38] [0000m.00s.032ms] [1] WDIR [C:\WDIR\EEVX.2.2;C:\MentorGraphics\EEVX.2.2\SDD_HOME\standard;]
+[2018.05.09 12:58:38] [0000m.00s.032ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.2\iCDB] on file system [NTFS]
+[2018.05.09 12:58:38] [0000m.00s.032ms] [2] S: Loading config files
+[2018.05.09 12:58:38] [0000m.00s.033ms] [1] Config file [C:\Users\HOME\Desktop\Projekt Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\cdbsvr\Server.cfg] not found
+[2018.05.09 12:58:38] [0000m.00s.034ms] [3] S: Config loaded
+[2018.05.09 12:58:38] [0000m.00s.041ms] [0] S: Project path [C:\Users\HOME\Desktop\Projekt Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] on file system [NTFS]
+[2018.05.09 12:58:38] [0000m.00s.042ms] [0] S: Project global path [\\HOME-PC-W7\Users\HOME\Desktop\Projekt Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] on file system [NTFS]
+[2018.05.09 12:58:38] [0000m.00s.042ms] [0] S: Project file (.prj) path [\\HOME-PC-W7\Users\HOME\Desktop\Projekt Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\parallella.prj] on file system [UNKNOWN]
+[2018.05.09 12:58:38] [0000m.00s.042ms] [0] S: Project file (.prj) local path [C:\Users\HOME\Desktop\Projekt Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\parallella.prj] on file system [NTFS]
+[2018.05.09 12:58:38] [0000m.00s.042ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2018.05.09 12:58:38] [0000m.00s.042ms] [0] S: Single-user mode (auto)
+[2018.05.09 12:58:38] [0000m.00s.042ms] [0] S: Event polling mode autodetection
+[2018.05.09 12:58:38] [0000m.00s.042ms] [0] S: Started up automatically by iCDB Client: HOME-PC-W7:HOME:3512
+[2018.05.09 12:58:38] [0000m.00s.042ms] [0] S: Auto close mode
+[2018.05.09 12:58:38] [0000m.00s.042ms] [0] S: Database ID [5237-9c08-17bf-4231-bc2b-cea0-d2bc-ea50-aa52-8e1d-3c4b-ba98]
+[2018.05.09 12:58:38] [0000m.00s.042ms] [0] PathTranslator: BEGIN dumping
+[2018.05.09 12:58:38] [0000m.00s.042ms] [0] PathTranslator: Local -> global path prefix list
+[2018.05.09 12:58:38] [0000m.00s.042ms] [0] PathTranslator: [C:\Users] -> [\\HOME-PC-W7\Users]
+[2018.05.09 12:58:38] [0000m.00s.042ms] [0] PathTranslator: Global -> local path prefix list
+[2018.05.09 12:58:38] [0000m.00s.042ms] [0] PathTranslator: [\\HOME-PC-W7\Users] -> [C:\Users]
+[2018.05.09 12:58:38] [0000m.00s.042ms] [0] PathTranslator: END dumping
+[2018.05.09 12:58:38] [0000m.00s.042ms] [0] S: START
+[2018.05.09 12:58:38] [0000m.00s.043ms] [0] S: Server startup lock file created
+[2018.05.09 12:58:38] [0000m.00s.043ms] [0] S: Listening for client connections on port [10000]
+[2018.05.09 12:58:38] [0000m.00s.043ms] [0] S: Server network ID [HOME-PC-W7:192.168.0.105,HOME-PC-W7:10000]
+[2018.05.09 12:58:38] [0000m.00s.043ms] [0] S: Server GUID [24c1-c26c-8bea-56a9-e54d-2fa3-64d2-fa50-6c53-8e1d-3c4b-ba98]
+[2018.05.09 12:58:38] [0000m.00s.043ms] [0] S: Project GUID [5237-9c08-17bf-4231-bc2b-cea0-d2bc-ea50-aa52-8e1d-3c4b-ba98]
+[2018.05.09 12:58:38] [0000m.00s.044ms] [0] S: Wrote data to server address file
+[2018.05.09 12:58:38] [0000m.00s.044ms] [0] S: Server startup lock file removed
+[2018.05.09 12:58:38] [0000m.00s.044ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\Users\HOME\Desktop\Projekt Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\parallella.prj]
+[2018.05.09 12:58:38] [0000m.00s.092ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2018.05.09 12:58:38] [0000m.00s.092ms] [1] ServerToolkit: INFO: Plugin found in SDD_COMMON_BIN [C:\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\bin]
+[2018.05.09 12:58:38] [0000m.00s.092ms] [0] S: Local disc access time: 17 us
+[2018.05.09 12:58:38] [0000m.00s.092ms] [0] S: File server access time: 19 us
+[2018.05.09 12:58:38] [0000m.00s.092ms] [0] Single file [C:\Users\HOME\Desktop\Projekt Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] size [1820352 (1.7 MB)]
+[2018.05.09 12:58:38] [0000m.00s.092ms] [1] Single file [C:\Users\HOME\Desktop\Projekt Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] opened in read-write mode
+[2018.05.09 12:58:38] [0000m.00s.093ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.05.09 12:58:38] [0000m.00s.093ms] [0] Database GUARD OK: [1820352]
+[2018.05.09 12:58:38] [0000m.00s.093ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.05.09 12:58:38] [0000m.00s.093ms] [0] Database GUARD OK: [1820352]
+[2018.05.09 12:58:38] [0000m.00s.093ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.05.09 12:58:38] [0000m.00s.093ms] [0] Database GUARD OK: [1820352]
+[2018.05.09 12:58:38] [0000m.00s.093ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.05.09 12:58:38] [0000m.00s.093ms] [0] Database GUARD OK: [1820352]
+[2018.05.09 12:58:38] [0000m.00s.094ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.05.09 12:58:38] [0000m.00s.094ms] [0] Database GUARD OK: [1820352]
+[2018.05.09 12:58:38] [0000m.00s.094ms] [0] SingleFile: [a9b4-e9d5-26b7-f72a] SFI version check [1009] [1009]
+[2018.05.09 12:58:38] [0000m.00s.102ms] [0] SingleFile: [a9b4-e9d5-26b7-f72a] Database SFI header has been read in [8ms 438us]
+[2018.05.09 12:58:38] [0000m.00s.106ms] [0] iCDB Server PI: Server & plugin session [1248]
+[2018.05.09 12:58:38] [0000m.00s.106ms] [0] iCDB Server PI: Opening database [C:\Users\HOME\Desktop\Projekt Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database]
+[2018.05.09 12:58:38] [0000m.00s.106ms] [0] iCDB Server PI: Database [C:\Users\HOME\Desktop\Projekt Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] opened
+[2018.05.09 12:58:38] [0000m.00s.113ms] [0] iCDB Database: Checking existence of constraint definitions
+[2018.05.09 12:58:38] [0000m.00s.113ms] [0] iCDB Database: Checking constraint definitions version
+[2018.05.09 12:58:39] [0000m.00s.160ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.56;user.cns=e1f5-07a6-a6d1-219c-7533-43ac-5334-3a50-6533-8e1d-0c4b-ba98] up to date
+[2018.05.09 12:58:39] [0000m.00s.313ms] [0] iCDB Server PI: Initializing plugins
+[2018.05.09 12:58:39] [0000m.00s.313ms] [0] iCDB Server PI: Plugins initialized
+[2018.05.09 12:58:39] [0000m.00s.313ms] [0] S: iCDB database loaded
+[2018.05.09 12:58:39] [0000m.00s.315ms] [0] S: Starting threads
+[2018.05.09 12:58:39] [0000m.00s.315ms] [0] BT: Listening for broadcast messages on port [10000]
+[2018.05.09 12:58:39] [0000m.00s.315ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2018.05.09 12:58:39] [0000m.00s.317ms] [0] IT: Session [1249] for host [HOME-PC-W7] user [HOME] with process ID [3512] created
+[2018.05.09 12:58:39] [0000m.00s.321ms] [1] SC[1249]: Registered sub-client [DxD] with ID [1] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:39] [0000m.00s.321ms] [0] MWT: WindowProc: WM_NCCREATE
+[2018.05.09 12:58:39] [0000m.00s.416ms] [1] CMT: There are [1] clients now: 1249
+[2018.05.09 12:58:39] [0000m.00s.455ms] [1] SC[1249]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:39] [0000m.00s.457ms] [1] SC[1249]: Registered sub-client [xprob] with ID [3] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:39] [0000m.00s.517ms] [1] SC[1249]: Registered sub-client [StartServerClient1428] with ID [4] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:39] [0000m.00s.517ms] [1] SC[1249]: UnRegistered sub-client [StartServerClient1428] with ID [4] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:40] [0000m.02s.038ms] [1] SC[1249]: Registered sub-client [SymbolEditor] with ID [5] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:40] [0000m.02s.044ms] [1] SC[1249]: Registered sub-client [SelectionHolder] with ID [6] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:40] [0000m.02s.050ms] [1] SC[1249]: Registered sub-client [EEVM_EEVM_247047776] with ID [7] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:40] [0000m.02s.051ms] [1] SC[1249]: UnRegistered sub-client [EEVM_EEVM_247047776] with ID [7] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:40] [0000m.02s.052ms] [1] SC[1249]: Registered sub-client [EEVM_EEVM_247047776] with ID [8] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:40] [0000m.02s.081ms] [1] SC[1249]: UnRegistered sub-client [EEVM_EEVM_247047776] with ID [8] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:40] [0000m.02s.083ms] [1] SC[1249]: Registered sub-client [EEVM_EEVM_247047776] with ID [9] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:40] [0000m.02s.083ms] [1] SC[1249]: UnRegistered sub-client [EEVM_EEVM_247047776] with ID [9] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:40] [0000m.02s.084ms] [1] SC[1249]: Registered sub-client [EEVM_EEVM_247047776] with ID [10] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:41] [0000m.02s.241ms] [1] SC[1249]: UnRegistered sub-client [EEVM_EEVM_247047776] with ID [10] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:41] [0000m.02s.258ms] [1] SC[1249]: Registered sub-client [SystemDesignDll] with ID [11] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:41] [0000m.02s.259ms] [1] SC[1249]: UnRegistered sub-client [SystemDesignDll] with ID [11] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:41] [0000m.02s.261ms] [1] SC[1249]: Registered sub-client [SystemDesignDll] with ID [12] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.215ms] [1] SC[1249]: Registered sub-client [DesignSearcher2] with ID [13] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.218ms] [1] SC[1249]: Registered sub-client [HdlProject] with ID [14] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.235ms] [1] SC[1249]: Registered sub-client [Navigator] with ID [15] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.253ms] [1] SC[1249]: Registered sub-client [OutputWindow] with ID [16] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.256ms] [1] SC[1249]: Registered sub-client [PlaceDevice] with ID [17] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.276ms] [1] SC[1249]: Registered sub-client [LocalSymbolsDataProvider] with ID [18] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.278ms] [1] SC[1249]: Registered sub-client [FFSearch_Controller_0] with ID [19] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.281ms] [1] SC[1249]: Registered sub-client [FFSearch_Controller_1] with ID [20] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.508ms] [1] SC[1249]: Registered sub-client [FFSSelListener] with ID [21] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.513ms] [1] SC[1249]: Registered sub-client [SAE] with ID [22] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.515ms] [1] SC[1249]: Registered sub-client [CCZAddin] with ID [23] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.516ms] [1] SC[1249]: Registered sub-client [DxThumbnails] with ID [24] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.518ms] [1] SC[1249]: Registered sub-client [MyParts] with ID [25] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.524ms] [1] SC[1249]: Registered sub-client [PinsList] with ID [26] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.566ms] [1] SC[1249]: Registered sub-client [toolboxes] with ID [27] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.701ms] [1] SC[1249]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:492680448] with ID [28] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.705ms] [1] SC[1249]: Registered sub-client [Core::DesignListener-14704] with ID [29] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.720ms] [1] SC[1249]: Registered sub-client [SheetConnectorsCacheDxD:1525863522] with ID [30] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.790ms] [1] SC[1249]: Registered sub-client [NetsNamesCollectorDxD:1525863522] with ID [31] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.799ms] [1] SC[1249]: Registered sub-client [PartReplaceUtils] with ID [32] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.800ms] [1] SC[1249]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [33] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.833ms] [1] SC[1249]: Registered sub-client [ObjectHolder_515865088] with ID [34] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.835ms] [1] SC[1249]: Registered sub-client [BlockCacheDxD:515884224] with ID [35] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.836ms] [1] SC[1249]: Registered sub-client [GlobalNetAliasUpdater_492807888] with ID [36] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.03s.838ms] [1] SC[1249]: Registered sub-client [IcdbNetProcessorSubClientDxD:515695216] with ID [37] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:42] [0000m.04s.082ms] [1] SC[1249]: Registered sub-client [DxDbSearch] with ID [38] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 12:58:58] [0000m.19s.324ms] [0] DFAMT: File server access time: 58 us
+[2018.05.09 13:02:16] [0003m.38s.018ms] [1] SC[1249]: UnRegistered sub-client [SystemDesignDll] with ID [12] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:16] [0003m.38s.041ms] [1] SC[1249]: UnRegistered sub-client [DesignSearcher2] with ID [13] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:16] [0003m.38s.078ms] [1] SC[1249]: UnRegistered sub-client [GlobalNetAliasUpdater_492807888] with ID [36] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:16] [0003m.38s.078ms] [1] SC[1249]: UnRegistered sub-client [BlockCacheDxD:515884224] with ID [35] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:16] [0003m.38s.078ms] [1] SC[1249]: UnRegistered sub-client [ObjectHolder_515865088] with ID [34] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:16] [0003m.38s.078ms] [1] SC[1249]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:515695216] with ID [37] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:17] [0003m.38s.146ms] [1] SC[1249]: UnRegistered sub-client [Navigator] with ID [15] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:17] [0003m.38s.146ms] [1] SC[1249]: UnRegistered sub-client [FFSSelListener] with ID [21] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:17] [0003m.38s.147ms] [1] SC[1249]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [18] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:17] [0003m.38s.150ms] [1] SC[1249]: UnRegistered sub-client [FFSearch_Controller_1] with ID [20] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:17] [0003m.38s.150ms] [1] SC[1249]: UnRegistered sub-client [FFSearch_Controller_0] with ID [19] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:17] [0003m.38s.211ms] [1] SC[1249]: UnRegistered sub-client [MyParts] with ID [25] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:17] [0003m.38s.236ms] [1] SC[1249]: UnRegistered sub-client [toolboxes] with ID [27] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:17] [0003m.38s.423ms] [1] SC[1249]: UnRegistered sub-client [SelectionHolder] with ID [6] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:17] [0003m.38s.423ms] [1] SC[1249]: UnRegistered sub-client [PartReplaceUtils] with ID [32] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:17] [0003m.38s.423ms] [1] SC[1249]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [33] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:17] [0003m.38s.423ms] [1] SC[1249]: UnRegistered sub-client [Core::DesignListener-14704] with ID [29] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:18] [0003m.39s.523ms] [1] SC[1249]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:492680448] with ID [28] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:18] [0003m.39s.523ms] [1] SC[1249]: UnRegistered sub-client [SheetConnectorsCacheDxD:1525863522] with ID [30] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:18] [0003m.39s.523ms] [1] SC[1249]: UnRegistered sub-client [NetsNamesCollectorDxD:1525863522] with ID [31] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:18] [0003m.39s.524ms] [1] SC[1249]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:18] [0003m.39s.524ms] [1] SC[1249]: UnRegistered sub-client [DxD] with ID [1] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:18] [0003m.39s.527ms] [1] SC[1249]: UnRegistered sub-client [xprob] with ID [3] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:18] [0003m.39s.527ms] [1] SC[1249]: UnRegistered sub-client [SymbolEditor] with ID [5] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:18] [0003m.39s.528ms] [1] SC[1249]: UnRegistered sub-client [OutputWindow] with ID [16] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:18] [0003m.39s.529ms] [1] SC[1249]: UnRegistered sub-client [DxDbSearch] with ID [38] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:18] [0003m.39s.530ms] [1] SC[1249]: UnRegistered sub-client [SAE] with ID [22] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:18] [0003m.39s.531ms] [1] SC[1249]: UnRegistered sub-client [CCZAddin] with ID [23] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:18] [0003m.39s.531ms] [1] SC[1249]: UnRegistered sub-client [DxThumbnails] with ID [24] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:19] [0003m.40s.194ms] [1] SC[1249]: UnRegistered sub-client [PinsList] with ID [26] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:19] [0003m.40s.205ms] [1] SC[1249]: UnRegistered sub-client [PlaceDevice] with ID [17] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:19] [0003m.40s.218ms] [1] SC[1249]: UnRegistered sub-client [HdlProject] with ID [14] for session ID [1249] host [HOME-PC-W7] user [HOME] process ID [3512]
+[2018.05.09 13:02:19] [0003m.40s.236ms] [1] CMT: Removed client [1249]
+[2018.05.09 13:02:19] [0003m.40s.236ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2018.05.09 13:02:21] [0003m.42s.136ms] [0] CMT: Starting server auto-close
+[2018.05.09 13:02:21] [0003m.42s.203ms] [0] S: Closing server
+[2018.05.09 13:02:21] [0003m.42s.248ms] [0] iCDB Server PI: Closing plugins
+[2018.05.09 13:02:21] [0003m.42s.248ms] [0] iCDB Server PI: Plugins closed
+[2018.05.09 13:02:21] [0003m.42s.248ms] [0] iCDB Server PI: Unloading database
+[2018.05.09 13:02:21] [0003m.42s.248ms] [0] iCDB Server PI: Saving storage
+[2018.05.09 13:02:21] [0003m.42s.248ms] [0] iCDB Server PI: Closing database
+[2018.05.09 13:02:21] [0003m.42s.273ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[7%] data[99%]
+[2018.05.09 13:02:21] [0003m.42s.273ms] [1] iCDB Server PI: Stats: Database file size [2033128 (1.9 MB)]
+[2018.05.09 13:02:21] [0003m.42s.304ms] [0] iCDB Server PI: Database closed
+[2018.05.09 13:02:21] [0003m.42s.304ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [63989] ticks
+[2018.05.09 13:02:21] [0003m.42s.305ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [20456] microseconds
+[2018.05.09 13:02:21] [0003m.42s.305ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [11]
+[2018.05.09 13:02:21] [0003m.42s.305ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [537] commands per second
+[2018.05.09 13:02:21] [0003m.42s.305ms] [0] Single file [C:\Users\HOME\Desktop\Projekt Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] closed with size [2033128 (1.9 MB)]
+[2018.05.09 13:02:21] [0003m.42s.439ms] [0] MWT: Destroy the shutdown block reason.
+[2018.05.09 13:02:21] [0003m.42s.440ms] [0] MWT: STOP
+[2018.05.09 13:02:21] [0003m.42s.440ms] [0] S: STOP

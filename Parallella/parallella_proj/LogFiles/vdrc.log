@@ -1,0 +1,8 @@
+SEVERITY: Error
+  GROUP: Interconnectivity : 4 Error(s)
+    drc-OUT-OUT - [flatnet : GND, component: $19I42, pin: EN_REG18] OUT pin connected to OUT pin
+    drc-OUT-OUT - [flatnet : GND, component: $19I42, pin: EN_REG10] OUT pin connected to OUT pin
+    drc-OUT-POWER - [flatnet : GND, component: $19I42, pin: EN_REG18] OUT pin connected to Power pin
+    drc-OUT-POWER - [flatnet : GND, component: $19I42, pin: EN_REG10] OUT pin connected to Power pin
+
+4 Error(s), 0 Warning(s), 0 Note(s), 

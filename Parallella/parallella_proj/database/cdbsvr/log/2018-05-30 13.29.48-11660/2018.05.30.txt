@@ -1,0 +1,99 @@
+[2018.05.30 13:29:48] [0000m.00s.070ms] [0] WELCOME
+[2018.05.30 13:29:48] [0000m.00s.070ms] [1] iCDB Server ver.2.202, 88Zh1V4+7Fzqu6g9/cuD/w, build:7609897 created 2017-06-23 16:20:58, sources stamp:88Zh1V4+7Fzqu6g9/cuD/w
+[2018.05.30 13:29:48] [0000m.00s.070ms] [1] Copyright 2017 Mentor Graphics Corporation.  All Rights Reserved.
+[2018.05.30 13:29:48] [0000m.00s.070ms] [1] Base flow version [VX.2.2]
+[2018.05.30 13:29:48] [0000m.00s.070ms] [1] Install Id [1589114], Flow Id [X-ENTP VX.2.2], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.2], Exact Access Date [2017/05/01]
+[2018.05.30 13:29:48] [0000m.00s.080ms] [1] Machine [DAMKU]  IP [127.0.0.1,157.158.200.108]  User [Damian]  PID [11660]
+[2018.05.30 13:29:48] [0000m.00s.080ms] [1] Operating system [Microsoft Business Edition, 64-bit (build 9200)]
+[2018.05.30 13:29:48] [0000m.00s.080ms] [1] Current working dir [E:\Pulpit\Projekt 7Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\PCB]
+[2018.05.30 13:29:48] [0000m.00s.080ms] [1] PATH [D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\xe\win64\lib;D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\bin;D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\lib;D:\Aplikacje\MentorGraphics\EEVX.2.2\MGC_HOME.ixw\bin;D:\Aplikacje\MentorGraphics\EEVX.2.2\MGC_HOME.ixw\lib;D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\wg\win64\lib;D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\bin;D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\lib;D:\Aplikacje\MentorGraphics\EEVX.2.2\MGC_HOME.ixw\bin;D:\Aplikacje\MentorGraphics\EEVX.2.2\MGC_HOME.ixw\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\MPI-RT\5.0.2.044\intel64\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\Aplikacje\MiKTeX\miktex\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Aplikacje\Matlab\runtime\win64;D:\Aplikacje\Matlab\bin;D:\Aplikacje\Skype\Phone\;D:\Aplikacje\CUPL\WINCUPL\EXE;D:\Aplikacje\CUPL\WINCUPL\FITTERS;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\common3D\win64\lib]
+[2018.05.30 13:29:48] [0000m.00s.080ms] [1] SDD_HOME [D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME] on file system [NTFS]
+[2018.05.30 13:29:48] [0000m.00s.080ms] [1] SDD_PLATFORM [win64]
+[2018.05.30 13:29:48] [0000m.00s.080ms] [1] WDIR [C:\WDIR\EEVX.2.2;D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\standard;]
+[2018.05.30 13:29:48] [0000m.00s.080ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.2\iCDB] on file system [NTFS]
+[2018.05.30 13:29:48] [0000m.00s.080ms] [2] S: Loading config files
+[2018.05.30 13:29:48] [0000m.00s.090ms] [1] Config file [E:\Pulpit\Projekt 7Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\cdbsvr\Server.cfg] not found
+[2018.05.30 13:29:48] [0000m.00s.100ms] [3] S: Config loaded
+[2018.05.30 13:29:48] [0000m.00s.130ms] [0] S: Project path [E:\Pulpit\Projekt 7Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] on file system [NTFS]
+[2018.05.30 13:29:48] [0000m.00s.130ms] [1] S: WARNING: No project file (.prj) path specified
+[2018.05.30 13:29:48] [0000m.00s.130ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2018.05.30 13:29:48] [0000m.00s.130ms] [0] S: Single-user mode (auto)
+[2018.05.30 13:29:48] [0000m.00s.130ms] [0] S: Event polling mode autodetection
+[2018.05.30 13:29:48] [0000m.00s.130ms] [0] S: Started up automatically by iCDB Client: DAMKU:Damian:10544
+[2018.05.30 13:29:48] [0000m.00s.130ms] [0] S: Auto close mode
+[2018.05.30 13:29:48] [0000m.00s.130ms] [0] S: Database ID [257a-99e7-8286-5ba1-c285-e0b1-385e-0b50-af29-4897-58e2-03e2]
+[2018.05.30 13:29:48] [0000m.00s.130ms] [0] PathTranslator: BEGIN dumping
+[2018.05.30 13:29:48] [0000m.00s.130ms] [0] PathTranslator: Local -> global path prefix list
+[2018.05.30 13:29:48] [0000m.00s.130ms] [0] PathTranslator: [E:\Instalatory] -> [\\DAMKU\Instalatory]
+[2018.05.30 13:29:48] [0000m.00s.130ms] [0] PathTranslator: Global -> local path prefix list
+[2018.05.30 13:29:48] [0000m.00s.130ms] [0] PathTranslator: [\\DAMKU\Instalatory] -> [E:\Instalatory]
+[2018.05.30 13:29:48] [0000m.00s.130ms] [0] PathTranslator: END dumping
+[2018.05.30 13:29:48] [0000m.00s.130ms] [0] S: START
+[2018.05.30 13:29:48] [0000m.00s.140ms] [0] S: Server startup lock file created
+[2018.05.30 13:29:48] [0000m.00s.140ms] [0] S: Listening for client connections on port [10000]
+[2018.05.30 13:29:48] [0000m.00s.140ms] [0] S: Server network ID [DAMKU:157.158.200.108,DAMKU:10000]
+[2018.05.30 13:29:48] [0000m.00s.140ms] [0] S: Server GUID [af06-aa8c-b68e-0ddb-c2b8-e0b1-3b8e-0b50-94ff-be5d-7e39-0ac5]
+[2018.05.30 13:29:48] [0000m.00s.140ms] [0] S: Project GUID [257a-99e7-8286-5ba1-c285-e0b1-385e-0b50-af29-4897-58e2-03e2]
+[2018.05.30 13:29:48] [0000m.00s.150ms] [0] S: Wrote data to server address file
+[2018.05.30 13:29:48] [0000m.00s.150ms] [0] S: Server startup lock file removed
+[2018.05.30 13:29:48] [0000m.00s.150ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2018.05.30 13:29:48] [0000m.00s.160ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2018.05.30 13:29:48] [0000m.00s.160ms] [1] ServerToolkit: INFO: Plugin found in SDD_COMMON_BIN [D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\bin]
+[2018.05.30 13:29:48] [0000m.00s.160ms] [0] S: Local disc access time: 55 us
+[2018.05.30 13:29:48] [0000m.00s.160ms] [0] S: File server access time: 53 us
+[2018.05.30 13:29:48] [0000m.00s.160ms] [0] Single file [E:\Pulpit\Projekt 7Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] size [1545664 (1.5 MB)]
+[2018.05.30 13:29:48] [0000m.00s.160ms] [1] Single file [E:\Pulpit\Projekt 7Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] opened in read-write mode
+[2018.05.30 13:29:48] [0000m.00s.160ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.05.30 13:29:48] [0000m.00s.160ms] [0] Database GUARD OK: [1545664]
+[2018.05.30 13:29:48] [0000m.00s.170ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.05.30 13:29:48] [0000m.00s.170ms] [0] Database GUARD OK: [1545664]
+[2018.05.30 13:29:48] [0000m.00s.170ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.05.30 13:29:48] [0000m.00s.170ms] [0] Database GUARD OK: [1545664]
+[2018.05.30 13:29:48] [0000m.00s.170ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.05.30 13:29:48] [0000m.00s.170ms] [0] Database GUARD OK: [1545664]
+[2018.05.30 13:29:48] [0000m.00s.170ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.05.30 13:29:48] [0000m.00s.170ms] [0] Database GUARD OK: [1545664]
+[2018.05.30 13:29:48] [0000m.00s.170ms] [0] SingleFile: [8729-c231-13c7-69e4] SFI version check [1009] [1009]
+[2018.05.30 13:29:48] [0000m.00s.180ms] [0] SingleFile: [8729-c231-13c7-69e4] Database SFI header has been read in [15ms 362us]
+[2018.05.30 13:29:48] [0000m.00s.190ms] [0] iCDB Server PI: Server & plugin session [2079]
+[2018.05.30 13:29:48] [0000m.00s.190ms] [0] iCDB Server PI: Opening database [E:\Pulpit\Projekt 7Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database]
+[2018.05.30 13:29:48] [0000m.00s.190ms] [0] iCDB Server PI: Database [E:\Pulpit\Projekt 7Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] opened
+[2018.05.30 13:29:49] [0000m.01s.490ms] [0] iCDB Database: Checking existence of constraint definitions
+[2018.05.30 13:29:49] [0000m.01s.490ms] [0] iCDB Database: Checking constraint definitions version
+[2018.05.30 13:29:49] [0000m.01s.640ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.56;user.cns=c446-4279-9a5f-b38c-02a4-91a5-2a49-1a50-15ed-be5d-7e59-b9c5] up to date
+[2018.05.30 13:29:50] [0000m.02s.067ms] [0] iCDB Server PI: Initializing plugins
+[2018.05.30 13:29:50] [0000m.02s.067ms] [0] iCDB Server PI: Plugins initialized
+[2018.05.30 13:29:50] [0000m.02s.067ms] [0] S: iCDB database loaded
+[2018.05.30 13:29:50] [0000m.02s.067ms] [0] S: Starting threads
+[2018.05.30 13:29:50] [0000m.02s.077ms] [0] BT: Listening for broadcast messages on port [10000]
+[2018.05.30 13:29:50] [0000m.02s.077ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2018.05.30 13:29:50] [0000m.02s.077ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2018.05.30 13:29:50] [0000m.02s.077ms] [0] IT: Session [2080] for host [DAMKU] user [Damian] with process ID [10544] created
+[2018.05.30 13:29:50] [0000m.02s.077ms] [1] SC[2080]: Registered sub-client [Expedition_1098878062] with ID [1] for session ID [2080] host [DAMKU] user [Damian] process ID [10544]
+[2018.05.30 13:29:50] [0000m.02s.077ms] [0] MWT: WindowProc: WM_NCCREATE
+[2018.05.30 13:29:50] [0000m.02s.187ms] [1] CMT: There are [1] clients now: 2080
+[2018.05.30 13:29:50] [0000m.02s.667ms] [1] SC[2080]: UnRegistered sub-client [Expedition_1098878062] with ID [1] for session ID [2080] host [DAMKU] user [Damian] process ID [10544]
+[2018.05.30 13:29:51] [0000m.02s.737ms] [1] CMT: Removed client [2080]
+[2018.05.30 13:29:51] [0000m.02s.737ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2018.05.30 13:29:53] [0000m.04s.817ms] [0] CMT: Starting server auto-close
+[2018.05.30 13:29:53] [0000m.04s.887ms] [0] S: Closing server
+[2018.05.30 13:29:53] [0000m.04s.897ms] [0] ProjectBackupManager: WARNING: Could not shutdown Project Backup engine - not started yet
+[2018.05.30 13:29:53] [0000m.04s.977ms] [0] iCDB Server PI: Closing plugins
+[2018.05.30 13:29:53] [0000m.04s.977ms] [0] iCDB Server PI: Plugins closed
+[2018.05.30 13:29:53] [0000m.04s.977ms] [0] iCDB Server PI: Unloading database
+[2018.05.30 13:29:53] [0000m.04s.977ms] [0] iCDB Server PI: Saving storage
+[2018.05.30 13:29:53] [0000m.04s.977ms] [0] iCDB Server PI: Closing database
+[2018.05.30 13:29:53] [0000m.04s.977ms] [1] Hole: zero line at 1545596 of size 24 bytes.
+[2018.05.30 13:29:53] [0000m.05s.168ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[12%] data[98%]
+[2018.05.30 13:29:53] [0000m.05s.168ms] [1] iCDB Server PI: Stats: Database file size [1545664 (1.5 MB)]
+[2018.05.30 13:29:53] [0000m.05s.168ms] [1] Hole: zero line at 1545596 of size 24 bytes.
+[2018.05.30 13:29:53] [0000m.05s.208ms] [0] iCDB Server PI: Database closed
+[2018.05.30 13:29:53] [0000m.05s.208ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [83] ticks
+[2018.05.30 13:29:53] [0000m.05s.208ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [42] microseconds
+[2018.05.30 13:29:53] [0000m.05s.208ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [2]
+[2018.05.30 13:29:53] [0000m.05s.208ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [46954] commands per second
+[2018.05.30 13:29:53] [0000m.05s.218ms] [0] Single file [E:\Pulpit\Projekt 7Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] closed with size [1545664 (1.5 MB)]
+[2018.05.30 13:29:53] [0000m.05s.227ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2018.05.30 13:29:53] [0000m.05s.288ms] [0] MWT: Destroy the shutdown block reason.
+[2018.05.30 13:29:53] [0000m.05s.288ms] [0] MWT: STOP
+[2018.05.30 13:29:53] [0000m.05s.288ms] [0] S: STOP

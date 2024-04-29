@@ -1,0 +1,234 @@
+# C:\MentorGraphics\EEVX.1.1\SDD_HOME\nse\win32\nse.exe_old -project C:\test1_lib\test1_lib.lmc -freezepins -lmc C:\test1_lib\SymbolLibs -parent flm -partition new -- 88E1318_QFN48AA.1 
+nse::setmode -lmc C:\\test1_lib
+nse::opensymbol -freezepins -partition new 88E1318_QFN48AA.1
+# exec C:/MentorGraphics/EEVX.1.1/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/test1_lib/test1_lib.lmc -isFrozen -Partition new -Symbol 88E1318_QFN48BB.1
+nse::opensymbol -freezepins -partition new 88E1318_QFN48BB.1
+# exec C:/MentorGraphics/EEVX.1.1/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/test1_lib/test1_lib.lmc -isFrozen -Partition new -Symbol CAP0402_0P047UF_X5R.1
+nse::opensymbol -freezepins -partition new CAP0402_0P047UF_X5R.1
+nse::selectitems 1
+prop::setvisible -valueindex 0 -dest port {Pin Number}
+nse::setactivesymbol sid2
+# exec C:/MentorGraphics/EEVX.1.1/SDD_HOME/lm/win32/bin/OnLMCModify.exe C:/test1_lib/test1_lib.lmc -isFrozen -Partition new -Symbol EPIPHANY_E16G301A.1
+nse::opensymbol -freezepins -partition new EPIPHANY_E16G301A.1
+nse::selectitems 1
+nse::clearselection
+nse::selectitems 5
+nse::clearselection
+nse::selectitems 1
+nse::closesymbol
+nse::closesymbol
+nse::closesymbol
+nse::closesymbol
+# C:\MentorGraphics\EEVX.1.1\SDD_HOME\nse\win32\nse.exe_old -project C:\test1_lib\test1_lib.lmc -lmc C:\test1_lib\SymbolLibs -parent flm 
+# C:\MentorGraphics\EEVX.1.1\SDD_HOME\nse\win32\nse.exe_old -project C:\proj_test3\proj_test3.prj -freezepins -lmc C:\test1_lib\SymbolLibs -parent flm -partition new -- CAP0402_0P047UF_X5R.1 
+nse::setmode -lmc C:\\test1_lib
+nse::opensymbol -freezepins -partition new CAP0402_0P047UF_X5R.1
+nse::selectitems 15
+nse::deselectitems 15
+nse::selectitems 16
+nse::deselectitems 16
+nse::selectitems 15
+nse::deselectitems 15
+nse::selectitems 16
+nse::clearselection
+nse::selectitems 15
+nse::clearselection
+prop::delete -valueindex 0 {Part Reference}
+prop::setvisible -valueindex 0 {Part Number}
+nse::selectitems 10
+gfx::setfontsize -size 6
+edit::move -offset 5080,-2540
+nse::deselectitems 10
+nse::selectitems 16
+nse::clearselection
+prop::setvisible -valueindex 0 -visible none {Part Number}
+prop::add -value ? {Ref Designator}
+prop::setvisible -valueindex 0 {Ref Designator}
+nse::selectitems 23
+gfx::setfontsize -size 6
+nse::deselectitems 23
+nse::selectitems 16
+nse::clearselection
+prop::setvisible -valueindex 0 {Part Number}
+prop::setvisible -valueindex 0 -visible none {Part Number}
+nse::selectitems 16
+edit::move -offset 2540,-296
+nse::deselectitems 16
+nse::selectitems 23
+edit::move -offset 2540,-5376
+prop::setvalue -value C? -valueindex 0 {Ref Designator}
+nse::clearselection
+nse::savesymbol
+nse::opensymbol -freezepins -partition new 88E1318_QFN48AA.1
+prop::setvisible -valueindex 0 -visible none Model
+prop::setvisible -valueindex 0 Model
+prop::setvisible -valueindex 0 -visible none Model
+prop::setvisible -valueindex 0 {Part Number}
+prop::setvisible -valueindex 0 -visible none {Part Number}
+prop::setvisible -valueindex 0 {Part Number}
+prop::setvisible -valueindex 0 -visible none {Part Number}
+prop::add -value U? {Ref Designator}
+prop::setvisible -valueindex 0 {Ref Designator}
+nse::selectitems 151
+edit::move -offset 25400,5715
+gfx::setfontsize -size 6
+nse::clearselection
+prop::delete -valueindex 0 {Part Reference}
+prop::delete -valueindex 0 {Vendor PN}
+prop::setvisible -valueindex 0 {Part Number}
+nse::opensymbol -freezepins -partition new 88E1318_QFN48BB.1
+prop::setvisible -valueindex 0 -visible none Model
+prop::delete -valueindex 0 {Part Reference}
+prop::delete -valueindex 0 {Vendor PN}
+prop::add -value U? {Ref Designator}
+prop::setvisible -valueindex 0 {Ref Designator}
+nse::selectitems 65
+gfx::setfontsize -size 6
+edit::move -offset 12700,635
+nse::clearselection
+nse::closesymbol
+nse::closesymbol
+nse::closesymbol
+# C:\MentorGraphics\EEVX.1.1\SDD_HOME\nse\win32\nse.exe_old -project C:\test1_lib\test1_lib.lmc -freezepins -lmc C:\test1_lib\SymbolLibs -parent flm -partition new -- 88E1318_QFN48AA.1 
+nse::setmode -lmc C:\\test1_lib
+nse::opensymbol -freezepins -partition new 88E1318_QFN48AA.1
+prop::setvisible -valueindex 0 -visible none Model
+prop::delete -valueindex 0 {Part Reference}
+prop::delete -valueindex 0 {Vendor PN}
+prop::add -value U? {Ref Designator}
+prop::setvisible -valueindex 0 {Ref Designator}
+nse::selectitems 151
+gfx::setfontsize -size 6
+nse::opensymbol -freezepins -partition new 88E1318_QFN48BB.1
+prop::setvisible -valueindex 0 -visible none Model
+prop::delete -valueindex 0 {Part Reference}
+prop::delete -valueindex 0 {Vendor PN}
+prop::add -value U? {Ref Designator}
+prop::setvisible -valueindex 0 {Ref Designator}
+nse::selectitems 65
+gfx::setfontsize -size 6
+nse::clearselection
+nse::setactivesymbol sid1
+nse::clearselection
+nse::opensymbol -freezepins -partition new BLM15AG121SN1D.1
+prop::setvisible -valueindex 0 -visible none Model
+prop::delete -valueindex 0 {Part Reference}
+prop::add {Ref Designator}
+prop::setvisible -valueindex 0 {Ref Designator}
+nse::undo
+nse::undo
+nse::redo
+nse::redo
+prop::setvalue -value FB? -valueindex 0 {Ref Designator}
+nse::selectitems 24
+gfx::setfontsize -size 6
+nse::clearselection
+nse::opensymbol -freezepins -partition new BLM18SG121TN1D.1
+prop::setvisible -valueindex 0 -visible none Model
+prop::delete -valueindex 0 {Part Reference}
+prop::delete -valueindex 0 {Vendor PN}
+nse::setactivesymbol sid3
+nse::setactivesymbol sid4
+nse::setactivesymbol sid3
+prop::delete -valueindex 0 Description
+nse::setactivesymbol sid2
+nse::setactivesymbol sid3
+nse::undo
+nse::setactivesymbol sid4
+prop::setvisible -valueindex 0 Description
+prop::setvisible -valueindex 0 -visible none Description
+nse::setactivesymbol sid3
+nse::setactivesymbol sid4
+prop::delete -valueindex 0 {Cell Name}
+prop::add -value FB? {Ref Designator}
+prop::setvisible -valueindex 0 {Ref Designator}
+nse::selectitems 1
+nse::clearselection
+nse::savesymbol -saveas 88E1318_QFN48AA.1 sid1
+nse::savesymbol -saveas 88E1318_QFN48BB.1 sid2
+nse::savesymbol -saveas BLM15AG121SN1D.1 sid3
+nse::savesymbol sid4
+nse::closesymbol
+nse::closesymbol
+nse::closesymbol
+nse::closesymbol
+# C:\MentorGraphics\EEVX.1.1\SDD_HOME\nse\win32\nse.exe_old -project C:\proj_test3\proj_test3.prj -lmc C:\test1_lib\SymbolLibs -parent flm 
+nse::opensymbol -freezepins -partition new BLM15AG121SN1D.1
+nse::opensymbol -freezepins -partition new BLM18SG121TN1D.1
+nse::setactivesymbol sid1
+nse::selectitems 19
+nse::setactivesymbol sid2
+nse::selectitems 1
+prop::setvisible -valueindex 0 -dest port {Pin Number}
+nse::deselectitems 1
+nse::selectitems 2
+prop::setvisible -valueindex 0 -dest port {Pin Number}
+nse::clearselection
+nse::savesymbol sid2
+nse::closesymbol
+nse::closesymbol
+# C:\MentorGraphics\EEVX.1.1\SDD_HOME\nse\win32\nse.exe_old -project C:\proj_test3\proj_test3.prj -freezepins -lmc C:\test1_lib\SymbolLibs -parent flm -partition new -- CAP0402_0P047UF_X5R.1 
+nse::setmode -lmc C:\\test1_lib
+nse::opensymbol -freezepins -partition new CAP0402_0P047UF_X5R.1
+nse::opensymbol -freezepins -partition new CAP0402_0P1UF_X5R_35V.1
+nse::opensymbol -freezepins -partition new CAP0603_10UF_X5R.1
+nse::setactivesymbol sid2
+nse::setactivesymbol sid3
+nse::setactivesymbol sid2
+nse::setactivesymbol sid3
+nse::setactivesymbol sid2
+nse::setactivesymbol sid1
+nse::setactivesymbol sid2
+nse::opensymbol -freezepins -partition new CRYSTAL_4P_24MHZ.1
+prop::setvisible -valueindex 0 -visible none Model
+nse::selectitems 1
+nse::setactivesymbol sid2
+nse::setactivesymbol sid1
+nse::opensymbol -freezepins -partition new DDR3_256MX32.1
+nse::closesymbol
+nse::closesymbol
+nse::closesymbol
+nse::closesymbol
+nse::closesymbol
+# C:\MentorGraphics\EEVX.1.1\SDD_HOME\nse\win32\nse.exe_old -project C:\proj_test4\proj_test4.prj -lmc C:\test1_lib\SymbolLibs -parent flm 
+nse::opensymbol -freezepins -partition new BLM15AG121SN1D.1
+nse::selectitems 20
+prop::delete -valueindex 0 -dest port -ports 1 {Pin Type}
+# 'Pin Type' is read-only property
+nse::deselectitems 20
+nse::selectitems 1
+prop::setvisible -valueindex 0 -visible none -dest port {Pin Type}
+nse::clearselection
+prop::delete -valueindex 0 Model
+nse::savesymbol
+nse::opensymbol -freezepins -partition new BLM18SG121TN1D.1
+nse::setactivesymbol sid1
+nse::setactivesymbol sid2
+nse::setactivesymbol sid1
+nse::selectitems 7
+nse::selectitems -all
+nse::deselectitems {1 2 16 19 22}
+nse::selectitems 7
+nse::selectitems 7
+edit::copy
+symbol::deleteitems
+nse::savesymbol
+nse::closesymbol
+nse::closesymbol
+# C:\MentorGraphics\EEVX.1.1\SDD_HOME\nse\win32\nse.exe_old -project C:\proj_test4\proj_test4.prj -lmc C:\test1_lib\SymbolLibs -parent flm 
+nse::opensymbol -freezepins -partition new BLM15AG121SN1D.1
+nse::closesymbol
+# C:\MentorGraphics\EEVX.1.1\SDD_HOME\nse\win32\nse.exe_old -project C:\test1_lib\test1_lib.lmc -freezepins -lmc C:\test1_lib\SymbolLibs -parent flm -partition PARALLELLA_E16_Z7020_SCHEMATIC_16_2 -- CON_POWER_PJ002A_TH.1 
+nse::setmode -lmc C:\\test1_lib
+nse::opensymbol -freezepins -partition PARALLELLA_E16_Z7020_SCHEMATIC_16_2 CON_POWER_PJ002A_TH.1
+prop::setvisible -valueindex 0 {Part Number}
+nse::selectitems 1
+nse::closesymbol
+# C:\MentorGraphics\EEVX.1.1\SDD_HOME\nse\win32\nse.exe_old -project C:\proj_test3\proj_test3.prj -lmc C:\test1_lib\SymbolLibs -parent flm -partition PARALLELLA_E16_Z7020_SCHEMATIC_16_2 -- SN65LVDS4.1 
+nse::setmode -lmc C:\\test1_lib
+nse::opensymbol -partition PARALLELLA_E16_Z7020_SCHEMATIC_16_2 SN65LVDS4.1
+nse::closesymbol
+# C:\MentorGraphics\EEVX.1.1\SDD_HOME\nse\win32\nse.exe_old -project C:\proj_test3\proj_test3.prj -freezepins -lmc C:\test1_lib\SymbolLibs -parent flm -partition new -- CAP0402_0P47UF_X5R.1 
+nse::setmode -lmc C:\\test1_lib
+nse::opensymbol -freezepins -partition new CAP0402_0P47UF_X5R.1
+nse::closesymbol

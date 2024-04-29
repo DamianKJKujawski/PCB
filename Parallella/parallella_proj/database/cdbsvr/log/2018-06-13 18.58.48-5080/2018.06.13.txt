@@ -1,0 +1,737 @@
+[2018.06.13 18:58:48] [0000m.00s.059ms] [0] WELCOME
+[2018.06.13 18:58:48] [0000m.00s.059ms] [1] iCDB Server ver.2.202, 88Zh1V4+7Fzqu6g9/cuD/w, build:7609897 created 2017-06-23 16:20:58, sources stamp:88Zh1V4+7Fzqu6g9/cuD/w
+[2018.06.13 18:58:48] [0000m.00s.059ms] [1] Copyright 2017 Mentor Graphics Corporation.  All Rights Reserved.
+[2018.06.13 18:58:48] [0000m.00s.059ms] [1] Base flow version [VX.2.2]
+[2018.06.13 18:58:48] [0000m.00s.060ms] [1] Install Id [1589114], Flow Id [X-ENTP VX.2.2], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.2], Exact Access Date [2017/05/01]
+[2018.06.13 18:58:48] [0000m.00s.067ms] [1] Machine [DAMKU]  IP [127.0.0.1,192.168.0.105]  User [Damian]  PID [5080]
+[2018.06.13 18:58:48] [0000m.00s.068ms] [1] Operating system [Microsoft Business Edition, 64-bit (build 9200)]
+[2018.06.13 18:58:48] [0000m.00s.068ms] [1] Current working dir [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj]
+[2018.06.13 18:58:48] [0000m.00s.068ms] [1] PATH [D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\bin;D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\lib;D:\Aplikacje\MentorGraphics\EEVX.2.2\MGC_HOME.ixw\bin;D:\Aplikacje\MentorGraphics\EEVX.2.2\MGC_HOME.ixw\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\MPI-RT\5.0.2.044\intel64\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\Aplikacje\MiKTeX\miktex\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Aplikacje\Matlab\runtime\win64;D:\Aplikacje\Matlab\bin;D:\Aplikacje\Skype\Phone\;C:\WINDOWS\System32\OpenSSH\;D:\Aplikacje\CUPL\WINCUPL\EXE;D:\Aplikacje\CUPL\WINCUPL\FITTERS;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;]
+[2018.06.13 18:58:48] [0000m.00s.068ms] [1] SDD_HOME [D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME] on file system [NTFS]
+[2018.06.13 18:58:48] [0000m.00s.068ms] [1] SDD_PLATFORM [win64]
+[2018.06.13 18:58:48] [0000m.00s.068ms] [1] WDIR [C:\WDIR\EEVX.2.2;D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\standard;]
+[2018.06.13 18:58:48] [0000m.00s.068ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.2\iCDB] on file system [NTFS]
+[2018.06.13 18:58:48] [0000m.00s.068ms] [2] S: Loading config files
+[2018.06.13 18:58:48] [0000m.00s.086ms] [1] Config file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\cdbsvr\Server.cfg] not found
+[2018.06.13 18:58:48] [0000m.00s.089ms] [3] S: Config loaded
+[2018.06.13 18:58:48] [0000m.00s.127ms] [0] S: Project path [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] on file system [NTFS]
+[2018.06.13 18:58:48] [0000m.00s.127ms] [0] S: Project file (.prj) path [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\parallella.prj] on file system [NTFS]
+[2018.06.13 18:58:48] [0000m.00s.127ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2018.06.13 18:58:48] [0000m.00s.127ms] [0] S: Single-user mode (auto)
+[2018.06.13 18:58:48] [0000m.00s.127ms] [0] S: Event polling mode autodetection
+[2018.06.13 18:58:48] [0000m.00s.128ms] [0] S: Started up automatically by iCDB Client: DAMKU:Damian:4836
+[2018.06.13 18:58:48] [0000m.00s.128ms] [0] S: Auto close mode
+[2018.06.13 18:58:48] [0000m.00s.128ms] [0] S: Database ID [fff3-8494-70c7-0a2c-54d4-12ba-4d41-2b50-bcbf-7e7d-be46-86c5]
+[2018.06.13 18:58:48] [0000m.00s.128ms] [0] PathTranslator: BEGIN dumping
+[2018.06.13 18:58:48] [0000m.00s.128ms] [0] PathTranslator: Local -> global path prefix list
+[2018.06.13 18:58:48] [0000m.00s.128ms] [0] PathTranslator: [E:\Instalatory] -> [\\DAMKU\Instalatory]
+[2018.06.13 18:58:48] [0000m.00s.128ms] [0] PathTranslator: Global -> local path prefix list
+[2018.06.13 18:58:48] [0000m.00s.128ms] [0] PathTranslator: [\\DAMKU\Instalatory] -> [E:\Instalatory]
+[2018.06.13 18:58:48] [0000m.00s.128ms] [0] PathTranslator: END dumping
+[2018.06.13 18:58:48] [0000m.00s.128ms] [0] S: START
+[2018.06.13 18:58:48] [0000m.00s.128ms] [0] S: Server startup lock file created
+[2018.06.13 18:58:48] [0000m.00s.129ms] [0] S: Listening for client connections on port [10000]
+[2018.06.13 18:58:48] [0000m.00s.130ms] [0] S: Server network ID [DAMKU:192.168.0.105,DAMKU:10000]
+[2018.06.13 18:58:48] [0000m.00s.130ms] [0] S: Server GUID [40c7-dd87-cdf3-cada-84d4-12bd-4d41-2b50-3e00-8e7d-be46-86c5]
+[2018.06.13 18:58:48] [0000m.00s.130ms] [0] S: Project GUID [fff3-8494-70c7-0a2c-54d4-12ba-4d41-2b50-bcbf-7e7d-be46-86c5]
+[2018.06.13 18:58:48] [0000m.00s.136ms] [0] S: Wrote data to server address file
+[2018.06.13 18:58:48] [0000m.00s.137ms] [0] S: Server startup lock file removed
+[2018.06.13 18:58:48] [0000m.00s.137ms] [1] ProjectBackupManager: Setting project file (.prj) path: [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\parallella.prj]
+[2018.06.13 18:58:53] [0000m.05s.226ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2018.06.13 18:58:53] [0000m.05s.226ms] [1] ServerToolkit: INFO: Plugin found in SDD_COMMON_BIN [D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\bin]
+[2018.06.13 18:58:53] [0000m.05s.227ms] [0] S: Local disc access time: 75 us
+[2018.06.13 18:58:53] [0000m.05s.227ms] [0] S: File server access time: 98 us
+[2018.06.13 18:58:53] [0000m.05s.296ms] [0] S: WARNING: The last iCDB Server session [DAMKU (2018-06-13 10.02.52-3140)] with GUID [c67d-72f3-3214-818c-dafc-02b2-bfc0-2b50-949f-ce5d-9e79-86c5] shutdown unexpectedly. Database integrity check forced.
+[2018.06.13 18:58:53] [0000m.05s.297ms] [0] Single file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] size [2125376 (2.0 MB)]
+[2018.06.13 18:58:53] [0000m.05s.297ms] [1] Single file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] opened in read-write mode
+[2018.06.13 18:58:53] [0000m.05s.297ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.13 18:58:53] [0000m.05s.297ms] [0] Database GUARD OK: [2125376]
+[2018.06.13 18:58:53] [0000m.05s.299ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.13 18:58:53] [0000m.05s.299ms] [0] Database GUARD OK: [2125376]
+[2018.06.13 18:58:53] [0000m.05s.299ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.13 18:58:53] [0000m.05s.299ms] [0] Database GUARD OK: [2125376]
+[2018.06.13 18:58:53] [0000m.05s.300ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.13 18:58:53] [0000m.05s.300ms] [0] Database GUARD OK: [2125376]
+[2018.06.13 18:58:53] [0000m.05s.300ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.13 18:58:53] [0000m.05s.301ms] [0] Database GUARD OK: [2125376]
+[2018.06.13 18:58:53] [0000m.05s.301ms] [0] SingleFile: [f098-15cc-7c5f-ab42] SFI version check [1009] [1009]
+[2018.06.13 18:58:53] [0000m.05s.344ms] [0] SingleFile: [f098-15cc-7c5f-ab42] Database SFI header has been read in [43ms 762us]
+[2018.06.13 18:58:53] [0000m.05s.352ms] [0] iCDB Server PI: Server & plugin session [2978]
+[2018.06.13 18:58:53] [0000m.05s.352ms] [0] iCDB Server PI: Opening database [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database]
+[2018.06.13 18:58:53] [0000m.05s.352ms] [0] iCDB Server PI: Database [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] opened
+[2018.06.13 18:58:54] [0000m.05s.507ms] [0] iCDB Database: Checking existence of constraint definitions
+[2018.06.13 18:58:54] [0000m.05s.507ms] [0] iCDB Database: Checking constraint definitions version
+[2018.06.13 18:58:54] [0000m.05s.704ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.56;user.cns=c446-4279-9a5f-b38c-02a4-91a5-2a49-1a50-15ed-be5d-7e59-b9c5] up to date
+[2018.06.13 18:58:55] [0000m.06s.579ms] [1] iCDB Server PI: Checking database integrity
+[2018.06.13 18:58:55] [0000m.07s.276ms] [1] Diagnostic: Warning: {[LineDxD] [23] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.277ms] [1] Diagnostic: Warning: {[LineDxD] [22] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.277ms] [1] Diagnostic: Warning: {[LineDxD] [21] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.277ms] [1] Diagnostic: Warning: {[LineDxD] [20] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.277ms] [1] Diagnostic: Warning: {[LineDxD] [19] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.277ms] [1] Diagnostic: Warning: {[LineDxD] [13] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.277ms] [1] Diagnostic: Warning: {[LineDxD] [12] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.277ms] [1] Diagnostic: Warning: {[LineDxD] [11] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.277ms] [1] Diagnostic: Warning: {[LineDxD] [7] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.277ms] [1] Diagnostic: Warning: {[LineDxD] [6] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.277ms] [1] Diagnostic: Warning: {[LineDxD] [5] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.277ms] [1] Diagnostic: Warning: {[LineDxD] [1] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.278ms] [1] Diagnostic: Warning: {[ArcDxD] [22] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.278ms] [1] Diagnostic: Warning: {[ArcDxD] [21] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.278ms] [1] Diagnostic: Warning: {[ArcDxD] [20] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.278ms] [1] Diagnostic: Warning: {[ArcDxD] [19] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.278ms] [1] Diagnostic: Warning: {[ArcDxD] [13] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.278ms] [1] Diagnostic: Warning: {[ArcDxD] [12] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.278ms] [1] Diagnostic: Warning: {[ArcDxD] [11] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.278ms] [1] Diagnostic: Warning: {[ArcDxD] [6] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.278ms] [1] Diagnostic: Warning: {[ArcDxD] [5] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.278ms] [1] Diagnostic: Warning: {[ArcDxD] [1] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.278ms] [1] Diagnostic: Warning: {[RectDxD] [23] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.278ms] [1] Diagnostic: Warning: {[RectDxD] [22] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.279ms] [1] Diagnostic: Warning: {[RectDxD] [19] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.279ms] [1] Diagnostic: Warning: {[RectDxD] [13] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.279ms] [1] Diagnostic: Warning: {[RectDxD] [12] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.279ms] [1] Diagnostic: Warning: {[TextDxD] [23] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.279ms] [1] Diagnostic: Warning: {[TextDxD] [22] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.279ms] [1] Diagnostic: Warning: {[TextDxD] [19] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.279ms] [1] Diagnostic: Warning: {[TextDxD] [11] } --> UID does not exist
+[2018.06.13 18:58:55] [0000m.07s.287ms] [1] Diagnostic: Check failed on Snapshot: DxD
+[2018.06.13 18:58:55] [0000m.07s.355ms] [1] Diagnostic: Warning: {[BlockViewDxD] [BLOCK DIAGRAM] [1253-1-68] [25] } --> Could not get sheet size
+[2018.06.13 18:58:55] [0000m.07s.358ms] [1] Diagnostic: Check failed on Block: parallella
+[2018.06.13 18:58:56] [0000m.07s.974ms] [1] Diagnostic: Warning: {[LineDxD] [23] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.974ms] [1] Diagnostic: Warning: {[LineDxD] [22] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.974ms] [1] Diagnostic: Warning: {[LineDxD] [21] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.974ms] [1] Diagnostic: Warning: {[LineDxD] [20] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.974ms] [1] Diagnostic: Warning: {[LineDxD] [19] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.974ms] [1] Diagnostic: Warning: {[LineDxD] [13] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.974ms] [1] Diagnostic: Warning: {[LineDxD] [12] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.974ms] [1] Diagnostic: Warning: {[LineDxD] [11] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.974ms] [1] Diagnostic: Warning: {[LineDxD] [7] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.974ms] [1] Diagnostic: Warning: {[LineDxD] [6] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.974ms] [1] Diagnostic: Warning: {[LineDxD] [5] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.975ms] [1] Diagnostic: Warning: {[LineDxD] [1] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.975ms] [1] Diagnostic: Warning: {[ArcDxD] [22] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.975ms] [1] Diagnostic: Warning: {[ArcDxD] [21] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.975ms] [1] Diagnostic: Warning: {[ArcDxD] [20] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.975ms] [1] Diagnostic: Warning: {[ArcDxD] [19] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.975ms] [1] Diagnostic: Warning: {[ArcDxD] [13] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.975ms] [1] Diagnostic: Warning: {[ArcDxD] [12] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.975ms] [1] Diagnostic: Warning: {[ArcDxD] [11] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.975ms] [1] Diagnostic: Warning: {[ArcDxD] [6] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.975ms] [1] Diagnostic: Warning: {[ArcDxD] [5] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.975ms] [1] Diagnostic: Warning: {[ArcDxD] [1] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.975ms] [1] Diagnostic: Warning: {[RectDxD] [23] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.975ms] [1] Diagnostic: Warning: {[RectDxD] [22] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.975ms] [1] Diagnostic: Warning: {[RectDxD] [19] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.975ms] [1] Diagnostic: Warning: {[RectDxD] [13] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.976ms] [1] Diagnostic: Warning: {[RectDxD] [12] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.976ms] [1] Diagnostic: Warning: {[TextDxD] [23] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.976ms] [1] Diagnostic: Warning: {[TextDxD] [22] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.976ms] [1] Diagnostic: Warning: {[TextDxD] [19] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.976ms] [1] Diagnostic: Warning: {[TextDxD] [11] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.07s.987ms] [1] Diagnostic: Check failed on Snapshot: parallella_RefSync
+[2018.06.13 18:58:56] [0000m.07s.998ms] [1] Diagnostic: Warning: {[BlockViewDxD] [BLOCK DIAGRAM] [1253-1-68] [25] } --> Could not get sheet size
+[2018.06.13 18:58:56] [0000m.08s.003ms] [1] Diagnostic: Check failed on Block: parallella
+[2018.06.13 18:58:56] [0000m.08s.159ms] [1] Diagnostic: Warning: {[LineDxD] [23] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.159ms] [1] Diagnostic: Warning: {[LineDxD] [22] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.159ms] [1] Diagnostic: Warning: {[LineDxD] [21] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.159ms] [1] Diagnostic: Warning: {[LineDxD] [20] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.159ms] [1] Diagnostic: Warning: {[LineDxD] [19] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.159ms] [1] Diagnostic: Warning: {[LineDxD] [13] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.159ms] [1] Diagnostic: Warning: {[LineDxD] [12] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.159ms] [1] Diagnostic: Warning: {[LineDxD] [11] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.159ms] [1] Diagnostic: Warning: {[LineDxD] [7] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.159ms] [1] Diagnostic: Warning: {[LineDxD] [6] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.160ms] [1] Diagnostic: Warning: {[LineDxD] [5] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.160ms] [1] Diagnostic: Warning: {[LineDxD] [1] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.160ms] [1] Diagnostic: Warning: {[ArcDxD] [22] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.160ms] [1] Diagnostic: Warning: {[ArcDxD] [21] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.160ms] [1] Diagnostic: Warning: {[ArcDxD] [20] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.160ms] [1] Diagnostic: Warning: {[ArcDxD] [19] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.160ms] [1] Diagnostic: Warning: {[ArcDxD] [13] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.160ms] [1] Diagnostic: Warning: {[ArcDxD] [12] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.160ms] [1] Diagnostic: Warning: {[ArcDxD] [11] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.160ms] [1] Diagnostic: Warning: {[ArcDxD] [6] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.161ms] [1] Diagnostic: Warning: {[ArcDxD] [5] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.161ms] [1] Diagnostic: Warning: {[ArcDxD] [1] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.161ms] [1] Diagnostic: Warning: {[RectDxD] [23] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.161ms] [1] Diagnostic: Warning: {[RectDxD] [22] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.161ms] [1] Diagnostic: Warning: {[RectDxD] [19] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.161ms] [1] Diagnostic: Warning: {[RectDxD] [13] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.161ms] [1] Diagnostic: Warning: {[RectDxD] [12] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.161ms] [1] Diagnostic: Warning: {[TextDxD] [23] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.161ms] [1] Diagnostic: Warning: {[TextDxD] [22] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.161ms] [1] Diagnostic: Warning: {[TextDxD] [19] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.161ms] [1] Diagnostic: Warning: {[TextDxD] [11] } --> UID does not exist
+[2018.06.13 18:58:56] [0000m.08s.172ms] [1] Diagnostic: Check failed on Snapshot: parallella_LDDTemp
+[2018.06.13 18:58:56] [0000m.08s.177ms] [1] Diagnostic: Warning: {[BlockViewDxD] [BLOCK DIAGRAM] [1253-1-68] [25] } --> Could not get sheet size
+[2018.06.13 18:58:56] [0000m.08s.180ms] [1] Diagnostic: Check failed on Block: parallella
+[2018.06.13 18:58:57] [0000m.08s.482ms] [1] iCDB Server PI: Database integrity check PASSED
+[2018.06.13 18:58:57] [0000m.08s.482ms] [0] iCDB Server PI: Initializing plugins
+[2018.06.13 18:58:57] [0000m.08s.483ms] [0] iCDB Server PI: Plugins initialized
+[2018.06.13 18:58:57] [0000m.08s.483ms] [0] S: iCDB database loaded
+[2018.06.13 18:58:57] [0000m.08s.484ms] [0] S: Starting threads
+[2018.06.13 18:58:57] [0000m.08s.484ms] [0] BT: Listening for broadcast messages on port [10000]
+[2018.06.13 18:58:57] [0000m.08s.485ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2018.06.13 18:58:57] [0000m.08s.489ms] [0] MWT: WindowProc: WM_NCCREATE
+[2018.06.13 18:58:57] [0000m.08s.518ms] [0] IT: Session [2979] for host [DAMKU] user [Damian] with process ID [4836] created
+[2018.06.13 18:58:57] [0000m.08s.586ms] [1] CMT: There are [1] clients now: 2979
+[2018.06.13 18:58:57] [0000m.08s.610ms] [1] SC[2979]: Registered sub-client [DxD] with ID [1] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:58:59] [0000m.11s.242ms] [1] SC[2979]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:58:59] [0000m.11s.279ms] [1] SC[2979]: Registered sub-client [xprob] with ID [3] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:00] [0000m.11s.763ms] [1] SC[2979]: Registered sub-client [StartServerClient20c4] with ID [4] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:00] [0000m.11s.845ms] [1] SC[2979]: UnRegistered sub-client [StartServerClient20c4] with ID [4] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:03] [0000m.14s.652ms] [1] SC[2979]: Registered sub-client [SymbolEditor] with ID [5] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:03] [0000m.14s.991ms] [1] SC[2979]: Registered sub-client [SelectionHolder] with ID [6] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:03] [0000m.15s.129ms] [1] SC[2979]: Registered sub-client [EEVM_EEVM_243673808] with ID [7] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:03] [0000m.15s.130ms] [1] SC[2979]: UnRegistered sub-client [EEVM_EEVM_243673808] with ID [7] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:03] [0000m.15s.134ms] [1] SC[2979]: Registered sub-client [EEVM_EEVM_243673808] with ID [8] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:04] [0000m.15s.852ms] [1] SC[2979]: UnRegistered sub-client [EEVM_EEVM_243673808] with ID [8] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:04] [0000m.15s.856ms] [1] SC[2979]: Registered sub-client [EEVM_EEVM_243667184] with ID [9] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:04] [0000m.15s.857ms] [1] SC[2979]: UnRegistered sub-client [EEVM_EEVM_243667184] with ID [9] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:04] [0000m.15s.860ms] [1] SC[2979]: Registered sub-client [EEVM_EEVM_243667184] with ID [10] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:04] [0000m.15s.924ms] [1] SC[2979]: UnRegistered sub-client [EEVM_EEVM_243667184] with ID [10] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:05] [0000m.16s.553ms] [1] SC[2979]: Registered sub-client [SystemDesignDll] with ID [11] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:05] [0000m.16s.876ms] [1] SC[2979]: UnRegistered sub-client [SystemDesignDll] with ID [11] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:05] [0000m.16s.879ms] [1] SC[2979]: Registered sub-client [SystemDesignDll] with ID [12] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:08] [0000m.19s.809ms] [1] SC[2979]: Registered sub-client [DesignSearcher2] with ID [13] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:08] [0000m.19s.863ms] [1] SC[2979]: Registered sub-client [HdlProject] with ID [14] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:08] [0000m.20s.327ms] [1] SC[2979]: Registered sub-client [Navigator] with ID [15] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:09] [0000m.20s.548ms] [1] SC[2979]: Registered sub-client [OutputWindow] with ID [16] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:09] [0000m.20s.554ms] [1] SC[2979]: Registered sub-client [PlaceDevice] with ID [17] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:09] [0000m.21s.018ms] [1] SC[2979]: Registered sub-client [LocalSymbolsDataProvider] with ID [18] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:09] [0000m.21s.253ms] [1] SC[2979]: Registered sub-client [FFSearch_Controller_0] with ID [19] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:09] [0000m.21s.313ms] [1] SC[2979]: Registered sub-client [FFSearch_Controller_1] with ID [20] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:11] [0000m.23s.239ms] [1] SC[2979]: Registered sub-client [FFSearch_Controller_2] with ID [21] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:11] [0000m.23s.244ms] [1] SC[2979]: Registered sub-client [FFSearch_Controller_3] with ID [22] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:12] [0000m.24s.143ms] [1] SC[2979]: Registered sub-client [FFSearch_Controller_4] with ID [23] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:12] [0000m.24s.271ms] [1] SC[2979]: Registered sub-client [FFSearch_Controller_5] with ID [24] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:13] [0000m.25s.304ms] [1] SC[2979]: Registered sub-client [FFSearch_Controller_6] with ID [25] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:13] [0000m.25s.308ms] [1] SC[2979]: Registered sub-client [FFSearch_Controller_7] with ID [26] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:14] [0000m.26s.123ms] [1] SC[2979]: Registered sub-client [FFSearch_Controller_8] with ID [27] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:14] [0000m.26s.128ms] [1] SC[2979]: Registered sub-client [FFSearch_Controller_9] with ID [28] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:15] [0000m.27s.080ms] [1] SC[2979]: Registered sub-client [FFSSelListener] with ID [29] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:15] [0000m.27s.158ms] [1] SC[2979]: Registered sub-client [SAE] with ID [30] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:15] [0000m.27s.162ms] [1] SC[2979]: Registered sub-client [CCZAddin] with ID [31] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:16] [0000m.27s.500ms] [1] SC[2979]: Registered sub-client [DxThumbnails] with ID [32] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:16] [0000m.27s.582ms] [1] SC[2979]: Registered sub-client [MyParts] with ID [33] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:16] [0000m.27s.809ms] [1] SC[2979]: Registered sub-client [PinsList] with ID [34] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:17] [0000m.29s.064ms] [0] DFAMT: File server access time: 84 us
+[2018.06.13 18:59:19] [0000m.30s.806ms] [1] SC[2979]: Registered sub-client [toolboxes] with ID [35] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:19] [0000m.31s.030ms] [1] SC[2979]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:565303936] with ID [36] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:19] [0000m.31s.175ms] [1] SC[2979]: Registered sub-client [Core::DesignListener-26189] with ID [37] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:20] [0000m.32s.316ms] [1] SC[2979]: Registered sub-client [SheetConnectorsCacheDxD:1528909160] with ID [38] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:21] [0000m.32s.812ms] [1] SC[2979]: Registered sub-client [NetsNamesCollectorDxD:1528909161] with ID [39] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:22] [0000m.33s.546ms] [1] SC[2979]: Registered sub-client [PartReplaceUtils] with ID [40] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:22] [0000m.33s.551ms] [1] SC[2979]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [41] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:25] [0000m.37s.404ms] [1] SC[2979]: Registered sub-client [ObjectHolder_464461072] with ID [42] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:25] [0000m.37s.441ms] [1] SC[2979]: Registered sub-client [BlockCacheDxD:563641760] with ID [43] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:25] [0000m.37s.447ms] [1] SC[2979]: Registered sub-client [GlobalNetAliasUpdater_569990288] with ID [44] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 18:59:26] [0000m.37s.480ms] [1] SC[2979]: Registered sub-client [IcdbNetProcessorSubClientDxD:570126720] with ID [45] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 19:06:02] [0007m.14s.461ms] [1] SC[2979]: Registered sub-client [Dx2Exp_33026812] with ID [46] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 19:06:03] [0007m.14s.486ms] [1] SC[2979]: UnRegistered sub-client [Dx2Exp_33026812] with ID [46] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 19:07:50] [0009m.02s.350ms] [0] IT: Session [2980] for host [DAMKU] user [Damian] with process ID [10112] created
+[2018.06.13 19:07:50] [0009m.02s.357ms] [1] SC[2980]: Registered sub-client [Expedition PCB_33134500] with ID [1] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:07:50] [0009m.02s.435ms] [1] CMT: There are [2] clients now: 2979, 2980
+[2018.06.13 19:07:54] [0009m.05s.704ms] [1] SC[2980]: Registered sub-client [EEVM_EEVM_364541456] with ID [2] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:07:54] [0009m.05s.760ms] [1] SC[2980]: UnRegistered sub-client [EEVM_EEVM_364541456] with ID [2] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:07:54] [0009m.05s.765ms] [1] SC[2980]: Registered sub-client [EEVM_EEVM_364541456] with ID [3] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:07:54] [0009m.05s.846ms] [1] SC[2980]: UnRegistered sub-client [EEVM_EEVM_364541456] with ID [3] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:08:04] [0009m.15s.576ms] [1] SC[2980]: Registered sub-client [JobPrefsDBPI_33147921] with ID [4] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:08:04] [0009m.16s.056ms] [1] SC[2980]: UnRegistered sub-client [JobPrefsDBPI_33147921] with ID [4] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:08:36] [0009m.48s.185ms] [1] SC[2980]: Registered sub-client [JobPrefsDBPI_33180531] with ID [5] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:08:36] [0009m.48s.195ms] [1] SC[2980]: UnRegistered sub-client [JobPrefsDBPI_33180531] with ID [5] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:08:46] [0009m.58s.345ms] [1] SC[2980]: Registered sub-client [ExpeditionCrossProber] with ID [6] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:08:46] [0009m.58s.349ms] [1] SC[2980]: Registered sub-client [StartServerClient1704] with ID [7] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:08:46] [0009m.58s.350ms] [1] SC[2980]: UnRegistered sub-client [StartServerClient1704] with ID [7] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:09:19] [0010m.30s.948ms] [1] SC[2980]: Registered sub-client [Damian] with ID [8] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:09:20] [0010m.31s.943ms] [1] SC[2980]: UnRegistered sub-client [Damian] with ID [8] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:09:20] [0010m.32s.330ms] [1] SC[2980]: Registered sub-client [Damian (Exp-iCES parallella)] with ID [9] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:09:22] [0010m.33s.838ms] [1] SC[2980]: Registered sub-client [Damian (Exp-iCES)] with ID [10] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:42:22] [0043m.34s.160ms] [1] SC[2980]: Registered sub-client [EEVM_EEVM_24238888] with ID [11] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:42:23] [0043m.34s.555ms] [1] SC[2980]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [11] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:42:30] [0043m.41s.545ms] [0] IT: Session [2981] for host [DAMKU] user [Damian] with process ID [180] created
+[2018.06.13 19:42:30] [0043m.41s.562ms] [1] CMT: There are [3] clients now: 2979, 2980, 2981
+[2018.06.13 19:42:30] [0043m.41s.591ms] [1] SC[2981]: Registered sub-client [Expedition_35213343] with ID [1] for session ID [2981] host [DAMKU] user [Damian] process ID [180]
+[2018.06.13 19:42:32] [0043m.43s.714ms] [1] SC[2981]: UnRegistered sub-client [Expedition_35213343] with ID [1] for session ID [2981] host [DAMKU] user [Damian] process ID [180]
+[2018.06.13 19:42:32] [0043m.43s.815ms] [1] CMT: Removed client [2981]
+[2018.06.13 19:42:32] [0043m.43s.815ms] [1] CMT: There are [2] clients now: 2979, 2980
+[2018.06.13 19:43:57] [0045m.08s.998ms] [1] SC[2980]: Registered sub-client [EEVM_EEVM_24238888] with ID [12] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:43:57] [0045m.08s.998ms] [1] SC[2980]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [12] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:43:58] [0045m.09s.599ms] [0] IT: Session [2982] for host [DAMKU] user [Damian] with process ID [7844] created
+[2018.06.13 19:43:58] [0045m.09s.600ms] [1] SC[2982]: Registered sub-client [Expedition_35301656] with ID [1] for session ID [2982] host [DAMKU] user [Damian] process ID [7844]
+[2018.06.13 19:43:58] [0045m.09s.688ms] [1] CMT: There are [3] clients now: 2979, 2980, 2982
+[2018.06.13 19:43:58] [0045m.10s.030ms] [1] SC[2982]: UnRegistered sub-client [Expedition_35301656] with ID [1] for session ID [2982] host [DAMKU] user [Damian] process ID [7844]
+[2018.06.13 19:43:58] [0045m.10s.092ms] [1] CMT: Removed client [2982]
+[2018.06.13 19:43:58] [0045m.10s.092ms] [1] CMT: There are [2] clients now: 2979, 2980
+[2018.06.13 19:54:18] [0055m.29s.753ms] [1] SC[2980]: Registered sub-client [EEVM_EEVM_24238888] with ID [13] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:54:18] [0055m.29s.754ms] [1] SC[2980]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [13] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:54:23] [0055m.34s.487ms] [0] IT: Session [2983] for host [DAMKU] user [Damian] with process ID [1884] created
+[2018.06.13 19:54:23] [0055m.34s.488ms] [1] SC[2983]: Registered sub-client [Expedition_35924734] with ID [1] for session ID [2983] host [DAMKU] user [Damian] process ID [1884]
+[2018.06.13 19:54:23] [0055m.34s.578ms] [1] CMT: There are [3] clients now: 2979, 2980, 2983
+[2018.06.13 19:54:23] [0055m.35s.004ms] [1] SC[2983]: UnRegistered sub-client [Expedition_35924734] with ID [1] for session ID [2983] host [DAMKU] user [Damian] process ID [1884]
+[2018.06.13 19:54:23] [0055m.35s.083ms] [1] CMT: Removed client [2983]
+[2018.06.13 19:54:23] [0055m.35s.083ms] [1] CMT: There are [2] clients now: 2979, 2980
+[2018.06.13 19:55:36] [0056m.47s.609ms] [1] SC[2980]: Registered sub-client [EEVM_EEVM_24238888] with ID [14] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:55:36] [0056m.47s.610ms] [1] SC[2980]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [14] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:55:37] [0056m.48s.490ms] [0] IT: Session [2984] for host [DAMKU] user [Damian] with process ID [7636] created
+[2018.06.13 19:55:37] [0056m.48s.495ms] [1] SC[2984]: Registered sub-client [Expedition_36000281] with ID [1] for session ID [2984] host [DAMKU] user [Damian] process ID [7636]
+[2018.06.13 19:55:37] [0056m.48s.576ms] [1] CMT: There are [3] clients now: 2979, 2980, 2984
+[2018.06.13 19:55:37] [0056m.49s.108ms] [1] SC[2984]: UnRegistered sub-client [Expedition_36000281] with ID [1] for session ID [2984] host [DAMKU] user [Damian] process ID [7636]
+[2018.06.13 19:55:37] [0056m.49s.128ms] [1] CMT: Removed client [2984]
+[2018.06.13 19:55:37] [0056m.49s.131ms] [1] CMT: There are [2] clients now: 2979, 2980
+[2018.06.13 19:59:55] [0061m.07s.169ms] [1] SC[2980]: Registered sub-client [EEVM_EEVM_24238888] with ID [15] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:59:55] [0061m.07s.170ms] [1] SC[2980]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [15] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 19:59:56] [0061m.08s.234ms] [0] IT: Session [2985] for host [DAMKU] user [Damian] with process ID [4148] created
+[2018.06.13 19:59:56] [0061m.08s.234ms] [1] CMT: There are [3] clients now: 2979, 2980, 2985
+[2018.06.13 19:59:56] [0061m.08s.260ms] [1] SC[2985]: Registered sub-client [Expedition_36259984] with ID [1] for session ID [2985] host [DAMKU] user [Damian] process ID [4148]
+[2018.06.13 19:59:57] [0061m.08s.825ms] [1] SC[2985]: UnRegistered sub-client [Expedition_36259984] with ID [1] for session ID [2985] host [DAMKU] user [Damian] process ID [4148]
+[2018.06.13 19:59:57] [0061m.08s.864ms] [1] CMT: Removed client [2985]
+[2018.06.13 19:59:57] [0061m.08s.864ms] [1] CMT: There are [2] clients now: 2979, 2980
+[2018.06.13 20:04:15] [0065m.27s.002ms] [1] PrjBackupMgr: Successfully created Project Backup [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\ProjectBackup\backups\2018-06-13 20.04.02 - auto.zip] with GUID [1209-d6cf-e884-b2df-29c5-12b7-9c51-2b50-3d00-8e7d-be46-86c5]
+[2018.06.13 20:04:15] [0065m.27s.040ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[2604-6161-4960-5acd-1317-f1b6-317f-1b50-2a63-8e1d-2c4b-ba98] CreationTime[Tuesday, June 12, 2018 07:07:29] Type[Autosave] Creator[iCDB Server (2018-06-12 08.02.22-5600)] ApplicationName[iCDB Server (2018-06-12 08.02.22-5600)] UserName[HOME] MachineName[HOME-PC-W7] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.2] FlowId[EEVX.2.2] GBSInstallId[1589114] GBSBuildId[7609897] IcdbVersion[3300] ReferenceLogFilePath[] BackupFilePath[E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\ProjectBackup\backups\2018-06-12 09.07.29 - auto.zip] BackupFileSize[6537748] Persistent[FALSE]
+[2018.06.13 20:04:15] [0065m.27s.046ms] [0] PrjBackupMgr: Project Backup file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\ProjectBackup\backups\2018-06-12 09.07.29 - auto.zip] with GUID [2604-6161-4960-5acd-1317-f1b6-317f-1b50-2a63-8e1d-2c4b-ba98] removed
+[2018.06.13 20:04:15] [0065m.27s.079ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[1209-d6cf-e884-b2df-29c5-12b7-9c51-2b50-3d00-8e7d-be46-86c5] CreationTime[Wednesday, June 13, 2018 18:04:02] Type[Autosave] Creator[iCDB Server (2018-06-13 18.58.48-5080)] ApplicationName[iCDB Server (2018-06-13 18.58.48-5080)] UserName[Damian] MachineName[DAMKU] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.2] FlowId[EEVX.2.2] GBSInstallId[1589114] GBSBuildId[7609897] IcdbVersion[3300] ReferenceLogFilePath[] BackupFilePath[E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\ProjectBackup\backups\2018-06-13 20.04.02 - auto.zip] BackupFileSize[6642768] Persistent[FALSE]
+[2018.06.13 20:10:32] [0071m.43s.830ms] [1] SC[2980]: Registered sub-client [EEVM_EEVM_24238888] with ID [16] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 20:10:32] [0071m.43s.832ms] [1] SC[2980]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [16] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 20:10:33] [0071m.44s.620ms] [0] IT: Session [2986] for host [DAMKU] user [Damian] with process ID [3544] created
+[2018.06.13 20:10:33] [0071m.44s.622ms] [1] SC[2986]: Registered sub-client [Expedition_36896515] with ID [1] for session ID [2986] host [DAMKU] user [Damian] process ID [3544]
+[2018.06.13 20:10:33] [0071m.44s.667ms] [1] CMT: There are [3] clients now: 2979, 2980, 2986
+[2018.06.13 20:10:33] [0071m.45s.285ms] [1] SC[2986]: UnRegistered sub-client [Expedition_36896515] with ID [1] for session ID [2986] host [DAMKU] user [Damian] process ID [3544]
+[2018.06.13 20:10:33] [0071m.45s.297ms] [1] CMT: Removed client [2986]
+[2018.06.13 20:10:33] [0071m.45s.299ms] [1] CMT: There are [2] clients now: 2979, 2980
+[2018.06.13 20:32:51] [0094m.02s.994ms] [1] SC[2980]: Registered sub-client [EEVM_EEVM_24238888] with ID [17] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 20:32:51] [0094m.02s.995ms] [1] SC[2980]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [17] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 20:32:52] [0094m.03s.518ms] [0] IT: Session [2987] for host [DAMKU] user [Damian] with process ID [1548] created
+[2018.06.13 20:32:52] [0094m.03s.520ms] [1] SC[2987]: Registered sub-client [Expedition_38235546] with ID [1] for session ID [2987] host [DAMKU] user [Damian] process ID [1548]
+[2018.06.13 20:32:52] [0094m.03s.571ms] [1] CMT: There are [3] clients now: 2979, 2980, 2987
+[2018.06.13 20:32:52] [0094m.03s.913ms] [1] SC[2987]: UnRegistered sub-client [Expedition_38235546] with ID [1] for session ID [2987] host [DAMKU] user [Damian] process ID [1548]
+[2018.06.13 20:32:52] [0094m.03s.988ms] [1] CMT: Removed client [2987]
+[2018.06.13 20:32:52] [0094m.03s.988ms] [1] CMT: There are [2] clients now: 2979, 2980
+[2018.06.13 20:37:09] [0098m.20s.870ms] [1] SC[2980]: Registered sub-client [EEVM_EEVM_24238888] with ID [18] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 20:37:09] [0098m.20s.872ms] [1] SC[2980]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [18] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 20:37:10] [0098m.21s.643ms] [0] IT: Session [2988] for host [DAMKU] user [Damian] with process ID [9604] created
+[2018.06.13 20:37:10] [0098m.21s.645ms] [1] SC[2988]: Registered sub-client [Expedition_38493546] with ID [1] for session ID [2988] host [DAMKU] user [Damian] process ID [9604]
+[2018.06.13 20:37:10] [0098m.21s.742ms] [1] CMT: There are [3] clients now: 2979, 2980, 2988
+[2018.06.13 20:37:10] [0098m.21s.994ms] [1] SC[2988]: UnRegistered sub-client [Expedition_38493546] with ID [1] for session ID [2988] host [DAMKU] user [Damian] process ID [9604]
+[2018.06.13 20:37:10] [0098m.22s.044ms] [1] CMT: Removed client [2988]
+[2018.06.13 20:37:10] [0098m.22s.044ms] [1] CMT: There are [2] clients now: 2979, 2980
+[2018.06.13 20:47:20] [0108m.32s.341ms] [1] SC[2980]: Registered sub-client [JobPrefsDBPI_39104687] with ID [19] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 20:47:20] [0108m.32s.371ms] [1] SC[2980]: UnRegistered sub-client [JobPrefsDBPI_39104687] with ID [19] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 20:47:22] [0108m.33s.849ms] [1] SC[2980]: Registered sub-client [JobPrefsDBPI_39106171] with ID [20] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 20:47:22] [0108m.33s.983ms] [1] SC[2980]: UnRegistered sub-client [JobPrefsDBPI_39106171] with ID [20] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 20:50:42] [0111m.54s.473ms] [1] SC[2980]: Registered sub-client [EEVM_EEVM_24238888] with ID [21] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 20:50:42] [0111m.54s.474ms] [1] SC[2980]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [21] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 20:50:43] [0111m.55s.329ms] [0] IT: Session [2989] for host [DAMKU] user [Damian] with process ID [9316] created
+[2018.06.13 20:50:43] [0111m.55s.331ms] [1] SC[2989]: Registered sub-client [Expedition_39307203] with ID [1] for session ID [2989] host [DAMKU] user [Damian] process ID [9316]
+[2018.06.13 20:50:43] [0111m.55s.408ms] [1] CMT: There are [3] clients now: 2979, 2980, 2989
+[2018.06.13 20:50:44] [0111m.56s.220ms] [1] SC[2989]: UnRegistered sub-client [Expedition_39307203] with ID [1] for session ID [2989] host [DAMKU] user [Damian] process ID [9316]
+[2018.06.13 20:50:44] [0111m.56s.302ms] [1] CMT: Removed client [2989]
+[2018.06.13 20:50:44] [0111m.56s.302ms] [1] CMT: There are [2] clients now: 2979, 2980
+[2018.06.13 20:53:03] [0114m.14s.672ms] [1] SC[2980]: Registered sub-client [EEVM_EEVM_24238888] with ID [22] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 20:53:03] [0114m.14s.673ms] [1] SC[2980]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [22] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 20:53:04] [0114m.15s.577ms] [0] IT: Session [2990] for host [DAMKU] user [Damian] with process ID [6340] created
+[2018.06.13 20:53:04] [0114m.15s.578ms] [1] SC[2990]: Registered sub-client [Expedition_39447375] with ID [1] for session ID [2990] host [DAMKU] user [Damian] process ID [6340]
+[2018.06.13 20:53:04] [0114m.15s.597ms] [1] CMT: There are [3] clients now: 2979, 2980, 2990
+[2018.06.13 20:53:04] [0114m.15s.917ms] [1] SC[2990]: UnRegistered sub-client [Expedition_39447375] with ID [1] for session ID [2990] host [DAMKU] user [Damian] process ID [6340]
+[2018.06.13 20:53:04] [0114m.16s.001ms] [1] CMT: Removed client [2990]
+[2018.06.13 20:53:04] [0114m.16s.001ms] [1] CMT: There are [2] clients now: 2979, 2980
+[2018.06.13 20:54:04] [0115m.16s.000ms] [1] SC[2980]: Registered sub-client [EEVM_EEVM_24238888] with ID [23] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 20:54:04] [0115m.16s.001ms] [1] SC[2980]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [23] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 20:54:05] [0115m.16s.548ms] [0] IT: Session [2991] for host [DAMKU] user [Damian] with process ID [3468] created
+[2018.06.13 20:54:05] [0115m.16s.549ms] [1] SC[2991]: Registered sub-client [Expedition_39508546] with ID [1] for session ID [2991] host [DAMKU] user [Damian] process ID [3468]
+[2018.06.13 20:54:05] [0115m.16s.554ms] [1] CMT: There are [3] clients now: 2979, 2980, 2991
+[2018.06.13 20:54:05] [0115m.17s.169ms] [1] SC[2991]: UnRegistered sub-client [Expedition_39508546] with ID [1] for session ID [2991] host [DAMKU] user [Damian] process ID [3468]
+[2018.06.13 20:54:05] [0115m.17s.171ms] [1] CMT: Removed client [2991]
+[2018.06.13 20:54:05] [0115m.17s.171ms] [1] CMT: There are [2] clients now: 2979, 2980
+[2018.06.13 20:59:50] [0121m.01s.617ms] [1] SC[2980]: Registered sub-client [EEVM_EEVM_24238888] with ID [24] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 20:59:50] [0121m.01s.617ms] [1] SC[2980]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [24] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 20:59:51] [0121m.02s.701ms] [0] IT: Session [2992] for host [DAMKU] user [Damian] with process ID [9308] created
+[2018.06.13 20:59:51] [0121m.02s.703ms] [1] SC[2992]: Registered sub-client [Expedition_39854718] with ID [1] for session ID [2992] host [DAMKU] user [Damian] process ID [9308]
+[2018.06.13 20:59:51] [0121m.02s.766ms] [1] CMT: There are [3] clients now: 2979, 2980, 2992
+[2018.06.13 20:59:51] [0121m.03s.109ms] [1] SC[2992]: UnRegistered sub-client [Expedition_39854718] with ID [1] for session ID [2992] host [DAMKU] user [Damian] process ID [9308]
+[2018.06.13 20:59:51] [0121m.03s.172ms] [1] CMT: Removed client [2992]
+[2018.06.13 20:59:51] [0121m.03s.172ms] [1] CMT: There are [2] clients now: 2979, 2980
+[2018.06.13 21:00:49] [0122m.01s.034ms] [1] SC[2980]: Registered sub-client [EEVM_EEVM_24238888] with ID [25] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 21:00:49] [0122m.01s.036ms] [1] SC[2980]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [25] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 21:00:50] [0122m.02s.001ms] [0] IT: Session [2993] for host [DAMKU] user [Damian] with process ID [5484] created
+[2018.06.13 21:00:50] [0122m.02s.002ms] [1] SC[2993]: Registered sub-client [Expedition_39913859] with ID [1] for session ID [2993] host [DAMKU] user [Damian] process ID [5484]
+[2018.06.13 21:00:50] [0122m.02s.045ms] [1] CMT: There are [3] clients now: 2979, 2980, 2993
+[2018.06.13 21:00:51] [0122m.02s.629ms] [1] SC[2993]: UnRegistered sub-client [Expedition_39913859] with ID [1] for session ID [2993] host [DAMKU] user [Damian] process ID [5484]
+[2018.06.13 21:00:51] [0122m.02s.656ms] [1] CMT: Removed client [2993]
+[2018.06.13 21:00:51] [0122m.02s.656ms] [1] CMT: There are [2] clients now: 2979, 2980
+[2018.06.13 21:03:19] [0124m.30s.541ms] [1] SC[2980]: Registered sub-client [EEVM_EEVM_24238888] with ID [26] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 21:03:19] [0124m.30s.542ms] [1] SC[2980]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [26] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 21:03:20] [0124m.31s.958ms] [0] IT: Session [2994] for host [DAMKU] user [Damian] with process ID [7632] created
+[2018.06.13 21:03:20] [0124m.31s.959ms] [1] SC[2994]: Registered sub-client [Expedition_40064000] with ID [1] for session ID [2994] host [DAMKU] user [Damian] process ID [7632]
+[2018.06.13 21:03:20] [0124m.32s.059ms] [1] CMT: There are [3] clients now: 2979, 2980, 2994
+[2018.06.13 21:03:21] [0124m.32s.887ms] [1] SC[2994]: UnRegistered sub-client [Expedition_40064000] with ID [1] for session ID [2994] host [DAMKU] user [Damian] process ID [7632]
+[2018.06.13 21:03:21] [0124m.32s.907ms] [1] CMT: Removed client [2994]
+[2018.06.13 21:03:21] [0124m.32s.907ms] [1] CMT: There are [2] clients now: 2979, 2980
+[2018.06.13 21:04:54] [0126m.05s.643ms] [1] SC[2980]: Registered sub-client [EEVM_EEVM_24238888] with ID [27] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 21:04:54] [0126m.05s.644ms] [1] SC[2980]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [27] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 21:04:54] [0126m.06s.332ms] [0] IT: Session [2995] for host [DAMKU] user [Damian] with process ID [9992] created
+[2018.06.13 21:04:54] [0126m.06s.333ms] [1] SC[2995]: Registered sub-client [Expedition_40158281] with ID [1] for session ID [2995] host [DAMKU] user [Damian] process ID [9992]
+[2018.06.13 21:04:54] [0126m.06s.419ms] [1] CMT: There are [3] clients now: 2979, 2980, 2995
+[2018.06.13 21:04:55] [0126m.06s.682ms] [1] SC[2995]: UnRegistered sub-client [Expedition_40158281] with ID [1] for session ID [2995] host [DAMKU] user [Damian] process ID [9992]
+[2018.06.13 21:04:55] [0126m.06s.722ms] [1] CMT: Removed client [2995]
+[2018.06.13 21:04:55] [0126m.06s.722ms] [1] CMT: There are [2] clients now: 2979, 2980
+[2018.06.13 21:07:27] [0128m.39s.413ms] [1] SC[2980]: Registered sub-client [EEVM_EEVM_24238888] with ID [28] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 21:07:27] [0128m.39s.414ms] [1] SC[2980]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [28] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 21:07:29] [0128m.40s.662ms] [0] IT: Session [2996] for host [DAMKU] user [Damian] with process ID [8140] created
+[2018.06.13 21:07:29] [0128m.40s.663ms] [1] SC[2996]: Registered sub-client [Expedition_40312546] with ID [1] for session ID [2996] host [DAMKU] user [Damian] process ID [8140]
+[2018.06.13 21:07:29] [0128m.40s.720ms] [1] CMT: There are [3] clients now: 2979, 2980, 2996
+[2018.06.13 21:07:29] [0128m.41s.028ms] [1] SC[2996]: UnRegistered sub-client [Expedition_40312546] with ID [1] for session ID [2996] host [DAMKU] user [Damian] process ID [8140]
+[2018.06.13 21:07:29] [0128m.41s.124ms] [1] CMT: Removed client [2996]
+[2018.06.13 21:07:29] [0128m.41s.124ms] [1] CMT: There are [2] clients now: 2979, 2980
+[2018.06.13 21:18:59] [0140m.10s.565ms] [1] SC[2980]: Registered sub-client [EEVM_EEVM_24238888] with ID [29] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 21:18:59] [0140m.10s.566ms] [1] SC[2980]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [29] for session ID [2980] host [DAMKU] user [Damian] process ID [10112]
+[2018.06.13 21:19:05] [0140m.16s.596ms] [0] IT: Session [2997] for host [DAMKU] user [Damian] with process ID [1264] created
+[2018.06.13 21:19:05] [0140m.16s.597ms] [1] SC[2997]: Registered sub-client [Expedition_41007468] with ID [1] for session ID [2997] host [DAMKU] user [Damian] process ID [1264]
+[2018.06.13 21:19:05] [0140m.16s.624ms] [1] CMT: There are [3] clients now: 2979, 2980, 2997
+[2018.06.13 21:19:05] [0140m.17s.473ms] [1] SC[2997]: UnRegistered sub-client [Expedition_41007468] with ID [1] for session ID [2997] host [DAMKU] user [Damian] process ID [1264]
+[2018.06.13 21:19:06] [0140m.17s.565ms] [1] CMT: Removed client [2997]
+[2018.06.13 21:19:06] [0140m.17s.566ms] [1] CMT: There are [2] clients now: 2979, 2980
+[2018.06.13 21:25:36] [0146m.48s.342ms] [0] SC[2980]: ERROR: Receiving command: Socket Exception: Category[Socket] Error[ReceiveFailed] Description[Could not receive data from peer; ECONNRESET - Connection reset by peer.] Message[Receiving network command with timeout]
+[2018.06.13 21:25:36] [0146m.48s.342ms] [0] SC[2980]: Setting status to OFFLINE
+[2018.06.13 21:25:36] [0146m.48s.411ms] [1] CMT: Trying to remove local offline client [2980] because of single-user mode
+[2018.06.13 21:25:36] [0146m.48s.411ms] [1] Named Locks: WARNING: Lock [ProcessNotifier] is still in use by client [DAMKU:Damian:10112] with session Id [2980]
+[2018.06.13 21:25:37] [0146m.48s.508ms] [1] SCL: WARNING: Client [2980:DAMKU:Damian:10112] has named locks while trying to remove it - auto unlocking
+[2018.06.13 21:25:37] [0146m.48s.609ms] [0] CRT[2980]: EXIT: Because of client death
+[2018.06.13 21:25:38] [0146m.49s.653ms] [1] CMT: Removed client [2980]
+[2018.06.13 21:25:38] [0146m.49s.654ms] [1] CMT: There are [1] clients now: 2979
+[2018.06.13 21:25:44] [0146m.56s.055ms] [1] SC[2979]: Registered sub-client [Dx2Exp_41408390] with ID [47] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 21:25:44] [0146m.56s.102ms] [1] SC[2979]: UnRegistered sub-client [Dx2Exp_41408390] with ID [47] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 21:27:23] [0148m.35s.198ms] [0] IT: Session [2998] for host [DAMKU] user [Damian] with process ID [2688] created
+[2018.06.13 21:27:23] [0148m.35s.206ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 21:27:23] [0148m.35s.221ms] [1] SC[2998]: Registered sub-client [Expedition PCB_41507390] with ID [1] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:27:24] [0148m.36s.297ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_265464336] with ID [2] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:27:25] [0148m.36s.704ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_265464336] with ID [2] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:27:25] [0148m.36s.708ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_265464336] with ID [3] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:27:25] [0148m.36s.800ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_265464336] with ID [3] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:27:33] [0148m.45s.430ms] [1] SC[2998]: Registered sub-client [JobPrefsDBPI_41517781] with ID [4] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:27:34] [0148m.45s.689ms] [1] SC[2998]: UnRegistered sub-client [JobPrefsDBPI_41517781] with ID [4] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:27:39] [0148m.51s.108ms] [1] SC[2998]: Registered sub-client [JobPrefsDBPI_41523453] with ID [5] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:27:39] [0148m.51s.117ms] [1] SC[2998]: UnRegistered sub-client [JobPrefsDBPI_41523453] with ID [5] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:27:43] [0148m.55s.209ms] [1] SC[2998]: Registered sub-client [JobPrefsDBPI_41527546] with ID [6] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:27:43] [0148m.55s.213ms] [1] SC[2998]: UnRegistered sub-client [JobPrefsDBPI_41527546] with ID [6] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:27:47] [0148m.58s.641ms] [1] SC[2998]: Registered sub-client [ExpeditionCrossProber] with ID [7] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:27:47] [0148m.58s.645ms] [1] SC[2998]: Registered sub-client [StartServerCliente34] with ID [8] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:27:47] [0148m.58s.723ms] [1] SC[2998]: UnRegistered sub-client [StartServerCliente34] with ID [8] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:27:59] [0149m.11s.110ms] [1] SC[2998]: Registered sub-client [Damian] with ID [9] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:27:59] [0149m.11s.224ms] [1] SC[2998]: UnRegistered sub-client [Damian] with ID [9] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:28:00] [0149m.12s.010ms] [1] SC[2998]: Registered sub-client [Damian (Exp-iCES parallella)] with ID [10] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:28:01] [0149m.12s.696ms] [1] SC[2998]: Registered sub-client [Damian (Exp-iCES)] with ID [11] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:32:30] [0153m.42s.041ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [12] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:32:30] [0153m.42s.056ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [12] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:32:33] [0153m.44s.569ms] [0] IT: Session [2999] for host [DAMKU] user [Damian] with process ID [8948] created
+[2018.06.13 21:32:33] [0153m.44s.571ms] [1] SC[2999]: Registered sub-client [Expedition_41816453] with ID [1] for session ID [2999] host [DAMKU] user [Damian] process ID [8948]
+[2018.06.13 21:32:33] [0153m.44s.660ms] [1] CMT: There are [3] clients now: 2979, 2998, 2999
+[2018.06.13 21:32:33] [0153m.45s.124ms] [1] SC[2999]: UnRegistered sub-client [Expedition_41816453] with ID [1] for session ID [2999] host [DAMKU] user [Damian] process ID [8948]
+[2018.06.13 21:32:33] [0153m.45s.175ms] [1] CMT: Removed client [2999]
+[2018.06.13 21:32:33] [0153m.45s.175ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 21:33:43] [0154m.54s.845ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [13] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:33:43] [0154m.54s.846ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [13] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:33:43] [0154m.55s.402ms] [0] IT: Session [3000] for host [DAMKU] user [Damian] with process ID [7432] created
+[2018.06.13 21:33:43] [0154m.55s.404ms] [1] SC[3000]: Registered sub-client [Expedition_41887421] with ID [1] for session ID [3000] host [DAMKU] user [Damian] process ID [7432]
+[2018.06.13 21:33:44] [0154m.55s.490ms] [1] CMT: There are [3] clients now: 2979, 2998, 3000
+[2018.06.13 21:33:44] [0154m.55s.783ms] [1] SC[3000]: UnRegistered sub-client [Expedition_41887421] with ID [1] for session ID [3000] host [DAMKU] user [Damian] process ID [7432]
+[2018.06.13 21:33:44] [0154m.55s.793ms] [1] CMT: Removed client [3000]
+[2018.06.13 21:33:44] [0154m.55s.793ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 21:39:25] [0160m.37s.445ms] [1] SC[2998]: Registered sub-client [JobPrefsDBPI_42229796] with ID [14] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:39:25] [0160m.37s.477ms] [1] SC[2998]: UnRegistered sub-client [JobPrefsDBPI_42229796] with ID [14] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:42:00] [0163m.12s.113ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [15] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:42:00] [0163m.12s.114ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [15] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:42:01] [0163m.13s.328ms] [0] IT: Session [3001] for host [DAMKU] user [Damian] with process ID [8020] created
+[2018.06.13 21:42:01] [0163m.13s.329ms] [1] SC[3001]: Registered sub-client [Expedition_42385343] with ID [1] for session ID [3001] host [DAMKU] user [Damian] process ID [8020]
+[2018.06.13 21:42:01] [0163m.13s.337ms] [1] CMT: There are [3] clients now: 2979, 2998, 3001
+[2018.06.13 21:42:02] [0163m.13s.757ms] [1] SC[3001]: UnRegistered sub-client [Expedition_42385343] with ID [1] for session ID [3001] host [DAMKU] user [Damian] process ID [8020]
+[2018.06.13 21:42:02] [0163m.13s.842ms] [1] CMT: Removed client [3001]
+[2018.06.13 21:42:02] [0163m.13s.842ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 21:48:09] [0169m.20s.995ms] [1] SC[2998]: Registered sub-client [JobPrefsDBPI_42753343] with ID [16] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:48:09] [0169m.21s.057ms] [1] SC[2998]: UnRegistered sub-client [JobPrefsDBPI_42753343] with ID [16] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:48:09] [0169m.21s.158ms] [1] SC[2998]: Registered sub-client [JobPrefsDBPI_42753500] with ID [17] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:48:09] [0169m.21s.163ms] [1] SC[2998]: UnRegistered sub-client [JobPrefsDBPI_42753500] with ID [17] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:48:15] [0169m.27s.036ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [18] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:48:15] [0169m.27s.037ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [18] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:48:16] [0169m.27s.622ms] [0] IT: Session [3002] for host [DAMKU] user [Damian] with process ID [10192] created
+[2018.06.13 21:48:16] [0169m.27s.623ms] [1] SC[3002]: Registered sub-client [Expedition_42759625] with ID [1] for session ID [3002] host [DAMKU] user [Damian] process ID [10192]
+[2018.06.13 21:48:16] [0169m.27s.671ms] [1] CMT: There are [3] clients now: 2979, 2998, 3002
+[2018.06.13 21:48:16] [0169m.28s.134ms] [1] SC[3002]: UnRegistered sub-client [Expedition_42759625] with ID [1] for session ID [3002] host [DAMKU] user [Damian] process ID [10192]
+[2018.06.13 21:48:16] [0169m.28s.191ms] [1] CMT: Removed client [3002]
+[2018.06.13 21:48:16] [0169m.28s.191ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 21:50:50] [0172m.01s.917ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [19] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:50:50] [0172m.01s.919ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [19] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:50:51] [0172m.03s.062ms] [0] IT: Session [3003] for host [DAMKU] user [Damian] with process ID [2372] created
+[2018.06.13 21:50:51] [0172m.03s.064ms] [1] SC[3003]: Registered sub-client [Expedition_42914796] with ID [1] for session ID [3003] host [DAMKU] user [Damian] process ID [2372]
+[2018.06.13 21:50:51] [0172m.03s.086ms] [1] CMT: There are [3] clients now: 2979, 2998, 3003
+[2018.06.13 21:50:52] [0172m.03s.996ms] [1] SC[3003]: UnRegistered sub-client [Expedition_42914796] with ID [1] for session ID [3003] host [DAMKU] user [Damian] process ID [2372]
+[2018.06.13 21:50:52] [0172m.04s.080ms] [1] CMT: Removed client [3003]
+[2018.06.13 21:50:52] [0172m.04s.080ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 21:55:58] [0177m.10s.153ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [20] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:55:58] [0177m.10s.154ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [20] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 21:55:59] [0177m.11s.361ms] [0] IT: Session [3004] for host [DAMKU] user [Damian] with process ID [4564] created
+[2018.06.13 21:55:59] [0177m.11s.363ms] [1] SC[3004]: Registered sub-client [Expedition_43222796] with ID [1] for session ID [3004] host [DAMKU] user [Damian] process ID [4564]
+[2018.06.13 21:55:59] [0177m.11s.455ms] [1] CMT: There are [3] clients now: 2979, 2998, 3004
+[2018.06.13 21:56:00] [0177m.11s.899ms] [1] SC[3004]: UnRegistered sub-client [Expedition_43222796] with ID [1] for session ID [3004] host [DAMKU] user [Damian] process ID [4564]
+[2018.06.13 21:56:00] [0177m.11s.964ms] [1] CMT: Removed client [3004]
+[2018.06.13 21:56:00] [0177m.11s.964ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 22:03:47] [0184m.58s.532ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [21] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 22:03:47] [0184m.58s.533ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [21] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 22:03:48] [0184m.59s.496ms] [0] IT: Session [3005] for host [DAMKU] user [Damian] with process ID [4976] created
+[2018.06.13 22:03:48] [0184m.59s.498ms] [1] SC[3005]: Registered sub-client [Expedition_43691421] with ID [1] for session ID [3005] host [DAMKU] user [Damian] process ID [4976]
+[2018.06.13 22:03:48] [0184m.59s.563ms] [1] CMT: There are [3] clients now: 2979, 2998, 3005
+[2018.06.13 22:03:48] [0185m.00s.201ms] [1] SC[3005]: UnRegistered sub-client [Expedition_43691421] with ID [1] for session ID [3005] host [DAMKU] user [Damian] process ID [4976]
+[2018.06.13 22:03:48] [0185m.00s.283ms] [1] CMT: Removed client [3005]
+[2018.06.13 22:03:48] [0185m.00s.283ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 22:05:57] [0187m.09s.452ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [22] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 22:05:57] [0187m.09s.454ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [22] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 22:05:58] [0187m.10s.468ms] [0] IT: Session [3006] for host [DAMKU] user [Damian] with process ID [7636] created
+[2018.06.13 22:05:58] [0187m.10s.469ms] [1] SC[3006]: Registered sub-client [Expedition_43822343] with ID [1] for session ID [3006] host [DAMKU] user [Damian] process ID [7636]
+[2018.06.13 22:05:59] [0187m.10s.564ms] [1] CMT: There are [3] clients now: 2979, 2998, 3006
+[2018.06.13 22:05:59] [0187m.10s.963ms] [1] SC[3006]: UnRegistered sub-client [Expedition_43822343] with ID [1] for session ID [3006] host [DAMKU] user [Damian] process ID [7636]
+[2018.06.13 22:05:59] [0187m.10s.970ms] [1] CMT: Removed client [3006]
+[2018.06.13 22:05:59] [0187m.10s.970ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 22:06:22] [0187m.34s.093ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [23] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 22:06:22] [0187m.34s.093ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [23] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 22:06:23] [0187m.34s.997ms] [0] IT: Session [3007] for host [DAMKU] user [Damian] with process ID [4484] created
+[2018.06.13 22:06:23] [0187m.35s.003ms] [1] SC[3007]: Registered sub-client [Expedition_43846890] with ID [1] for session ID [3007] host [DAMKU] user [Damian] process ID [4484]
+[2018.06.13 22:06:23] [0187m.35s.090ms] [1] CMT: There are [3] clients now: 2979, 2998, 3007
+[2018.06.13 22:06:24] [0187m.35s.717ms] [1] SC[3007]: UnRegistered sub-client [Expedition_43846890] with ID [1] for session ID [3007] host [DAMKU] user [Damian] process ID [4484]
+[2018.06.13 22:06:24] [0187m.35s.772ms] [1] CMT: Removed client [3007]
+[2018.06.13 22:06:24] [0187m.35s.772ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 22:23:48] [0205m.00s.048ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [24] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 22:23:48] [0205m.00s.049ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [24] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 22:23:49] [0205m.01s.469ms] [0] IT: Session [3008] for host [DAMKU] user [Damian] with process ID [9992] created
+[2018.06.13 22:23:49] [0205m.01s.471ms] [1] SC[3008]: Registered sub-client [Expedition_44893406] with ID [1] for session ID [3008] host [DAMKU] user [Damian] process ID [9992]
+[2018.06.13 22:23:50] [0205m.01s.557ms] [1] CMT: There are [3] clients now: 2979, 2998, 3008
+[2018.06.13 22:23:50] [0205m.02s.324ms] [1] SC[3008]: UnRegistered sub-client [Expedition_44893406] with ID [1] for session ID [3008] host [DAMKU] user [Damian] process ID [9992]
+[2018.06.13 22:23:50] [0205m.02s.327ms] [1] CMT: Removed client [3008]
+[2018.06.13 22:23:50] [0205m.02s.327ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 22:24:14] [0205m.26s.159ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [25] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 22:24:14] [0205m.26s.160ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [25] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 22:24:15] [0205m.26s.833ms] [0] IT: Session [3009] for host [DAMKU] user [Damian] with process ID [4196] created
+[2018.06.13 22:24:15] [0205m.26s.835ms] [1] SC[3009]: Registered sub-client [Expedition_44918750] with ID [1] for session ID [3009] host [DAMKU] user [Damian] process ID [4196]
+[2018.06.13 22:24:15] [0205m.26s.865ms] [1] CMT: There are [3] clients now: 2979, 2998, 3009
+[2018.06.13 22:24:15] [0205m.27s.205ms] [1] SC[3009]: UnRegistered sub-client [Expedition_44918750] with ID [1] for session ID [3009] host [DAMKU] user [Damian] process ID [4196]
+[2018.06.13 22:24:15] [0205m.27s.269ms] [1] CMT: Removed client [3009]
+[2018.06.13 22:24:15] [0205m.27s.269ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 22:26:20] [0207m.32s.467ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [26] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 22:26:20] [0207m.32s.468ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [26] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 22:26:21] [0207m.33s.456ms] [0] IT: Session [3010] for host [DAMKU] user [Damian] with process ID [2252] created
+[2018.06.13 22:26:21] [0207m.33s.458ms] [1] SC[3010]: Registered sub-client [Expedition_45045453] with ID [1] for session ID [3010] host [DAMKU] user [Damian] process ID [2252]
+[2018.06.13 22:26:22] [0207m.33s.503ms] [1] CMT: There are [3] clients now: 2979, 2998, 3010
+[2018.06.13 22:26:22] [0207m.34s.105ms] [1] SC[3010]: UnRegistered sub-client [Expedition_45045453] with ID [1] for session ID [3010] host [DAMKU] user [Damian] process ID [2252]
+[2018.06.13 22:26:22] [0207m.34s.175ms] [1] CMT: Removed client [3010]
+[2018.06.13 22:26:22] [0207m.34s.175ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 22:35:34] [0216m.46s.371ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [27] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 22:35:34] [0216m.46s.445ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [27] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 22:35:39] [0216m.51s.401ms] [0] IT: Session [3011] for host [DAMKU] user [Damian] with process ID [1200] created
+[2018.06.13 22:35:39] [0216m.51s.404ms] [1] SC[3011]: Registered sub-client [Expedition_45602375] with ID [1] for session ID [3011] host [DAMKU] user [Damian] process ID [1200]
+[2018.06.13 22:35:39] [0216m.51s.452ms] [1] CMT: There are [3] clients now: 2979, 2998, 3011
+[2018.06.13 22:35:40] [0216m.52s.111ms] [1] SC[3011]: UnRegistered sub-client [Expedition_45602375] with ID [1] for session ID [3011] host [DAMKU] user [Damian] process ID [1200]
+[2018.06.13 22:35:40] [0216m.52s.169ms] [1] CMT: Removed client [3011]
+[2018.06.13 22:35:40] [0216m.52s.170ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 22:52:33] [0233m.44s.657ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [28] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 22:52:33] [0233m.44s.854ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [28] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 22:52:51] [0234m.03s.007ms] [0] IT: Session [3012] for host [DAMKU] user [Damian] with process ID [7804] created
+[2018.06.13 22:52:51] [0234m.03s.044ms] [1] CMT: There are [3] clients now: 2979, 2998, 3012
+[2018.06.13 22:52:52] [0234m.03s.715ms] [1] SC[3012]: Registered sub-client [Expedition_46633609] with ID [1] for session ID [3012] host [DAMKU] user [Damian] process ID [7804]
+[2018.06.13 22:52:53] [0234m.04s.994ms] [1] SC[3012]: UnRegistered sub-client [Expedition_46633609] with ID [1] for session ID [3012] host [DAMKU] user [Damian] process ID [7804]
+[2018.06.13 22:52:53] [0234m.05s.078ms] [1] CMT: Removed client [3012]
+[2018.06.13 22:52:53] [0234m.05s.078ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 22:58:35] [0239m.47s.298ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [29] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 22:58:35] [0239m.47s.299ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [29] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 22:58:36] [0239m.48s.221ms] [0] IT: Session [3013] for host [DAMKU] user [Damian] with process ID [6104] created
+[2018.06.13 22:58:36] [0239m.48s.222ms] [1] SC[3013]: Registered sub-client [Expedition_46980109] with ID [1] for session ID [3013] host [DAMKU] user [Damian] process ID [6104]
+[2018.06.13 22:58:36] [0239m.48s.233ms] [1] CMT: There are [3] clients now: 2979, 2998, 3013
+[2018.06.13 22:58:37] [0239m.48s.789ms] [1] SC[3013]: UnRegistered sub-client [Expedition_46980109] with ID [1] for session ID [3013] host [DAMKU] user [Damian] process ID [6104]
+[2018.06.13 22:58:37] [0239m.48s.838ms] [1] CMT: Removed client [3013]
+[2018.06.13 22:58:37] [0239m.48s.838ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 22:58:52] [0240m.04s.218ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [30] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 22:58:52] [0240m.04s.219ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [30] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 22:58:53] [0240m.04s.793ms] [0] IT: Session [3014] for host [DAMKU] user [Damian] with process ID [7012] created
+[2018.06.13 22:58:53] [0240m.04s.794ms] [1] SC[3014]: Registered sub-client [Expedition_46996796] with ID [1] for session ID [3014] host [DAMKU] user [Damian] process ID [7012]
+[2018.06.13 22:58:53] [0240m.04s.889ms] [1] CMT: There are [3] clients now: 2979, 2998, 3014
+[2018.06.13 22:58:53] [0240m.05s.125ms] [1] SC[3014]: UnRegistered sub-client [Expedition_46996796] with ID [1] for session ID [3014] host [DAMKU] user [Damian] process ID [7012]
+[2018.06.13 22:58:53] [0240m.05s.192ms] [1] CMT: Removed client [3014]
+[2018.06.13 22:58:53] [0240m.05s.192ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 23:00:09] [0241m.21s.464ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [31] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:00:09] [0241m.21s.464ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [31] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:00:14] [0241m.25s.615ms] [0] IT: Session [3015] for host [DAMKU] user [Damian] with process ID [9268] created
+[2018.06.13 23:00:14] [0241m.25s.616ms] [1] SC[3015]: Registered sub-client [Expedition_47076031] with ID [1] for session ID [3015] host [DAMKU] user [Damian] process ID [9268]
+[2018.06.13 23:00:14] [0241m.25s.655ms] [1] CMT: There are [3] clients now: 2979, 2998, 3015
+[2018.06.13 23:00:14] [0241m.25s.932ms] [1] SC[3015]: UnRegistered sub-client [Expedition_47076031] with ID [1] for session ID [3015] host [DAMKU] user [Damian] process ID [9268]
+[2018.06.13 23:00:14] [0241m.25s.960ms] [1] CMT: Removed client [3015]
+[2018.06.13 23:00:14] [0241m.25s.961ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 23:00:29] [0241m.40s.718ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [32] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:00:29] [0241m.41s.023ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [32] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:00:31] [0241m.42s.887ms] [0] IT: Session [3016] for host [DAMKU] user [Damian] with process ID [3200] created
+[2018.06.13 23:00:31] [0241m.42s.888ms] [1] SC[3016]: Registered sub-client [Expedition_47094093] with ID [1] for session ID [3016] host [DAMKU] user [Damian] process ID [3200]
+[2018.06.13 23:00:31] [0241m.42s.958ms] [1] CMT: There are [3] clients now: 2979, 2998, 3016
+[2018.06.13 23:00:32] [0241m.43s.665ms] [1] SC[3016]: UnRegistered sub-client [Expedition_47094093] with ID [1] for session ID [3016] host [DAMKU] user [Damian] process ID [3200]
+[2018.06.13 23:00:32] [0241m.43s.765ms] [1] CMT: Removed client [3016]
+[2018.06.13 23:00:32] [0241m.43s.765ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 23:00:53] [0242m.04s.841ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [33] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:00:53] [0242m.04s.864ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [33] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:00:54] [0242m.05s.792ms] [0] IT: Session [3017] for host [DAMKU] user [Damian] with process ID [3660] created
+[2018.06.13 23:00:54] [0242m.05s.793ms] [1] SC[3017]: Registered sub-client [Expedition_47117687] with ID [1] for session ID [3017] host [DAMKU] user [Damian] process ID [3660]
+[2018.06.13 23:00:54] [0242m.05s.834ms] [1] CMT: There are [3] clients now: 2979, 2998, 3017
+[2018.06.13 23:00:54] [0242m.06s.230ms] [1] SC[3017]: UnRegistered sub-client [Expedition_47117687] with ID [1] for session ID [3017] host [DAMKU] user [Damian] process ID [3660]
+[2018.06.13 23:00:54] [0242m.06s.253ms] [1] CMT: Removed client [3017]
+[2018.06.13 23:00:54] [0242m.06s.253ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 23:13:37] [0254m.49s.350ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [34] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:13:37] [0254m.49s.350ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [34] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:13:39] [0254m.50s.507ms] [0] IT: Session [3018] for host [DAMKU] user [Damian] with process ID [2348] created
+[2018.06.13 23:13:39] [0254m.50s.507ms] [1] SC[3018]: Registered sub-client [Expedition_47882578] with ID [1] for session ID [3018] host [DAMKU] user [Damian] process ID [2348]
+[2018.06.13 23:13:39] [0254m.50s.616ms] [1] CMT: There are [3] clients now: 2979, 2998, 3018
+[2018.06.13 23:13:39] [0254m.50s.850ms] [1] SC[3018]: UnRegistered sub-client [Expedition_47882578] with ID [1] for session ID [3018] host [DAMKU] user [Damian] process ID [2348]
+[2018.06.13 23:13:39] [0254m.50s.944ms] [1] CMT: Removed client [3018]
+[2018.06.13 23:13:39] [0254m.50s.944ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 23:16:02] [0257m.14s.194ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [35] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:16:02] [0257m.14s.195ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [35] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:16:03] [0257m.14s.899ms] [0] IT: Session [3019] for host [DAMKU] user [Damian] with process ID [10168] created
+[2018.06.13 23:16:03] [0257m.14s.903ms] [1] SC[3019]: Registered sub-client [Expedition_48026890] with ID [1] for session ID [3019] host [DAMKU] user [Damian] process ID [10168]
+[2018.06.13 23:16:03] [0257m.14s.935ms] [1] CMT: There are [3] clients now: 2979, 2998, 3019
+[2018.06.13 23:16:03] [0257m.15s.260ms] [1] SC[3019]: UnRegistered sub-client [Expedition_48026890] with ID [1] for session ID [3019] host [DAMKU] user [Damian] process ID [10168]
+[2018.06.13 23:16:03] [0257m.15s.339ms] [1] CMT: Removed client [3019]
+[2018.06.13 23:16:03] [0257m.15s.339ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 23:16:50] [0258m.02s.117ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [36] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:16:50] [0258m.02s.118ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [36] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:16:51] [0258m.03s.027ms] [0] IT: Session [3020] for host [DAMKU] user [Damian] with process ID [4216] created
+[2018.06.13 23:16:51] [0258m.03s.038ms] [1] SC[3020]: Registered sub-client [Expedition_48074890] with ID [1] for session ID [3020] host [DAMKU] user [Damian] process ID [4216]
+[2018.06.13 23:16:51] [0258m.03s.041ms] [1] CMT: There are [3] clients now: 2979, 2998, 3020
+[2018.06.13 23:16:51] [0258m.03s.408ms] [1] SC[3020]: UnRegistered sub-client [Expedition_48074890] with ID [1] for session ID [3020] host [DAMKU] user [Damian] process ID [4216]
+[2018.06.13 23:16:51] [0258m.03s.462ms] [1] CMT: Removed client [3020]
+[2018.06.13 23:16:51] [0258m.03s.462ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 23:21:13] [0262m.24s.606ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [37] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:21:13] [0262m.24s.607ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [37] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:21:13] [0262m.25s.363ms] [0] IT: Session [3021] for host [DAMKU] user [Damian] with process ID [2396] created
+[2018.06.13 23:21:13] [0262m.25s.364ms] [1] SC[3021]: Registered sub-client [Expedition_48337265] with ID [1] for session ID [3021] host [DAMKU] user [Damian] process ID [2396]
+[2018.06.13 23:21:13] [0262m.25s.433ms] [1] CMT: There are [3] clients now: 2979, 2998, 3021
+[2018.06.13 23:21:14] [0262m.25s.859ms] [1] SC[3021]: UnRegistered sub-client [Expedition_48337265] with ID [1] for session ID [3021] host [DAMKU] user [Damian] process ID [2396]
+[2018.06.13 23:21:14] [0262m.25s.862ms] [1] CMT: Removed client [3021]
+[2018.06.13 23:21:14] [0262m.25s.862ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 23:36:12] [0277m.23s.605ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [38] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:36:12] [0277m.23s.607ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [38] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:36:12] [0277m.24s.364ms] [0] IT: Session [3022] for host [DAMKU] user [Damian] with process ID [7496] created
+[2018.06.13 23:36:12] [0277m.24s.365ms] [1] SC[3022]: Registered sub-client [Expedition_49236203] with ID [1] for session ID [3022] host [DAMKU] user [Damian] process ID [7496]
+[2018.06.13 23:36:12] [0277m.24s.403ms] [1] CMT: There are [3] clients now: 2979, 2998, 3022
+[2018.06.13 23:36:13] [0277m.24s.768ms] [1] SC[3022]: UnRegistered sub-client [Expedition_49236203] with ID [1] for session ID [3022] host [DAMKU] user [Damian] process ID [7496]
+[2018.06.13 23:36:13] [0277m.24s.807ms] [1] CMT: Removed client [3022]
+[2018.06.13 23:36:13] [0277m.24s.807ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 23:36:32] [0277m.44s.236ms] [1] SC[2998]: Registered sub-client [EEVM_EEVM_24238888] with ID [39] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:36:32] [0277m.44s.238ms] [1] SC[2998]: UnRegistered sub-client [EEVM_EEVM_24238888] with ID [39] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:36:33] [0277m.44s.835ms] [0] IT: Session [3023] for host [DAMKU] user [Damian] with process ID [2692] created
+[2018.06.13 23:36:33] [0277m.44s.837ms] [1] SC[3023]: Registered sub-client [Expedition_49256812] with ID [1] for session ID [3023] host [DAMKU] user [Damian] process ID [2692]
+[2018.06.13 23:36:33] [0277m.44s.892ms] [1] CMT: There are [3] clients now: 2979, 2998, 3023
+[2018.06.13 23:36:33] [0277m.45s.201ms] [1] SC[3023]: UnRegistered sub-client [Expedition_49256812] with ID [1] for session ID [3023] host [DAMKU] user [Damian] process ID [2692]
+[2018.06.13 23:36:33] [0277m.45s.297ms] [1] CMT: Removed client [3023]
+[2018.06.13 23:36:33] [0277m.45s.297ms] [1] CMT: There are [2] clients now: 2979, 2998
+[2018.06.13 23:36:49] [0278m.01s.319ms] [1] SC[2998]: UnRegistered sub-client [Damian (Exp-iCES parallella)] with ID [10] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:36:50] [0278m.02s.084ms] [1] SC[2998]: UnRegistered sub-client [Damian (Exp-iCES)] with ID [11] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:36:52] [0278m.03s.694ms] [1] SC[2998]: UnRegistered sub-client [ExpeditionCrossProber] with ID [7] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:36:58] [0278m.09s.942ms] [1] SC[2998]: UnRegistered sub-client [Expedition PCB_41507390] with ID [1] for session ID [2998] host [DAMKU] user [Damian] process ID [2688]
+[2018.06.13 23:36:58] [0278m.09s.959ms] [1] CMT: Removed client [2998]
+[2018.06.13 23:36:58] [0278m.09s.959ms] [1] CMT: There are [1] clients now: 2979
+[2018.06.13 23:38:42] [0279m.54s.076ms] [1] SC[2979]: Registered sub-client [Dx2Exp_49386421] with ID [48] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:38:42] [0279m.54s.112ms] [1] SC[2979]: UnRegistered sub-client [Dx2Exp_49386421] with ID [48] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:39:49] [0281m.01s.143ms] [0] IT: Session [3024] for host [DAMKU] user [Damian] with process ID [5280] created
+[2018.06.13 23:39:49] [0281m.01s.145ms] [1] SC[3024]: Registered sub-client [Expedition PCB_49453312] with ID [1] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:39:49] [0281m.01s.232ms] [1] CMT: There are [2] clients now: 2979, 3024
+[2018.06.13 23:39:50] [0281m.01s.902ms] [1] SC[3024]: Registered sub-client [EEVM_EEVM_357554208] with ID [2] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:39:50] [0281m.02s.122ms] [1] SC[3024]: UnRegistered sub-client [EEVM_EEVM_357554208] with ID [2] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:39:50] [0281m.02s.126ms] [1] SC[3024]: Registered sub-client [EEVM_EEVM_357554208] with ID [3] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:39:50] [0281m.02s.311ms] [1] SC[3024]: UnRegistered sub-client [EEVM_EEVM_357554208] with ID [3] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:39:54] [0281m.05s.593ms] [1] SC[3024]: Registered sub-client [JobPrefsDBPI_49457937] with ID [4] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:39:54] [0281m.05s.790ms] [1] SC[3024]: UnRegistered sub-client [JobPrefsDBPI_49457937] with ID [4] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:39:59] [0281m.10s.887ms] [1] SC[3024]: Registered sub-client [JobPrefsDBPI_49463234] with ID [5] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:39:59] [0281m.10s.894ms] [1] SC[3024]: UnRegistered sub-client [JobPrefsDBPI_49463234] with ID [5] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:40:05] [0281m.16s.772ms] [1] SC[3024]: Registered sub-client [JobPrefsDBPI_49469109] with ID [6] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:40:05] [0281m.16s.778ms] [1] SC[3024]: UnRegistered sub-client [JobPrefsDBPI_49469109] with ID [6] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:40:10] [0281m.22s.047ms] [1] SC[3024]: Registered sub-client [ExpeditionCrossProber] with ID [7] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:40:10] [0281m.22s.072ms] [1] SC[3024]: Registered sub-client [StartServerClient260] with ID [8] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:40:10] [0281m.22s.109ms] [1] SC[3024]: UnRegistered sub-client [StartServerClient260] with ID [8] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:40:41] [0281m.53s.232ms] [1] SC[3024]: Registered sub-client [Damian] with ID [9] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:40:41] [0281m.53s.346ms] [1] SC[3024]: UnRegistered sub-client [Damian] with ID [9] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:40:42] [0281m.53s.576ms] [1] SC[3024]: Registered sub-client [Damian (Exp-iCES parallella)] with ID [10] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:40:42] [0281m.54s.450ms] [1] SC[3024]: Registered sub-client [Damian (Exp-iCES)] with ID [11] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:45:38] [0286m.50s.436ms] [1] SC[3024]: UnRegistered sub-client [Damian (Exp-iCES parallella)] with ID [10] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:45:39] [0286m.50s.487ms] [1] SC[3024]: UnRegistered sub-client [Damian (Exp-iCES)] with ID [11] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:45:39] [0286m.50s.706ms] [1] SC[3024]: UnRegistered sub-client [ExpeditionCrossProber] with ID [7] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:45:40] [0286m.52s.425ms] [1] SC[2979]: UnRegistered sub-client [SystemDesignDll] with ID [12] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:41] [0286m.52s.921ms] [1] SC[3024]: UnRegistered sub-client [Expedition PCB_49453312] with ID [1] for session ID [3024] host [DAMKU] user [Damian] process ID [5280]
+[2018.06.13 23:45:41] [0286m.53s.043ms] [1] CMT: Removed client [3024]
+[2018.06.13 23:45:41] [0286m.53s.043ms] [1] CMT: There are [1] clients now: 2979
+[2018.06.13 23:45:42] [0286m.54s.151ms] [1] SC[2979]: UnRegistered sub-client [DesignSearcher2] with ID [13] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:46] [0286m.57s.512ms] [1] SC[2979]: UnRegistered sub-client [GlobalNetAliasUpdater_569990288] with ID [44] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:46] [0286m.57s.512ms] [1] SC[2979]: UnRegistered sub-client [BlockCacheDxD:563641760] with ID [43] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:46] [0286m.57s.513ms] [1] SC[2979]: UnRegistered sub-client [ObjectHolder_464461072] with ID [42] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:46] [0286m.57s.514ms] [1] SC[2979]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:570126720] with ID [45] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:46] [0286m.57s.830ms] [1] SC[2979]: UnRegistered sub-client [Navigator] with ID [15] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:46] [0286m.57s.869ms] [1] SC[2979]: UnRegistered sub-client [FFSSelListener] with ID [29] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:46] [0286m.58s.148ms] [1] SC[2979]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [18] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:47] [0286m.59s.445ms] [1] SC[2979]: UnRegistered sub-client [FFSearch_Controller_1] with ID [20] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:48] [0286m.59s.570ms] [1] SC[2979]: UnRegistered sub-client [FFSearch_Controller_0] with ID [19] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:48] [0286m.59s.700ms] [1] SC[2979]: UnRegistered sub-client [FFSearch_Controller_3] with ID [22] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:48] [0286m.59s.702ms] [1] SC[2979]: UnRegistered sub-client [FFSearch_Controller_2] with ID [21] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:48] [0286m.59s.821ms] [1] SC[2979]: UnRegistered sub-client [FFSearch_Controller_5] with ID [24] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:48] [0286m.59s.823ms] [1] SC[2979]: UnRegistered sub-client [FFSearch_Controller_4] with ID [23] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:48] [0286m.59s.870ms] [1] SC[2979]: UnRegistered sub-client [FFSearch_Controller_7] with ID [26] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:48] [0286m.59s.902ms] [1] SC[2979]: UnRegistered sub-client [FFSearch_Controller_6] with ID [25] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:48] [0286m.59s.969ms] [1] SC[2979]: UnRegistered sub-client [FFSearch_Controller_9] with ID [28] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:48] [0286m.59s.970ms] [1] SC[2979]: UnRegistered sub-client [FFSearch_Controller_8] with ID [27] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:49] [0287m.01s.257ms] [1] SC[2979]: UnRegistered sub-client [MyParts] with ID [33] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:50] [0287m.02s.446ms] [1] SC[2979]: UnRegistered sub-client [toolboxes] with ID [35] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:52] [0287m.04s.420ms] [1] SC[2979]: UnRegistered sub-client [SelectionHolder] with ID [6] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:53] [0287m.04s.589ms] [1] SC[2979]: UnRegistered sub-client [PartReplaceUtils] with ID [40] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:53] [0287m.04s.589ms] [1] SC[2979]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [41] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:53] [0287m.04s.607ms] [1] SC[2979]: UnRegistered sub-client [Core::DesignListener-26189] with ID [37] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:53] [0287m.04s.976ms] [1] SC[2979]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:565303936] with ID [36] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:53] [0287m.05s.002ms] [1] SC[2979]: UnRegistered sub-client [SheetConnectorsCacheDxD:1528909160] with ID [38] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:53] [0287m.05s.002ms] [1] SC[2979]: UnRegistered sub-client [NetsNamesCollectorDxD:1528909161] with ID [39] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:53] [0287m.05s.017ms] [1] SC[2979]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:53] [0287m.05s.052ms] [1] SC[2979]: UnRegistered sub-client [DxD] with ID [1] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:53] [0287m.05s.293ms] [1] SC[2979]: UnRegistered sub-client [xprob] with ID [3] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:53] [0287m.05s.293ms] [1] SC[2979]: UnRegistered sub-client [SymbolEditor] with ID [5] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:54] [0287m.05s.512ms] [1] SC[2979]: UnRegistered sub-client [OutputWindow] with ID [16] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:54] [0287m.05s.898ms] [1] SC[2979]: UnRegistered sub-client [SAE] with ID [30] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:54] [0287m.06s.082ms] [1] SC[2979]: UnRegistered sub-client [CCZAddin] with ID [31] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:45:54] [0287m.06s.089ms] [1] SC[2979]: UnRegistered sub-client [DxThumbnails] with ID [32] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:46:02] [0287m.13s.642ms] [1] SC[2979]: UnRegistered sub-client [PinsList] with ID [34] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:46:02] [0287m.14s.260ms] [1] SC[2979]: UnRegistered sub-client [PlaceDevice] with ID [17] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:46:05] [0287m.16s.746ms] [1] SC[2979]: UnRegistered sub-client [HdlProject] with ID [14] for session ID [2979] host [DAMKU] user [Damian] process ID [4836]
+[2018.06.13 23:46:08] [0287m.20s.356ms] [1] CMT: Removed client [2979]
+[2018.06.13 23:46:08] [0287m.20s.369ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2018.06.13 23:46:10] [0287m.21s.577ms] [0] CMT: Starting server auto-close
+[2018.06.13 23:46:10] [0287m.21s.722ms] [0] S: Closing server
+[2018.06.13 23:46:11] [0287m.22s.778ms] [1] Named Locks: WARNING: There are still [1] registered locks
+[2018.06.13 23:46:11] [0287m.22s.778ms] [1] Named Locks: WARNING: Removing lock [ProcessNotifier]
+[2018.06.13 23:46:11] [0287m.22s.913ms] [0] iCDB Server PI: Closing plugins
+[2018.06.13 23:46:12] [0287m.23s.975ms] [0] iCDB Server PI: Plugins closed
+[2018.06.13 23:46:12] [0287m.23s.975ms] [0] iCDB Server PI: Unloading database
+[2018.06.13 23:46:12] [0287m.23s.976ms] [0] iCDB Server PI: Saving storage
+[2018.06.13 23:46:12] [0287m.23s.976ms] [0] iCDB Server PI: Closing database
+[2018.06.13 23:46:12] [0287m.23s.989ms] [1] Hole: zero line at 2125308 of size 16 bytes.
+[2018.06.13 23:46:12] [0287m.24s.114ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[16%] data[98%]
+[2018.06.13 23:46:12] [0287m.24s.114ms] [1] iCDB Server PI: Stats: Database file size [2125376 (2.0 MB)]
+[2018.06.13 23:46:12] [0287m.24s.114ms] [1] Hole: zero line at 2125308 of size 16 bytes.
+[2018.06.13 23:46:12] [0287m.24s.197ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2018.06.13 23:46:13] [0287m.24s.732ms] [0] iCDB Server PI: Database closed
+[2018.06.13 23:46:13] [0287m.24s.732ms] [0] iCDB Server PI: Defragmenting database
+[2018.06.13 23:46:13] [0287m.24s.742ms] [0] iCDB Server PI: Creating database [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] backup to file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\cdbback\2018-06-13 23.46.13-5080-d.zip]
+[2018.06.13 23:46:38] [0287m.50s.064ms] [0] iCDB Server PI: Database backup: DONE
+[2018.06.13 23:46:39] [0287m.50s.560ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.13 23:46:39] [0287m.50s.569ms] [0] Database GUARD OK: [2125376]
+[2018.06.13 23:46:39] [0287m.50s.569ms] [0] SingleFile: [f098-15cc-7c5f-ab42] SFI version check [1009] [1009]
+[2018.06.13 23:46:39] [0287m.50s.601ms] [0] SingleFile: [f098-15cc-7c5f-ab42] Database SFI header has been read in [50ms 918us]
+[2018.06.13 23:46:40] [0287m.51s.604ms] [1] iCDB Server PI: Stats: Database file sizes: before[2125376 (2.0 MB)], after[1555712 (1.5 MB)], gain[569664 (556.3 kB)]
+[2018.06.13 23:46:40] [0287m.51s.694ms] [0] Single file [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] closed with size [1555712 (1.5 MB)]
+[2018.06.13 23:46:40] [0287m.51s.695ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2018.06.13 23:46:40] [0287m.51s.695ms] [1] BackupTransaction: Removing database backup [E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\cdbback\2018-06-13 23.46.13-5080-d.zip]
+[2018.06.13 23:46:40] [0287m.51s.702ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [16060566] ticks
+[2018.06.13 23:46:40] [0287m.51s.702ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [8242020] microseconds
+[2018.06.13 23:46:40] [0287m.51s.702ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [66044]
+[2018.06.13 23:46:40] [0287m.51s.702ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [8013] commands per second
+[2018.06.13 23:46:40] [0287m.52s.290ms] [0] MWT: Destroy the shutdown block reason.
+[2018.06.13 23:46:40] [0287m.52s.292ms] [0] MWT: STOP
+[2018.06.13 23:46:40] [0287m.52s.292ms] [0] S: STOP

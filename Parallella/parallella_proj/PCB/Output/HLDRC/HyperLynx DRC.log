@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<Log>
+  <Message>Using Constraints data file: C:\Users\student1\Desktop\PCBD\!projekt_i_bibioteka\parallella_proj\PCB\Output\HLDRC\parallella.cse
+
+Reading C:\Users\student1\Desktop\PCBD\!projekt_i_bibioteka\parallella_proj\PCB\Output\HLDRC\parallella.cce
+Building Local Model Index for the 1st time...
+...Processing models in C:\MentorGraphics\EEVX.2.2\SDD_HOME\hssd\models\ibis\tech...
+...Processing models in C:\MentorGraphics\EEVX.2.2\SDD_HOME\hssd\models\ibis\tech/.svn...
+...Processing models in C:\Users\student1\Desktop\PCBD\!projekt_i_bibioteka\parallella_proj\HighSpeed\ICXPro\Local_Models...
+...Processing models in C:\MentorGraphics\EEVX.2.2\SDD_HOME\standard\DEFAULT_IBIS...
+...Processing models in C:\MentorGraphics\EEVX.2.2\SDD_HOME\hssd\models\ibis\tech...
+...Processing models in C:\MentorGraphics\EEVX.2.2\SDD_HOME\hssd\models\ibis\tech/.svn...
+...... 45 files updated
+...Processing models in C:\Users\student1\Desktop\PCBD\!projekt_i_bibioteka\parallella_proj\HighSpeed\ICXPro\Local_Models...
+...Processing models in C:\MentorGraphics\EEVX.2.2\SDD_HOME\standard\DEFAULT_IBIS...
+Local Model Index Updated.
+
+Building Global Model Index for the 1st time...
+...Processing models in C:\MentorGraphics\6.5HLDRC\SDD_HOME\hldrc\win64\bin\cad_models...
+...Processing models in C:\MentorGraphics\EEVX.2.2\SDD_HOME\..\mgc_ibis_lib...
+...Processing models in C:\MentorGraphics\EEVX.2.2\SDD_HOME\hssd\models\ibis...
+...Processing models in C:\MentorGraphics\EEVX.2.2\SDD_HOME\hssd\models\ibis/tech...
+...Processing models in C:\MentorGraphics\EEVX.2.2\SDD_HOME\hssd\models\ibis/tech/.svn...
+...... 45 files updated
+...Processing models in C:\MentorGraphics\EEVX.2.2\SDD_HOME\standard\DEFAULT_IBIS...
+...Processing models in C:\MentorGraphics\EEVX.2.2\SDD_HOME\standard\templates\pcb\Central Library\IBISModels...
+...Processing models in C:\MentorGraphics\EEVX.2.2\SDD_HOME\standard\templates\pcb\Central Library\IBISModels/IBIS Models...
+...Processing models in C:\MentorGraphics\EEVX.2.2\SDD_HOME\standard\templates\pcb\Central Library\IBISModels/Technology...
+...... 5 files updated
+Global Model Index Updated.
+Loading Local Model Index...
+Loading Global Model Index...
+
+Processing design...
+
+
+Design processing completed.
+
+*** Checking started Saturday, March 10, 2018 09:42:52 Środkowoeuropejski czas stand.
+
+Executing rule: Rules/EMI/Metal Island
+  (no violations found)
+
+***  Summary: 
+Rule name: Metal Island
+  (no violations found)
+
+*** Checking finished Saturday, March 10, 2018 09:42:54 Środkowoeuropejski czas stand. *** Elapsed time: 2 seconds
+
+*** Checking started Saturday, March 10, 2018 09:43:11 Środkowoeuropejski czas stand.
+
+Executing rule: Rules/EMI/Metal Island
+  (no violations found)
+
+***  Summary: 
+Rule name: Metal Island
+  (no violations found)
+
+*** Checking finished Saturday, March 10, 2018 09:43:12 Środkowoeuropejski czas stand. *** Elapsed time: 1 second
+
+*** Checking started Saturday, March 10, 2018 09:55:49 Środkowoeuropejski czas stand.
+
+Executing rule: Rules/EMI/Metal Island
+  (no violations found)
+
+***  Summary: 
+Rule name: Metal Island
+  (no violations found)
+
+*** Checking finished Saturday, March 10, 2018 09:55:51 Środkowoeuropejski czas stand. *** Elapsed time: 2 seconds
+
+*** Checking started Saturday, March 10, 2018 09:59:18 Środkowoeuropejski czas stand.
+
+Executing rule: Rules/EMI/Return Path
+</Message>
+  <Warning>WARNING - Ground Closed Loop check: TXI_EA_WR_WAIT_N: cannot find ground path from U1.K15 to U3.H14, skipping this ground loop check from U1 to U3
+WARNING - Ground Closed Loop check: N23150334&apos;s non-serial component connections is less than 2, skipping this net for this check ...
+WARNING - Ground Closed Loop check: RXI_SO_DATA7_P: cannot find ground path from J2.22 to U3.P7, skipping this ground loop check from J2 to U3
+WARNING - Ground Closed Loop check: DDR3_CKE^^^: cannot find ground path from U1.N4 to U2.G12, skipping this ground loop check from U1 to U2
+WARNING - Ground Closed Loop check: GPIO21_N: cannot find ground path from U1.W7 to J3.52, skipping this ground loop check from U1 to J3
+WARNING - Ground Closed Loop check: GPIO1_N: cannot find ground path from U1.W17 to J3.2, skipping this ground loop check from U1 to J3
+WARNING - Ground Closed Loop check: DDR3_A10^^^: cannot find ground path from U1.E5 to U2.J11, skipping this ground loop check from U1 to U2
+WARNING - Ground Closed Loop check: DDR_DQ14: cannot find ground path from U1.G1 to U2.F10, skipping this ground loop check from U1 to U2
+WARNING - Ground Closed Loop check: HDMI_D12: cannot find ground path from U1.T18 to U6.65, skipping this ground loop check from U1 to U6
+WARNING - Ground Closed Loop check: HDMI_INT: cannot find ground path from U1.R20 to U6.65, skipping this ground loop check from U1 to U6
+WARNING - Ground Closed Loop check: RXI_EA_DATA3_N: cannot find ground path from U1.E20 to U3.N14, skipping this ground loop check from U1 to U3
+WARNING - Ground Closed Loop check: HDMI_TX0_P: cannot find ground path from J5.7 to U5.19, skipping this ground loop check from J5 to U5
+</Warning>
+</Log>

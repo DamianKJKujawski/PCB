@@ -1,0 +1,103 @@
+[2018.05.13 18:35:56] [0000m.00s.167ms] [0] WELCOME
+[2018.05.13 18:35:56] [0000m.00s.168ms] [1] iCDB Server ver.2.202, 88Zh1V4+7Fzqu6g9/cuD/w, build:7609897 created 2017-06-23 16:20:58, sources stamp:88Zh1V4+7Fzqu6g9/cuD/w
+[2018.05.13 18:35:56] [0000m.00s.168ms] [1] Copyright 2017 Mentor Graphics Corporation.  All Rights Reserved.
+[2018.05.13 18:35:56] [0000m.00s.168ms] [1] Base flow version [VX.2.2]
+[2018.05.13 18:35:56] [0000m.00s.168ms] [1] Install Id [1589114], Flow Id [X-ENTP VX.2.2], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.2], Exact Access Date [2017/05/01]
+[2018.05.13 18:35:56] [0000m.00s.177ms] [1] Machine [DAMKU]  IP [127.0.0.1,192.168.0.104]  User [Damian]  PID [6644]
+[2018.05.13 18:35:56] [0000m.00s.178ms] [1] Operating system [Microsoft Business Edition, 64-bit (build 9200)]
+[2018.05.13 18:35:56] [0000m.00s.178ms] [1] Current working dir [E:\Pulpit\Projekt 3Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\PCB]
+[2018.05.13 18:35:56] [0000m.00s.178ms] [1] PATH [D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\xe\win64\lib;D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\bin;D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\lib;D:\Aplikacje\MentorGraphics\EEVX.2.2\MGC_HOME.ixw\bin;D:\Aplikacje\MentorGraphics\EEVX.2.2\MGC_HOME.ixw\lib;D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\wg\win64\lib;D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\bin;D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\lib;D:\Aplikacje\MentorGraphics\EEVX.2.2\MGC_HOME.ixw\bin;D:\Aplikacje\MentorGraphics\EEVX.2.2\MGC_HOME.ixw\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\MPI-RT\5.0.2.044\intel64\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;D:\Aplikacje\MiKTeX\miktex\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Aplikacje\Matlab\runtime\win64;D:\Aplikacje\Matlab\bin;D:\Aplikacje\Skype\Phone\;D:\Aplikacje\CUPL\WINCUPL\EXE;D:\Aplikacje\CUPL\WINCUPL\FITTERS;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\common3D\win64\lib]
+[2018.05.13 18:35:56] [0000m.00s.178ms] [1] SDD_HOME [D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME] on file system [NTFS]
+[2018.05.13 18:35:56] [0000m.00s.178ms] [1] SDD_PLATFORM [win64]
+[2018.05.13 18:35:56] [0000m.00s.178ms] [1] WDIR [C:\WDIR\EEVX.2.2;D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\standard;]
+[2018.05.13 18:35:56] [0000m.00s.179ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.2\iCDB] on file system [NTFS]
+[2018.05.13 18:35:56] [0000m.00s.179ms] [2] S: Loading config files
+[2018.05.13 18:35:56] [0000m.00s.211ms] [1] Config file [E:\Pulpit\Projekt 3Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\cdbsvr\Server.cfg] not found
+[2018.05.13 18:35:56] [0000m.00s.214ms] [3] S: Config loaded
+[2018.05.13 18:35:56] [0000m.00s.232ms] [0] S: Project path [E:\Pulpit\Projekt 3Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] on file system [NTFS]
+[2018.05.13 18:35:56] [0000m.00s.232ms] [0] S: Project file (.prj) path [E:\Pulpit\Projekt 3Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\parallella.prj] on file system [NTFS]
+[2018.05.13 18:35:56] [0000m.00s.233ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2018.05.13 18:35:56] [0000m.00s.233ms] [0] S: Single-user mode (auto)
+[2018.05.13 18:35:56] [0000m.00s.233ms] [0] S: Event polling mode autodetection
+[2018.05.13 18:35:56] [0000m.00s.233ms] [0] S: Started up automatically by iCDB Client: DAMKU:Damian:8152
+[2018.05.13 18:35:56] [0000m.00s.233ms] [0] S: Auto close mode
+[2018.05.13 18:35:56] [0000m.00s.233ms] [0] S: Database ID [78b3-04ba-e4d5-8e53-efe3-8fa3-0f38-fa50-fb7e-7e7d-ae46-86c5]
+[2018.05.13 18:35:56] [0000m.00s.233ms] [0] PathTranslator: BEGIN dumping
+[2018.05.13 18:35:56] [0000m.00s.233ms] [0] PathTranslator: Local -> global path prefix list
+[2018.05.13 18:35:56] [0000m.00s.233ms] [0] PathTranslator: [E:\Instalatory] -> [\\DAMKU\Instalatory]
+[2018.05.13 18:35:56] [0000m.00s.233ms] [0] PathTranslator: Global -> local path prefix list
+[2018.05.13 18:35:56] [0000m.00s.233ms] [0] PathTranslator: [\\DAMKU\Instalatory] -> [E:\Instalatory]
+[2018.05.13 18:35:56] [0000m.00s.233ms] [0] PathTranslator: END dumping
+[2018.05.13 18:35:56] [0000m.00s.233ms] [0] S: START
+[2018.05.13 18:35:56] [0000m.00s.234ms] [0] S: Server startup lock file created
+[2018.05.13 18:35:56] [0000m.00s.234ms] [0] S: Listening for client connections on port [10000]
+[2018.05.13 18:35:56] [0000m.00s.236ms] [0] S: Server network ID [DAMKU:192.168.0.104,DAMKU:10000]
+[2018.05.13 18:35:56] [0000m.00s.236ms] [0] S: Server GUID [4e51-568e-4d2c-3077-c696-8fa1-7968-fa50-f000-8e7d-ae46-86c5]
+[2018.05.13 18:35:56] [0000m.00s.236ms] [0] S: Project GUID [78b3-04ba-e4d5-8e53-efe3-8fa3-0f38-fa50-fb7e-7e7d-ae46-86c5]
+[2018.05.13 18:35:56] [0000m.00s.242ms] [0] S: Wrote data to server address file
+[2018.05.13 18:35:56] [0000m.00s.242ms] [0] S: Server startup lock file removed
+[2018.05.13 18:35:56] [0000m.00s.243ms] [1] ProjectBackupManager: Setting project file (.prj) path: [E:\Pulpit\Projekt 3Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\parallella.prj]
+[2018.05.13 18:35:57] [0000m.01s.515ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2018.05.13 18:35:57] [0000m.01s.515ms] [1] ServerToolkit: INFO: Plugin found in SDD_COMMON_BIN [D:\Aplikacje\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\bin]
+[2018.05.13 18:35:57] [0000m.01s.515ms] [0] S: Local disc access time: 46 us
+[2018.05.13 18:35:57] [0000m.01s.515ms] [0] S: File server access time: 53 us
+[2018.05.13 18:35:57] [0000m.01s.516ms] [0] Single file [E:\Pulpit\Projekt 3Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] size [1126976 (1.1 MB)]
+[2018.05.13 18:35:57] [0000m.01s.516ms] [1] Single file [E:\Pulpit\Projekt 3Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] opened in read-write mode
+[2018.05.13 18:35:57] [0000m.01s.517ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.05.13 18:35:57] [0000m.01s.517ms] [0] Database GUARD OK: [1126976]
+[2018.05.13 18:35:57] [0000m.01s.518ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.05.13 18:35:57] [0000m.01s.518ms] [0] Database GUARD OK: [1126976]
+[2018.05.13 18:35:57] [0000m.01s.518ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.05.13 18:35:57] [0000m.01s.518ms] [0] Database GUARD OK: [1126976]
+[2018.05.13 18:35:57] [0000m.01s.519ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.05.13 18:35:57] [0000m.01s.519ms] [0] Database GUARD OK: [1126976]
+[2018.05.13 18:35:57] [0000m.01s.519ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.05.13 18:35:57] [0000m.01s.519ms] [0] Database GUARD OK: [1126976]
+[2018.05.13 18:35:57] [0000m.01s.519ms] [0] SingleFile: [4426-02eb-9264-0089] SFI version check [1009] [1009]
+[2018.05.13 18:35:57] [0000m.01s.534ms] [0] SingleFile: [4426-02eb-9264-0089] Database SFI header has been read in [14ms 688us]
+[2018.05.13 18:35:57] [0000m.01s.540ms] [0] iCDB Server PI: Server & plugin session [1283]
+[2018.05.13 18:35:57] [0000m.01s.540ms] [0] iCDB Server PI: Opening database [E:\Pulpit\Projekt 3Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database]
+[2018.05.13 18:35:57] [0000m.01s.540ms] [0] iCDB Server PI: Database [E:\Pulpit\Projekt 3Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] opened
+[2018.05.13 18:35:57] [0000m.01s.705ms] [0] iCDB Database: Checking existence of constraint definitions
+[2018.05.13 18:35:57] [0000m.01s.705ms] [0] iCDB Database: Checking constraint definitions version
+[2018.05.13 18:35:58] [0000m.01s.936ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.56;user.cns=c446-4279-9a5f-b38c-02a4-91a5-2a49-1a50-15ed-be5d-7e59-b9c5] up to date
+[2018.05.13 18:35:59] [0000m.02s.996ms] [0] iCDB Server PI: Initializing plugins
+[2018.05.13 18:35:59] [0000m.02s.996ms] [0] iCDB Server PI: Plugins initialized
+[2018.05.13 18:35:59] [0000m.02s.996ms] [0] S: iCDB database loaded
+[2018.05.13 18:35:59] [0000m.02s.996ms] [0] S: Starting threads
+[2018.05.13 18:35:59] [0000m.02s.996ms] [0] BT: Listening for broadcast messages on port [10000]
+[2018.05.13 18:35:59] [0000m.03s.006ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2018.05.13 18:35:59] [0000m.03s.006ms] [0] IT: Session [1284] for host [DAMKU] user [Damian] with process ID [8152] created
+[2018.05.13 18:35:59] [0000m.03s.006ms] [1] SC[1284]: Registered sub-client [Expedition PCB_15876671] with ID [1] for session ID [1284] host [DAMKU] user [Damian] process ID [8152]
+[2018.05.13 18:35:59] [0000m.03s.016ms] [0] MWT: WindowProc: WM_NCCREATE
+[2018.05.13 18:35:59] [0000m.03s.116ms] [1] CMT: There are [1] clients now: 1284
+[2018.05.13 18:36:01] [0000m.05s.266ms] [1] SC[1284]: Registered sub-client [JobPrefsDBPI_15882250] with ID [2] for session ID [1284] host [DAMKU] user [Damian] process ID [8152]
+[2018.05.13 18:36:01] [0000m.05s.346ms] [1] SC[1284]: UnRegistered sub-client [JobPrefsDBPI_15882250] with ID [2] for session ID [1284] host [DAMKU] user [Damian] process ID [8152]
+[2018.05.13 18:36:37] [0000m.40s.935ms] [0] DFAMT: File server access time: 69 us
+[2018.05.13 18:47:39] [0011m.43s.085ms] [1] SC[1284]: Registered sub-client [JobPrefsDBPI_16580078] with ID [3] for session ID [1284] host [DAMKU] user [Damian] process ID [8152]
+[2018.05.13 18:47:39] [0011m.43s.085ms] [1] SC[1284]: UnRegistered sub-client [JobPrefsDBPI_16580078] with ID [3] for session ID [1284] host [DAMKU] user [Damian] process ID [8152]
+[2018.05.13 18:47:41] [0011m.45s.616ms] [1] SC[1284]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [1284] host [DAMKU] user [Damian] process ID [8152]
+[2018.05.13 18:47:41] [0011m.45s.616ms] [1] SC[1284]: Registered sub-client [StartServerClient11bc] with ID [5] for session ID [1284] host [DAMKU] user [Damian] process ID [8152]
+[2018.05.13 18:47:41] [0011m.45s.616ms] [1] SC[1284]: UnRegistered sub-client [StartServerClient11bc] with ID [5] for session ID [1284] host [DAMKU] user [Damian] process ID [8152]
+[2018.05.13 18:48:02] [0012m.06s.136ms] [1] SC[1284]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [1284] host [DAMKU] user [Damian] process ID [8152]
+[2018.05.13 18:48:04] [0012m.08s.726ms] [1] SC[1284]: UnRegistered sub-client [Expedition PCB_15876671] with ID [1] for session ID [1284] host [DAMKU] user [Damian] process ID [8152]
+[2018.05.13 18:48:05] [0012m.09s.086ms] [1] CMT: Removed client [1284]
+[2018.05.13 18:48:05] [0012m.09s.086ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2018.05.13 18:48:07] [0012m.10s.846ms] [0] CMT: Starting server auto-close
+[2018.05.13 18:48:07] [0012m.10s.926ms] [0] S: Closing server
+[2018.05.13 18:48:07] [0012m.11s.106ms] [0] iCDB Server PI: Closing plugins
+[2018.05.13 18:48:07] [0012m.11s.106ms] [0] iCDB Server PI: Plugins closed
+[2018.05.13 18:48:07] [0012m.11s.106ms] [0] iCDB Server PI: Unloading database
+[2018.05.13 18:48:07] [0012m.11s.106ms] [0] iCDB Server PI: Saving storage
+[2018.05.13 18:48:07] [0012m.11s.106ms] [0] iCDB Server PI: Closing database
+[2018.05.13 18:48:07] [0012m.11s.186ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[0%] data[99%]
+[2018.05.13 18:48:07] [0012m.11s.186ms] [1] iCDB Server PI: Stats: Database file size [1127624 (1.1 MB)]
+[2018.05.13 18:48:07] [0012m.11s.286ms] [0] iCDB Server PI: Database closed
+[2018.05.13 18:48:07] [0012m.11s.286ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [484489] ticks
+[2018.05.13 18:48:07] [0012m.11s.286ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [248632] microseconds
+[2018.05.13 18:48:07] [0012m.11s.286ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [9]
+[2018.05.13 18:48:07] [0012m.11s.286ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [36] commands per second
+[2018.05.13 18:48:07] [0012m.11s.286ms] [0] Single file [E:\Pulpit\Projekt 3Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] closed with size [1127624 (1.1 MB)]
+[2018.05.13 18:48:07] [0012m.11s.426ms] [0] MWT: Destroy the shutdown block reason.
+[2018.05.13 18:48:07] [0012m.11s.426ms] [0] MWT: STOP
+[2018.05.13 18:48:07] [0012m.11s.426ms] [0] S: STOP

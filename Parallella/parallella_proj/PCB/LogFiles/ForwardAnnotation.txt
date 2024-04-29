@@ -1,0 +1,3572 @@
+
+                               Forward Annotation
+                               ------------------
+
+                         10:05 PM Monday, June 18, 2018
+Job Name: C:\Users\HOME\Desktop\Parallella - Damian Kujawski\PCBD\!projekt_i_bibioteka\parallella_proj\PCB\parallella.pcb
+
+
+Version:  01.01.00
+
+     A new Target PDB will be created from the Central Library to satisfy the parts
+      requirements of the iCDB.
+
+     The schematic source is a Common Data Base.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Work\Layout_Temp\PartsDB.pdb
+
+     Number of Part Numbers: 70
+          Part Numb: BLM15AG121SN1D -> Vend Part: BLM15AG121SN1D 
+          Part Numb: BLM18SG121TN1D -> Vend Part: BLM18SG121TN1D 
+          Part Numb: CAP0402_0P1UF_X5R_35V -> Vend Part: CAP0402_0P1UF_X5R_35V 
+          Part Numb: CAP0402_0P47UF_X5R -> Vend Part: CAP0402_0P47UF_X5R 
+          Part Numb: CAP0402_0P047UF_X5R -> Vend Part: CAP0402_0P047UF_X5R 
+          Part Numb: CAP0402_2P2UF_X5R -> Vend Part: CAP0402_2P2UF_X5R 
+          Part Numb: CAP0402_4P7UF_X5R -> Vend Part: CAP0402_4P7UF_X5R 
+          Part Numb: CAP0402_6PF_NPO_50V -> Vend Part: CAP0402_6PF_NPO_50V 
+          Part Numb: CAP0402_10NF_X7R_16V -> Vend Part: CAP0402_10NF_X7R_16V 
+          Part Numb: CAP0603_1UF_X5R -> Vend Part: CAP0603_1UF_X5R 
+          Part Numb: CAP0603_4P7UF_16V_X5R -> Vend Part: CAP0603_4P7UF_16V_X5R 
+          Part Numb: CAP0603_10UF_X5R -> Vend Part: CAP0603_10UF_X5R 
+          Part Numb: CAP0805_10UF_16V_X5R -> Vend Part: CAP0805_10UF_16V_X5R 
+          Part Numb: CAP0805_6800PF_X7R -> Vend Part: CAP0805_6800PF_X7R 
+          Part Numb: CAP1210_100UF_X5R_LOESR -> Vend Part: CAP1210_100UF_X5R_LOESR 
+          Part Numb: CONN_MICROSD_CARD -> Vend Part: CONN_MICROSD_CARD 
+          Part Numb: CON_BSH_030_VERT -> Vend Part: CON_BSH_030_VERT 
+          Part Numb: CON_POWER_PJ002A_TH -> Vend Part: CON_POWER_PJ002A_TH 
+          Part Numb: CRYSTAL_4P_24MHZ -> Vend Part: CRYSTAL_4P_24MHZ 
+          Part Numb: DDR3_256MX32 -> Vend Part: DDR3_256MX32 
+          Part Numb: DIODE_BAS16XV2T1G -> Vend Part: DIODE_BAS16XV2T1G 
+          Part Numb: EPIPHANY_E16G301 -> Vend Part: EPIPHANY_E16G301 
+          Part Numb: FUSE0603_4A -> Vend Part: FUSE0603_4A 
+          Part Numb: HDMI_DVI_XCVR_ADV7513 -> Vend Part: HDMI_DVI_XCVR_ADV7513 
+          Part Numb: HDMI_MICRO_D_RA_SMT -> Vend Part: HDMI_MICRO_D_RA_SMT 
+          Part Numb: HDR_1X2_TH_VER -> Vend Part: HDR_1X2_TH_VER 
+          Part Numb: HDR_1X3_TH_VER_0.1P -> Vend Part: HDR_1X3_TH_VER_0.1P 
+          Part Numb: IC_ISL9305_DCDC_CONV -> Vend Part: IC_ISL9305_DCDC_CONV 
+          Part Numb: IC_ISL9307_DCDC_CONV -> Vend Part: IC_ISL9307_DCDC_CONV 
+          Part Numb: IC_SI51219 -> Vend Part: IC_SI51219 
+          Part Numb: IC_SPI_FLASH_QUAD_128Mb -> Vend Part: IC_SPI_FLASH_QUAD_128Mb 
+          Part Numb: IND_1P5UH_2A -> Vend Part: IND_1P5UH_2A 
+          Part Numb: LED_0603_5MA_GRN -> Vend Part: LED_0603_5MA_GRN 
+          Part Numb: LED_0603_5MA_RED -> Vend Part: LED_0603_5MA_RED 
+          Part Numb: MIC2025_1_USB_SW -> Vend Part: MIC2025_1_USB_SW 
+          Part Numb: NC7SZ125 -> Vend Part: NC7SZ125 
+          Part Numb: NC7WZ16 -> Vend Part: NC7WZ16 
+          Part Numb: PTH125_200PAD -> Vend Part: PTH125_200PAD 
+          Part Numb: RES0402_0 -> Vend Part: RES0402_0 
+          Part Numb: RES0402_1K -> Vend Part: RES0402_1K 
+          Part Numb: RES0402_4K75 -> Vend Part: RES0402_4K75 
+          Part Numb: RES0402_4K99 -> Vend Part: RES0402_4K99 
+          Part Numb: RES0402_8K06 -> Vend Part: RES0402_8K06 
+          Part Numb: RES0402_10K -> Vend Part: RES0402_10K 
+          Part Numb: RES0402_20K -> Vend Part: RES0402_20K 
+          Part Numb: RES0402_22R1 -> Vend Part: RES0402_22R1 
+          Part Numb: RES0402_27K4 -> Vend Part: RES0402_27K4 
+          Part Numb: RES0402_33 -> Vend Part: RES0402_33 
+          Part Numb: RES0402_56K2 -> Vend Part: RES0402_56K2 
+          Part Numb: RES0402_80P6 -> Vend Part: RES0402_80P6 
+          Part Numb: RES0402_100 -> Vend Part: RES0402_100 
+          Part Numb: RES0402_240 -> Vend Part: RES0402_240 
+          Part Numb: RES0402_620 -> Vend Part: RES0402_620 
+          Part Numb: RES0402_887 -> Vend Part: RES0402_887 
+          Part Numb: RES0603_24K9 -> Vend Part: RES0603_24K9 
+          Part Numb: RES0603_69K8 -> Vend Part: RES0603_69K8 
+          Part Numb: RES0603_100K -> Vend Part: RES0603_100K 
+          Part Numb: RJ45-10_100_1000-BELFUSE -> Vend Part: RJ45-10_100_1000-BELFUSE 
+          Part Numb: SN65LVDS4 -> Vend Part: SN65LVDS4 
+          Part Numb: SW_PB_SPST_2PIN -> Vend Part: SW_PB_SPST_2PIN 
+          Part Numb: TEST_TERM_BLK -> Vend Part: TEST_TERM_BLK 
+          Part Numb: TEST_TERM_RED -> Vend Part: TEST_TERM_RED 
+          Part Numb: TPD12S016 -> Vend Part: TPD12S016 
+          Part Numb: USB_MICRO_AB_RA_SMT -> Vend Part: USB_MICRO_AB_RA_SMT 
+          Part Numb: USB_MICRO_B_RA_SMT -> Vend Part: USB_MICRO_B_RA_SMT 
+          Part Numb: USB3320_ULPI_XCVR -> Vend Part: USB3320_ULPI_XCVR 
+          Part Numb: VOLTMON_4IN_3P3 -> Vend Part: VOLTMON_4IN_3P3 
+          Part Numb: XTAL_4P_25MHZ -> Vend Part: XTAL_4P_25MHZ 
+          Part Numb: ZYNQ_7Z020_CLG400 -> Vend Part: ZYNQ_7Z020_CLG400 
+          Part Numb: 88E1318_QFN48 -> Vend Part: 88E1318_QFN48 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between symbol properties and PartsDB properties
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1082:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1074:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1068:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1050:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1047:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1041:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1035:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1028:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Ports, Symbol $20I30:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Ports, Symbol $20I21:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Ports, Symbol $20I4:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Supply, Symbol $25I41:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I38:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I31:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I23:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I17:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I6:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I35:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I20:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I18:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I12:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK0, Symbol $22I29:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK0, Symbol $22I25:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I25:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I13:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I6:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I25:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I20:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I17:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I8:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I30:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I26:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I21:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I17:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I11:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I6:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK501, Symbol $1I7:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK501, Symbol $1I6:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK501, Symbol $1I2:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_0
+      Symbol Property: Description = RES, 0402, 0 OHM, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK34, Symbol $3I2492:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_4P7UF_X5R
+      Symbol Property: Description = CAP, 0402, 4.7UF, X5R, 6.3V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK34, Symbol $3I2482:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_4P7UF_X5R
+      Symbol Property: Description = CAP, 0402, 4.7UF, X5R, 6.3V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Supply, Symbol $25I35:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_4P7UF_X5R
+      Symbol Property: Description = CAP, 0402, 4.7UF, X5R, 6.3V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I36:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_4P7UF_X5R
+      Symbol Property: Description = CAP, 0402, 4.7UF, X5R, 6.3V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I17:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_4P7UF_X5R
+      Symbol Property: Description = CAP, 0402, 4.7UF, X5R, 6.3V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I13:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_4P7UF_X5R
+      Symbol Property: Description = CAP, 0402, 4.7UF, X5R, 6.3V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I4:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_4P7UF_X5R
+      Symbol Property: Description = CAP, 0402, 4.7UF, X5R, 6.3V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK35, Symbol $24I56:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_4P7UF_X5R
+      Symbol Property: Description = CAP, 0402, 4.7UF, X5R, 6.3V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK35, Symbol $24I57:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_4P7UF_X5R
+      Symbol Property: Description = CAP, 0402, 4.7UF, X5R, 6.3V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK34, Symbol $3I26:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_4P7UF_X5R
+      Symbol Property: Description = CAP, 0402, 4.7UF, X5R, 6.3V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I1658:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_4P7UF_X5R
+      Symbol Property: Description = CAP, 0402, 4.7UF, X5R, 6.3V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK34, Symbol $3I16:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_4P7UF_X5R
+      Symbol Property: Description = CAP, 0402, 4.7UF, X5R, 6.3V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I1634:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_4P7UF_X5R
+      Symbol Property: Description = CAP, 0402, 4.7UF, X5R, 6.3V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK35, Symbol $24I59:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_4P7UF_X5R
+      Symbol Property: Description = CAP, 0402, 4.7UF, X5R, 6.3V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I45:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_4P7UF_X5R
+      Symbol Property: Description = CAP, 0402, 4.7UF, X5R, 6.3V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I43:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_4P7UF_X5R
+      Symbol Property: Description = CAP, 0402, 4.7UF, X5R, 6.3V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I40:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_4P7UF_X5R
+      Symbol Property: Description = CAP, 0402, 4.7UF, X5R, 6.3V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK501, Symbol $1I13:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_4P7UF_X5R
+      Symbol Property: Description = CAP, 0402, 4.7UF, X5R, 6.3V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK501, Symbol $1I3:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_4P7UF_X5R
+      Symbol Property: Description = CAP, 0402, 4.7UF, X5R, 6.3V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1079:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P047UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.047UF, X5R, 25V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1076:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P047UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.047UF, X5R, 25V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK501, Symbol $1I12:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P047UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.047UF, X5R, 25V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK501, Symbol $1I5:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P047UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.047UF, X5R, 25V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK501, Symbol $1I4:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P047UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.047UF, X5R, 25V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1067:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1040:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Ports, Symbol $20I12:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I11:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK0, Symbol $22I15:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I24:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I12:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I22:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I40:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I32:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I31:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I27:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I25:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I21:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I19:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I5:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I24:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I21:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK35, Symbol $24I58:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK34, Symbol $3I25:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I30:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I24:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK501, Symbol $1I11:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK501, Symbol $1I8:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_1K
+      Symbol Property: Description = RES, 0402, 1K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I31:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_10NF_X7R_16V
+      Symbol Property: Description = CAP, 0402, 10NF, X7R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I27:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_10NF_X7R_16V
+      Symbol Property: Description = CAP, 0402, 10NF, X7R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I25:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_10NF_X7R_16V
+      Symbol Property: Description = CAP, 0402, 10NF, X7R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I24:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_10NF_X7R_16V
+      Symbol Property: Description = CAP, 0402, 10NF, X7R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I21:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_10NF_X7R_16V
+      Symbol Property: Description = CAP, 0402, 10NF, X7R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I10:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_10NF_X7R_16V
+      Symbol Property: Description = CAP, 0402, 10NF, X7R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I3:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_10NF_X7R_16V
+      Symbol Property: Description = CAP, 0402, 10NF, X7R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I30:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_10NF_X7R_16V
+      Symbol Property: Description = CAP, 0402, 10NF, X7R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I28:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_10NF_X7R_16V
+      Symbol Property: Description = CAP, 0402, 10NF, X7R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I26:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_10NF_X7R_16V
+      Symbol Property: Description = CAP, 0402, 10NF, X7R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I21:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_10NF_X7R_16V
+      Symbol Property: Description = CAP, 0402, 10NF, X7R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I15:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_10NF_X7R_16V
+      Symbol Property: Description = CAP, 0402, 10NF, X7R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I12:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_10NF_X7R_16V
+      Symbol Property: Description = CAP, 0402, 10NF, X7R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I4:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_10NF_X7R_16V
+      Symbol Property: Description = CAP, 0402, 10NF, X7R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I3:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_10NF_X7R_16V
+      Symbol Property: Description = CAP, 0402, 10NF, X7R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I8:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_10NF_X7R_16V
+      Symbol Property: Description = CAP, 0402, 10NF, X7R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I10:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_10NF_X7R_16V
+      Symbol Property: Description = CAP, 0402, 10NF, X7R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK501, Symbol $1I9:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_10NF_X7R_16V
+      Symbol Property: Description = CAP, 0402, 10NF, X7R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I4:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = ZYNQ_7Z020_CLG400
+      Symbol Property: Description = IC, EPP, XILINX, ZYNQ, 7Z020, CLG400
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK0, Symbol $22I4:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = ZYNQ_7Z020_CLG400
+      Symbol Property: Description = IC, EPP, XILINX, ZYNQ, 7Z020, CLG400
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I54:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = ZYNQ_7Z020_CLG400
+      Symbol Property: Description = IC, EPP, XILINX, ZYNQ, 7Z020, CLG400
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I2:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = ZYNQ_7Z020_CLG400
+      Symbol Property: Description = IC, EPP, XILINX, ZYNQ, 7Z020, CLG400
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK35, Symbol $24I60:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = ZYNQ_7Z020_CLG400
+      Symbol Property: Description = IC, EPP, XILINX, ZYNQ, 7Z020, CLG400
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK34, Symbol $3I7:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = ZYNQ_7Z020_CLG400
+      Symbol Property: Description = IC, EPP, XILINX, ZYNQ, 7Z020, CLG400
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I31:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = ZYNQ_7Z020_CLG400
+      Symbol Property: Description = IC, EPP, XILINX, ZYNQ, 7Z020, CLG400
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK501, Symbol $1I10:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = ZYNQ_7Z020_CLG400
+      Symbol Property: Description = IC, EPP, XILINX, ZYNQ, 7Z020, CLG400
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1070:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP1210_100UF_X5R_LOESR
+      Symbol Property: Description = CAP, 1210, 100UF, X5R, 6.3V, LOW ESR
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Ports, Symbol $20I10:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP1210_100UF_X5R_LOESR
+      Symbol Property: Description = CAP, 1210, 100UF, X5R, 6.3V, LOW ESR
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I28:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP1210_100UF_X5R_LOESR
+      Symbol Property: Description = CAP, 1210, 100UF, X5R, 6.3V, LOW ESR
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK0, Symbol $22I10:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP1210_100UF_X5R_LOESR
+      Symbol Property: Description = CAP, 1210, 100UF, X5R, 6.3V, LOW ESR
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I48:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP1210_100UF_X5R_LOESR
+      Symbol Property: Description = CAP, 1210, 100UF, X5R, 6.3V, LOW ESR
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I34:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP1210_100UF_X5R_LOESR
+      Symbol Property: Description = CAP, 1210, 100UF, X5R, 6.3V, LOW ESR
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I31:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP1210_100UF_X5R_LOESR
+      Symbol Property: Description = CAP, 1210, 100UF, X5R, 6.3V, LOW ESR
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I28:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP1210_100UF_X5R_LOESR
+      Symbol Property: Description = CAP, 1210, 100UF, X5R, 6.3V, LOW ESR
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I27:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP1210_100UF_X5R_LOESR
+      Symbol Property: Description = CAP, 1210, 100UF, X5R, 6.3V, LOW ESR
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I26:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP1210_100UF_X5R_LOESR
+      Symbol Property: Description = CAP, 1210, 100UF, X5R, 6.3V, LOW ESR
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I14:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP1210_100UF_X5R_LOESR
+      Symbol Property: Description = CAP, 1210, 100UF, X5R, 6.3V, LOW ESR
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I6:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP1210_100UF_X5R_LOESR
+      Symbol Property: Description = CAP, 1210, 100UF, X5R, 6.3V, LOW ESR
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK35, Symbol $24I55:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP1210_100UF_X5R_LOESR
+      Symbol Property: Description = CAP, 1210, 100UF, X5R, 6.3V, LOW ESR
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK34, Symbol $3I10:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP1210_100UF_X5R_LOESR
+      Symbol Property: Description = CAP, 1210, 100UF, X5R, 6.3V, LOW ESR
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I37:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP1210_100UF_X5R_LOESR
+      Symbol Property: Description = CAP, 1210, 100UF, X5R, 6.3V, LOW ESR
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I17:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP1210_100UF_X5R_LOESR
+      Symbol Property: Description = CAP, 1210, 100UF, X5R, 6.3V, LOW ESR
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK501, Symbol $1I14:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP1210_100UF_X5R_LOESR
+      Symbol Property: Description = CAP, 1210, 100UF, X5R, 6.3V, LOW ESR
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I34:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I32:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I26:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I22:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I21:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I10:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I6:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I2:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK0, Symbol $22I27:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK0, Symbol $22I20:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK0, Symbol $22I7:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK0, Symbol $22I6:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK0, Symbol $22I3:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I33:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I14:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I6:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I2:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I38:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I34:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I30:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I29:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I22:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I17:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I16:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I10:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I3:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK34, Symbol $3I4:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK34, Symbol $3I3:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I39:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK501, Symbol $1I15:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K75
+      Symbol Property: Description = RES, 0402, 4.75K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I30:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I44:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I42:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I41:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I36:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I35:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I34:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I33:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I32:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I29:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I28:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I27:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I25:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I23:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I22:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I20:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I19:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I16:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I13:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I12:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I9:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I7:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I6:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I4:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I2:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_33
+      Symbol Property: Description = RES, 0402, 33, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I26:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_80P6
+      Symbol Property: Description = RES, 0402, 80.6, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I38:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_80P6
+      Symbol Property: Description = RES, 0402, 80.6, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I3:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_80P6
+      Symbol Property: Description = RES, 0402, 80.6, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I31:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I9:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I4486:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I4458:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I7:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I10:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I15:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I16:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I18:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I21:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I22:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I28:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I2186:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I30:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I23:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I5:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I4:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I39:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I5:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP CONNECTORS North/South, Symbol $14I7:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP CONNECTORS North/South, Symbol $14I6:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP CONNECTORS North/South, Symbol $14I3:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP CONNECTORS North/South, Symbol $14I2:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I51:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I45:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I44:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I43:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I42:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I41:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I39:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I38:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I37:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I35:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I29:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I23:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I22:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I21:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I20:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I18:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I17:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I16:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I15:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I12:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I10:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I9:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I8:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I7:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I4:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I3:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I25:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I23:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I22:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I19:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I16:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I14:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I12:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I11:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I9:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I7:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I6:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I5:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I3:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I2:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK35, Symbol $24I116:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK35, Symbol $24I117:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK35, Symbol $24I62:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK35, Symbol $24I61:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK34, Symbol $3I28:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I2298:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK34, Symbol $3I19:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I2325:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK35, Symbol $24I54:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK34, Symbol $3I5:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK34, Symbol $3I2:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I26:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I21:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I18:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I15:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I11:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I8:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I5:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P47UF_X5R
+      Symbol Property: Description = CAP, 0402, 0.47UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1026:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Ports, Symbol $20I35:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Ports, Symbol $20I29:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Ports, Symbol $20I17:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Supply, Symbol $25I44:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Ports, Symbol $20I11:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Ports, Symbol $20I7:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Ports, Symbol $20I6:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Ports, Symbol $20I5:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Supply, Symbol $25I34:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I43:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I39:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I35:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I34:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I33:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I32:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I28:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I27:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I25:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I22:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I21:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I20:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I18:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I13:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I8:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I5:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I4:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Supply, Symbol $25I43:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I16:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I13:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I3:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page PROGRAMMABLE CLOCK GENERATOR, Symbol $23I36:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page PROGRAMMABLE CLOCK GENERATOR, Symbol $23I35:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Supply, Symbol $25I37:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK0, Symbol $22I11:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page PROGRAMMABLE CLOCK GENERATOR, Symbol $23I24:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I1748:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I1747:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I1746:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I1745:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I41:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I40:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I29:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I20:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I19:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I18:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I17:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I16:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I13:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I7:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I32:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I31:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I29:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I27:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I23:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I22:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I19:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I18:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I16:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I14:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I13:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I11:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I9:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I7:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I6:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I2:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I33:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I7:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Supply, Symbol $25I38:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I10:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK502, Symbol $2I14:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_0P1UF_X5R_35V
+      Symbol Property: Description = CAP, 0402, 0.1UF, X5R, 35V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page PROGRAMMABLE CLOCK GENERATOR, Symbol $23I33:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_22R1
+      Symbol Property: Description = RES, 0402, 22.1, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page PROGRAMMABLE CLOCK GENERATOR, Symbol $23I30:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_22R1
+      Symbol Property: Description = RES, 0402, 22.1, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page PROGRAMMABLE CLOCK GENERATOR, Symbol $23I28:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_22R1
+      Symbol Property: Description = RES, 0402, 22.1, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page PROGRAMMABLE CLOCK GENERATOR, Symbol $23I27:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_22R1
+      Symbol Property: Description = RES, 0402, 22.1, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page PROGRAMMABLE CLOCK GENERATOR, Symbol $23I26:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_22R1
+      Symbol Property: Description = RES, 0402, 22.1, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK34, Symbol $3I30:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_22R1
+      Symbol Property: Description = RES, 0402, 22.1, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK34, Symbol $3I24:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_22R1
+      Symbol Property: Description = RES, 0402, 22.1, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK34, Symbol $3I14:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_22R1
+      Symbol Property: Description = RES, 0402, 22.1, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK34, Symbol $3I9:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_22R1
+      Symbol Property: Description = RES, 0402, 22.1, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK34, Symbol $3I8:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_22R1
+      Symbol Property: Description = RES, 0402, 22.1, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Ports, Symbol $20I31:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_240
+      Symbol Property: Description = RES, 0402, 240, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK0, Symbol $22I16:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_240
+      Symbol Property: Description = RES, 0402, 240, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I26:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_240
+      Symbol Property: Description = RES, 0402, 240, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I12:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_240
+      Symbol Property: Description = RES, 0402, 240, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I20:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_240
+      Symbol Property: Description = RES, 0402, 240, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I15:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_240
+      Symbol Property: Description = RES, 0402, 240, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DDR, Symbol $4I18:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = DDR3_256MX32
+      Symbol Property: Description = IC, DDR3, 8Gb, 256M32, BGA136
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1081:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_10K
+      Symbol Property: Description = RES, 0402, 10K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1078:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_10K
+      Symbol Property: Description = RES, 0402, 10K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1077:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_10K
+      Symbol Property: Description = RES, 0402, 10K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1065:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_10K
+      Symbol Property: Description = RES, 0402, 10K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1064:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_10K
+      Symbol Property: Description = RES, 0402, 10K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1032:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_10K
+      Symbol Property: Description = RES, 0402, 10K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1031:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_10K
+      Symbol Property: Description = RES, 0402, 10K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I19:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_10K
+      Symbol Property: Description = RES, 0402, 10K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I17:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_10K
+      Symbol Property: Description = RES, 0402, 10K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I8:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_10K
+      Symbol Property: Description = RES, 0402, 10K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I3:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_10K
+      Symbol Property: Description = RES, 0402, 10K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I2:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_10K
+      Symbol Property: Description = RES, 0402, 10K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I51:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_10K
+      Symbol Property: Description = RES, 0402, 10K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I49:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_10K
+      Symbol Property: Description = RES, 0402, 10K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I45:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_10K
+      Symbol Property: Description = RES, 0402, 10K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I42:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_10K
+      Symbol Property: Description = RES, 0402, 10K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I39:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_10K
+      Symbol Property: Description = RES, 0402, 10K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I22:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_10K
+      Symbol Property: Description = RES, 0402, 10K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I20:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_10K
+      Symbol Property: Description = RES, 0402, 10K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I14:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_10K
+      Symbol Property: Description = RES, 0402, 10K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Supply, Symbol $25I40:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_10K
+      Symbol Property: Description = RES, 0402, 10K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1061:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_4P7UF_16V_X5R
+      Symbol Property: Description = CAP, 0603, 4.7UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I55:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_4P7UF_16V_X5R
+      Symbol Property: Description = CAP, 0603, 4.7UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I53:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_4P7UF_16V_X5R
+      Symbol Property: Description = CAP, 0603, 4.7UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I52:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_4P7UF_16V_X5R
+      Symbol Property: Description = CAP, 0603, 4.7UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I49:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_4P7UF_16V_X5R
+      Symbol Property: Description = CAP, 0603, 4.7UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I47:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_4P7UF_16V_X5R
+      Symbol Property: Description = CAP, 0603, 4.7UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I46:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_4P7UF_16V_X5R
+      Symbol Property: Description = CAP, 0603, 4.7UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I40:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_4P7UF_16V_X5R
+      Symbol Property: Description = CAP, 0603, 4.7UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I36:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_4P7UF_16V_X5R
+      Symbol Property: Description = CAP, 0603, 4.7UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I32:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_4P7UF_16V_X5R
+      Symbol Property: Description = CAP, 0603, 4.7UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I30:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_4P7UF_16V_X5R
+      Symbol Property: Description = CAP, 0603, 4.7UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I25:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_4P7UF_16V_X5R
+      Symbol Property: Description = CAP, 0603, 4.7UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I24:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_4P7UF_16V_X5R
+      Symbol Property: Description = CAP, 0603, 4.7UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I19:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_4P7UF_16V_X5R
+      Symbol Property: Description = CAP, 0603, 4.7UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I13:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_4P7UF_16V_X5R
+      Symbol Property: Description = CAP, 0603, 4.7UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I11:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_4P7UF_16V_X5R
+      Symbol Property: Description = CAP, 0603, 4.7UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I5:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_4P7UF_16V_X5R
+      Symbol Property: Description = CAP, 0603, 4.7UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I41:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_10UF_X5R
+      Symbol Property: Description = CAP, 0603, 10UF, X5R, 10V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I40:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_10UF_X5R
+      Symbol Property: Description = CAP, 0603, 10UF, X5R, 10V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I36:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_10UF_X5R
+      Symbol Property: Description = CAP, 0603, 10UF, X5R, 10V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I16:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_10UF_X5R
+      Symbol Property: Description = CAP, 0603, 10UF, X5R, 10V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I12:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_10UF_X5R
+      Symbol Property: Description = CAP, 0603, 10UF, X5R, 10V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I10:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_10UF_X5R
+      Symbol Property: Description = CAP, 0603, 10UF, X5R, 10V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page PROGRAMMABLE CLOCK GENERATOR, Symbol $23I37:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_10UF_X5R
+      Symbol Property: Description = CAP, 0603, 10UF, X5R, 10V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I42:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_10UF_X5R
+      Symbol Property: Description = CAP, 0603, 10UF, X5R, 10V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I36:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_10UF_X5R
+      Symbol Property: Description = CAP, 0603, 10UF, X5R, 10V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I32:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_10UF_X5R
+      Symbol Property: Description = CAP, 0603, 10UF, X5R, 10V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I30:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_10UF_X5R
+      Symbol Property: Description = CAP, 0603, 10UF, X5R, 10V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I4:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_10UF_X5R
+      Symbol Property: Description = CAP, 0603, 10UF, X5R, 10V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I33:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_10UF_X5R
+      Symbol Property: Description = CAP, 0603, 10UF, X5R, 10V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I10:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = EPIPHANY_E16G301
+      Symbol Property: Description = IC, 16-CORE MICROPROCESSOR, ADAPTEVA, E16G301, BGA324
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I5:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = EPIPHANY_E16G301
+      Symbol Property: Description = IC, 16-CORE MICROPROCESSOR, ADAPTEVA, E16G301, BGA324
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I50:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = EPIPHANY_E16G301
+      Symbol Property: Description = IC, 16-CORE MICROPROCESSOR, ADAPTEVA, E16G301, BGA324
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I12:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = EPIPHANY_E16G301
+      Symbol Property: Description = IC, 16-CORE MICROPROCESSOR, ADAPTEVA, E16G301, BGA324
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I23:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = EPIPHANY_E16G301
+      Symbol Property: Description = IC, 16-CORE MICROPROCESSOR, ADAPTEVA, E16G301, BGA324
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I2:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = EPIPHANY_E16G301
+      Symbol Property: Description = IC, 16-CORE MICROPROCESSOR, ADAPTEVA, E16G301, BGA324
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I26:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I11:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 3/3, Symbol $13I24:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I48:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I47:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I46:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I44:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I43:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I41:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I40:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I38:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I37:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I36:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I35:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I34:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I33:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I32:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I31:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I29:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I28:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I27:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I25:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I24:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I23:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I19:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I18:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I16:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I15:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I13:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I11:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I10:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I9:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I8:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I7:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I6:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I5:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I4:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I3:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 2/3, Symbol $12I2:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I39:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I37:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I36:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I35:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I28:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I26:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I24:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I20:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I18:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I15:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I13:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I9:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I4:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_100
+      Symbol Property: Description = RES, 0402, 100, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Ports, Symbol $20I27:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LED_0603_5MA_RED
+      Symbol Property: Description = LED, 0603, 5MA, SMT, RED
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I8:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LED_0603_5MA_RED
+      Symbol Property: Description = LED, 0603, 5MA, SMT, RED
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page DSP PROCESSOR 1/3, Symbol $6I14:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = SN65LVDS4
+      Symbol Property: Description = IC, LINE RECEIVER, DIFFERENTIAL LVDS, UFQFN10
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I29:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = BLM15AG121SN1D
+      Symbol Property: Description = FERRITE, BEAD, 0402, 120 OHM@ 100MHZ, 500mA, SMT
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I24:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = BLM15AG121SN1D
+      Symbol Property: Description = FERRITE, BEAD, 0402, 120 OHM@ 100MHZ, 500mA, SMT
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I15:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = BLM15AG121SN1D
+      Symbol Property: Description = FERRITE, BEAD, 0402, 120 OHM@ 100MHZ, 500mA, SMT
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I14:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = BLM15AG121SN1D
+      Symbol Property: Description = FERRITE, BEAD, 0402, 120 OHM@ 100MHZ, 500mA, SMT
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I7:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = BLM15AG121SN1D
+      Symbol Property: Description = FERRITE, BEAD, 0402, 120 OHM@ 100MHZ, 500mA, SMT
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I38:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = BLM15AG121SN1D
+      Symbol Property: Description = FERRITE, BEAD, 0402, 120 OHM@ 100MHZ, 500mA, SMT
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I37:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = BLM15AG121SN1D
+      Symbol Property: Description = FERRITE, BEAD, 0402, 120 OHM@ 100MHZ, 500mA, SMT
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I35:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = BLM15AG121SN1D
+      Symbol Property: Description = FERRITE, BEAD, 0402, 120 OHM@ 100MHZ, 500mA, SMT
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I9:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = BLM15AG121SN1D
+      Symbol Property: Description = FERRITE, BEAD, 0402, 120 OHM@ 100MHZ, 500mA, SMT
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I8:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = BLM15AG121SN1D
+      Symbol Property: Description = FERRITE, BEAD, 0402, 120 OHM@ 100MHZ, 500mA, SMT
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I11:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = TPD12S016
+      Symbol Property: Description = IC, HDMI ESD PROT AND LEVEL SHIFT, TSSOP24
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I12:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_27K4
+      Symbol Property: Description = RES, 0402, 27.4K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I15:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = DIODE_BAS16XV2T1G
+      Symbol Property: Description = DIODE, SWITCH, 200mA, 75V, SOD523
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I23:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_887
+      Symbol Property: Description = RES, 0402, 887
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I26:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = HDMI_DVI_XCVR_ADV7513
+      Symbol Property: Description = IC, HDMI/DVI TRANSMITTER, PQFP64
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page HDMI, Symbol $15I34:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = HDMI_MICRO_D_RA_SMT
+      Symbol Property: Description = CONN, HDMI, RCPT, MICRO D, RA, SMT
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I11:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = SW_PB_SPST_2PIN
+      Symbol Property: Description = SW, PUSHBUTTON, SPST, NORMALLY OPEN, SMT
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I14:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = VOLTMON_4IN_3P3
+      Symbol Property: Description = IC,  SUPPLY MONITOR, 4 INPUTS, TSSOP8
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1056:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LED_0603_5MA_GRN
+      Symbol Property: Description = LED, 0603, 5MA, SMT, GREEN
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Supply, Symbol $25I36:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LED_0603_5MA_GRN
+      Symbol Property: Description = LED, 0603, 5MA, SMT, GREEN
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Ports, Symbol $20I19:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LED_0603_5MA_GRN
+      Symbol Property: Description = LED, 0603, 5MA, SMT, GREEN
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page RESET, Symbol $17I27:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = LED_0603_5MA_GRN
+      Symbol Property: Description = LED, 0603, 5MA, SMT, GREEN
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK0, Symbol $22I22:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = BLM18SG121TN1D
+      Symbol Property: Description = FERRITE, BEAD, FILTER, 0603, 3A
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK0, Symbol $22I18:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = BLM18SG121TN1D
+      Symbol Property: Description = FERRITE, BEAD, FILTER, 0603, 3A
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-Supply, Symbol $5I2118:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = BLM18SG121TN1D
+      Symbol Property: Description = FERRITE, BEAD, FILTER, 0603, 3A
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I3:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_6PF_NPO_50V
+      Symbol Property: Description = CAP, 0402, 6PF, NPO, 50V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I2:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_6PF_NPO_50V
+      Symbol Property: Description = CAP, 0402, 6PF, NPO, 50V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page PROGRAMMABLE CLOCK GENERATOR, Symbol $23I32:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_6PF_NPO_50V
+      Symbol Property: Description = CAP, 0402, 6PF, NPO, 50V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page PROGRAMMABLE CLOCK GENERATOR, Symbol $23I25:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_6PF_NPO_50V
+      Symbol Property: Description = CAP, 0402, 6PF, NPO, 50V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Ports, Symbol $20I8:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_2P2UF_X5R
+      Symbol Property: Description = CAP, 0402, 2.2UF, X5R, 6.3V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Supply, Symbol $25I33:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0402_2P2UF_X5R
+      Symbol Property: Description = CAP, 0402, 2.2UF, X5R, 6.3V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page PROGRAMMABLE CLOCK GENERATOR, Symbol $23I29:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = IC_SI51219
+      Symbol Property: Description = IC, PROGRAMMABLE CLOCK GEN, 3 OUTPUTS, TSSOP8
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page PROGRAMMABLE CLOCK GENERATOR, Symbol $23I31:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CRYSTAL_4P_24MHZ
+      Symbol Property: Description = XTAL, 2X1.6MM, 24MHZ, 4PIN, SMT
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Ports, Symbol $20I18:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_8K06
+      Symbol Property: Description = RES, 0402, 8.06K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Supply, Symbol $25I32:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_8K06
+      Symbol Property: Description = RES, 0402, 8.06K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I33:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_20K
+      Symbol Property: Description = RES, 0402, 20K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I25:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_20K
+      Symbol Property: Description = RES, 0402, 20K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I24:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_20K
+      Symbol Property: Description = RES, 0402, 20K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I19:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_20K
+      Symbol Property: Description = RES, 0402, 20K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I17:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_20K
+      Symbol Property: Description = RES, 0402, 20K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I15:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_20K
+      Symbol Property: Description = RES, 0402, 20K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I8:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_20K
+      Symbol Property: Description = RES, 0402, 20K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I7:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_20K
+      Symbol Property: Description = RES, 0402, 20K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I5:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_20K
+      Symbol Property: Description = RES, 0402, 20K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I23:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CONN_MICROSD_CARD
+      Symbol Property: Description = CONN, MICRO SD CARD, PUSH-PUSH
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I27:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = IC_SPI_FLASH_QUAD_128Mb
+      Symbol Property: Description = SPI FLASH, QUAD, 128M-BIT, VPDFN8, 1.8V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1033:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = HDR_1X3_TH_VER_0.1P
+      Symbol Property: Description = HDR, 1ROW, 3POS, VERT, TH, 1X3, 0.100 PITCH
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page ZYNQ-BANK500, Symbol $18I29:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = HDR_1X3_TH_VER_0.1P
+      Symbol Property: Description = HDR, 1ROW, 3POS, VERT, TH, 1X3, 0.100 PITCH
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1024:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_620
+      Symbol Property: Description = RES, 0402, 620, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Ports, Symbol $20I9:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_620
+      Symbol Property: Description = RES, 0402, 620, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Supply, Symbol $25I39:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_620
+      Symbol Property: Description = RES, 0402, 620, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I9:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = XTAL_4P_25MHZ
+      Symbol Property: Description = XTAL, 2X1.6MM, 25MHZ, 4PIN, SMT
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I19:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RJ45-10_100_1000-BELFUSE
+      Symbol Property: Description = RJ45 JACK, INTEGRATED MAG AND LED
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I42:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = 88E1318_QFN48
+      Symbol Property: Description = IC, GIGE PHY, QFN48
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I30:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = 88E1318_QFN48
+      Symbol Property: Description = IC, GIGE PHY, QFN48
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page Gigabit Ethernet PHY, Symbol $19I37:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_4K99
+      Symbol Property: Description = RES, 0402, 4.99K, 1%
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Ports, Symbol $20I28:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = USB3320_ULPI_XCVR
+      Symbol Property: Description = IC, USB ULPI XCVR, SINGLE SUPPLY, QFN32
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Supply, Symbol $25I42:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = USB3320_ULPI_XCVR
+      Symbol Property: Description = IC, USB ULPI XCVR, SINGLE SUPPLY, QFN32
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Supply, Symbol $25I66:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = USB_MICRO_B_RA_SMT
+      Symbol Property: Description = CONN, USB, RCPT, MICRO B, RA, SMT
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Ports, Symbol $20I13:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = MIC2025_1_USB_SW
+      Symbol Property: Description = IC, USB DISTRIBUTION SW, 1 CH, SOIC8
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page USB Ports, Symbol $20I26:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = USB_MICRO_AB_RA_SMT
+      Symbol Property: Description = CONN, USB, RCPT, MICRO AB, RA, SMT
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1027:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0603_24K9
+      Symbol Property: Description = RES, 0603, 24.9K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1055:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = TEST_TERM_RED
+      Symbol Property: Description = PC TEST POINT MINIATURE
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1029:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = TEST_TERM_RED
+      Symbol Property: Description = PC TEST POINT MINIATURE
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1030:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = IC_ISL9307_DCDC_CONV
+      Symbol Property: Description = IC, dual step-down converters + dual LDOs, TQFN16
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1034:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0603_100K
+      Symbol Property: Description = RES, 0603, 100K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1084:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0805_10UF_16V_X5R
+      Symbol Property: Description = CAP, 0805, 10UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1080:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0805_10UF_16V_X5R
+      Symbol Property: Description = CAP, 0805, 10UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1060:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0805_10UF_16V_X5R
+      Symbol Property: Description = CAP, 0805, 10UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1057:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0805_10UF_16V_X5R
+      Symbol Property: Description = CAP, 0805, 10UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1054:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0805_10UF_16V_X5R
+      Symbol Property: Description = CAP, 0805, 10UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1052:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0805_10UF_16V_X5R
+      Symbol Property: Description = CAP, 0805, 10UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1051:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0805_10UF_16V_X5R
+      Symbol Property: Description = CAP, 0805, 10UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1042:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0805_10UF_16V_X5R
+      Symbol Property: Description = CAP, 0805, 10UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1037:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0805_10UF_16V_X5R
+      Symbol Property: Description = CAP, 0805, 10UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1036:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0805_10UF_16V_X5R
+      Symbol Property: Description = CAP, 0805, 10UF, X5R, 16V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1038:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = FUSE0603_4A
+      Symbol Property: Description = FUSE, 4A, 32V, FAST, 0603
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1073:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = IND_1P5UH_2A
+      Symbol Property: Description = IND, 1.5uH, 2A
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1066:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = IND_1P5UH_2A
+      Symbol Property: Description = IND, 1.5uH, 2A
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1048:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = IND_1P5UH_2A
+      Symbol Property: Description = IND, 1.5uH, 2A
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1039:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = IND_1P5UH_2A
+      Symbol Property: Description = IND, 1.5uH, 2A
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1043:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0402_56K2
+      Symbol Property: Description = RES, 0402, 56.2K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1059:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0805_6800PF_X7R
+      Symbol Property: Description = CAP, 0805, 6800PF, X7R, 100V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1044:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0805_6800PF_X7R
+      Symbol Property: Description = CAP, 0805, 6800PF, X7R, 100V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1083:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_1UF_X5R
+      Symbol Property: Description = CAP, 0603, 10UF, X5R, 10V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1072:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_1UF_X5R
+      Symbol Property: Description = CAP, 0603, 10UF, X5R, 10V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1045:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CAP0603_1UF_X5R
+      Symbol Property: Description = CAP, 0603, 10UF, X5R, 10V
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1046:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = RES0603_69K8
+      Symbol Property: Description = RES, 0603, 69.8K
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1053:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = CON_POWER_PJ002A_TH
+      Symbol Property: Description = CON, PWR, BARREL, PCB, PJ002A_TH
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1063:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = TEST_TERM_BLK
+      Symbol Property: Description = PC TEST POINT MINIATURE
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1058:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = TEST_TERM_BLK
+      Symbol Property: Description = PC TEST POINT MINIATURE
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1069:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = HDR_1X2_TH_VER
+      Symbol Property: Description = HDR, 1ROW, 2POS, VERT, TH, 1X2
+     PartsDB Property: Description = 
+
+    WARNING: Block parallella, Page POWER MANAGEMENT, Symbol $21I1071:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = IC_ISL9305_DCDC_CONV
+      Symbol Property: Description = IC, dual step-down converters + dual LDOs, I2C interface, TQFN16
+     PartsDB Property: Description = 
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 575 Symbols:
+             575  ************************
+             550  **************************************************
+             500  **************************************************
+             450  **************************************************
+             400  **************************************************
+             350  **************************************************
+             300  **************************************************
+             250  **************************************************
+             200  **************************************************
+             150  **************************************************
+             100  **************************************************
+              50  **************************************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     558 nets were found containing 2464 pins
+     562 components were found
+
+     Creating a formatted Schematic Netlist (LogFiles\SchematicNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     The Logic DataBase has been compiled from the Schematic Design.
+      Use Netload to bring the Component Design into sync.
+
+     This Logic Data was Compiled with 562 warnings.
+      Erroneous results may occur if not fixed.
+
+                                     NetLoad
+                                     -------
+
+                         10:05 PM Monday, June 18, 2018
+Job Name: C:\Users\HOME\Desktop\Parallella - Damian Kujawski\PCBD\!projekt_i_bibioteka\parallella_proj\PCB\parallella.pcb
+
+
+Version:  02.11.12
+
+	Netloading the Layout.  Unused components will be deleted.
+
+	Unconnected pins will be set to net "(Net0)".
+
+	Schematic reference designator changes will be forward annotated.
+
+
+     Netload completed successfully with 0 warning(s).
+     
+     Back Annotating...
+
+  Updating Logic Database...
+
+     Version:  99.00.05
+
+     No changes made to Existing Schematic Packaging.
+
+
+     There is no symbol data to be back annotated to the schematic source.
+
+
+     The Logic DataBase has been updated and the Common DataBase has
+      automatically been brought into sync with the Logic DataBase.
+      Please proceed with your design.
+
+     Finished updating the Logic Database.
+
+     Creating a formatted Schematic Netlist (LogFiles\AfterBakAnnoNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+            Creating a new netlist text file (LogFiles\KeyinNetList.txt)
+            from the Logic Database (Work\Layout_Temp\LogicDB.lgc)...
+  A new netlist text file has been generated.
+
+
+
+                 Beginning Netload on the Layout Design.
+           ---------------------------------------------------
+
+Forward-Annotation on the Layout Design has been successfully completed.
+
+There were 0 reassignments of nets.
+There were 0 traces broken back.
+There were 0 nets removed from the Layout Design.

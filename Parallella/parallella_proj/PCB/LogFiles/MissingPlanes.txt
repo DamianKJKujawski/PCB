@@ -1,0 +1,44 @@
+---------------------
+Missing Planes Report
+---------------------
+
+Tuesday, June 19, 2018 12:54 PM
+
+The following is a list of layer(s) with plane net(s) that
+do not have plane metal generated for them.  Enter the Plane
+Assignments dialog and set the Plane Data State to Dynamic to
+generate planes for these plane nets.  Run Batch DRC verification
+before producing manufacturing outputs.”
+Layer 6
+-------
+AVDDC_18
+CR4
+FB21
+VMODE_1
+VOLD021
+VREFP_0
+V3IN
+V4IN
+ZYNQ_VCCPLL
+
+Layer 7
+-------
+AVDDC_18
+AVDD_18
+CR4
+FB21
+HDMI_5V
+SYS_5P0V
+VBUS
+VCC_XADC
+VDD33
+VREFP_0
+V3IN
+V4IN
+ZYNQ_VCCPLL
+1P0V
+1P8V
+1P8V_FLTR_PHY
+1P35V
+5P0V
+

@@ -1,0 +1,194 @@
+SECTION ACEPlusFilePaths
+LIST Fonts
+VALUE "${VBEST14PATH}\config\vbdc\vbdc.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\engineer.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\fancy.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt0.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt1.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt7.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt23.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt26.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt41.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt42.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt50.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt126.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\defnt127.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\sdedbg.fnt"
+VALUE "${VBEST14PATH}\config\vbdc\sbkdbg.fnt"
+ENDLIST
+LIST Names
+VALUE "BOM_Configuration"
+VALUE "Border_Data"
+VALUE "Bus_Contents"
+VALUE "CDB_Discard"
+VALUE "EDIF_Configuration"
+VALUE "Fonts"
+VALUE "Global_Signals"
+VALUE "HDL_String_Map"
+VALUE "HPGL_Plot_Configuration"
+VALUE "HPGL2_Plot_Configuration"
+VALUE "Pin_Types"
+VALUE "PostScript_Plot_Configuration"
+VALUE "Project_Options"
+VALUE "CrossRef_Configuration"
+VALUE "Text_Properties"
+VALUE "Verification_Rules"
+VALUE "VerilogConfig"
+VALUE "VHDLConfig"
+VALUE "Windows_Plot_Configuration"
+ENDLIST
+LIST Nested_Blocks
+VALUE "${VBEST14PATH}\config\vbdc\nested"
+ENDLIST
+LIST Text_Properties
+VALUE "${VBEST14PATH}\config\vbdc\vbdc.prp"
+VALUE "${VBEST14PATH}\config\vbdc\smodels.prp"
+ENDLIST
+KEY BOM_Format "${VBEST14PATH}\config\vbdc\bomfmt.fmt"
+KEY Bus_Contents "${VBEST14PATH}\config\vbdc\conts"
+KEY CDB_Discard "${VBEST14PATH}\config\vbdc\discard.asc"
+KEY EDIF_Configuration "${VBEST14PATH}\config\edif\edifcnfg.asc"
+KEY Global_Signals "${VBEST14PATH}\config\vbdc\global"
+KEY HPGL2_Plot_Configuration "${VBEST14PATH}\config\vbdc\dc2hpgl2.pcf"
+KEY HPGL_Pen_Attr_Table "${VBEST14PATH}\config\vbdc\HPPenAttr.asc"
+KEY HPGL_Plot_Configuration "${VBEST14PATH}\config\vbdc\dctohpgl.pcf"
+KEY PDB_Editor_Properties "${VBEST14PATH}\config\vbpcb\pdbedit.asc"
+KEY PDB_Property_Configuration "${VBEST14PATH}\config\vbdc\pdbprops.asc"
+KEY Pin_Types "${VBEST14PATH}\config\vbdc\pintypes.asc"
+KEY PostScript_Plot_Configuration "${VBEST14PATH}\config\vbdc\dctops.pcf"
+KEY Project_Options "${VBEST14PATH}\config\vbdc\vbdcsys.asc"
+KEY TAGNETS_Configuration "${VBEST14PATH}\config\vbdc\tagnets.asc"
+KEY UDBPCBFile "${VBEST14PATH}\config\vbdc\udbpcb.dat"
+KEY Verification_Rules "${VBEST14PATH}\config\vbdc\vbdcver.asc"
+KEY Windows_Plot_Configuration "${VBEST14PATH}\config\vbdc\dctowin.pcf"
+ENDSECTION
+SECTION CESDiagnostics_PCB_Layout_Temp
+KEY DESIGN_CHECK_LAST_UPDATE "2015-02-07 09:59:18"
+KEY DESIGN_CHECK_NUM_ERRORS "0"
+ENDSECTION
+SECTION ConfigurationInfo
+LIST Configurations
+VALUE "Default"
+ENDLIST
+KEY ActiveConfiguration "Default"
+ENDSECTION
+SECTION Default
+LIST All(*.*)
+ENDLIST
+LIST BlockSymbols(*.blk)
+ENDLIST
+LIST BlockViewMap
+ENDLIST
+LIST FPGA(*.fpk)
+ENDLIST
+LIST FlowCharts(*.sfc)
+ENDLIST
+LIST Schematics(*.sbk)
+ENDLIST
+LIST StateDiagrams(*.sdg)
+ENDLIST
+LIST TruthTables(*.tbl)
+ENDLIST
+LIST Types
+VALUE "FPGA(*.fpk)"
+VALUE "All(*.*)"
+VALUE "Verilog(*.v)"
+VALUE "VHDL(*.vhd)"
+VALUE "BlockSymbols(*.blk)"
+VALUE "TruthTables(*.tbl)"
+VALUE "FlowCharts(*.sfc)"
+VALUE "StateDiagrams(*.sdg)"
+VALUE "Schematics(*.sbk)"
+ENDLIST
+LIST VHDL(*.vhd)
+ENDLIST
+LIST Verilog(*.v)
+ENDLIST
+ENDSECTION
+SECTION DesignInfo
+KEY CentralLibrary "..\..\..\test1_lib.lmc"
+ENDSECTION
+SECTION ICXProInfo
+KEY HighSpeedPathsVersion "1"
+KEY HyperLynx "./HighSpeed/HyperLynx"
+KEY IBISModelMgrDir "./HighSpeed/ICXPro/Model_Manager"
+KEY ICXProDir "./HighSpeed/ICXPro"
+KEY PostLayoutExplorerDir "./HighSpeed/ICXPro/PostLayoutExplorer"
+KEY PostLayoutLineSim "./HighSpeed/HyperLynx/PostLayoutLineSim"
+KEY SimTemplatesDir "./HighSpeed/ICXPro/Simulation_Templates"
+KEY VerifyDir "./HighSpeed/ICXPro/Verify"
+KEY VerifyLogFilesDir "./HighSpeed/ICXPro/Verify/LogFiles"
+KEY VerifyResultsDir "./HighSpeed/ICXPro/Verify/DataBases"
+KEY VerifySandBoxDir "./HighSpeed/ICXPro/Verify"
+KEY VerifyWaveformsDir "./HighSpeed/ICXPro/Verify/Waveforms"
+KEY typeVerifyLogFilesDir "./HighSpeed/ICXPro/Verify/LogFiles"
+KEY typeVerifyWaveformsDir "./HighSpeed/ICXPro/Verify/Waveforms"
+ENDSECTION
+SECTION IEEE
+LIST Packages
+VALUE "std_logic_1164"
+ENDLIST
+KEY Path ""
+KEY USEALL "0"
+ENDSECTION
+SECTION IngrElecDesignInfo
+KEY ACEPlusDesignRootName "local.sbk"
+KEY ACEPlusGeneratedHDLDir ".\genhdl"
+KEY ACEPlusHDLDir ".\hdl"
+KEY ASICToolkit ""
+KEY AvoidInstance "1"
+KEY CDBDir ".\"
+KEY SBKDir ".\"
+KEY UDBDir ".\udb"
+ENDSECTION
+SECTION IngrElecLibraries
+LIST 2dCellLibraries
+ENDLIST
+LIST 3dCellLibraries
+ENDLIST
+LIST IbisModelIndexes
+ENDLIST
+LIST Names
+VALUE "Symbols"
+VALUE "PDBs"
+VALUE "2dCellLibraries"
+ENDLIST
+LIST PDBs
+ENDLIST
+LIST SignalIntegrityLibrary
+ENDLIST
+LIST Symbols
+VALUE "${VBEST14PATH}\libelec\symlib\border.slb"
+VALUE "${VBEST14PATH}\libelec\symlib\"
+VALUE ".\"
+ENDLIST
+KEY SearchPathScheme ""
+ENDSECTION
+SECTION ProjectBackup
+KEY ConfigFile ".\ProjectBackup\ProjectBackup.cfg"
+ENDSECTION
+SECTION VBPCBDesignData
+KEY NetClassFile ""
+KEY VBPCBDesignPath "template.pcb"
+KEY VBPCBForeignNetlist "netlist.kyn"
+KEY VBPCBForeignNetlistFormat ".kyn"
+ENDSECTION
+SECTION VBPCBIndicators
+KEY AllowAlpha "0"
+KEY CADBackAnno "1"
+KEY DisableBackAnnoChanges "0"
+KEY FLATNETNAMEs "0"
+KEY FanoutSinglePinNets "0"
+KEY FwdAnnoCleanBuildFlag "0"
+KEY FwdAnnoExtractFlag "1"
+KEY FwdAnnoRebuildFlag "0"
+KEY FwdAnnoRemoveHangers "1"
+KEY FwdAnnoRemoveTraces "1"
+KEY FwdAnnoReplaceFlag "0"
+KEY FwdAnnoSchematicRefDesChanges "1"
+KEY SchematicDesignBackAnno "0"
+KEY SchematicDesignStatus "0"
+KEY UnusedPartsFlag "0"
+KEY UseCES "1"
+KEY VBPCBForwardAnno "1"
+ENDSECTION

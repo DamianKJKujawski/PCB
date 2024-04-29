@@ -1,0 +1,221 @@
+
+                          Xpedition Layout ODB++ Output
+                          -----------------------------
+
+                         02:54 PM Monday, June 18, 2018
+Job Name: E:\Pulpit\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\PCB\parallella.pcb
+
+
+Configuration file found. Using the following settings.
+        Output User Layers 
+        Output ODB++ Documentation Layers
+        Output User Layers 
+        Using Placement Outline for package outline
+        Remove NFP Pins: None
+        Remove NFP Vias: None
+        Units: English
+        Read DRC Features
+        Round Corners
+        Flatten RF Nets
+
+Output Dir: E:\Pulpit\ODB\
+Output Job Name: designodb
+Processing Board Outline
+Processing Layer Information
+Processing Symbols
+Processing Packages
+Processing Components
+Processing Nets
+Processing Nets
+Processing Layer Information
+Processing Features
+    Layer - top
+    WARNING: The arc at (1.5620000,1.3509997)(in), (1.5619997,1.3510000)(in) is being approximated to a line.
+    WARNING: The arc at (2.9990002,1.6370000)(in), (2.9989999,1.6369999)(in) is being approximated to a line.
+    WARNING: The arc at (2.9969999,1.6630001)(in), (2.9970002,1.6630000)(in) is being approximated to a line.
+    WARNING: The arc at (3.0579997,1.5360000)(in), (3.0580000,1.5360003)(in) is being approximated to a line.
+    WARNING: The arc at (0.1499998,1.3720000)(in), (0.1500000,1.3720003)(in) is being approximated to a line.
+    WARNING: The arc at (0.4240003,0.9040000)(in), (0.4240000,0.9039997)(in) is being approximated to a line.
+    WARNING: The arc at (0.4440000,0.7330002)(in), (0.4440004,0.7330000)(in) is being approximated to a line.
+    WARNING: The arc at (2.9420003,1.6760000)(in), (2.9420000,1.6759997)(in) is being approximated to a line.
+    WARNING: The arc at (2.9420000,1.6270003)(in), (2.9420003,1.6270000)(in) is being approximated to a line.
+    Layer - gnd_t1
+    Layer - layer_t1
+    Layer - gnd_t2
+    Layer - layer_t2
+    Layer - pwr_t1
+    WARNING: The arc at (1.7649498,0.8732859)(in), (1.7649501,0.8732862)(in) is being approximated to a line.
+    WARNING: The arc at (1.7648152,1.0659997)(in), (1.7648149,1.0660000)(in) is being approximated to a line.
+    WARNING: The arc at (2.0120001,1.5009999)(in), (2.0119998,1.5010000)(in) is being approximated to a line.
+    WARNING: The arc at (2.0590000,1.7539998)(in), (2.0589997,1.7540000)(in) is being approximated to a line.
+    WARNING: The arc at (0.7129997,0.6572423)(in), (0.7130000,0.6572426)(in) is being approximated to a line.
+    WARNING: The arc at (1.1309997,0.6570029)(in), (1.1310000,0.6570032)(in) is being approximated to a line.
+    WARNING: The arc at (1.1619997,0.6907665)(in), (1.1620000,0.6907668)(in) is being approximated to a line.
+    WARNING: The arc at (1.4720050,0.6884317)(in), (1.4720053,0.6884320)(in) is being approximated to a line.
+    WARNING: The arc at (1.4152847,0.9970346)(in), (1.4152844,0.9970349)(in) is being approximated to a line.
+    WARNING: The arc at (1.4680001,1.1883889)(in), (1.4680003,1.1883888)(in) is being approximated to a line.
+    WARNING: The arc at (1.4680002,1.0610000)(in), (1.4680000,1.0609998)(in) is being approximated to a line.
+    WARNING: The arc at (1.4650000,0.8373833)(in), (1.4650003,0.8373830)(in) is being approximated to a line.
+    WARNING: The arc at (1.8390002,1.2580790)(in), (1.8390000,1.2580787)(in) is being approximated to a line.
+    WARNING: The arc at (1.6072847,0.9449998)(in), (1.6072845,0.9450000)(in) is being approximated to a line.
+    WARNING: The arc at (1.8949408,0.0603952)(in), (1.8949411,0.0603949)(in) is being approximated to a line.
+    WARNING: The arc at (2.0872141,0.0603949)(in), (2.0872144,0.0603952)(in) is being approximated to a line.
+    WARNING: The arc at (2.4187005,1.1208469)(in), (2.4187003,1.1208468)(in) is being approximated to a line.
+    WARNING: The arc at (2.3970000,0.9603952)(in), (2.3970003,0.9603949)(in) is being approximated to a line.
+    WARNING: The arc at (2.6216172,0.9603949)(in), (2.6216176,0.9603952)(in) is being approximated to a line.
+    WARNING: The arc at (0.9160003,1.6050000)(in), (0.9160000,1.6049997)(in) is being approximated to a line.
+    WARNING: The arc at (0.8050000,1.6049997)(in), (0.8049997,1.6050000)(in) is being approximated to a line.
+    WARNING: The arc at (2.0090000,1.3740003)(in), (2.0090003,1.3740000)(in) is being approximated to a line.
+    WARNING: The arc at (2.0889997,1.3740000)(in), (2.0890000,1.3740003)(in) is being approximated to a line.
+    WARNING: The arc at (1.8550229,1.0573950)(in), (1.8550231,1.0573949)(in) is being approximated to a line.
+    WARNING: The arc at (1.9070003,0.9763615)(in), (1.9070000,0.9763612)(in) is being approximated to a line.
+    WARNING: The arc at (2.0319252,1.0763952)(in), (2.0319255,1.0763949)(in) is being approximated to a line.
+    WARNING: The arc at (1.4860003,1.9339458)(in), (1.4860000,1.9339455)(in) is being approximated to a line.
+    WARNING: The arc at (1.4860000,1.6874433)(in), (1.4860003,1.6874430)(in) is being approximated to a line.
+    WARNING: The arc at (1.2000002,1.5730933)(in), (1.2000000,1.5730932)(in) is being approximated to a line.
+    WARNING: The arc at (0.6800003,1.0820000)(in), (0.6800000,1.0819997)(in) is being approximated to a line.
+    WARNING: The arc at (0.6270003,0.8230000)(in), (0.6270000,0.8229998)(in) is being approximated to a line.
+    WARNING: The arc at (0.6119997,1.0503888)(in), (0.6119999,1.0503889)(in) is being approximated to a line.
+    WARNING: The arc at (0.6309997,1.0510000)(in), (0.6310000,1.0510003)(in) is being approximated to a line.
+    WARNING: The arc at (1.0022638,1.2860000)(in), (1.0022640,1.2860001)(in) is being approximated to a line.
+    WARNING: The arc at (0.4188813,1.8043888)(in), (0.4188816,1.8043891)(in) is being approximated to a line.
+    WARNING: The arc at (1.3970001,2.1193889)(in), (1.3970003,2.1193888)(in) is being approximated to a line.
+    WARNING: The arc at (1.7420000,0.8715588)(in), (1.7420003,0.8715587)(in) is being approximated to a line.
+    WARNING: The arc at (3.0380000,1.6389997)(in), (3.0379997,1.6390000)(in) is being approximated to a line.
+    WARNING: The arc at (3.6069997,1.0732668)(in), (3.6070000,1.0732671)(in) is being approximated to a line.
+    WARNING: The arc at (2.0350000,1.6439997)(in), (2.0349997,1.6440000)(in) is being approximated to a line.
+    WARNING: The arc at (2.0560000,1.6460003)(in), (2.0560002,1.6460000)(in) is being approximated to a line.
+    WARNING: The arc at (2.3100000,0.5290003)(in), (2.3100003,0.5290000)(in) is being approximated to a line.
+    WARNING: The arc at (1.9650560,0.4458349)(in), (1.9650563,0.4458352)(in) is being approximated to a line.
+    WARNING: The arc at (1.1270003,0.6940000)(in), (1.1270000,0.6939997)(in) is being approximated to a line.
+    WARNING: The arc at (0.7560000,0.7559998)(in), (0.7559998,0.7560000)(in) is being approximated to a line.
+    WARNING: The arc at (0.6520003,0.6610000)(in), (0.6520000,0.6609997)(in) is being approximated to a line.
+    WARNING: The arc at (1.0330000,0.6940003)(in), (1.0330003,0.6940000)(in) is being approximated to a line.
+    WARNING: The arc at (1.9440000,0.7780002)(in), (1.9440003,0.7780000)(in) is being approximated to a line.
+    WARNING: The arc at (2.0120003,0.6760000)(in), (2.0120000,0.6759997)(in) is being approximated to a line.
+    WARNING: The arc at (1.9699997,0.7440000)(in), (1.9700000,0.7440003)(in) is being approximated to a line.
+    WARNING: The arc at (1.9979997,0.0990000)(in), (1.9980000,0.0990003)(in) is being approximated to a line.
+    WARNING: The arc at (0.0859997,2.1190000)(in), (0.0859999,2.1190001)(in) is being approximated to a line.
+    WARNING: The arc at (0.3210003,1.8080000)(in), (0.3210000,1.8079997)(in) is being approximated to a line.
+    WARNING: The arc at (0.5809997,0.1300000)(in), (0.5810000,0.1300003)(in) is being approximated to a line.
+    WARNING: The arc at (1.2930000,0.2600003)(in), (1.2930003,0.2600000)(in) is being approximated to a line.
+    WARNING: The arc at (1.4280000,0.0800003)(in), (1.4280003,0.0800000)(in) is being approximated to a line.
+    WARNING: The arc at (1.8419997,0.0800000)(in), (1.8420000,0.0800003)(in) is being approximated to a line.
+    WARNING: The arc at (0.7509997,0.4620000)(in), (0.7509999,0.4620001)(in) is being approximated to a line.
+    WARNING: The arc at (1.1290002,1.7590000)(in), (1.1290000,1.7589997)(in) is being approximated to a line.
+    WARNING: The arc at (0.6310000,1.3859997)(in), (0.6309997,1.3860000)(in) is being approximated to a line.
+    WARNING: The arc at (0.8000000,1.4100003)(in), (0.8000003,1.4100000)(in) is being approximated to a line.
+    WARNING: The arc at (0.9209997,1.4100000)(in), (0.9210000,1.4100003)(in) is being approximated to a line.
+    WARNING: The arc at (1.0179997,1.6010000)(in), (1.0180000,1.6010003)(in) is being approximated to a line.
+    WARNING: The arc at (1.3280000,0.9930003)(in), (1.3280003,0.9930000)(in) is being approximated to a line.
+    WARNING: The arc at (1.9530003,1.5000000)(in), (1.9530000,1.4999997)(in) is being approximated to a line.
+    WARNING: The arc at (1.9530000,1.3320003)(in), (1.9530002,1.3320000)(in) is being approximated to a line.
+    WARNING: The arc at (2.0649997,0.9730000)(in), (2.0650000,0.9730003)(in) is being approximated to a line.
+    WARNING: The arc at (2.0650000,1.0009998)(in), (2.0649997,1.0010000)(in) is being approximated to a line.
+    WARNING: The arc at (1.9470000,1.0609997)(in), (1.9469997,1.0610000)(in) is being approximated to a line.
+    WARNING: The arc at (2.0709998,1.0510000)(in), (2.0710000,1.0510003)(in) is being approximated to a line.
+    WARNING: The arc at (2.0710000,1.0789997)(in), (2.0709997,1.0790000)(in) is being approximated to a line.
+    WARNING: The arc at (2.0390000,1.2909997)(in), (2.0389997,1.2910000)(in) is being approximated to a line.
+    WARNING: The arc at (1.4709997,0.9710000)(in), (1.4710000,0.9710003)(in) is being approximated to a line.
+    WARNING: The arc at (1.4990000,1.0999997)(in), (1.4989997,1.1000000)(in) is being approximated to a line.
+    WARNING: The arc at (1.5270000,1.1929997)(in), (1.5269997,1.1930000)(in) is being approximated to a line.
+    WARNING: The arc at (1.6610000,1.2510003)(in), (1.6610003,1.2510000)(in) is being approximated to a line.
+    WARNING: The arc at (1.7520000,1.1920003)(in), (1.7520002,1.1920001)(in) is being approximated to a line.
+    WARNING: The arc at (1.5979997,1.1900000)(in), (1.5980000,1.1900002)(in) is being approximated to a line.
+    WARNING: The arc at (1.5270000,0.6470002)(in), (1.5270002,0.6470000)(in) is being approximated to a line.
+    WARNING: The arc at (1.5869997,0.8130000)(in), (1.5869999,0.8130001)(in) is being approximated to a line.
+    WARNING: The arc at (1.6919997,0.8160000)(in), (1.6920000,0.8160003)(in) is being approximated to a line.
+    WARNING: The arc at (1.9650000,0.5539997)(in), (1.9649997,0.5540000)(in) is being approximated to a line.
+    WARNING: The arc at (3.6030003,1.4200000)(in), (3.6030000,1.4199997)(in) is being approximated to a line.
+    WARNING: The arc at (3.5070003,1.0780000)(in), (3.5070000,1.0779997)(in) is being approximated to a line.
+    WARNING: The arc at (2.7470000,0.9939997)(in), (2.7469997,0.9940000)(in) is being approximated to a line.
+    WARNING: The arc at (2.7129997,1.0440000)(in), (2.7130000,1.0440003)(in) is being approximated to a line.
+    WARNING: The arc at (2.3950002,1.4810000)(in), (2.3950000,1.4809997)(in) is being approximated to a line.
+    WARNING: The arc at (3.0030003,0.8710000)(in), (3.0030000,0.8709997)(in) is being approximated to a line.
+    WARNING: The arc at (3.6019997,1.5170000)(in), (3.6020000,1.5170002)(in) is being approximated to a line.
+    WARNING: The arc at (1.9510000,0.0730003)(in), (1.9510003,0.0730000)(in) is being approximated to a line.
+    WARNING: The arc at (2.0319997,0.0730000)(in), (2.0320000,0.0730003)(in) is being approximated to a line.
+    WARNING: The arc at (1.8420000,0.1869997)(in), (1.8419997,0.1870000)(in) is being approximated to a line.
+    WARNING: The arc at (1.9410000,0.5259997)(in), (1.9409997,0.5260000)(in) is being approximated to a line.
+    WARNING: The arc at (1.9420000,0.5510003)(in), (1.9420003,0.5510000)(in) is being approximated to a line.
+    WARNING: The arc at (2.6157480,0.9941795)(in), (2.6157477,0.9941792)(in) is being approximated to a line.
+    WARNING: The arc at (2.6157477,1.0440927)(in), (2.6157480,1.0440924)(in) is being approximated to a line.
+    WARNING: The arc at (1.8740138,0.6899997)(in), (1.8740136,0.6900000)(in) is being approximated to a line.
+    WARNING: The arc at (2.0508480,0.6710000)(in), (2.0508483,0.6710003)(in) is being approximated to a line.
+    WARNING: The arc at (2.0511876,0.8819997)(in), (2.0511873,0.8820000)(in) is being approximated to a line.
+    WARNING: The arc at (1.9661441,0.8820000)(in), (1.9661438,0.8819997)(in) is being approximated to a line.
+    WARNING: The arc at (3.0121293,0.3989997)(in), (3.0121289,0.3990000)(in) is being approximated to a line.
+    WARNING: The arc at (3.0121289,0.4630000)(in), (3.0121293,0.4630003)(in) is being approximated to a line.
+    Layer - pwr_b1
+    WARNING: The arc at (2.5820001,0.8899999)(in), (2.5819998,0.8900000)(in) is being approximated to a line.
+    WARNING: The arc at (2.3840002,0.8900000)(in), (2.3839999,0.8899999)(in) is being approximated to a line.
+    WARNING: The arc at (2.2719999,0.8900001)(in), (2.2720002,0.8900000)(in) is being approximated to a line.
+    WARNING: The arc at (2.3349998,0.8900000)(in), (2.3350001,0.8900001)(in) is being approximated to a line.
+    WARNING: The arc at (2.9539999,0.6510001)(in), (2.9540002,0.6510000)(in) is being approximated to a line.
+    WARNING: The arc at (2.0739998,1.3120000)(in), (2.0740001,1.3120001)(in) is being approximated to a line.
+    WARNING: The arc at (1.5799998,1.0160000)(in), (1.5800001,1.0160001)(in) is being approximated to a line.
+    WARNING: The arc at (3.4580001,1.4779999)(in), (3.4579998,1.4780000)(in) is being approximated to a line.
+    WARNING: The arc at (3.2820002,1.4780000)(in), (3.2819999,1.4779999)(in) is being approximated to a line.
+    WARNING: The arc at (3.0550002,1.4140000)(in), (3.0549999,1.4139999)(in) is being approximated to a line.
+    WARNING: The arc at (2.4250001,1.5269999)(in), (2.4249998,1.5270000)(in) is being approximated to a line.
+    WARNING: The arc at (2.0262310,1.9179998)(in), (2.0262308,1.9180000)(in) is being approximated to a line.
+    WARNING: The arc at (2.7859999,1.4240001)(in), (2.7860002,1.4240000)(in) is being approximated to a line.
+    WARNING: The arc at (1.6410001,0.5519999)(in), (1.6409998,0.5520000)(in) is being approximated to a line.
+    WARNING: The arc at (1.5179998,0.8110000)(in), (1.5180001,0.8110001)(in) is being approximated to a line.
+    WARNING: The arc at (1.9469998,0.9440000)(in), (1.9470001,0.9440001)(in) is being approximated to a line.
+    WARNING: The arc at (1.9870002,0.9009998)(in), (1.9869998,0.9009997)(in) is being approximated to a line.
+    WARNING: The arc at (1.3660002,0.7870000)(in), (1.3659999,0.7869999)(in) is being approximated to a line.
+    WARNING: The arc at (1.4939999,0.6230001)(in), (1.4940002,0.6230000)(in) is being approximated to a line.
+    WARNING: The arc at (1.7119999,0.5900001)(in), (1.7120002,0.5900000)(in) is being approximated to a line.
+    WARNING: The arc at (2.0809998,0.5900000)(in), (2.0810001,0.5900001)(in) is being approximated to a line.
+    WARNING: The arc at (1.2330003,1.0970000)(in), (1.2330000,1.0969997)(in) is being approximated to a line.
+    WARNING: The arc at (1.2330000,1.0940003)(in), (1.2330003,1.0940000)(in) is being approximated to a line.
+    WARNING: The arc at (1.5350002,1.0220000)(in), (1.5349999,1.0219999)(in) is being approximated to a line.
+    WARNING: The arc at (1.5289999,0.9600001)(in), (1.5290002,0.9600000)(in) is being approximated to a line.
+    WARNING: The arc at (1.5609998,0.9600000)(in), (1.5610001,0.9600001)(in) is being approximated to a line.
+    WARNING: The arc at (2.0420001,0.9659999)(in), (2.0419998,0.9660000)(in) is being approximated to a line.
+    WARNING: The arc at (1.9610002,0.9660000)(in), (1.9609999,0.9659999)(in) is being approximated to a line.
+    WARNING: The arc at (1.3160002,0.8180000)(in), (1.3159999,0.8179999)(in) is being approximated to a line.
+    WARNING: The arc at (1.2829999,0.5480001)(in), (1.2830002,0.5480000)(in) is being approximated to a line.
+    WARNING: The arc at (1.7119999,0.4750001)(in), (1.7120002,0.4750000)(in) is being approximated to a line.
+    WARNING: The arc at (0.5630000,1.8419997)(in), (0.5629997,1.8420000)(in) is being approximated to a line.
+    WARNING: The arc at (0.5590003,1.8420000)(in), (0.5590000,1.8419997)(in) is being approximated to a line.
+    WARNING: The arc at (1.6810001,0.6289999)(in), (1.6809998,0.6290000)(in) is being approximated to a line.
+    WARNING: The arc at (1.5369999,0.7760001)(in), (1.5370002,0.7760000)(in) is being approximated to a line.
+    WARNING: The arc at (1.5589998,0.7760000)(in), (1.5590001,0.7760001)(in) is being approximated to a line.
+    WARNING: The arc at (1.8159999,0.8740001)(in), (1.8160002,0.8740000)(in) is being approximated to a line.
+    WARNING: The arc at (1.9689998,0.8740000)(in), (1.9690001,0.8740001)(in) is being approximated to a line.
+    WARNING: The arc at (2.8039998,1.0180000)(in), (2.8040001,1.0180001)(in) is being approximated to a line.
+    WARNING: The arc at (3.0059998,1.3570000)(in), (3.0060001,1.3570001)(in) is being approximated to a line.
+    WARNING: The arc at (3.2209998,1.4100000)(in), (3.2210001,1.4100001)(in) is being approximated to a line.
+    WARNING: The arc at (3.6090000,1.2330003)(in), (3.6090003,1.2330000)(in) is being approximated to a line.
+    WARNING: The arc at (2.6930001,1.5239999)(in), (2.6929998,1.5240000)(in) is being approximated to a line.
+    WARNING: The arc at (0.3849998,1.9110000)(in), (0.3850001,1.9110001)(in) is being approximated to a line.
+    WARNING: The arc at (2.6580002,1.0220000)(in), (2.6579999,1.0219999)(in) is being approximated to a line.
+    WARNING: The arc at (2.6670006,1.8979994)(in), (2.6670001,1.8979994)(in) is being approximated to a line.
+    WARNING: The arc at (0.6320002,2.0630000)(in), (0.6319999,2.0629999)(in) is being approximated to a line.
+    WARNING: The arc at (1.1809998,2.0810000)(in), (1.1810001,2.0810001)(in) is being approximated to a line.
+    WARNING: The arc at (1.3129999,2.0810001)(in), (1.3130002,2.0810000)(in) is being approximated to a line.
+    WARNING: The arc at (2.2559999,1.9260001)(in), (2.2560002,1.9260000)(in) is being approximated to a line.
+    WARNING: The arc at (2.8189999,1.7840001)(in), (2.8190002,1.7840000)(in) is being approximated to a line.
+    WARNING: The arc at (0.7340001,1.9289999)(in), (0.7339998,1.9290000)(in) is being approximated to a line.
+    WARNING: The arc at (0.6260002,1.9290000)(in), (0.6259999,1.9289999)(in) is being approximated to a line.
+    WARNING: The arc at (2.9630003,0.3970000)(in), (2.9630000,0.3969997)(in) is being approximated to a line.
+    WARNING: The arc at (2.1380000,0.3569997)(in), (2.1379997,0.3570000)(in) is being approximated to a line.
+    WARNING: The arc at (2.2119999,0.0940001)(in), (2.2120002,0.0940000)(in) is being approximated to a line.
+    WARNING: The arc at (2.8759998,0.0940000)(in), (2.8760001,0.0940001)(in) is being approximated to a line.
+    Layer - layer_b2
+    Layer - spt
+    Processing Solderpaste Data
+    Layer - spb
+    Processing Solderpaste Data
+    Layer - smt
+    Layer - smb
+    Processing Assembly Data
+    Processing Vias
+    Processing Component Holes
+    Processing Silkscreen Data
+    Removing empty layers from ODB++ job :-
+        ddt
+Process Completed at ....
+02:55:01 PM Monday, June 18, 2018

@@ -1,0 +1,123 @@
+
+DRC PROXIMITY COMPONENT TYPE CHECKS
+===================================
+
+Side               = TOP
+Component1CellName = C0402
+Component2CellName = R0402
+Component1RefDes   = C23
+Component2RefDes   = R205
+CompType1Name      = General (From Cell)
+CompType2Name      = General (From Cell)
+Component1Rotation = 0.000000
+Component2Rotation = 270.000000
+   "General" not found.  CompType1Clearance = Not Defined
+   "General" not found.  CompType2Clearance = Not Defined
+DefaultClearance   = 10th (Netclass Component To Component Clearance)
+TypeToType not found.
+Clearance = 10th (DefaultClearance).
+
+Side               = TOP
+Component1CellName = USB_MICRO5P_5X7X3P07MMH
+Component2CellName = C0402
+Component1RefDes   = J10
+Component2RefDes   = C187
+CompType1Name      = General (From Cell)
+CompType2Name      = General (From Cell)
+Component1Rotation = 0.000000
+Component2Rotation = 90.000000
+   "General" not found.  CompType1Clearance = Not Defined
+   "General" not found.  CompType2Clearance = Not Defined
+DefaultClearance   = 10th (Netclass Component To Component Clearance)
+TypeToType not found.
+Clearance = 10th (DefaultClearance).
+
+Side               = TOP
+Component1CellName = R0402
+Component2CellName = TSSOP8_3SQX1P1H_P65P
+Component1RefDes   = R200
+Component2RefDes   = U9
+CompType1Name      = General (From Cell)
+CompType2Name      = General (From Cell)
+Component1Rotation = 90.000000
+Component2Rotation = 270.000000
+   "General" not found.  CompType1Clearance = Not Defined
+   "General" not found.  CompType2Clearance = Not Defined
+DefaultClearance   = 10th (Netclass Component To Component Clearance)
+TypeToType not found.
+Clearance = 10th (DefaultClearance).
+
+Side               = BOTTOM
+Component1CellName = C0402
+Component2CellName = R0402
+Component1RefDes   = C98
+Component2RefDes   = R101
+CompType1Name      = General (From Cell)
+CompType2Name      = General (From Cell)
+Component1Rotation = 90.000000
+Component2Rotation = 180.000000
+   "General" not found.  CompType1Clearance = Not Defined
+   "General" not found.  CompType2Clearance = Not Defined
+DefaultClearance   = 10th (Netclass Component To Component Clearance)
+TypeToType not found.
+Clearance = 10th (DefaultClearance).
+
+Side               = BOTTOM
+Component1CellName = R0402
+Component2CellName = R0402
+Component1RefDes   = R51
+Component2RefDes   = R77
+CompType1Name      = General (From Cell)
+CompType2Name      = General (From Cell)
+Component1Rotation = 0.000000
+Component2Rotation = 0.000000
+   "General" not found.  CompType1Clearance = Not Defined
+   "General" not found.  CompType2Clearance = Not Defined
+DefaultClearance   = 10th (Netclass Component To Component Clearance)
+TypeToType not found.
+Clearance = 10th (DefaultClearance).
+
+Side               = BOTTOM
+Component1CellName = C0402
+Component2CellName = C0402
+Component1RefDes   = C140
+Component2RefDes   = C142
+CompType1Name      = General (From Cell)
+CompType2Name      = General (From Cell)
+Component1Rotation = 270.000000
+Component2Rotation = 180.000000
+   "General" not found.  CompType1Clearance = Not Defined
+   "General" not found.  CompType2Clearance = Not Defined
+DefaultClearance   = 10th (Netclass Component To Component Clearance)
+TypeToType not found.
+Clearance = 10th (DefaultClearance).
+
+Side               = BOTTOM
+Component1CellName = C0402
+Component2CellName = C0402
+Component1RefDes   = C138
+Component2RefDes   = C143
+CompType1Name      = General (From Cell)
+CompType2Name      = General (From Cell)
+Component1Rotation = 270.000000
+Component2Rotation = 0.000000
+   "General" not found.  CompType1Clearance = Not Defined
+   "General" not found.  CompType2Clearance = Not Defined
+DefaultClearance   = 10th (Netclass Component To Component Clearance)
+TypeToType not found.
+Clearance = 10th (DefaultClearance).
+
+Side               = BOTTOM
+Component1CellName = C0402
+Component2CellName = C0402
+Component1RefDes   = C198
+Component2RefDes   = C115
+CompType1Name      = General (From Cell)
+CompType2Name      = General (From Cell)
+Component1Rotation = 0.000000
+Component2Rotation = 90.000000
+   "General" not found.  CompType1Clearance = Not Defined
+   "General" not found.  CompType2Clearance = Not Defined
+DefaultClearance   = 10th (Netclass Component To Component Clearance)
+TypeToType not found.
+Clearance = 10th (DefaultClearance).

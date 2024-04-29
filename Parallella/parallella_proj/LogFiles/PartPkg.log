@@ -1,0 +1,208 @@
+
+                                    Packager
+                                    --------
+
+                      11:57 AM Saturday, November 07, 2015
+    Job Name: C:\Users\PCBD5\Desktop\MentorV2\parallella_proj\parallella.prj
+
+
+     Packager     Version: 020806.00
+
+        Commandline is: "C:\MentorGraphics\EEVX.1.1\SDD_HOME\wg\win32\bin\package.exe  -jC:\Users\PCBD5\Desktop\MentorV2\parallella_proj\parallella.prj -nparallella -CleanBuild -NoFill"
+
+     The Common Database is at "C:\Users\PCBD5\Desktop\MentorV2\parallella_proj\database".
+
+     The Root of this design is "parallella".
+
+     The Front End Snapshot of this design is "DxD".
+
+     The PCB Design Path of this design is at "C:\Users\PCBD5\Desktop\MentorV2\parallella_proj\PCB\parallella.pcb".
+
+     The Central Library is at "C:\Users\PCBD5\Desktop\MentorV2\parallella_lib\test1_lib.lmc".
+
+     Unable to determine the Disable Repackage status.
+     !Repackaging will be allowed!
+
+     A new Target PDB will be created from the Central Library to satisfy the parts
+      requirements of the iCDB.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+     The cross mapping of symbol pin names to Part Number pin
+      numbers will be checked for packaged symbols and mapped correctly
+      for unpackaged symbols.
+
+     Properties that have been checked off in the Property Definition Editor
+      found at Library Manager/Common Properties will be checked for value
+      differences between the PartsDB and the non-null properties on symbols.
+     Those properties checked off (other than Part Number)
+      will not be transferred from the PartsDB to symbols.
+     The following properties were checked off in the Property Definition Editor:
+       "Pkg Group"
+       "Connector Mating Part"
+       "Connector Gender"
+       "EPFIXEDWIDTH"
+       "EPFIXEDLENGTH"
+       "Term"
+       "SIM_MODEL"
+       "SIM_MODEL_FILE"
+       "Array Component"
+       "Use Verilog"
+       "Order"
+       "Parametric"
+       "Value2"
+       "Tech"
+       "IBIS"
+       "VHDL Model"
+       "Verilog Model"
+       "Tolerance"
+       "Value"
+
+	Checking for errors in the ICDB...
+
+	No errors found.  Proceeding with packaging...
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Integration\LocalPartsDB.pdb
+
+     Number of Part Numbers: 70
+          Part Numb: BLM15AG121SN1D -> Vend Part: BLM15AG121SN1D 
+          Part Numb: BLM18SG121TN1D -> Vend Part: BLM18SG121TN1D 
+          Part Numb: CAP0402_0P1UF_X5R_35V -> Vend Part: CAP0402_0P1UF_X5R_35V 
+          Part Numb: CAP0402_0P47UF_X5R -> Vend Part: CAP0402_0P47UF_X5R 
+          Part Numb: CAP0402_0P047UF_X5R -> Vend Part: CAP0402_0P047UF_X5R 
+          Part Numb: CAP0402_2P2UF_X5R -> Vend Part: CAP0402_2P2UF_X5R 
+          Part Numb: CAP0402_4P7UF_X5R -> Vend Part: CAP0402_4P7UF_X5R 
+          Part Numb: CAP0402_6PF_NPO_50V -> Vend Part: CAP0402_6PF_NPO_50V 
+          Part Numb: CAP0402_10NF_X7R_16V -> Vend Part: CAP0402_10NF_X7R_16V 
+          Part Numb: CAP0603_1UF_X5R -> Vend Part: CAP0603_1UF_X5R 
+          Part Numb: CAP0603_4P7UF_16V_X5R -> Vend Part: CAP0603_4P7UF_16V_X5R 
+          Part Numb: CAP0603_10UF_X5R -> Vend Part: CAP0603_10UF_X5R 
+          Part Numb: CAP0805_10UF_16V_X5R -> Vend Part: CAP0805_10UF_16V_X5R 
+          Part Numb: CAP0805_6800PF_X7R -> Vend Part: CAP0805_6800PF_X7R 
+          Part Numb: CAP1210_100UF_X5R_LOESR -> Vend Part: CAP1210_100UF_X5R_LOESR 
+          Part Numb: CONN_MICROSD_CARD -> Vend Part: CONN_MICROSD_CARD 
+          Part Numb: CON_BSH_030_VERT -> Vend Part: CON_BSH_030_VERT 
+          Part Numb: CON_POWER_PJ002A_TH -> Vend Part: CON_POWER_PJ002A_TH 
+          Part Numb: CRYSTAL_4P_24MHZ -> Vend Part: CRYSTAL_4P_24MHZ 
+          Part Numb: DDR3_256MX32 -> Vend Part: DDR3_256MX32 
+          Part Numb: DIODE_BAS16XV2T1G -> Vend Part: DIODE_BAS16XV2T1G 
+          Part Numb: EPIPHANY_E16G301 -> Vend Part: EPIPHANY_E16G301 
+          Part Numb: FUSE0603_4A -> Vend Part: FUSE0603_4A 
+          Part Numb: HDMI_DVI_XCVR_ADV7513 -> Vend Part: HDMI_DVI_XCVR_ADV7513 
+          Part Numb: HDMI_MICRO_D_RA_SMT -> Vend Part: HDMI_MICRO_D_RA_SMT 
+          Part Numb: HDR_1X2_TH_VER -> Vend Part: HDR_1X2_TH_VER 
+          Part Numb: HDR_1X3_TH_VER_0.1P -> Vend Part: HDR_1X3_TH_VER_0.1P 
+          Part Numb: IC_ISL9305_DCDC_CONV -> Vend Part: IC_ISL9305_DCDC_CONV 
+          Part Numb: IC_ISL9307_DCDC_CONV -> Vend Part: IC_ISL9307_DCDC_CONV 
+          Part Numb: IC_SI51219 -> Vend Part: IC_SI51219 
+          Part Numb: IC_SPI_FLASH_QUAD_128Mb -> Vend Part: IC_SPI_FLASH_QUAD_128Mb 
+          Part Numb: IND_1P5UH_2A -> Vend Part: IND_1P5UH_2A 
+          Part Numb: LED_0603_5MA_GRN -> Vend Part: LED_0603_5MA_GRN 
+          Part Numb: LED_0603_5MA_RED -> Vend Part: LED_0603_5MA_RED 
+          Part Numb: MIC2025_1_USB_SW -> Vend Part: MIC2025_1_USB_SW 
+          Part Numb: NC7SZ125 -> Vend Part: NC7SZ125 
+          Part Numb: NC7WZ16 -> Vend Part: NC7WZ16 
+          Part Numb: PTH125_200PAD -> Vend Part: PTH125_200PAD 
+          Part Numb: RES0402_0 -> Vend Part: RES0402_0 
+          Part Numb: RES0402_1K -> Vend Part: RES0402_1K 
+          Part Numb: RES0402_4K75 -> Vend Part: RES0402_4K75 
+          Part Numb: RES0402_4K99 -> Vend Part: RES0402_4K99 
+          Part Numb: RES0402_8K06 -> Vend Part: RES0402_8K06 
+          Part Numb: RES0402_10K -> Vend Part: RES0402_10K 
+          Part Numb: RES0402_20K -> Vend Part: RES0402_20K 
+          Part Numb: RES0402_22R1 -> Vend Part: RES0402_22R1 
+          Part Numb: RES0402_27K4 -> Vend Part: RES0402_27K4 
+          Part Numb: RES0402_33 -> Vend Part: RES0402_33 
+          Part Numb: RES0402_56K2 -> Vend Part: RES0402_56K2 
+          Part Numb: RES0402_80P6 -> Vend Part: RES0402_80P6 
+          Part Numb: RES0402_100 -> Vend Part: RES0402_100 
+          Part Numb: RES0402_240 -> Vend Part: RES0402_240 
+          Part Numb: RES0402_620 -> Vend Part: RES0402_620 
+          Part Numb: RES0402_887 -> Vend Part: RES0402_887 
+          Part Numb: RES0603_24K9 -> Vend Part: RES0603_24K9 
+          Part Numb: RES0603_69K8 -> Vend Part: RES0603_69K8 
+          Part Numb: RES0603_100K -> Vend Part: RES0603_100K 
+          Part Numb: RJ45-10_100_1000-BELFUSE -> Vend Part: RJ45-10_100_1000-BELFUSE 
+          Part Numb: SN65LVDS4 -> Vend Part: SN65LVDS4 
+          Part Numb: SW_PB_SPST_2PIN -> Vend Part: SW_PB_SPST_2PIN 
+          Part Numb: TEST_TERM_BLK -> Vend Part: TEST_TERM_BLK 
+          Part Numb: TEST_TERM_RED -> Vend Part: TEST_TERM_RED 
+          Part Numb: TPD12S016 -> Vend Part: TPD12S016 
+          Part Numb: USB_MICRO_AB_RA_SMT -> Vend Part: USB_MICRO_AB_RA_SMT 
+          Part Numb: USB_MICRO_B_RA_SMT -> Vend Part: USB_MICRO_B_RA_SMT 
+          Part Numb: USB3320_ULPI_XCVR -> Vend Part: USB3320_ULPI_XCVR 
+          Part Numb: VOLTMON_4IN_3P3 -> Vend Part: VOLTMON_4IN_3P3 
+          Part Numb: XTAL_4P_25MHZ -> Vend Part: XTAL_4P_25MHZ 
+          Part Numb: ZYNQ_7Z020_CLG400 -> Vend Part: ZYNQ_7Z020_CLG400 
+          Part Numb: 88E1318_QFN48 -> Vend Part: 88E1318_QFN48 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between non-null symbol properties and PartsDB properties,
+      but only for those properties checked off in the Property Definition Editor
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 564 Symbols:
+             564  *************
+             550  **************************************************
+             500  **************************************************
+             450  **************************************************
+             400  **************************************************
+             350  **************************************************
+             300  **************************************************
+             250  **************************************************
+             200  **************************************************
+             150  **************************************************
+             100  **************************************************
+              50  **************************************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     552 nets were found containing 2442 pins
+     551 components were found
+
+     Parsed netlist - Augmenting..
+
+     Augmented - Adding phantom pins....
+
+     Numbering Nets....
+
+     Checking Pins....
+
+     Packaging has been successfully tested with no errors or warnings.
+
+     Updating the Common DataBase
+
+     A BAM WasIs List: Integration\CDBBackAnno.bam has been created.
+
+The Common DataBase has been successfully updated.
+
+     Packager finished successfully.
+     !THE iCDB IS UP-TO-DATE!
+     
+     An unused pin and gate report has been written to Integration\UnusedPins.txt
+     An unused gate report for gates not in schematic has been written to Integration\UnusedGates.txt
+     An augmented pin report has been written to Integration\AugmentedPins.txt.

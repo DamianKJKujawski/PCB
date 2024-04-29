@@ -1,0 +1,30 @@
+2018-03-10 11:25:02 8888  [WARNING] Warning: One or more nets are completely unrouted.  Do you want to connect them using "virtual", Manhattan-style routing?  (Does not apply to power-supply nets.)  Note: This process will begin by determining the detailed routing status of every net on the board, which can be very time-consuming (especially if some power-supply nets are mistakenly identified as signal nets).  If you prefer to skip this process now, you can run it later using Edit > Connect Nets with Manhattan Routing. - The "No" button was selected
+2018-03-10 11:25:22 8888     [INFO] Opening Design: parallella.cce
+2018-03-10 11:25:23 8888  [WARNING] Graphics-rendering performance may be impaired.  Reason: Your OpenGL driver does not claim to support vertex buffer objects.  Vertex buffer objects improve rendering performance by taking better advantage of the graphics hardware. Without them, rendering is forced to use slower OpenGL capabilities.  Your current OpenGL driver claims support of OpenGL v1.1. Updating your OpenGL driver may resolve the problem. However, remote desktop and some virtual machines are known not to support vertex buffer objects.
+2018-03-10 11:26:37 8888  [WARNING] Prepare BoardData: One or more large pads were detected and converted into copper areas.
+2018-03-10 11:36:34 8888  [WARNING] HyperLynx: Invalid voltage value. Valid voltage range is: -999V to 999V.
+2018-03-10 11:36:40 8888  [WARNING] HyperLynx: Invalid voltage value. Valid voltage range is: -999V to 999V.
+2018-03-10 11:36:43 8888  [WARNING] HyperLynx: Invalid voltage value. Valid voltage range is: -999V to 999V.
+2018-03-10 11:36:45 8888  [WARNING] HyperLynx: Invalid voltage value. Valid voltage range is: -999V to 999V.
+2018-03-10 11:36:53 8888  [WARNING] HyperLynx: Invalid voltage value. Valid voltage range is: -999V to 999V.
+2018-03-10 11:36:56 8888  [WARNING] HyperLynx: Invalid voltage value. Valid voltage range is: -999V to 999V.
+2018-03-10 11:41:32 8888     [INFO] Generating HTML report...
+2018-03-10 11:41:32 8888     [INFO] Traceback (most recent call last):
+2018-03-10 11:41:32 8888     [INFO]   File "C:\MentorGraphics\9.4.2HL\SDD_HOME\hyperlynx64\createDecouplingReport.py", line 239, in <module>
+2018-03-10 11:41:32 8888     [INFO]     main()
+2018-03-10 11:41:32 8888     [INFO]   File "C:\MentorGraphics\9.4.2HL\SDD_HOME\hyperlynx64\createDecouplingReport.py", line 32, in main
+2018-03-10 11:41:32 8888     [INFO]     report, report_dir = setup_report(log_file, znp_file, mode)
+2018-03-10 11:41:32 8888     [INFO]   File "C:\MentorGraphics\9.4.2HL\SDD_HOME\hyperlynx64\createDecouplingReport.py", line 90, in setup_report
+2018-03-10 11:41:32 8888     [INFO]     row.insert(new_col_index, '{:.3f}'.format(new_col))
+2018-03-10 11:41:32 8888     [INFO] ValueError: Unknown format code 'f' for object of type 'str'
+2018-03-10 11:41:32 8888    [ERROR] HyperLynx: HTML report creation failed.  Check the Output window for more details.
+2018-03-10 11:50:02 8888     [INFO] Close HyperLynx Session: Design file: parallella.cce Save session edits (Yes/No)?  YES -> save, then close NO  -> close - The "Yes" button was selected
+2018-03-10 11:50:08 8888     [INFO] Closing Design: parallella.cce
+2018-03-10 11:50:09 8888     [INFO] ****** Closing HyperLynx 
+2018-03-10 11:56:58 11312  [WARNING] Warning: One or more nets are completely unrouted.  Do you want to connect them using "virtual", Manhattan-style routing?  (Does not apply to power-supply nets.)  Note: This process will begin by determining the detailed routing status of every net on the board, which can be very time-consuming (especially if some power-supply nets are mistakenly identified as signal nets).  If you prefer to skip this process now, you can run it later using Edit > Connect Nets with Manhattan Routing. - The "No" button was selected
+2018-03-10 11:57:03 11312     [INFO] Opening Design: parallella.cce
+2018-03-10 11:57:04 11312  [WARNING] Graphics-rendering performance may be impaired.  Reason: Your OpenGL driver does not claim to support vertex buffer objects.  Vertex buffer objects improve rendering performance by taking better advantage of the graphics hardware. Without them, rendering is forced to use slower OpenGL capabilities.  Your current OpenGL driver claims support of OpenGL v1.1. Updating your OpenGL driver may resolve the problem. However, remote desktop and some virtual machines are known not to support vertex buffer objects.
+2018-03-10 11:57:24 11312  [WARNING] Prepare BoardData: One or more large pads were detected and converted into copper areas.
+2018-03-10 11:58:50 11312     [INFO] Close HyperLynx Session: Design file: parallella.cce Save session edits (Yes/No)?  YES -> save, then close NO  -> close - The "No" button was selected
+2018-03-10 11:58:53 11312     [INFO] Closing Design: parallella.cce
+2018-03-10 11:58:54 11312     [INFO] ****** Closing HyperLynx 

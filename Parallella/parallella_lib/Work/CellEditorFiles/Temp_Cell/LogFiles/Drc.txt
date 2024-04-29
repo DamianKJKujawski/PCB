@@ -1,0 +1,184 @@
+
+                                DRC - (Final DRC)
+                                -----------------
+
+                       01:18 PM Thursday, January 11, 2018
+Job Name: H:\Users\system-64\Desktop\parallella_lib_v1\Work\CellEditorFiles\Temp_Cell\VPDFN-8_6X8XP85H_1P27MMP.pcb
+
+
+
+    -------------
+    SELECTED NETS
+    -------------
+        Net-9
+
+    
+    ---------
+    PROXIMITY
+    ---------
+    
+    Use DRC Window                   : NO
+
+
+    Disable Same Cell Pad-Pad Checks : NO
+
+
+    Enable Same Net Pad-Pad Checks   : NO
+
+    
+    Layers Specifed To Check         : Layer 1
+                                       Layer 2
+
+
+
+
+    Net Class Clearances And Rules
+    ------------------------------
+
+        Part Pads SMD Layer 1 TO Part Pads SMD Layer 1
+            No Hazards.
+
+
+        Total Hazards Found : 0
+
+
+
+
+    Planes Clearances And Rules
+    ---------------------------
+
+        No Proximity Checks Performed.
+
+
+
+
+    Non-Net Class Element To Element Clearances And Rules
+    -----------------------------------------------------
+
+        Board Outline TO Placement Outlines Layer 1    Clearance: 10th
+            No Hazards.
+
+        Board Outline TO Part Pads SMD Layer 1    Clearance: 0th
+            No Hazards.
+
+
+        Total Hazards Found : 0
+
+
+
+    Total Proximity Hazards Found : 0
+
+
+
+
+    ----------------------------
+    CONNECTIVITY & SPECIAL RULES
+    ----------------------------
+
+
+    ***  ERROR - The Logic Database does not exist.
+                 Run Forward Annotation to create the Logic Database.
+
+
+    Check For Unplaced Parts                      : YES
+        No Hazards.
+
+
+    Check For Missing Parts                       : YES
+        No Hazards.
+
+
+    Check EP Component Hazards                    : YES
+        No Hazards.
+
+
+    Check Trace Hangers                           : YES
+        No Hazards.
+
+
+    Check Trace Loops                             : YES
+        No Hazards.
+
+
+    Check Trace Widths                            : YES
+        No Hazards.
+
+
+    Check Single Point Nets                       : NO
+
+
+    Check NonPlane Unrouted/Partially Routed Nets : YES
+        No Hazards.
+
+
+    Check Plane Unrouted/Partial Routed Nets      : YES
+        No Hazards.
+
+
+    Check Routed Plane Pins                       : YES
+        No Hazards.
+
+
+    Check Plane Islands                           : YES
+        No Hazards.
+
+
+    Check Dangling Vias/Jumpers                   : YES
+        No Hazards.
+
+
+    Check Unrouted Pins                           : YES
+        No Hazards.
+
+
+    Check Routed Non-Plated Pins                  : YES
+        No Hazards.
+
+
+    Check Minimum Annular Ring                    : NO
+
+
+    Check For Vias Under SMD Pads                 : YES
+        No Hazards.
+
+
+    Check For Vias Under Top Place Outlines       : YES
+        No Hazards.
+
+
+    Check For Vias Under Bottom Place Outlines    : YES
+        No Hazards.
+
+
+    Check For Missing Conductive Pads             : NO
+
+
+    Check For Missing Part Soldermask Pads        : NO
+
+
+    Check For Missing Via Soldermask Pads         : NO
+
+
+    Check For Missing Part Cover Layer Pads       : NO
+
+
+    Check For Missing Via Cover Layer Pads        : NO
+
+
+    Check For Missing Solderpaste Pads            : NO
+
+
+
+    Total Connectivity/SpecialRules Hazards Found : 0
+
+
+
+    ====================================================================
+
+
+
+    Total DRC Hazards Found : 0
+
+
+
+                         01:18 PM Thursday, January 11, 2018

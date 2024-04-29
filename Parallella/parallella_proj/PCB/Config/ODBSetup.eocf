@@ -1,0 +1,167 @@
+.FILETYPE ODBSETUP
+.VERSION "2.0"
+.SCHEMA_VERSION 1
+.DATE "18.06.2018 14:54:30"
+.USERLAYERS 
+ ..ANYINCLUDES NO
+ ..NAME "Default User Layer"
+  ...INCLUDE NO
+  ...MAPPEDTO USE_USER_LAYER
+  ....USER_LAYER_NAME "USR_Default User Layer"
+ ..NAME "ASSEMBLY_TOP"
+  ...INCLUDE NO
+  ...MAPPEDTO USE_USER_LAYER
+  ....USER_LAYER_NAME "USR_ASSEMBLY_TOP"
+ ..NAME "User Layer 20"
+  ...INCLUDE NO
+  ...MAPPEDTO USE_USER_LAYER
+  ....USER_LAYER_NAME "USR_User Layer 20"
+.ODBPP_DOCUMENTATION 
+ ..ANYINCLUDES NO
+.LAYERS_TO_EXPORT 
+ ..NAME "d_1_12"
+  ...INCLUDE NO
+ ..NAME "d_1_11"
+  ...INCLUDE NO
+ ..NAME "d_1_9"
+  ...INCLUDE NO
+ ..NAME "d_1_7"
+  ...INCLUDE NO
+ ..NAME "d_1_5"
+  ...INCLUDE NO
+ ..NAME "d_1_2"
+  ...INCLUDE YES
+ ..NAME "d_1_4"
+  ...INCLUDE NO
+ ..NAME "d_1_6"
+  ...INCLUDE NO
+ ..NAME "d_1_8"
+  ...INCLUDE YES
+ ..NAME "d_1_10"
+  ...INCLUDE NO
+ ..NAME "d_1_3"
+  ...INCLUDE NO
+ ..NAME "d_11_12"
+  ...INCLUDE NO
+ ..NAME "d_10_12"
+  ...INCLUDE NO
+ ..NAME "d_9_12"
+  ...INCLUDE NO
+ ..NAME "d_8_12"
+  ...INCLUDE NO
+ ..NAME "d_7_12"
+  ...INCLUDE NO
+ ..NAME "d_6_12"
+  ...INCLUDE NO
+ ..NAME "d_5_12"
+  ...INCLUDE NO
+ ..NAME "d_4_12"
+  ...INCLUDE NO
+ ..NAME "d_3_12"
+  ...INCLUDE NO
+ ..NAME "d_2_12"
+  ...INCLUDE NO
+ ..NAME "smt"
+  ...INCLUDE YES
+ ..NAME "smb"
+  ...INCLUDE YES
+ ..NAME "sst"
+  ...INCLUDE YES
+ ..NAME "ssb"
+  ...INCLUDE YES
+ ..NAME "top"
+  ...MAPPEDTO LAYER1
+  ...INCLUDE YES
+ ..NAME "gnd_t1"
+  ...MAPPEDTO LAYER2
+  ...INCLUDE YES
+ ..NAME "layer_t1"
+  ...MAPPEDTO LAYER3
+  ...INCLUDE YES
+ ..NAME "gnd_t2"
+  ...MAPPEDTO LAYER4
+  ...INCLUDE YES
+ ..NAME "layer_t2"
+  ...MAPPEDTO LAYER5
+  ...INCLUDE YES
+ ..NAME "pwr_t1"
+  ...MAPPEDTO LAYER6
+  ...INCLUDE YES
+ ..NAME "pwr_b1"
+  ...MAPPEDTO LAYER7
+  ...INCLUDE YES
+ ..NAME "layer_b2"
+  ...MAPPEDTO LAYER8
+  ...INCLUDE YES
+ ..NAME "gnd_b2"
+  ...MAPPEDTO LAYER9
+  ...INCLUDE NO
+ ..NAME "layer_b1"
+  ...MAPPEDTO LAYER10
+  ...INCLUDE NO
+ ..NAME "gnd_b1"
+  ...MAPPEDTO LAYER11
+  ...INCLUDE NO
+ ..NAME "bottom"
+  ...MAPPEDTO LAYER12
+  ...INCLUDE NO
+ ..NAME "ddt"
+  ...INCLUDE YES
+ ..NAME "assemt"
+  ...INCLUDE YES
+ ..NAME "assemb"
+  ...INCLUDE YES
+ ..NAME "spt"
+  ...INCLUDE YES
+ ..NAME "spb"
+  ...INCLUDE YES
+.EPLAYERS
+.APLAYERS
+ ..EXPORT_AP NO
+.PACKAGE_OUTLINE "Placement Outline"
+.PINS_NFP_REMOVAL "None"
+.VIAS_NFP_REMOVAL "None"
+.REMOVE_EDA_NETS NO
+.REMOVE_CADNET_NETLIST NO
+.NEUTRALIZE_NETS NO
+.UNITS ENGLISH
+.READ_DRC_FEATURES YES
+ ..DRCFEATURE ".drc_comp_keepout_lyr"
+  ...DRCFEATURELAYER "drc_comp"
+  ...PROCESSFEATURE NO
+ ..DRCFEATURE ".drc_plane_keepout_lyr"
+  ...DRCFEATURELAYER "drc_route"
+  ...PROCESSFEATURE NO
+ ..DRCFEATURE ".drc_route_keepin_lyr"
+  ...DRCFEATURELAYER "drc_route"
+  ...PROCESSFEATURE NO
+ ..DRCFEATURE ".drc_tp_keepout_lyr"
+  ...DRCFEATURELAYER "drc_tp"
+  ...PROCESSFEATURE NO
+ ..DRCFEATURE ".drc_trace_keepout_lyr"
+  ...DRCFEATURELAYER "drc_route"
+  ...PROCESSFEATURE NO
+ ..DRCFEATURE ".drc_via_keepout_lyr"
+  ...DRCFEATURELAYER "drc_route"
+  ...PROCESSFEATURE NO
+ ..DRCFEATURE ".drc_rule_area_lyr"
+  ...DRCFEATURELAYER "fab_drc"
+  ...PROCESSFEATURE NO
+.ROUND_CORNERS YES
+.IGNORE_COMPONENT_LAYOUT NO
+.FLAT_RF_NET YES
+.COMPRESS NO
+.ODBPP_INSIDE NO
+.EXPORT_IPC2581 NO
+.GEN_SILK_DATA NO
+.PART_NUMBER NO
+.BOARD_OUTLINE NO
+.APPEND NO
+.GEN_SEP_VAR_DATA NO
+.GEN_ACT_VAR_DATA YES
+.OutputDirectory "E:\\Pulpit\\ODB\\"
+.OutputJobName "Designodb"
+.LogFilePath ".\\LogFiles"
+.SchemeChanged Yes 
+.Scheme "ODBSetup"
+.SchemeLocation "Local"

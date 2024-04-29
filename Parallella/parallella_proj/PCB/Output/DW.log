@@ -1,0 +1,1732 @@
+<design>parallella.cce</design>
+<message>HyperLynx v9.4.2</message>
+<message>03/10/18 11:41:28</message>
+<message>Design: parallella.cce</message>
+<header>Simulation parameters</header>
+<debug ident=1>Fr.Sweep from 1.0MHz to 150.0MHz</debug>
+<debug ident=1>Adaptive sweep; accuracy level 2, max 50 points</debug>
+<debug ident=1>Export Z-matrix</debug>
+<debug ident=1>Normalization is ON</debug>
+<debug ident=1>Normalization impedance 100.0milliohms</debug>
+<debug ident=1>Include mounting is ON</debug>
+<debug ident=1>Force passivity is ON</debug>
+<debug ident=1>Stitching via optimization is OFF</debug>
+<debug ident=1>Get IC-pin virtual reference layers automatically</debug>
+<debug ident=1>Include IC-pin outer sections impedance OFF</debug>
+<debug ident=1>Using connection point search distance of <length>0.02</length></debug>
+<message>Quick Decoupling Analysis</message>
+<message></message>
+<info>Preparing Via Collector...</info>
+<debug>Removing ViaCollector data of previous session...</debug>
+<debug>Memory status - allocated:673 address space used:764 Mb</debug>
+<info>Collecting decoupling-capacitor circuits...</info>
+<info>Processing decoupling capacitors for all nets...</info>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0416179 y=0.021844>C1</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0416179 y=0.021844>C1.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0416179 y=0.021844>C1.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0424561 y=0.021844>C1.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0424561 y=0.021844>C1.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0342519 y=0.027432>C2</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0342519 y=0.027432>C2.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0342519 y=0.027432>C2.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0350901 y=0.027432>C2.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0350901 y=0.027432>C2.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.048895 y=0.0169799>C3</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.048895 y=0.0169799>C3.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.048895 y=0.0169799>C3.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.048895 y=0.0178181>C3.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.048895 y=0.0178181>C3.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.11811 y=0.0032639>C4</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.11811 y=0.0032639>C4.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.11811 y=0.0032639>C4.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.11811 y=0.0041021>C4.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.11811 y=0.0032639>C4</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.108458 y=-0.0060071>C5</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.108458 y=-0.0060071>C5.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.108458 y=-0.0060071>C5.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.108458 y=-0.0051689>C5.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.108458 y=-0.0060071>C5</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.117729 y=-0.0010541>C6</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.117729 y=-0.0010541>C6.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.117729 y=-0.0010541>C6.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.117729 y=-0.0002159>C6.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.117729 y=-0.0010541>C6</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.118999 y=-0.0057531>C7</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.118999 y=-0.0057531>C7.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.118999 y=-0.0057531>C7.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.118999 y=-0.0049149>C7.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.118999 y=-0.0057531>C7</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.118745 y=-0.0089281>C8</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.118745 y=-0.0089281>C8.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.118745 y=-0.0089281>C8.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.118745 y=-0.0080899>C8.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.118745 y=-0.0089281>C8</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0254889 y=0.028194>C9</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0254889 y=0.028194>C9.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0254889 y=0.028194>C9.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0263271 y=0.028194>C9.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0254889 y=0.028194>C9</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0465201 y=0.023368>C10</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0465201 y=0.023368>C10.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0465201 y=0.023368>C10.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0456819 y=0.023368>C10.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0465201 y=0.023368>C10</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0360299 y=0.024257>C11</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0360299 y=0.024257>C11.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0360299 y=0.024257>C11.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0368681 y=0.024257>C11.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0360299 y=0.024257>C11</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0456779 y=0.0209607>C12</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0456779 y=0.0209607>C12.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0456779 y=0.0209607>C12.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0456779 y=0.0217989>C12.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0456779 y=0.0217989>C12.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0432689 y=0.023368>C13</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0432689 y=0.023368>C13.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0432689 y=0.023368>C13.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0441071 y=0.023368>C13.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0432689 y=0.023368>C13</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0400667 y=0.0289702>C14</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0400667 y=0.0289702>C14.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0400667 y=0.0289702>C14.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0409049 y=0.0289702>C14.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0409049 y=0.0289702>C14.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0454787 y=0.02667>C15</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0454787 y=0.02667>C15.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0454787 y=0.02667>C15.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0463169 y=0.02667>C15.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0463169 y=0.02667>C15.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0480509 y=0.0298401>C16</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0480509 y=0.0298401>C16.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0480509 y=0.0298401>C16.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0472127 y=0.0298401>C16.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0472127 y=0.0298401>C16.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0259236 y=0.026147>C17</link>, mounted on bottom.</header>
+<warning ident=1>Pin <link type=LOCATION x=0.0259236 y=0.026147>C17.2</link> shares its mounting with other pins.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0259236 y=0.026147>C17.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0267618 y=0.026147>C17.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0259236 y=0.026147>C17</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0259056 y=0.0244351>C18</link>, mounted on bottom.</header>
+<warning ident=1>Pin <link type=LOCATION x=0.0259056 y=0.0244351>C18.2</link> shares its mounting with other pins.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0259056 y=0.0244351>C18.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0267438 y=0.0244351>C18.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0259056 y=0.0244351>C18</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0195685 y=0.0252292>C19</link>, mounted on bottom.</header>
+<warning ident=1>Pin <link type=LOCATION x=0.0195685 y=0.0252292>C19.2</link> shares its mounting with other pins.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0195685 y=0.0252292>C19.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0187303 y=0.0252292>C19.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0195685 y=0.0252292>C19</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.059817 y=0.111849>C20</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.059817 y=0.111849>C20.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.059817 y=0.111849>C20.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.059817 y=0.112687>C20.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.059817 y=0.111849>C20</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.060706 y=0.114643>C21</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.060706 y=0.114643>C21.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.060706 y=0.114643>C21.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.060706 y=0.115481>C21.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.060706 y=0.114643>C21</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.062484 y=0.112357>C22</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.062484 y=0.112357>C22.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.062484 y=0.112357>C22.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.062484 y=0.113195>C22.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.062484 y=0.112357>C22</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.064643 y=0.114516>C25</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.064643 y=0.114516>C25.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.064643 y=0.114516>C25.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.064643 y=0.115354>C25.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.064643 y=0.114516>C25</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.066675 y=0.114643>C26</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.066675 y=0.114643>C26.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.066675 y=0.114643>C26.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.066675 y=0.115481>C26.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.066675 y=0.114643>C26</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.068707 y=0.114389>C27</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.068707 y=0.114389>C27.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.068707 y=0.114389>C27.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.068707 y=0.115227>C27.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.068707 y=0.114389>C27</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.068961 y=0.111468>C28</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.068961 y=0.111468>C28.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.068961 y=0.111468>C28.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.068961 y=0.112306>C28.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.068961 y=0.111468>C28</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.070485 y=0.114262>C29</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.070485 y=0.114262>C29.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.070485 y=0.114262>C29.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.070485 y=0.1151>C29.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.070485 y=0.114262>C29</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.070739 y=0.111849>C30</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.070739 y=0.111849>C30.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.070739 y=0.111849>C30.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.070739 y=0.112687>C30.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.070739 y=0.111849>C30</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.072517 y=0.114135>C31</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.072517 y=0.114135>C31.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.072517 y=0.114135>C31.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.072517 y=0.114973>C31.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.072517 y=0.114135>C31</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.072771 y=0.111214>C32</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.072771 y=0.111214>C32.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.072771 y=0.111214>C32.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.072771 y=0.112052>C32.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.072771 y=0.111214>C32</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.074803 y=0.111214>C33</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.074803 y=0.111214>C33.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.074803 y=0.111214>C33.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.074803 y=0.112052>C33.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.074803 y=0.111214>C33</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.074803 y=0.113754>C34</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.074803 y=0.113754>C34.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.074803 y=0.113754>C34.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.074803 y=0.114592>C34.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.074803 y=0.113754>C34</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.077089 y=0.1135>C35</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.077089 y=0.1135>C35.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.077089 y=0.1135>C35.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.077089 y=0.114338>C35.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.077089 y=0.1135>C35</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.076962 y=0.110833>C36</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.076962 y=0.110833>C36.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.076962 y=0.110833>C36.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.076962 y=0.111671>C36.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.076962 y=0.110833>C36</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.07874 y=0.11096>C37</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.07874 y=0.11096>C37.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.07874 y=0.11096>C37.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.07874 y=0.111798>C37.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.07874 y=0.11096>C37</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.079121 y=0.113627>C38</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.079121 y=0.113627>C38.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.079121 y=0.113627>C38.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.079121 y=0.114465>C38.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.079121 y=0.113627>C38</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.080899 y=0.113627>C39</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.080899 y=0.113627>C39.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.080899 y=0.113627>C39.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.080899 y=0.114465>C39.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.080899 y=0.113627>C39</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.084963 y=0.111887>C43</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.084963 y=0.111887>C43.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.084963 y=0.111887>C43.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.084963 y=0.115189>C43.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.084963 y=0.115189>C43.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.085217 y=0.105283>C44</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.085217 y=0.105283>C44.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.085217 y=0.105283>C44.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.085217 y=0.108585>C44.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.085217 y=0.105283>C44</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.06223 y=0.034925>C46</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.06223 y=0.034925>C46.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.06223 y=0.034925>C46.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.058928 y=0.034925>C46.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.06223 y=0.034925>C46</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.073914 y=0.105283>C47</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.073914 y=0.105283>C47.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.073914 y=0.105283>C47.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.073914 y=0.108585>C47.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.073914 y=0.108585>C47.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.068834 y=0.105283>C48</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.068834 y=0.105283>C48.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.068834 y=0.105283>C48.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.068834 y=0.108585>C48.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.068834 y=0.105283>C48</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.065151 y=0.105537>C49</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.065151 y=0.105537>C49.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.065151 y=0.105537>C49.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.065151 y=0.108839>C49.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.065151 y=0.105537>C49</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.06096 y=0.104267>C50</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.06096 y=0.104267>C50.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.06096 y=0.104267>C50.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.06096 y=0.107569>C50.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.06096 y=0.107569>C50.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.056769 y=0.103759>C51</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.056769 y=0.103759>C51.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.056769 y=0.103759>C51.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.056769 y=0.107061>C51.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.056769 y=0.103759>C51</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.05334 y=0.103505>C52</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.05334 y=0.103505>C52.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.05334 y=0.103505>C52.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.05334 y=0.106807>C52.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.05334 y=0.103505>C52</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.049022 y=0.103378>C53</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.049022 y=0.103378>C53.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.049022 y=0.103378>C53.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.049022 y=0.10668>C53.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.049022 y=0.103378>C53</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.04445 y=0.103505>C54</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.04445 y=0.103505>C54.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.04445 y=0.103505>C54.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.04445 y=0.106807>C54.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.04445 y=0.103505>C54</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.044577 y=0.110363>C55</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.044577 y=0.110363>C55.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.044577 y=0.110363>C55.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.044577 y=0.113665>C55.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.044577 y=0.110363>C55</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.048768 y=0.110236>C56</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.048768 y=0.110236>C56.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.048768 y=0.110236>C56.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.048768 y=0.113538>C56.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.048768 y=0.113538>C56.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.053086 y=0.110109>C57</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.053086 y=0.110109>C57.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.053086 y=0.110109>C57.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.053086 y=0.113411>C57.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.053086 y=0.110109>C57</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.053213 y=0.117983>C58</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.053213 y=0.117983>C58.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.053213 y=0.117983>C58.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.053213 y=0.121285>C58.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.053213 y=0.117983>C58</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.048514 y=0.117729>C59</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.048514 y=0.117729>C59.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.048514 y=0.117729>C59.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.048514 y=0.121031>C59.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.048514 y=0.117729>C59</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.044069 y=0.119215>C60</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.044069 y=0.119215>C60.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.044069 y=0.119215>C60.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.044069 y=0.120053>C60.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.044069 y=0.119215>C60</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.044323 y=0.122136>C61</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.044323 y=0.122136>C61.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.044323 y=0.122136>C61.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.044323 y=0.122974>C61.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.044323 y=0.122136>C61</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.047879 y=0.123914>C62</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.047879 y=0.123914>C62.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.047879 y=0.123914>C62.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.047879 y=0.124752>C62.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.047879 y=0.123914>C62</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.049784 y=0.123787>C63</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.049784 y=0.123787>C63.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.049784 y=0.123787>C63.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.049784 y=0.124625>C63.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.049784 y=0.123787>C63</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.052324 y=0.123914>C64</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.052324 y=0.123914>C64.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.052324 y=0.123914>C64.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.052324 y=0.124752>C64.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.052324 y=0.124752>C64.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.054102 y=0.123914>C65</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.054102 y=0.123914>C65.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.054102 y=0.123914>C65.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.054102 y=0.124752>C65.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.054102 y=0.124752>C65.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.00566159 y=0.0211555>C66</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.00566159 y=0.0211555>C66.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.00566159 y=0.0211555>C66.1</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.00566159 y=0.0219937>C66.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.00566159 y=0.0219937>C66.2</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0116285 y=0.0239465>C67</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0116285 y=0.0239465>C67.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0116285 y=0.0239465>C67.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0116285 y=0.0231083>C67.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0116285 y=0.0239465>C67</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.056134 y=0.118199>C68</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.056134 y=0.118199>C68.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.056134 y=0.118199>C68.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.056134 y=0.119037>C68.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.056134 y=0.118199>C68</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.058039 y=0.118199>C69</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.058039 y=0.118199>C69.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.058039 y=0.118199>C69.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.058039 y=0.119037>C69.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.058039 y=0.119037>C69.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.058166 y=0.120866>C70</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.058166 y=0.120866>C70.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.058166 y=0.120866>C70.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.058166 y=0.121704>C70.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.058166 y=0.120866>C70</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.058293 y=0.123914>C71</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.058293 y=0.123914>C71.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.058293 y=0.123914>C71.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.058293 y=0.124752>C71.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.058293 y=0.123914>C71</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.060833 y=0.123533>C72</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.060833 y=0.123533>C72.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.060833 y=0.123533>C72.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.060833 y=0.124371>C72.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.060833 y=0.124371>C72.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.060579 y=0.120358>C73</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.060579 y=0.120358>C73.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.060579 y=0.120358>C73.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.060579 y=0.121196>C73.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.060579 y=0.120358>C73</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.060579 y=0.117691>C74</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.060579 y=0.117691>C74.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.060579 y=0.117691>C74.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.060579 y=0.118529>C74.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.060579 y=0.117691>C74</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0129106 y=0.0239479>C75</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0129106 y=0.0239479>C75.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0129106 y=0.0239479>C75.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0129106 y=0.0231097>C75.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0129106 y=0.0231097>C75.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.062738 y=0.120104>C76</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.062738 y=0.120104>C76.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.062738 y=0.120104>C76.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.062738 y=0.120942>C76.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.062738 y=0.120942>C76.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0504898 y=0.0169643>C78</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0504898 y=0.0169643>C78.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0504898 y=0.0169643>C78.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0504898 y=0.0178025>C78.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0504898 y=0.0178025>C78.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0352675 y=0.0218294>C79</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0352675 y=0.0218294>C79.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0352675 y=0.0218294>C79.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0361057 y=0.0218294>C79.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0361057 y=0.0218294>C79.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.064897 y=0.123279>C80</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.064897 y=0.123279>C80.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.064897 y=0.123279>C80.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.064897 y=0.124117>C80.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.064897 y=0.123279>C80</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.064897 y=0.120104>C81</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.064897 y=0.120104>C81.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.064897 y=0.120104>C81.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.064897 y=0.120942>C81.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.064897 y=0.120104>C81</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.064897 y=0.117056>C82</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.064897 y=0.117056>C82.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.064897 y=0.117056>C82.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.064897 y=0.117894>C82.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.064897 y=0.117056>C82</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.066675 y=0.117437>C83</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.066675 y=0.117437>C83.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.066675 y=0.117437>C83.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.066675 y=0.118275>C83.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.066675 y=0.117437>C83</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.066929 y=0.120485>C84</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.066929 y=0.120485>C84.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.066929 y=0.120485>C84.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.066929 y=0.121323>C84.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.066929 y=0.120485>C84</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.066929 y=0.123279>C85</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.066929 y=0.123279>C85.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.066929 y=0.123279>C85.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.066929 y=0.124117>C85.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.066929 y=0.123279>C85</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.068834 y=0.123279>C86</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.068834 y=0.123279>C86.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.068834 y=0.123279>C86.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.068834 y=0.124117>C86.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.068834 y=0.123279>C86</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0498277 y=0.0266084>C87</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0498277 y=0.0266084>C87.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0498277 y=0.0266084>C87.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0489895 y=0.0266084>C87.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0489895 y=0.0266084>C87.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0369252 y=0.0266279>C88</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0369252 y=0.0266279>C88.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0369252 y=0.0266279>C88.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0377634 y=0.0266279>C88.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0377634 y=0.0266279>C88.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0400954 y=0.0194628>C89</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0400954 y=0.0194628>C89.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0400954 y=0.0194628>C89.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0400954 y=0.020301>C89.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0400954 y=0.0194628>C89</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.044069 y=0.0211201>C90</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.044069 y=0.0211201>C90.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.044069 y=0.0211201>C90.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.044069 y=0.0219583>C90.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.044069 y=0.0219583>C90.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0447913 y=0.0282359>C91</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0447913 y=0.0282359>C91.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0447913 y=0.0282359>C91.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0456295 y=0.0282359>C91.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0447913 y=0.0282359>C91</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0465459 y=0.0250003>C92</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0465459 y=0.0250003>C92.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0465459 y=0.0250003>C92.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0457077 y=0.0250003>C92.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0457077 y=0.0250003>C92.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0416844 y=0.0193852>C93</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0416844 y=0.0193852>C93.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0416844 y=0.0193852>C93.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0416844 y=0.0202234>C93.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0416844 y=0.0193852>C93</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.043258 y=0.0290513>C94</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.043258 y=0.0290513>C94.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.043258 y=0.0290513>C94.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.043258 y=0.0282131>C94.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.043258 y=0.0290513>C94</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0408559 y=0.025019>C95</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0408559 y=0.025019>C95.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0408559 y=0.025019>C95.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0416941 y=0.025019>C95.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0408559 y=0.025019>C95</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0186955 y=0.023582>C96</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0186955 y=0.023582>C96.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0186955 y=0.023582>C96.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0195337 y=0.023582>C96.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0186955 y=0.023582>C96</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0194691 y=0.020447>C97</link>, mounted on bottom.</header>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0194691 y=0.020447>C97.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0186309 y=0.020447>C97.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0194691 y=0.020447>C97</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0187501 y=0.0220219>C98</link>, mounted on bottom.</header>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0187501 y=0.0220219>C98.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0195883 y=0.0220219>C98.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0187501 y=0.0220219>C98</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0195961 y=0.014859>C99</link>, mounted on bottom.</header>
+<warning ident=1>Pin <link type=LOCATION x=0.0195961 y=0.014859>C99.2</link> shares its mounting with other pins.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0195961 y=0.014859>C99.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0187579 y=0.014859>C99.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0195961 y=0.014859>C99</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0258699 y=0.013208>C100</link>, mounted on bottom.</header>
+<warning ident=1>Pin <link type=LOCATION x=0.0258699 y=0.013208>C100.2</link> shares its mounting with other pins.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0258699 y=0.013208>C100.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0267081 y=0.013208>C100.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0258699 y=0.013208>C100</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0187579 y=0.01651>C101</link>, mounted on bottom.</header>
+<warning ident=1>Pin <link type=LOCATION x=0.0187579 y=0.01651>C101.2</link> shares its mounting with other pins.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0187579 y=0.01651>C101.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0195961 y=0.01651>C101.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0187579 y=0.01651>C101</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0243459 y=0.021209>C102</link>, mounted on bottom.</header>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0243459 y=0.021209>C102.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0251841 y=0.021209>C102.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0243459 y=0.021209>C102</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0195961 y=0.013208>C103</link>, mounted on bottom.</header>
+<warning ident=1>Pin <link type=LOCATION x=0.0195961 y=0.013208>C103.2</link> shares its mounting with other pins.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0195961 y=0.013208>C103.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0187579 y=0.013208>C103.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0195961 y=0.013208>C103</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0187326 y=0.0188684>C104</link>, mounted on bottom.</header>
+<warning ident=1>Pin <link type=LOCATION x=0.0187326 y=0.0188684>C104.2</link> shares its mounting with other pins.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0187326 y=0.0188684>C104.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0187326 y=0.0180302>C104.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0187326 y=0.0188684>C104</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0275971 y=0.021209>C105</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0275971 y=0.021209>C105.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0275971 y=0.021209>C105.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0267589 y=0.021209>C105.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0275971 y=0.021209>C105</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0267285 y=0.0164368>C106</link>, mounted on bottom.</header>
+<warning ident=1>Pin <link type=LOCATION x=0.0267285 y=0.0164368>C106.2</link> shares its mounting with other pins.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0267285 y=0.0164368>C106.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0258903 y=0.0164368>C106.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0267285 y=0.0164368>C106</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0268105 y=0.0228354>C107</link>, mounted on bottom.</header>
+<warning ident=1>Pin <link type=LOCATION x=0.0268105 y=0.0228354>C107.2</link> shares its mounting with other pins.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0268105 y=0.0228354>C107.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0259723 y=0.0228354>C107.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0268105 y=0.0228354>C107</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.026797 y=0.0188341>C108</link>, mounted on bottom.</header>
+<warning ident=1>Pin <link type=LOCATION x=0.026797 y=0.0188341>C108.2</link> shares its mounting with other pins.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.026797 y=0.0188341>C108.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.026797 y=0.0179959>C108.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.026797 y=0.0188341>C108</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0259466 y=0.0148405>C109</link>, mounted on bottom.</header>
+<warning ident=1>Pin <link type=LOCATION x=0.0259466 y=0.0148405>C109.2</link> shares its mounting with other pins.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0259466 y=0.0148405>C109.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0267848 y=0.0148405>C109.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0259466 y=0.0148405>C109</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0416969 y=0.0265956>C110</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0416969 y=0.0265956>C110.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0416969 y=0.0265956>C110.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0416969 y=0.0274338>C110.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0416969 y=0.0265956>C110</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.050493 y=0.0218061>C111</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.050493 y=0.0218061>C111.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.050493 y=0.0218061>C111.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.050493 y=0.0226443>C111.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.050493 y=0.0218061>C111</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0480639 y=0.0225891>C112</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0480639 y=0.0225891>C112.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0480639 y=0.0225891>C112.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0480639 y=0.0234273>C112.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0480639 y=0.0225891>C112</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0472987 y=0.0202076>C113</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0472987 y=0.0202076>C113.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0472987 y=0.0202076>C113.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0472987 y=0.0210458>C113.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0472987 y=0.0202076>C113</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.038424 y=0.023431>C114</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.038424 y=0.023431>C114.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.038424 y=0.023431>C114.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0392622 y=0.023431>C114.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0392622 y=0.023431>C114.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0360866 y=0.0185748>C115</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0360866 y=0.0185748>C115.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0360866 y=0.0185748>C115.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0360866 y=0.019413>C115.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0360866 y=0.0185748>C115</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0417015 y=0.0306179>C116</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0417015 y=0.0306179>C116.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0417015 y=0.0306179>C116.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0408633 y=0.0306179>C116.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0417015 y=0.0306179>C116</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0496189 y=0.025019>C117</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0496189 y=0.025019>C117.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0496189 y=0.025019>C117.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0504571 y=0.025019>C117.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0496189 y=0.025019>C117</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.038481 y=0.0306451>C118</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.038481 y=0.0306451>C118.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.038481 y=0.0306451>C118.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.038481 y=0.0298069>C118.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.038481 y=0.0306451>C118</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0400774 y=0.0265976>C120</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0400774 y=0.0265976>C120.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0400774 y=0.0265976>C120.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0400774 y=0.0274358>C120.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0400774 y=0.0265976>C120</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0457189 y=0.0331075>C121</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0457189 y=0.0331075>C121.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0457189 y=0.0331075>C121.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0457189 y=0.0322693>C121.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0457189 y=0.0331075>C121</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.038449 y=0.0250262>C122</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.038449 y=0.0250262>C122.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.038449 y=0.0250262>C122.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0392872 y=0.0250262>C122.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.038449 y=0.0250262>C122</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0464865 y=0.0177922>C123</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0464865 y=0.0177922>C123.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0464865 y=0.0177922>C123.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0464865 y=0.0186304>C123.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0464865 y=0.0186304>C123.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0384926 y=0.0169577>C124</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0384926 y=0.0169577>C124.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0384926 y=0.0169577>C124.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0384926 y=0.0177959>C124.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0384926 y=0.0169577>C124</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0360189 y=0.032247>C125</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0360189 y=0.032247>C125.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0360189 y=0.032247>C125.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0368571 y=0.032247>C125.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0360189 y=0.032247>C125</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0424849 y=0.0170234>C126</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0424849 y=0.0170234>C126.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0424849 y=0.0170234>C126.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0424849 y=0.0178616>C126.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0424849 y=0.0178616>C126.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0489289 y=0.0322742>C127</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0489289 y=0.0322742>C127.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0489289 y=0.0322742>C127.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0480907 y=0.0322742>C127.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0489289 y=0.0322742>C127</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.044069 y=0.0186309>C128</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.044069 y=0.0186309>C128.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.044069 y=0.0186309>C128.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.044069 y=0.0194691>C128.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.044069 y=0.0194691>C128.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.051363 y=0.0306659>C129</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.051363 y=0.0306659>C129.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.051363 y=0.0306659>C129.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0505248 y=0.0306659>C129.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.051363 y=0.0306659>C129</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0376484 y=0.0202577>C130</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0376484 y=0.0202577>C130.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0376484 y=0.0202577>C130.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0376484 y=0.0194195>C130.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0376484 y=0.0202577>C130</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0505841 y=0.029083>C131</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0505841 y=0.029083>C131.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0505841 y=0.029083>C131.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0497459 y=0.029083>C131.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0505841 y=0.029083>C131</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0408515 y=0.0233779>C132</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0408515 y=0.0233779>C132.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0408515 y=0.0233779>C132.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0416897 y=0.0233779>C132.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0416897 y=0.0233779>C132.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0433077 y=0.0250154>C133</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0433077 y=0.0250154>C133.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0433077 y=0.0250154>C133.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0441459 y=0.0250154>C133.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0433077 y=0.0250154>C133</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0369017 y=0.0290849>C134</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0369017 y=0.0290849>C134.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0369017 y=0.0290849>C134.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0369017 y=0.0299231>C134.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0369017 y=0.0290849>C134</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0440804 y=0.0321416>C135</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0440804 y=0.0321416>C135.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0440804 y=0.0321416>C135.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0432422 y=0.0321416>C135.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0440804 y=0.0321416>C135</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0457686 y=0.0305988>C136</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0457686 y=0.0305988>C136.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0457686 y=0.0305988>C136.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0449304 y=0.0305988>C136.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0457686 y=0.0305988>C136</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0496785 y=0.0193929>C137</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0496785 y=0.0193929>C137.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0496785 y=0.0193929>C137.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.0496785 y=0.0202311>C137.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.0496785 y=0.0193929>C137</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.068834 y=0.120612>C138</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.068834 y=0.120612>C138.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.068834 y=0.120612>C138.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.068834 y=0.12145>C138.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.068834 y=0.120612>C138</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.068834 y=0.117437>C139</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.068834 y=0.117437>C139.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.068834 y=0.117437>C139.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.068834 y=0.118275>C139.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.068834 y=0.117437>C139</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.070739 y=0.117437>C140</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.070739 y=0.117437>C140.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.070739 y=0.117437>C140.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.070739 y=0.118275>C140.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.070739 y=0.117437>C140</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.070612 y=0.120739>C141</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.070612 y=0.120739>C141.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.070612 y=0.120739>C141.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.070612 y=0.121577>C141.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.070612 y=0.120739>C141</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.070866 y=0.123406>C142</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.070866 y=0.123406>C142.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.070866 y=0.123406>C142.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.070866 y=0.124244>C142.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.070866 y=0.123406>C142</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.070866 y=0.1262>C143</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.070866 y=0.1262>C143.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.070866 y=0.1262>C143.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.070866 y=0.127038>C143.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.070866 y=0.1262>C143</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.073152 y=0.126073>C144</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.073152 y=0.126073>C144.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.073152 y=0.126073>C144.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.073152 y=0.126911>C144.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.073152 y=0.126073>C144</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.073025 y=0.123406>C145</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.073025 y=0.123406>C145.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.073025 y=0.123406>C145.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.073025 y=0.124244>C145.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.073025 y=0.123406>C145</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.072898 y=0.120866>C146</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.072898 y=0.120866>C146.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.072898 y=0.120866>C146.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.072898 y=0.121704>C146.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.072898 y=0.120866>C146</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.072898 y=0.117437>C147</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.072898 y=0.117437>C147.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.072898 y=0.117437>C147.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.072898 y=0.118275>C147.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.072898 y=0.117437>C147</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.07493 y=0.117437>C148</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.07493 y=0.117437>C148.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.07493 y=0.117437>C148.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.07493 y=0.118275>C148.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.07493 y=0.117437>C148</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.07493 y=0.120866>C149</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.07493 y=0.120866>C149.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.07493 y=0.120866>C149.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.07493 y=0.121704>C149.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.07493 y=0.120866>C149</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.075057 y=0.123406>C150</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.075057 y=0.123406>C150.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.075057 y=0.123406>C150.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.075057 y=0.124244>C150.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.075057 y=0.123406>C150</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.075184 y=0.125946>C151</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.075184 y=0.125946>C151.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.075184 y=0.125946>C151.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.075184 y=0.126784>C151.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.075184 y=0.125946>C151</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.077216 y=0.125946>C152</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.077216 y=0.125946>C152.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.077216 y=0.125946>C152.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.077216 y=0.126784>C152.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.077216 y=0.125946>C152</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.077343 y=0.123279>C153</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.077343 y=0.123279>C153.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.077343 y=0.123279>C153.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.077343 y=0.124117>C153.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.077343 y=0.123279>C153</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.077216 y=0.120485>C154</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.077216 y=0.120485>C154.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.077216 y=0.120485>C154.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.077216 y=0.121323>C154.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.077216 y=0.121323>C154.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.077216 y=0.11731>C155</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.077216 y=0.11731>C155.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.077216 y=0.11731>C155.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.077216 y=0.118148>C155.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.077216 y=0.11731>C155</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.079375 y=0.117183>C156</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.079375 y=0.117183>C156.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.079375 y=0.117183>C156.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.079375 y=0.118021>C156.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.079375 y=0.117183>C156</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.079375 y=0.120612>C157</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.079375 y=0.120612>C157.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.079375 y=0.120612>C157.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.079375 y=0.12145>C157.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.079375 y=0.120612>C157</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.079502 y=0.123406>C158</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.079502 y=0.123406>C158.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.079502 y=0.123406>C158.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.079502 y=0.124244>C158.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.079502 y=0.123406>C158</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.079629 y=0.125946>C159</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.079629 y=0.125946>C159.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.079629 y=0.125946>C159.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.079629 y=0.126784>C159.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.079629 y=0.125946>C159</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.081534 y=0.125819>C160</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.081534 y=0.125819>C160.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.081534 y=0.125819>C160.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.081534 y=0.126657>C160.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.081534 y=0.125819>C160</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.081534 y=0.123279>C161</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.081534 y=0.123279>C161.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.081534 y=0.123279>C161.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.081534 y=0.124117>C161.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.081534 y=0.123279>C161</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.081407 y=0.120485>C162</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.081407 y=0.120485>C162.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.081407 y=0.120485>C162.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.081407 y=0.121323>C162.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.081407 y=0.121323>C162.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.081407 y=0.117183>C163</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.081407 y=0.117183>C163.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.081407 y=0.117183>C163.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.081407 y=0.118021>C163.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.081407 y=0.117183>C163</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0400483 y=0.0169666>C164</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0400483 y=0.0169666>C164.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0400483 y=0.0169666>C164.1</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0400483 y=0.0178048>C164.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0400483 y=0.0178048>C164.2</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0441071 y=0.02667>C165</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0441071 y=0.02667>C165.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0441071 y=0.02667>C165.1</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0432689 y=0.02667>C165.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0432689 y=0.02667>C165.2</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0401069 y=0.0218427>C166</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0401069 y=0.0218427>C166.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0401069 y=0.0218427>C166.1</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0392687 y=0.0218427>C166.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0392687 y=0.0218427>C166.2</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.083566 y=0.11731>C167</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.083566 y=0.11731>C167.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.083566 y=0.11731>C167.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.083566 y=0.118148>C167.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.083566 y=0.11731>C167</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.083439 y=0.120612>C168</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.083439 y=0.120612>C168.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.083439 y=0.120612>C168.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.083439 y=0.12145>C168.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.083439 y=0.120612>C168</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.083566 y=0.123406>C169</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.083566 y=0.123406>C169.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.083566 y=0.123406>C169.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.083566 y=0.124244>C169.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.083566 y=0.123406>C169</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.083566 y=0.125946>C170</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.083566 y=0.125946>C170.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.083566 y=0.125946>C170.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.083566 y=0.126784>C170.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.083566 y=0.125946>C170</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.085598 y=0.125819>C171</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.085598 y=0.125819>C171.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.085598 y=0.125819>C171.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.085598 y=0.126657>C171.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.085598 y=0.125819>C171</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.085471 y=0.123279>C172</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.085471 y=0.123279>C172.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.085471 y=0.123279>C172.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.085471 y=0.124117>C172.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.085471 y=0.123279>C172</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.085217 y=0.120612>C173</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.085217 y=0.120612>C173.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.085217 y=0.120612>C173.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.085217 y=0.12145>C173.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.085217 y=0.120612>C173</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.085471 y=0.117437>C174</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.085471 y=0.117437>C174.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.085471 y=0.117437>C174.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.085471 y=0.118275>C174.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.085471 y=0.117437>C174</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.087376 y=0.117437>C175</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.087376 y=0.117437>C175.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.087376 y=0.117437>C175.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.087376 y=0.118275>C175.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.087376 y=0.117437>C175</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.087376 y=0.120612>C176</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.087376 y=0.120612>C176.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.087376 y=0.120612>C176.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.087376 y=0.12145>C176.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.087376 y=0.120612>C176</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.087376 y=0.123406>C177</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.087376 y=0.123406>C177.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.087376 y=0.123406>C177.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.087376 y=0.124244>C177.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.087376 y=0.123406>C177</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.087376 y=0.125819>C178</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.087376 y=0.125819>C178.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.087376 y=0.125819>C178.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.087376 y=0.126657>C178.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.087376 y=0.125819>C178</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.089535 y=0.126073>C179</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.089535 y=0.126073>C179.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.089535 y=0.126073>C179.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.089535 y=0.126911>C179.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.089535 y=0.126073>C179</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.089535 y=0.123406>C180</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.089535 y=0.123406>C180.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.089535 y=0.123406>C180.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.089535 y=0.124244>C180.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.089535 y=0.123406>C180</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.089408 y=0.120358>C181</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.089408 y=0.120358>C181.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.089408 y=0.120358>C181.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.089408 y=0.121196>C181.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.089408 y=0.120358>C181</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.089535 y=0.117691>C182</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.089535 y=0.117691>C182.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.089535 y=0.117691>C182.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.089535 y=0.118529>C182.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.089535 y=0.117691>C182</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.091694 y=0.117564>C183</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.091694 y=0.117564>C183.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.091694 y=0.117564>C183.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.091694 y=0.118402>C183.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.091694 y=0.117564>C183</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.091948 y=0.120104>C184</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.091948 y=0.120104>C184.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.091948 y=0.120104>C184.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.091948 y=0.120942>C184.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.091948 y=0.120104>C184</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.091567 y=0.123406>C185</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.091567 y=0.123406>C185.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.091567 y=0.123406>C185.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.091567 y=0.124244>C185.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.091567 y=0.124244>C185.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.093472 y=0.123279>C188</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.093472 y=0.123279>C188.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.093472 y=0.123279>C188.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.093472 y=0.124117>C188.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.093472 y=0.123279>C188</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.093726 y=0.120231>C189</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.093726 y=0.120231>C189.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.093726 y=0.120231>C189.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.093726 y=0.121069>C189.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.093726 y=0.120231>C189</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.093853 y=0.117818>C190</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.093853 y=0.117818>C190.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.093853 y=0.117818>C190.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.093853 y=0.118656>C190.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.093853 y=0.117818>C190</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.091567 y=0.114135>C192</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.091567 y=0.114135>C192.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.091567 y=0.114135>C192.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.091567 y=0.114973>C192.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.091567 y=0.114135>C192</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.093472 y=0.114135>C193</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.093472 y=0.114135>C193.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.093472 y=0.114135>C193.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.093472 y=0.114973>C193.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.093472 y=0.114135>C193</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.095631 y=0.114008>C194</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.095631 y=0.114008>C194.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.095631 y=0.114008>C194.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.095631 y=0.114846>C194.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.095631 y=0.114008>C194</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.095504 y=0.111341>C195</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.095504 y=0.111341>C195.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.095504 y=0.111341>C195.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.095504 y=0.112179>C195.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.095504 y=0.112179>C195.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0739348 y=0.0444825>C196</link>, mounted on bottom.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0739348 y=0.0444825>C196.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0739348 y=0.0444825>C196.1</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.074773 y=0.0444825>C196.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.074773 y=0.0444825>C196.2</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.091186 y=0.11256>C197</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.091186 y=0.11256>C197.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.091186 y=0.11256>C197.1</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.091186 y=0.111722>C197.2</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.091186 y=0.11256>C197</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.089027 y=0.109385>C199</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.089027 y=0.109385>C199.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.089027 y=0.109385>C199.1</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.089027 y=0.108547>C199.2</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.089027 y=0.109385>C199</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.091186 y=0.10842>C200</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.091186 y=0.10842>C200.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.091186 y=0.10842>C200.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.091186 y=0.109258>C200.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.091186 y=0.109258>C200.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.094742 y=0.105499>C203</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.094742 y=0.105499>C203.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.094742 y=0.105499>C203.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.094742 y=0.106337>C203.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.094742 y=0.105499>C203</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.093218 y=0.106591>C204</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.093218 y=0.106591>C204.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.093218 y=0.106591>C204.1</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.093218 y=0.105753>C204.2</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.093218 y=0.106591>C204</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.083439 y=0.0425069>C205</link>, mounted on bottom.</header>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.083439 y=0.0425069>C205.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.083439 y=0.0441071>C205.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.083439 y=0.0425069>C205</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.089027 y=0.105118>C206</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.089027 y=0.105118>C206.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.089027 y=0.105118>C206.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.089027 y=0.106718>C206.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.089027 y=0.105118>C206</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.088773 y=0.100927>C207</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.088773 y=0.100927>C207.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.088773 y=0.100927>C207.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.088773 y=0.102527>C207.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.088773 y=0.100927>C207</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.091059 y=0.101054>C208</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.091059 y=0.101054>C208.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.091059 y=0.101054>C208.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.091059 y=0.102654>C208.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.091059 y=0.102654>C208.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.093218 y=0.101181>C209</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.093218 y=0.101181>C209.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.093218 y=0.101181>C209.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.093218 y=0.102781>C209.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.093218 y=0.102781>C209.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.095123 y=0.101181>C210</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.095123 y=0.101181>C210.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.095123 y=0.101181>C210.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.095123 y=0.102781>C210.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.095123 y=0.101181>C210</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.086106 y=0.1008>C211</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.086106 y=0.1008>C211.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.086106 y=0.1008>C211.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.086106 y=0.1024>C211.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.086106 y=0.1008>C211</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.083947 y=0.1008>C212</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.083947 y=0.1008>C212.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.083947 y=0.1008>C212.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.083947 y=0.1024>C212.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.083947 y=0.1008>C212</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.082296 y=0.1008>C213</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.082296 y=0.1008>C213.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.082296 y=0.1008>C213.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.082296 y=0.1024>C213.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.082296 y=0.1008>C213</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.080391 y=0.1008>C214</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.080391 y=0.1008>C214.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.080391 y=0.1008>C214.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.080391 y=0.1024>C214.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.080391 y=0.1008>C214</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.078486 y=0.101054>C215</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.078486 y=0.101054>C215.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.078486 y=0.101054>C215.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.078486 y=0.102654>C215.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.078486 y=0.101054>C215</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.076581 y=0.1008>C216</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.076581 y=0.1008>C216.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.076581 y=0.1008>C216.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.076581 y=0.1024>C216.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.076581 y=0.1008>C216</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.074422 y=0.100673>C217</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.074422 y=0.100673>C217.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.074422 y=0.100673>C217.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.074422 y=0.102273>C217.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.074422 y=0.100673>C217</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.07239 y=0.1008>C218</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.07239 y=0.1008>C218.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.07239 y=0.1008>C218.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.07239 y=0.1024>C218.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.07239 y=0.1024>C218.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.06985 y=0.1008>C219</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.06985 y=0.1008>C219.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.06985 y=0.1008>C219.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.06985 y=0.1024>C219.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.06985 y=0.1008>C219</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.068326 y=0.1008>C220</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.068326 y=0.1008>C220.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.068326 y=0.1008>C220.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.068326 y=0.1024>C220.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.068326 y=0.1008>C220</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.065659 y=0.100927>C221</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.065659 y=0.100927>C221.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.065659 y=0.100927>C221.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.065659 y=0.102527>C221.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.065659 y=0.100927>C221</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.064008 y=0.100927>C222</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.064008 y=0.100927>C222.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.064008 y=0.100927>C222.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.064008 y=0.102527>C222.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.064008 y=0.100927>C222</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.061595 y=0.0997839>C223</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.061595 y=0.0997839>C223.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.061595 y=0.0997839>C223.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.061595 y=0.101384>C223.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.061595 y=0.0997839>C223</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.059817 y=0.0997839>C224</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.059817 y=0.0997839>C224.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.059817 y=0.0997839>C224.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.059817 y=0.101384>C224.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.059817 y=0.0997839>C224</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.05715 y=0.0994029>C225</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.05715 y=0.0994029>C225.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.05715 y=0.0994029>C225.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.05715 y=0.101003>C225.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.05715 y=0.0994029>C225</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.055626 y=0.0994029>C226</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.055626 y=0.0994029>C226.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.055626 y=0.0994029>C226.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.055626 y=0.101003>C226.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.055626 y=0.0994029>C226</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.053721 y=0.0997839>C227</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.053721 y=0.0997839>C227.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.053721 y=0.0997839>C227.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.053721 y=0.101384>C227.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.053721 y=0.0997839>C227</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.05207 y=0.0991489>C228</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.05207 y=0.0991489>C228.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.05207 y=0.0991489>C228.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.05207 y=0.100749>C228.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.05207 y=0.0991489>C228</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.049657 y=0.0991489>C229</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.049657 y=0.0991489>C229.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.049657 y=0.0991489>C229.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.049657 y=0.100749>C229.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.049657 y=0.0991489>C229</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.048006 y=0.0994029>C230</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.048006 y=0.0994029>C230.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.048006 y=0.0994029>C230.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.048006 y=0.101003>C230.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.048006 y=0.0994029>C230</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.045212 y=0.0995299>C231</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.045212 y=0.0995299>C231.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.045212 y=0.0995299>C231.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.045212 y=0.10113>C231.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.045212 y=0.0995299>C231</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.043307 y=0.0997839>C232</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.043307 y=0.0997839>C232.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.043307 y=0.0997839>C232.2</link>.</debug>
+<warning ident=1>Cannot find connection of pin <link type=LOCATION x=0.043307 y=0.101384>C232.1</link> to metal area.</warning>
+<warning ident=1>Decoupling capacitor <link type=LOCATION x=0.043307 y=0.0997839>C232</link> has been omitted.</warning>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.034163 y=0.0948309>C233</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.034163 y=0.0948309>C233.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.034163 y=0.0948309>C233.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.034163 y=0.0964311>C233.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.034163 y=0.0964311>C233.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0715518 y=0.0419354>C242</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0715518 y=0.0419354>C242.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0715518 y=0.0419354>C242.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0692658 y=0.0419354>C242.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0692658 y=0.0419354>C242.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0670539 y=0.034935>C244</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0670539 y=0.034935>C244.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0670539 y=0.034935>C244.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0647679 y=0.034935>C244.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0647679 y=0.034935>C244.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.059944 y=0.0402844>C246</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.059944 y=0.0402844>C246.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.059944 y=0.0402844>C246.2</link>.</debug>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.059944 y=0.0379984>C246.1</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.059944 y=0.0379984>C246.1</link>.</debug>
+<header>Processing decoupling capacitor <link type=LOCATION x=0.0624885 y=0.050379>C254</link>, mounted on top.</header>
+<warning ident=1>Explicit connection of the pin <link type=LOCATION x=0.0624885 y=0.050379>C254.2</link> to metal area is not found.</warning>
+<warning ident=1>Virtual connection to appropriate plane is guessed.</warning>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0624885 y=0.050379>C254.2</link>.</debug>
+<debug ident=1>The set of 1 PIVias has been created for pin <link type=LOCATION x=0.0608883 y=0.050379>C254.1</link>.</debug>
+<message></message>
+<debug>Start cleaning ViaCollector geometry - allocated:691 address space used:783 Mb</debug>
+<debug>Start FD analysis - allocated:676 address space used:780 Mb</debug>
+<info>Start creating decoupling capacitors report...</info>
+<info>Getting power-net elements...</info>
+<debug>Total 46 decoupling capacitors passed for simulation</debug>
+<debug>46 decoupling capacitors created for decomposition</debug>
+<info>Running report engine</info>
+<debug>Decoupling C1: failed to define connectivity to area at (0.0416179, 0.021844) layer BOTTOM</debug>
+<debug>Decoupling C1: failed to define connectivity to area at (0.0416179, 0.021844) layer TOP</debug>
+<debug>Decoupling C1: failed to define connectivity to area at (0.0424561, 0.021844) layer BOTTOM</debug>
+<debug>Decoupling C2: failed to define connectivity to area at (0.0342519, 0.027432) layer BOTTOM</debug>
+<debug>Decoupling C2: failed to define connectivity to area at (0.0342519, 0.027432) layer TOP</debug>
+<debug>Decoupling C2: failed to define connectivity to area at (0.0350901, 0.027432) layer BOTTOM</debug>
+<debug>Decoupling C3: failed to define connectivity to area at (0.048895, 0.0169799) layer BOTTOM</debug>
+<debug>Decoupling C3: failed to define connectivity to area at (0.048895, 0.0169799) layer TOP</debug>
+<debug>Decoupling C3: failed to define connectivity to area at (0.048895, 0.0178181) layer BOTTOM</debug>
+<debug>Decoupling C12: failed to define connectivity to area at (0.0456779, 0.0209607) layer BOTTOM</debug>
+<debug>Decoupling C12: failed to define connectivity to area at (0.0456779, 0.0209607) layer TOP</debug>
+<debug>Decoupling C12: failed to define connectivity to area at (0.0456779, 0.0217989) layer BOTTOM</debug>
+<debug>Decoupling C14: failed to define connectivity to area at (0.0400667, 0.0289702) layer BOTTOM</debug>
+<debug>Decoupling C14: failed to define connectivity to area at (0.0400667, 0.0289702) layer TOP</debug>
+<debug>Decoupling C14: failed to define connectivity to area at (0.0409049, 0.0289702) layer BOTTOM</debug>
+<debug>Decoupling C15: failed to define connectivity to area at (0.0454787, 0.02667) layer BOTTOM</debug>
+<debug>Decoupling C15: failed to define connectivity to area at (0.0454787, 0.02667) layer TOP</debug>
+<debug>Decoupling C15: failed to define connectivity to area at (0.0463169, 0.02667) layer BOTTOM</debug>
+<debug>Decoupling C16: failed to define connectivity to area at (0.0480509, 0.0298401) layer BOTTOM</debug>
+<debug>Decoupling C16: failed to define connectivity to area at (0.0480509, 0.0298401) layer TOP</debug>
+<debug>Decoupling C16: failed to define connectivity to area at (0.0472127, 0.0298401) layer BOTTOM</debug>
+<debug>Decoupling C43: failed to define connectivity to area at (0.084963, 0.111887) layer TOP</debug>
+<debug>Decoupling C43: failed to define connectivity to area at (0.084963, 0.111887) layer GND_T2</debug>
+<debug>Decoupling C43: failed to define connectivity to area at (0.084963, 0.111887) layer GND_B2</debug>
+<debug>Decoupling C43: failed to define connectivity to area at (0.084963, 0.111887) layer GND_B1</debug>
+<debug>Decoupling C43: failed to define connectivity to area at (0.084963, 0.111887) layer BOTTOM</debug>
+<debug>Decoupling C43: failed to define connectivity to area at (0.084963, 0.115189) layer BOTTOM</debug>
+<debug>Decoupling C47: failed to define connectivity to area at (0.073914, 0.105283) layer TOP</debug>
+<debug>Decoupling C47: failed to define connectivity to area at (0.073914, 0.105283) layer GND_T2</debug>
+<debug>Decoupling C47: failed to define connectivity to area at (0.073914, 0.105283) layer GND_B2</debug>
+<debug>Decoupling C47: failed to define connectivity to area at (0.073914, 0.105283) layer GND_B1</debug>
+<debug>Decoupling C47: failed to define connectivity to area at (0.073914, 0.105283) layer BOTTOM</debug>
+<debug>Decoupling C47: failed to define connectivity to area at (0.073914, 0.108585) layer BOTTOM</debug>
+<debug>Decoupling C50: failed to define connectivity to area at (0.06096, 0.104267) layer TOP</debug>
+<debug>Decoupling C50: failed to define connectivity to area at (0.06096, 0.104267) layer GND_T2</debug>
+<debug>Decoupling C50: failed to define connectivity to area at (0.06096, 0.104267) layer GND_B2</debug>
+<debug>Decoupling C50: failed to define connectivity to area at (0.06096, 0.104267) layer GND_B1</debug>
+<debug>Decoupling C50: failed to define connectivity to area at (0.06096, 0.104267) layer BOTTOM</debug>
+<debug>Decoupling C50: failed to define connectivity to area at (0.06096, 0.107569) layer BOTTOM</debug>
+<debug>Decoupling C56: failed to define connectivity to area at (0.048768, 0.110236) layer TOP</debug>
+<debug>Decoupling C56: failed to define connectivity to area at (0.048768, 0.110236) layer GND_T2</debug>
+<debug>Decoupling C56: failed to define connectivity to area at (0.048768, 0.110236) layer GND_B2</debug>
+<debug>Decoupling C56: failed to define connectivity to area at (0.048768, 0.110236) layer GND_B1</debug>
+<debug>Decoupling C56: failed to define connectivity to area at (0.048768, 0.110236) layer BOTTOM</debug>
+<debug>Decoupling C56: failed to define connectivity to area at (0.048768, 0.113538) layer BOTTOM</debug>
+<debug>Decoupling C64: failed to define connectivity to area at (0.052324, 0.123914) layer TOP</debug>
+<debug>Decoupling C64: failed to define connectivity to area at (0.052324, 0.123914) layer GND_T2</debug>
+<debug>Decoupling C64: failed to define connectivity to area at (0.052324, 0.123914) layer GND_B2</debug>
+<debug>Decoupling C64: failed to define connectivity to area at (0.052324, 0.123914) layer GND_B1</debug>
+<debug>Decoupling C64: failed to define connectivity to area at (0.052324, 0.123914) layer BOTTOM</debug>
+<debug>Decoupling C64: failed to define connectivity to area at (0.052324, 0.124752) layer BOTTOM</debug>
+<debug>Decoupling C65: failed to define connectivity to area at (0.054102, 0.123914) layer TOP</debug>
+<debug>Decoupling C65: failed to define connectivity to area at (0.054102, 0.123914) layer GND_T2</debug>
+<debug>Decoupling C65: failed to define connectivity to area at (0.054102, 0.123914) layer GND_B2</debug>
+<debug>Decoupling C65: failed to define connectivity to area at (0.054102, 0.123914) layer GND_B1</debug>
+<debug>Decoupling C65: failed to define connectivity to area at (0.054102, 0.123914) layer BOTTOM</debug>
+<debug>Decoupling C65: failed to define connectivity to area at (0.054102, 0.124752) layer BOTTOM</debug>
+<debug>Decoupling C66: failed to define connectivity to area at (0.00566159, 0.0211555) layer TOP</debug>
+<debug>Decoupling C66: failed to define connectivity to area at (0.00566159, 0.0211555) layer BOTTOM</debug>
+<debug>Decoupling C66: failed to define connectivity to area at (0.00566159, 0.0219937) layer BOTTOM</debug>
+<debug>Decoupling C69: failed to define connectivity to area at (0.058039, 0.118199) layer TOP</debug>
+<debug>Decoupling C69: failed to define connectivity to area at (0.058039, 0.118199) layer GND_T2</debug>
+<debug>Decoupling C69: failed to define connectivity to area at (0.058039, 0.118199) layer GND_B2</debug>
+<debug>Decoupling C69: failed to define connectivity to area at (0.058039, 0.118199) layer GND_B1</debug>
+<debug>Decoupling C69: failed to define connectivity to area at (0.058039, 0.118199) layer BOTTOM</debug>
+<debug>Decoupling C69: failed to define connectivity to area at (0.058039, 0.119037) layer BOTTOM</debug>
+<debug>Decoupling C72: failed to define connectivity to area at (0.060833, 0.123533) layer TOP</debug>
+<debug>Decoupling C72: failed to define connectivity to area at (0.060833, 0.123533) layer GND_T2</debug>
+<debug>Decoupling C72: failed to define connectivity to area at (0.060833, 0.123533) layer GND_B2</debug>
+<debug>Decoupling C72: failed to define connectivity to area at (0.060833, 0.123533) layer GND_B1</debug>
+<debug>Decoupling C72: failed to define connectivity to area at (0.060833, 0.123533) layer BOTTOM</debug>
+<debug>Decoupling C72: failed to define connectivity to area at (0.060833, 0.124371) layer TOP</debug>
+<debug>Decoupling C72: failed to define connectivity to area at (0.060833, 0.124371) layer BOTTOM</debug>
+<debug>Decoupling C75: failed to define connectivity to area at (0.0129106, 0.0239479) layer TOP</debug>
+<debug>Decoupling C75: failed to define connectivity to area at (0.0129106, 0.0239479) layer BOTTOM</debug>
+<debug>Decoupling C75: failed to define connectivity to area at (0.0129106, 0.0231097) layer BOTTOM</debug>
+<debug>Decoupling C76: failed to define connectivity to area at (0.062738, 0.120104) layer TOP</debug>
+<debug>Decoupling C76: failed to define connectivity to area at (0.062738, 0.120104) layer GND_T2</debug>
+<debug>Decoupling C76: failed to define connectivity to area at (0.062738, 0.120104) layer GND_B2</debug>
+<debug>Decoupling C76: failed to define connectivity to area at (0.062738, 0.120104) layer GND_B1</debug>
+<debug>Decoupling C76: failed to define connectivity to area at (0.062738, 0.120104) layer BOTTOM</debug>
+<debug>Decoupling C76: failed to define connectivity to area at (0.062738, 0.120942) layer BOTTOM</debug>
+<debug>Decoupling C78: failed to define connectivity to area at (0.0504898, 0.0169643) layer BOTTOM</debug>
+<debug>Decoupling C78: failed to define connectivity to area at (0.0504898, 0.0169643) layer TOP</debug>
+<debug>Decoupling C78: failed to define connectivity to area at (0.0504898, 0.0178025) layer BOTTOM</debug>
+<debug>Decoupling C79: failed to define connectivity to area at (0.0352675, 0.0218294) layer BOTTOM</debug>
+<debug>Decoupling C79: failed to define connectivity to area at (0.0352675, 0.0218294) layer TOP</debug>
+<debug>Decoupling C79: failed to define connectivity to area at (0.0361057, 0.0218294) layer BOTTOM</debug>
+<debug>Decoupling C87: failed to define connectivity to area at (0.0498277, 0.0266084) layer BOTTOM</debug>
+<debug>Decoupling C87: failed to define connectivity to area at (0.0498277, 0.0266084) layer TOP</debug>
+<debug>Decoupling C87: failed to define connectivity to area at (0.0489895, 0.0266084) layer BOTTOM</debug>
+<debug>Decoupling C88: failed to define connectivity to area at (0.0369252, 0.0266279) layer BOTTOM</debug>
+<debug>Decoupling C88: failed to define connectivity to area at (0.0369252, 0.0266279) layer TOP</debug>
+<debug>Decoupling C88: failed to define connectivity to area at (0.0377634, 0.0266279) layer BOTTOM</debug>
+<debug>Decoupling C90: failed to define connectivity to area at (0.044069, 0.0211201) layer BOTTOM</debug>
+<debug>Decoupling C90: failed to define connectivity to area at (0.044069, 0.0211201) layer TOP</debug>
+<debug>Decoupling C90: failed to define connectivity to area at (0.044069, 0.0219583) layer BOTTOM</debug>
+<debug>Decoupling C92: failed to define connectivity to area at (0.0465459, 0.0250003) layer BOTTOM</debug>
+<debug>Decoupling C92: failed to define connectivity to area at (0.0465459, 0.0250003) layer TOP</debug>
+<debug>Decoupling C92: failed to define connectivity to area at (0.0457077, 0.0250003) layer BOTTOM</debug>
+<debug>Decoupling C114: failed to define connectivity to area at (0.038424, 0.023431) layer BOTTOM</debug>
+<debug>Decoupling C114: failed to define connectivity to area at (0.038424, 0.023431) layer TOP</debug>
+<debug>Decoupling C114: failed to define connectivity to area at (0.0392622, 0.023431) layer BOTTOM</debug>
+<debug>Decoupling C123: failed to define connectivity to area at (0.0464865, 0.0177922) layer BOTTOM</debug>
+<debug>Decoupling C123: failed to define connectivity to area at (0.0464865, 0.0177922) layer TOP</debug>
+<debug>Decoupling C123: failed to define connectivity to area at (0.0464865, 0.0186304) layer BOTTOM</debug>
+<debug>Decoupling C126: failed to define connectivity to area at (0.0424849, 0.0170234) layer BOTTOM</debug>
+<debug>Decoupling C126: failed to define connectivity to area at (0.0424849, 0.0170234) layer TOP</debug>
+<debug>Decoupling C126: failed to define connectivity to area at (0.0424849, 0.0178616) layer BOTTOM</debug>
+<debug>Decoupling C128: failed to define connectivity to area at (0.044069, 0.0186309) layer BOTTOM</debug>
+<debug>Decoupling C128: failed to define connectivity to area at (0.044069, 0.0186309) layer TOP</debug>
+<debug>Decoupling C128: failed to define connectivity to area at (0.044069, 0.0194691) layer BOTTOM</debug>
+<debug>Decoupling C132: failed to define connectivity to area at (0.0408515, 0.0233779) layer BOTTOM</debug>
+<debug>Decoupling C132: failed to define connectivity to area at (0.0408515, 0.0233779) layer TOP</debug>
+<debug>Decoupling C132: failed to define connectivity to area at (0.0416897, 0.0233779) layer BOTTOM</debug>
+<debug>Decoupling C154: failed to define connectivity to area at (0.077216, 0.120485) layer TOP</debug>
+<debug>Decoupling C154: failed to define connectivity to area at (0.077216, 0.120485) layer GND_T2</debug>
+<debug>Decoupling C154: failed to define connectivity to area at (0.077216, 0.120485) layer GND_B2</debug>
+<debug>Decoupling C154: failed to define connectivity to area at (0.077216, 0.120485) layer GND_B1</debug>
+<debug>Decoupling C154: failed to define connectivity to area at (0.077216, 0.120485) layer BOTTOM</debug>
+<debug>Decoupling C154: failed to define connectivity to area at (0.077216, 0.121323) layer BOTTOM</debug>
+<debug>Decoupling C162: failed to define connectivity to area at (0.081407, 0.120485) layer TOP</debug>
+<debug>Decoupling C162: failed to define connectivity to area at (0.081407, 0.120485) layer GND_T2</debug>
+<debug>Decoupling C162: failed to define connectivity to area at (0.081407, 0.120485) layer GND_B2</debug>
+<debug>Decoupling C162: failed to define connectivity to area at (0.081407, 0.120485) layer GND_B1</debug>
+<debug>Decoupling C162: failed to define connectivity to area at (0.081407, 0.120485) layer BOTTOM</debug>
+<debug>Decoupling C162: failed to define connectivity to area at (0.081407, 0.121323) layer TOP</debug>
+<debug>Decoupling C162: failed to define connectivity to area at (0.081407, 0.121323) layer BOTTOM</debug>
+<debug>Decoupling C164: failed to define connectivity to area at (0.0400483, 0.0169666) layer BOTTOM</debug>
+<debug>Decoupling C164: failed to define connectivity to area at (0.0400483, 0.0169666) layer TOP</debug>
+<debug>Decoupling C164: failed to define connectivity to area at (0.0400483, 0.0178048) layer BOTTOM</debug>
+<debug>Decoupling C165: failed to define connectivity to area at (0.0441071, 0.02667) layer BOTTOM</debug>
+<debug>Decoupling C165: failed to define connectivity to area at (0.0441071, 0.02667) layer TOP</debug>
+<debug>Decoupling C165: failed to define connectivity to area at (0.0432689, 0.02667) layer BOTTOM</debug>
+<debug>Decoupling C166: failed to define connectivity to area at (0.0401069, 0.0218427) layer BOTTOM</debug>
+<debug>Decoupling C166: failed to define connectivity to area at (0.0401069, 0.0218427) layer TOP</debug>
+<debug>Decoupling C166: failed to define connectivity to area at (0.0392687, 0.0218427) layer BOTTOM</debug>
+<debug>Decoupling C185: failed to define connectivity to area at (0.091567, 0.123406) layer TOP</debug>
+<debug>Decoupling C185: failed to define connectivity to area at (0.091567, 0.123406) layer GND_T2</debug>
+<debug>Decoupling C185: failed to define connectivity to area at (0.091567, 0.123406) layer GND_B2</debug>
+<debug>Decoupling C185: failed to define connectivity to area at (0.091567, 0.123406) layer GND_B1</debug>
+<debug>Decoupling C185: failed to define connectivity to area at (0.091567, 0.123406) layer BOTTOM</debug>
+<debug>Decoupling C185: failed to define connectivity to area at (0.091567, 0.124244) layer TOP</debug>
+<debug>Decoupling C185: failed to define connectivity to area at (0.091567, 0.124244) layer BOTTOM</debug>
+<debug>Decoupling C195: failed to define connectivity to area at (0.095504, 0.111341) layer TOP</debug>
+<debug>Decoupling C195: failed to define connectivity to area at (0.095504, 0.111341) layer GND_T2</debug>
+<debug>Decoupling C195: failed to define connectivity to area at (0.095504, 0.111341) layer GND_B2</debug>
+<debug>Decoupling C195: failed to define connectivity to area at (0.095504, 0.111341) layer GND_B1</debug>
+<debug>Decoupling C195: failed to define connectivity to area at (0.095504, 0.111341) layer BOTTOM</debug>
+<debug>Decoupling C195: failed to define connectivity to area at (0.095504, 0.112179) layer TOP</debug>
+<debug>Decoupling C195: failed to define connectivity to area at (0.095504, 0.112179) layer BOTTOM</debug>
+<debug>Decoupling C196: failed to define connectivity to area at (0.0739348, 0.0444825) layer BOTTOM</debug>
+<debug>Decoupling C196: failed to define connectivity to area at (0.0739348, 0.0444825) layer TOP</debug>
+<debug>Decoupling C196: failed to define connectivity to area at (0.074773, 0.0444825) layer BOTTOM</debug>
+<debug>Decoupling C200: failed to define connectivity to area at (0.091186, 0.10842) layer TOP</debug>
+<debug>Decoupling C200: failed to define connectivity to area at (0.091186, 0.10842) layer GND_T2</debug>
+<debug>Decoupling C200: failed to define connectivity to area at (0.091186, 0.10842) layer GND_B2</debug>
+<debug>Decoupling C200: failed to define connectivity to area at (0.091186, 0.10842) layer GND_B1</debug>
+<debug>Decoupling C200: failed to define connectivity to area at (0.091186, 0.10842) layer BOTTOM</debug>
+<debug>Decoupling C200: failed to define connectivity to area at (0.091186, 0.109258) layer BOTTOM</debug>
+<debug>Decoupling C208: failed to define connectivity to area at (0.091059, 0.101054) layer TOP</debug>
+<debug>Decoupling C208: failed to define connectivity to area at (0.091059, 0.101054) layer GND_T2</debug>
+<debug>Decoupling C208: failed to define connectivity to area at (0.091059, 0.101054) layer GND_B2</debug>
+<debug>Decoupling C208: failed to define connectivity to area at (0.091059, 0.101054) layer GND_B1</debug>
+<debug>Decoupling C208: failed to define connectivity to area at (0.091059, 0.101054) layer BOTTOM</debug>
+<debug>Decoupling C208: failed to define connectivity to area at (0.091059, 0.102654) layer BOTTOM</debug>
+<debug>Decoupling C209: failed to define connectivity to area at (0.093218, 0.101181) layer TOP</debug>
+<debug>Decoupling C209: failed to define connectivity to area at (0.093218, 0.101181) layer GND_T2</debug>
+<debug>Decoupling C209: failed to define connectivity to area at (0.093218, 0.101181) layer GND_B2</debug>
+<debug>Decoupling C209: failed to define connectivity to area at (0.093218, 0.101181) layer GND_B1</debug>
+<debug>Decoupling C209: failed to define connectivity to area at (0.093218, 0.101181) layer BOTTOM</debug>
+<debug>Decoupling C209: failed to define connectivity to area at (0.093218, 0.102781) layer BOTTOM</debug>
+<debug>Decoupling C218: failed to define connectivity to area at (0.07239, 0.1008) layer TOP</debug>
+<debug>Decoupling C218: failed to define connectivity to area at (0.07239, 0.1008) layer GND_T2</debug>
+<debug>Decoupling C218: failed to define connectivity to area at (0.07239, 0.1008) layer GND_B2</debug>
+<debug>Decoupling C218: failed to define connectivity to area at (0.07239, 0.1008) layer GND_B1</debug>
+<debug>Decoupling C218: failed to define connectivity to area at (0.07239, 0.1008) layer BOTTOM</debug>
+<debug>Decoupling C218: failed to define connectivity to area at (0.07239, 0.1024) layer BOTTOM</debug>
+<debug>Decoupling C233: failed to define connectivity to area at (0.034163, 0.0948309) layer TOP</debug>
+<debug>Decoupling C233: failed to define connectivity to area at (0.034163, 0.0948309) layer GND_T2</debug>
+<debug>Decoupling C233: failed to define connectivity to area at (0.034163, 0.0948309) layer GND_B2</debug>
+<debug>Decoupling C233: failed to define connectivity to area at (0.034163, 0.0948309) layer GND_B1</debug>
+<debug>Decoupling C233: failed to define connectivity to area at (0.034163, 0.0948309) layer BOTTOM</debug>
+<debug>Decoupling C233: failed to define connectivity to area at (0.034163, 0.0964311) layer BOTTOM</debug>
+<debug>Decoupling C242: failed to define connectivity to area at (0.0715518, 0.0419354) layer TOP</debug>
+<debug>Decoupling C242: failed to define connectivity to area at (0.0715518, 0.0419354) layer BOTTOM</debug>
+<debug>Decoupling C242: failed to define connectivity to area at (0.0692658, 0.0419354) layer TOP</debug>
+<debug>Decoupling C242: failed to define connectivity to area at (0.0692658, 0.0419354) layer BOTTOM</debug>
+<debug>Decoupling C244: failed to define connectivity to area at (0.0670539, 0.034935) layer TOP</debug>
+<debug>Decoupling C244: failed to define connectivity to area at (0.0670539, 0.034935) layer BOTTOM</debug>
+<debug>Decoupling C244: failed to define connectivity to area at (0.0647679, 0.034935) layer TOP</debug>
+<debug>Decoupling C244: failed to define connectivity to area at (0.0647679, 0.034935) layer BOTTOM</debug>
+<debug>Decoupling C246: failed to define connectivity to area at (0.059944, 0.0402844) layer TOP</debug>
+<debug>Decoupling C246: failed to define connectivity to area at (0.059944, 0.0402844) layer BOTTOM</debug>
+<debug>Decoupling C246: failed to define connectivity to area at (0.059944, 0.0379984) layer TOP</debug>
+<debug>Decoupling C246: failed to define connectivity to area at (0.059944, 0.0379984) layer BOTTOM</debug>
+<debug>Decoupling C254: failed to define connectivity to area at (0.0624885, 0.050379) layer TOP</debug>
+<debug>Decoupling C254: failed to define connectivity to area at (0.0624885, 0.050379) layer BOTTOM</debug>
+<header>Processing decoupling capacitor <link x=0.042037 y=0.021844>C1</link></header>
+<debug ident=1>Analyzing decoupling C1</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.034671 y=0.027432>C2</link></header>
+<debug ident=1>Analyzing decoupling C2</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.048895 y=0.017399>C3</link></header>
+<debug ident=1>Analyzing decoupling C3</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.0456779 y=0.0213798>C12</link></header>
+<debug ident=1>Analyzing decoupling C12</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.0404858 y=0.0289702>C14</link></header>
+<debug ident=1>Analyzing decoupling C14</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.0458978 y=0.02667>C15</link></header>
+<debug ident=1>Analyzing decoupling C15</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.0476318 y=0.0298401>C16</link></header>
+<debug ident=1>Analyzing decoupling C16</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.084963 y=0.113538>C43</link></header>
+<debug ident=1>Analyzing decoupling C43</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.073914 y=0.106934>C47</link></header>
+<debug ident=1>Analyzing decoupling C47</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.06096 y=0.105918>C50</link></header>
+<debug ident=1>Analyzing decoupling C50</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.048768 y=0.111887>C56</link></header>
+<debug ident=1>Analyzing decoupling C56</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.052324 y=0.124333>C64</link></header>
+<debug ident=1>Analyzing decoupling C64</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.054102 y=0.124333>C65</link></header>
+<debug ident=1>Analyzing decoupling C65</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.00566159 y=0.0215746>C66</link></header>
+<debug ident=1>Analyzing decoupling C66</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.058039 y=0.118618>C69</link></header>
+<debug ident=1>Analyzing decoupling C69</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.060833 y=0.123952>C72</link></header>
+<debug ident=1>Analyzing decoupling C72</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.0129106 y=0.0235288>C75</link></header>
+<debug ident=1>Analyzing decoupling C75</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.062738 y=0.120523>C76</link></header>
+<debug ident=1>Analyzing decoupling C76</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.0504898 y=0.0173834>C78</link></header>
+<debug ident=1>Analyzing decoupling C78</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.0356866 y=0.0218294>C79</link></header>
+<debug ident=1>Analyzing decoupling C79</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.0494086 y=0.0266084>C87</link></header>
+<debug ident=1>Analyzing decoupling C87</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.0373443 y=0.0266279>C88</link></header>
+<debug ident=1>Analyzing decoupling C88</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.044069 y=0.0215392>C90</link></header>
+<debug ident=1>Analyzing decoupling C90</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.0461268 y=0.0250003>C92</link></header>
+<debug ident=1>Analyzing decoupling C92</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.0388431 y=0.023431>C114</link></header>
+<debug ident=1>Analyzing decoupling C114</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.0464865 y=0.0182113>C123</link></header>
+<debug ident=1>Analyzing decoupling C123</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.0424849 y=0.0174425>C126</link></header>
+<debug ident=1>Analyzing decoupling C126</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.044069 y=0.01905>C128</link></header>
+<debug ident=1>Analyzing decoupling C128</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.0412706 y=0.0233779>C132</link></header>
+<debug ident=1>Analyzing decoupling C132</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.077216 y=0.120904>C154</link></header>
+<debug ident=1>Analyzing decoupling C154</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.081407 y=0.120904>C162</link></header>
+<debug ident=1>Analyzing decoupling C162</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.0400483 y=0.0173857>C164</link></header>
+<debug ident=1>Analyzing decoupling C164</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.043688 y=0.02667>C165</link></header>
+<debug ident=1>Analyzing decoupling C165</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.0396878 y=0.0218427>C166</link></header>
+<debug ident=1>Analyzing decoupling C166</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.091567 y=0.123825>C185</link></header>
+<debug ident=1>Analyzing decoupling C185</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.095504 y=0.11176>C195</link></header>
+<debug ident=1>Analyzing decoupling C195</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.0743539 y=0.0444825>C196</link></header>
+<debug ident=1>Analyzing decoupling C196</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.091186 y=0.108839>C200</link></header>
+<debug ident=1>Analyzing decoupling C200</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.091059 y=0.101854>C208</link></header>
+<debug ident=1>Analyzing decoupling C208</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.093218 y=0.101981>C209</link></header>
+<debug ident=1>Analyzing decoupling C209</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.07239 y=0.1016>C218</link></header>
+<debug ident=1>Analyzing decoupling C218</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.034163 y=0.095631>C233</link></header>
+<debug ident=1>Analyzing decoupling C233</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.0704088 y=0.0419354>C242</link></header>
+<debug ident=1>Analyzing decoupling C242</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.0659109 y=0.034935>C244</link></header>
+<debug ident=1>Analyzing decoupling C244</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.059944 y=0.0391414>C246</link></header>
+<debug ident=1>Analyzing decoupling C246</debug>
+<warning ident=1>Failed to create decoupling capacitor model; using simplified model</warning>
+<header>Processing decoupling capacitor <link x=0.0616884 y=0.050379>C254</link></header>
+<debug ident=1>Analyzing decoupling C254</debug>
+<info>Report created successfully</info>
+<info>DRC spreadsheet saved to file <link type=DRC_SPREADSHEET>C:\Users\student1\Desktop\PCBD\!projekt_i_bibioteka\parallella_proj\PCB\Output\parallella.csv</link></info>
+<error>HyperLynx error: HTML report creation failed.  Check the Output window for more details.\n</error>
+<debug>Simulation data is cleared out - allocated:696 address space used:795 Mb</debug>

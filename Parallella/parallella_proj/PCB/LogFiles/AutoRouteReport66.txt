@@ -1,0 +1,180 @@
+
+=======================================================================
+Xpedition Layout - Version 117.0.817.8374
+=======================================================================
+Job Directory:
+	C:\Users\student1\Desktop\PCBD\!projekt_i_bibioteka\
+	parallella_proj\PCB\LogFiles\
+Auto Route Report:   AutoRouteReport66.txt
+Auto Route Scheme (System):   default
+
+Sat Feb 24 13:10:50 2018
+
+=======================================================================
+=======================================================================
+EDITOR CONTROL SETTINGS
+=======================================================================
+Layers Enabled & Bias ............... 1H 2H 3H 4H 5H 6H 7H 8H 9H 10H 11H 12V 
+Allow 45 Degree Corners ............. Yes
+Max Pins for Each Plane Fanout Via .. 1
+Use Part Outlines as Via Blocks ..... No
+
+Allow One Additional Via / SMD Pin .. No
+Allow Vias .......................... No
+Regular Pattern ..................... Allow
+Semi-Regular Pattern ................ Allow
+Irregular Pattern ................... Allow
+Non-Serpentine Pattern .............. Allow
+
+=======================================================================
+AUTO ROUTE SETUP INFORMATION
+=======================================================================
+                    - Effort -
+Router              Start  End
+--------------------------------
+Fanout............. 1      3
+Net Selection ..... Selected Pins
+
+Unfix Diff Pair Nets Before Pass = No
+Fix Diff Pair Nets After Pass = No
+Unfix Tuned Nets Before Pass = No
+Fix Tuned Nets After Pass = No
+Unfix Other Nets Before Pass = No
+Fix Other Nets After Pass = No
+Fix Nets Routed This Pass = No
+No Via............. 1      2
+Net Selection ..... Selected Pins
+
+Unfix Diff Pair Nets Before Pass = No
+Fix Diff Pair Nets After Pass = No
+Unfix Tuned Nets Before Pass = No
+Fix Tuned Nets After Pass = No
+Unfix Other Nets Before Pass = No
+Fix Other Nets After Pass = No
+Fix Nets Routed This Pass = No
+Route.............. 1      4
+Net Selection ..... Selected Pins
+
+Unfix Diff Pair Nets Before Pass = No
+Fix Diff Pair Nets After Pass = No
+Unfix Tuned Nets Before Pass = No
+Fix Tuned Nets After Pass = No
+Unfix Other Nets Before Pass = No
+Fix Other Nets After Pass = No
+Fix Nets Routed This Pass = No
+Smooth............. 1      3
+Net Selection ..... Selected Pins
+
+Unfix Diff Pair Nets Before Pass = No
+Fix Diff Pair Nets After Pass = No
+Unfix Tuned Nets Before Pass = No
+Fix Tuned Nets After Pass = No
+Unfix Other Nets Before Pass = No
+Fix Other Nets After Pass = No
+Fix Nets Routed This Pass = No
+Route.............. Not Selected
+Net Selection ..... All Nets
+
+Unfix Diff Pair Nets Before Pass = No
+Fix Diff Pair Nets After Pass = No
+Unfix Tuned Nets Before Pass = No
+Fix Tuned Nets After Pass = No
+Unfix Other Nets Before Pass = No
+Fix Other Nets After Pass = No
+Fix Nets Routed This Pass = No
+Via Min............ Not Selected
+Net Selection ..... All Nets
+
+Unfix Diff Pair Nets Before Pass = No
+Fix Diff Pair Nets After Pass = No
+Unfix Tuned Nets Before Pass = No
+Fix Tuned Nets After Pass = No
+Unfix Other Nets Before Pass = No
+Fix Other Nets After Pass = No
+Fix Nets Routed This Pass = No
+Allow Final Via Min and Finishing if not Routed 100% = Yes
+Allow trace spreading during finishing = Yes
+Checkpoint Interval = 60 (min)
+
+=======================================================================
+ROUTE REPORT SUMMARY AFTER LAST PASS
+=======================================================================
+=======================================================================
+VIA FANOUT RESULTS
+=======================================================================
+Start Time: Sat Feb 24 13:09:48 2018              Pins to Try   = 397
+
+          --Sig Pins--  --Pln Pins--  Total   Total  CPU Time  CLK Time
+Eff Tried Routed Opens  Routed Opens  Routed  Vias   hh:mm:ss  hh:mm:ss
+-----------------------------------------------------------------------
+1   397   112    153    30     102     35.77% 1318   00:00:01  00:00:01
+2   115   0      13     0      102      0.00% 1318   00:00:01  00:00:01
+3   115   0      13     0      102      0.00% 1318   00:00:01  00:00:01
+                                                     --------  --------
+                          Total Time for this Router 00:00:02  00:00:03
+                   Total Time for Auto Route Session 00:00:02  00:00:03
+
+                                              Total % Routed    = 17.97
+                                                 Total Opens    = 1584
+
+=======================================================================
+NO VIA RESULTS
+=======================================================================
+Start Time: Sat Feb 24 13:09:51 2018             Total Netlines = 1931
+                                                 Total Opens    = 410
+
+    --Memory Netlines--  Total  Percent Added Total  CPU Time  CLK Time
+Eff Tried  Routed Opens  Opens  Routed  Vias  Vias   hh:mm:ss  hh:mm:ss
+-----------------------------------------------------------------------
+1   410    23     387    387      5.61% 0     1318   00:00:01  00:00:00
+2   408    10     398    398      2.45% -3    1315   00:00:01  00:00:00
+                                                     --------  --------
+                          Total Time for this Router 00:00:01  00:00:00
+                   Total Time for Auto Route Session 00:00:03  00:00:03
+
+                                              Total % Routed    = 19.58
+                                                 Total Opens    = 1553
+
+=======================================================================
+ROUTE RESULTS
+=======================================================================
+Start Time: Sat Feb 24 13:09:52 2018             Total Netlines = 1931
+                                                 Total Opens    = 383
+
+    -Remaining Netlines- Total  Percent Added Total  CPU Time  CLK Time
+Eff Tried  Routed Opens  Opens  Routed  Vias  Vias   hh:mm:ss  hh:mm:ss
+-----------------------------------------------------------------------
+1   383    244    139    139     63.71% 208   1523   00:00:12  00:00:12
+2   162    25     137    137     15.43% 32    1555   00:00:03  00:00:03
+3   139    19     120    120     13.67% 22    1577   00:00:22  00:00:22
+4   111    2      109    109      1.80% 4     1581   00:00:09  00:00:09
+                                                     --------  --------
+                          Total Time for this Router 00:00:46  00:00:46
+                   Total Time for Auto Route Session 00:00:49  00:00:49
+
+                                              Total % Routed    = 35.01
+                                                 Total Opens    = 1255
+
+=======================================================================
+SMOOTHING RESULTS
+=======================================================================
+Start Time: Sat Feb 24 13:10:40 2018             Total Nets     = 274
+                                                 Total Opens    = 1255
+
+    Changed   Total
+    Length    Length           Total  Percent Total  CPU Time  CLK Time
+Eff  (in)      (in)            Opens  Routed  Vias   hh:mm:ss  hh:mm:ss
+-----------------------------------------------------------------------
+1     -0.24    255.06          1255    35.01% 1581   00:00:01  00:00:01
+2     -1.24    253.82          1255    35.01% 1581   00:00:04  00:00:04
+3     -0.04    253.77          1255    35.01% 1581   00:00:04  00:00:04
+                                                     --------  --------
+                          Total Time for this Router 00:00:09  00:00:09
+                   Total Time for Auto Route Session 00:00:58  00:00:58
+
+                                              Total % Routed    = 35.01
+                                                 Total Opens    = 1255
+
+=======================================================================
+
+END OF AUTO ROUTE REPORT

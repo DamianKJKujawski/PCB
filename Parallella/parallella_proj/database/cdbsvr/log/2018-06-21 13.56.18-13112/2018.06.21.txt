@@ -1,0 +1,516 @@
+[2018.06.21 13:56:18] [0000m.00s.048ms] [0] WELCOME
+[2018.06.21 13:56:18] [0000m.00s.049ms] [1] iCDB Server ver.2.203, KZm7IDO/7xyauX5azDFNaA, build:10027396 created 2018-04-04 10:35:12, sources stamp:KZm7IDO/7xyauX5azDFNaA
+[2018.06.21 13:56:18] [0000m.00s.049ms] [1] Copyright 2018 Mentor Graphics Corporation.  All Rights Reserved.
+[2018.06.21 13:56:18] [0000m.00s.049ms] [1] Base flow version [VX.2.3]
+[2018.06.21 13:56:18] [0000m.00s.049ms] [1] Install Id [1706646], Flow Id [X-ENTP VX.2.3], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.3], Exact Access Date [2018/02/01]
+[2018.06.21 13:56:18] [0000m.00s.049ms] [1] UPDATE Install Info, Install Id [1766365], UPDATE Name [Xpedition Enterprise X-ENTP VX.2.3 - Update 3]
+[2018.06.21 13:56:18] [0000m.00s.057ms] [1] Machine [S717-LAB07]  IP [0:0:0:0:0:0:0:1,10.0.0.70,127.0.0.1,fe80::7dd3:3bd3:12bf:2330]  User [superstudent]  PID [13112]
+[2018.06.21 13:56:18] [0000m.00s.057ms] [1] Operating system [Microsoft , 64-bit (build 9200)]
+[2018.06.21 13:56:18] [0000m.00s.057ms] [1] Current working dir [C:\Users\superstudent\Desktop\PCB\parallella_proj]
+[2018.06.21 13:56:18] [0000m.00s.057ms] [1] PATH [C:\MentorGraphics\EEVX.2.3\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.2.3\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.2.3\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.2.3\MGC_HOME.ixw\lib;C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016.2.180\windows\mpi\intel64\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\superstudent\AppData\Local\Microsoft\WindowsApps;]
+[2018.06.21 13:56:18] [0000m.00s.057ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.3\SDD_HOME] on file system [NTFS]
+[2018.06.21 13:56:18] [0000m.00s.057ms] [1] SDD_PLATFORM [win64]
+[2018.06.21 13:56:18] [0000m.00s.057ms] [1] WDIR [C:\WDIR\EEVX.2.3;C:\MentorGraphics\EEVX.2.3\SDD_HOME\standard;]
+[2018.06.21 13:56:18] [0000m.00s.057ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.3\iCDB] on file system [NTFS]
+[2018.06.21 13:56:18] [0000m.00s.057ms] [2] S: Loading config files
+[2018.06.21 13:56:18] [0000m.00s.074ms] [1] Config file [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\cdbsvr\Server.cfg] not found
+[2018.06.21 13:56:18] [0000m.00s.078ms] [3] S: Config loaded
+[2018.06.21 13:56:18] [0000m.00s.115ms] [0] S: Project path [C:\Users\superstudent\Desktop\PCB\parallella_proj\database] on file system [NTFS]
+[2018.06.21 13:56:18] [0000m.00s.115ms] [0] S: Project file (.prj) path [C:\Users\superstudent\Desktop\PCB\parallella_proj\parallella_Kujawski.prj] on file system [NTFS]
+[2018.06.21 13:56:18] [0000m.00s.116ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2018.06.21 13:56:18] [0000m.00s.116ms] [0] S: Single-user mode (auto)
+[2018.06.21 13:56:18] [0000m.00s.116ms] [0] S: Event polling mode autodetection
+[2018.06.21 13:56:18] [0000m.00s.116ms] [0] S: Started up automatically by iCDB Client: S717-LAB07:superstudent:13196
+[2018.06.21 13:56:18] [0000m.00s.116ms] [0] S: Auto close mode
+[2018.06.21 13:56:18] [0000m.00s.117ms] [0] S: Database ID [d4fc-ee39-b929-537a-2629-b2b7-629b-2b50-1fb1-cc3d-2cfe-e93b]
+[2018.06.21 13:56:18] [0000m.00s.117ms] [0] PathTranslator: BEGIN dumping
+[2018.06.21 13:56:18] [0000m.00s.117ms] [0] PathTranslator: Local -> global path prefix list
+[2018.06.21 13:56:18] [0000m.00s.117ms] [0] PathTranslator: Global -> local path prefix list
+[2018.06.21 13:56:18] [0000m.00s.117ms] [0] PathTranslator: END dumping
+[2018.06.21 13:56:18] [0000m.00s.117ms] [0] S: START
+[2018.06.21 13:56:18] [0000m.00s.117ms] [0] S: Server startup lock file created
+[2018.06.21 13:56:18] [0000m.00s.118ms] [1] S: Listening for client connections on port [10000:10100][0.0.0.0,0:0:0:0:0:0:0:0,]
+[2018.06.21 13:56:18] [0000m.00s.118ms] [0] S: Listening for client connections on port [10000]
+[2018.06.21 13:56:18] [0000m.00s.120ms] [0] S: Server network ID [S717-LAB07:10.0.0.70,S717-LAB07,fe80::7dd3:3bd3:12bf:2330:10000]
+[2018.06.21 13:56:18] [0000m.00s.120ms] [0] S: Server GUID [9cde-c091-8a41-0bf2-2629-b2b7-629b-2b50-da13-cc3d-2cfe-e93b]
+[2018.06.21 13:56:18] [0000m.00s.120ms] [0] S: Project GUID [d4fc-ee39-b929-537a-2629-b2b7-629b-2b50-1fb1-cc3d-2cfe-e93b]
+[2018.06.21 13:56:18] [0000m.00s.127ms] [0] S: Wrote data to server address file
+[2018.06.21 13:56:18] [0000m.00s.128ms] [0] S: Server startup lock file removed
+[2018.06.21 13:56:18] [0000m.00s.128ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\Users\superstudent\Desktop\PCB\parallella_proj\parallella_Kujawski.prj]
+[2018.06.21 13:56:19] [0000m.01s.469ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2018.06.21 13:56:19] [0000m.01s.470ms] [1] ServerToolkit: INFO: Plugin found in SDD_ICDB_BIN [C:\MentorGraphics\EEVX.2.3\SDD_HOME\iCDB\win64\bin]
+[2018.06.21 13:56:19] [0000m.01s.470ms] [0] S: Local disc access time: 58 us
+[2018.06.21 13:56:19] [0000m.01s.470ms] [0] S: File server access time: 68 us
+[2018.06.21 13:56:19] [0000m.01s.478ms] [0] Single file [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\icdb.dat] size [1556472 (1.5 MB)]
+[2018.06.21 13:56:19] [0000m.01s.478ms] [1] Single file [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\icdb.dat] opened in read-write mode
+[2018.06.21 13:56:19] [0000m.01s.478ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.21 13:56:19] [0000m.01s.478ms] [0] Database GUARD OK: [1556472]
+[2018.06.21 13:56:19] [0000m.01s.480ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.21 13:56:19] [0000m.01s.480ms] [0] Database GUARD OK: [1556472]
+[2018.06.21 13:56:19] [0000m.01s.480ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.21 13:56:19] [0000m.01s.480ms] [0] Database GUARD OK: [1556472]
+[2018.06.21 13:56:19] [0000m.01s.481ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.21 13:56:19] [0000m.01s.481ms] [0] Database GUARD OK: [1556472]
+[2018.06.21 13:56:19] [0000m.01s.481ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.21 13:56:19] [0000m.01s.481ms] [0] Database GUARD OK: [1556472]
+[2018.06.21 13:56:19] [0000m.01s.481ms] [0] SingleFile: [0ad7-6e2e-48b3-7806] SFI version check [1009] [1009]
+[2018.06.21 13:56:19] [0000m.01s.500ms] [0] SingleFile: [0ad7-6e2e-48b3-7806] Database SFI header has been read in [18ms 572us]
+[2018.06.21 13:56:19] [0000m.01s.513ms] [0] iCDB Server PI: Server & plugin session [3864]
+[2018.06.21 13:56:19] [0000m.01s.513ms] [0] iCDB Server PI: Opening database [C:\Users\superstudent\Desktop\PCB\parallella_proj\database]
+[2018.06.21 13:56:19] [0000m.01s.513ms] [0] iCDB Server PI: Database [C:\Users\superstudent\Desktop\PCB\parallella_proj\database] opened
+[2018.06.21 13:56:20] [0000m.01s.605ms] [0] iCDB Database: Checking existence of constraint definitions
+[2018.06.21 13:56:20] [0000m.01s.606ms] [0] iCDB Database: Checking constraint definitions version
+[2018.06.21 13:56:20] [0000m.01s.725ms] [0] iCDB Database: Creating database content backup before upgrade
+[2018.06.21 13:56:20] [0000m.01s.725ms] [1] iCDB Storage Server: Database backup: ProjectPath[C:\Users\superstudent\Desktop\PCB\parallella_proj\database]
+[2018.06.21 13:56:20] [0000m.01s.831ms] [0] iCDB Storage Server Backup Thread: Database backup: BackupPath[C:\Users\superstudent\Desktop\PCB\parallella_proj\database\cdbback\2018-06-21 13.56.20-13112.zip]
+[2018.06.21 13:56:20] [0000m.02s.324ms] [0] iCDB Storage Server Backup Thread: Backup database DONE: Result[ Succeeded[TRUE]] BackupPath[C:\Users\superstudent\Desktop\PCB\parallella_proj\database\cdbback\2018-06-21 13.56.20-13112.zip]
+[2018.06.21 13:56:20] [0000m.02s.329ms] [0] iCDB Database: Database content backed up to [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\cdbback\2018-06-21 13.56.20-13112.zip] of size [2 941 619 bytes (2.8 MB)]  in [603ms 712us]
+[2018.06.21 13:56:20] [0000m.02s.340ms] [0] iCDB Database: Upgrading constraint definitions from version [ce_ee.cns=7.10.56;user.cns=e1f5-07a6-a6d1-219c-7533-43ac-5334-3a50-6533-8e1d-0c4b-ba98]
+[2018.06.21 13:56:20] [0000m.02s.398ms] [0] iCDB Database: Upgrading snapshot [1:DxD] from version [3300]
+[2018.06.21 13:56:20] [0000m.02s.474ms] [1] CORE: Upgrade atlas from version 512 [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s1\cdbblks\3000000010000050.blk\blkatl]
+[2018.06.21 13:56:20] [0000m.02s.474ms] [1] CORE: Upgrade atlas from version 512 to 513 completed successfully [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s1\cdbblks\3000000010000050.blk\blkatl]
+[2018.06.21 13:56:20] [0000m.02s.529ms] [1] CORE: Upgrade snapshot DxD completed successfully.
+[2018.06.21 13:56:20] [0000m.02s.529ms] [1] CORE: Applying a fix no 150 stage [fsSnapshotLoaded] to atlas [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s1\cdbcatlg\catlgatl]
+[2018.06.21 13:56:20] [0000m.02s.548ms] [1] CORE: Atlas fixed stage [fsSnapshotLoaded] successfully [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s1\cdbcatlg\catlgatl]
+[2018.06.21 13:56:20] [0000m.02s.549ms] [0] iCDB Database: Snapshot [1:DxD] upgraded to version [3400] in [150ms 606us]
+[2018.06.21 13:56:20] [0000m.02s.549ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [1:DxD]
+[2018.06.21 13:56:21] [0000m.02s.776ms] [0] iCDB Database: Constraint definitions for snapshot [1:DxD] upgraded in [226ms 943us]
+[2018.06.21 13:56:21] [0000m.02s.776ms] [0] iCDB Database: Saving upgraded snapshot [1:DxD]
+[2018.06.21 13:56:21] [0000m.02s.806ms] [0] iCDB Database: Upgraded snapshot [1:DxD] saved in [29ms 174us]
+[2018.06.21 13:56:21] [0000m.02s.843ms] [1] Diagnostic: Warning: {[LineDxD] [23] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.843ms] [1] Diagnostic: Warning: {[LineDxD] [22] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.843ms] [1] Diagnostic: Warning: {[LineDxD] [21] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.843ms] [1] Diagnostic: Warning: {[LineDxD] [20] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.843ms] [1] Diagnostic: Warning: {[LineDxD] [19] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.843ms] [1] Diagnostic: Warning: {[LineDxD] [13] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.843ms] [1] Diagnostic: Warning: {[LineDxD] [12] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.843ms] [1] Diagnostic: Warning: {[LineDxD] [11] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.843ms] [1] Diagnostic: Warning: {[LineDxD] [7] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.843ms] [1] Diagnostic: Warning: {[LineDxD] [6] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.843ms] [1] Diagnostic: Warning: {[LineDxD] [5] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.843ms] [1] Diagnostic: Warning: {[LineDxD] [1] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.843ms] [1] Diagnostic: Warning: {[ArcDxD] [22] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.843ms] [1] Diagnostic: Warning: {[ArcDxD] [21] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.843ms] [1] Diagnostic: Warning: {[ArcDxD] [20] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.844ms] [1] Diagnostic: Warning: {[ArcDxD] [19] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.844ms] [1] Diagnostic: Warning: {[ArcDxD] [13] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.844ms] [1] Diagnostic: Warning: {[ArcDxD] [12] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.844ms] [1] Diagnostic: Warning: {[ArcDxD] [11] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.844ms] [1] Diagnostic: Warning: {[ArcDxD] [6] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.844ms] [1] Diagnostic: Warning: {[ArcDxD] [5] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.844ms] [1] Diagnostic: Warning: {[ArcDxD] [1] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.844ms] [1] Diagnostic: Warning: {[RectDxD] [23] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.844ms] [1] Diagnostic: Warning: {[RectDxD] [22] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.844ms] [1] Diagnostic: Warning: {[RectDxD] [19] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.844ms] [1] Diagnostic: Warning: {[RectDxD] [13] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.844ms] [1] Diagnostic: Warning: {[RectDxD] [12] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.844ms] [1] Diagnostic: Warning: {[TextDxD] [23] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.844ms] [1] Diagnostic: Warning: {[TextDxD] [22] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.844ms] [1] Diagnostic: Warning: {[TextDxD] [19] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.844ms] [1] Diagnostic: Warning: {[TextDxD] [11] } --> UID does not exist
+[2018.06.21 13:56:21] [0000m.02s.864ms] [1] Diagnostic: Warning: {[BlockViewDxD] [BLOCK DIAGRAM] [1253-1-68] [25] } --> Could not get sheet size
+[2018.06.21 13:56:21] [0000m.02s.868ms] [1] Diagnostic: Check failed on Block: parallella
+[2018.06.21 13:56:21] [0000m.02s.946ms] [1] Diagnostic: Snapshot [1:DxD] integrity check FAILED
+[2018.06.21 13:56:21] [0000m.02s.969ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s1\cdbblks\3000000010000050.blk\blkatl.v] - auto-saving it
+[2018.06.21 13:56:21] [0000m.03s.219ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s1\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.06.21 13:56:21] [0000m.03s.219ms] [0] iCDB Database: Upgrading snapshot [2:__ise_DxD] from version [3300]
+[2018.06.21 13:56:21] [0000m.03s.221ms] [1] CORE: Upgrade snapshot __ise_DxD completed successfully.
+[2018.06.21 13:56:21] [0000m.03s.221ms] [1] CORE: Applying a fix no 150 stage [fsSnapshotLoaded] to atlas [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s2\cdbcatlg\catlgatl]
+[2018.06.21 13:56:21] [0000m.03s.221ms] [1] CORE: Atlas fixed stage [fsSnapshotLoaded] successfully [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s2\cdbcatlg\catlgatl]
+[2018.06.21 13:56:21] [0000m.03s.221ms] [0] iCDB Database: Snapshot [2:__ise_DxD] upgraded to version [3400] in [2ms 117us]
+[2018.06.21 13:56:21] [0000m.03s.222ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [2:__ise_DxD]
+[2018.06.21 13:56:21] [0000m.03s.222ms] [0] iCDB Database: Constraint definitions for snapshot [2:__ise_DxD] upgraded in [107us]
+[2018.06.21 13:56:21] [0000m.03s.222ms] [0] iCDB Database: Saving upgraded snapshot [2:__ise_DxD]
+[2018.06.21 13:56:21] [0000m.03s.222ms] [0] iCDB Database: Upgraded snapshot [2:__ise_DxD] saved in [207us]
+[2018.06.21 13:56:21] [0000m.03s.223ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s2\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.06.21 13:56:21] [0000m.03s.224ms] [0] iCDB Database: Upgrading snapshot [3:xIOPT] from version [3300]
+[2018.06.21 13:56:21] [0000m.03s.225ms] [1] CORE: Upgrade snapshot xIOPT completed successfully.
+[2018.06.21 13:56:21] [0000m.03s.225ms] [1] CORE: Applying a fix no 150 stage [fsSnapshotLoaded] to atlas [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s3\cdbcatlg\catlgatl]
+[2018.06.21 13:56:21] [0000m.03s.225ms] [1] CORE: Atlas fixed stage [fsSnapshotLoaded] successfully [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s3\cdbcatlg\catlgatl]
+[2018.06.21 13:56:21] [0000m.03s.226ms] [0] iCDB Database: Snapshot [3:xIOPT] upgraded to version [3400] in [1ms 927us]
+[2018.06.21 13:56:21] [0000m.03s.226ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [3:xIOPT]
+[2018.06.21 13:56:21] [0000m.03s.226ms] [0] iCDB Database: Constraint definitions for snapshot [3:xIOPT] upgraded in [107us]
+[2018.06.21 13:56:21] [0000m.03s.226ms] [0] iCDB Database: Saving upgraded snapshot [3:xIOPT]
+[2018.06.21 13:56:21] [0000m.03s.226ms] [0] iCDB Database: Upgraded snapshot [3:xIOPT] saved in [202us]
+[2018.06.21 13:56:21] [0000m.03s.227ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s3\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.06.21 13:56:21] [0000m.03s.228ms] [0] iCDB Database: Upgrading snapshot [4:parallella_layout_temp] from version [3300]
+[2018.06.21 13:56:21] [0000m.03s.248ms] [1] CORE: Upgrade atlas from version 512 [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s4\cdbblks\3000000010000050.blk\blkatl]
+[2018.06.21 13:56:21] [0000m.03s.249ms] [1] CORE: Upgrade atlas from version 512 to 513 completed successfully [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s4\cdbblks\3000000010000050.blk\blkatl]
+[2018.06.21 13:56:21] [0000m.03s.269ms] [1] CORE: Upgrade snapshot parallella_layout_temp completed successfully.
+[2018.06.21 13:56:21] [0000m.03s.269ms] [1] CORE: Applying a fix no 150 stage [fsSnapshotLoaded] to atlas [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s4\cdbcatlg\catlgatl]
+[2018.06.21 13:56:21] [0000m.03s.270ms] [1] CORE: Atlas fixed stage [fsSnapshotLoaded] successfully [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s4\cdbcatlg\catlgatl]
+[2018.06.21 13:56:21] [0000m.03s.270ms] [0] iCDB Database: Snapshot [4:parallella_layout_temp] upgraded to version [3400] in [41ms 903us]
+[2018.06.21 13:56:21] [0000m.03s.270ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [4:parallella_layout_temp]
+[2018.06.21 13:56:21] [0000m.03s.346ms] [0] iCDB Database: Constraint definitions for snapshot [4:parallella_layout_temp] upgraded in [75ms 606us]
+[2018.06.21 13:56:21] [0000m.03s.346ms] [0] iCDB Database: Saving upgraded snapshot [4:parallella_layout_temp]
+[2018.06.21 13:56:21] [0000m.03s.376ms] [0] iCDB Database: Upgraded snapshot [4:parallella_layout_temp] saved in [29ms 773us]
+[2018.06.21 13:56:21] [0000m.03s.425ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s4\cdbblks\3000000010000050.blk\blkatl.v] - auto-saving it
+[2018.06.21 13:56:21] [0000m.03s.425ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s4\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.06.21 13:56:21] [0000m.03s.426ms] [0] iCDB Database: Upgrading snapshot [5:parallella] from version [3300]
+[2018.06.21 13:56:21] [0000m.03s.445ms] [1] CORE: Upgrade atlas from version 512 [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s5\cdbblks\3000000010000050.blk\blkatl]
+[2018.06.21 13:56:21] [0000m.03s.446ms] [1] CORE: Upgrade atlas from version 512 to 513 completed successfully [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s5\cdbblks\3000000010000050.blk\blkatl]
+[2018.06.21 13:56:21] [0000m.03s.465ms] [1] CORE: Upgrade snapshot parallella completed successfully.
+[2018.06.21 13:56:21] [0000m.03s.465ms] [1] CORE: Applying a fix no 150 stage [fsSnapshotLoaded] to atlas [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s5\cdbcatlg\catlgatl]
+[2018.06.21 13:56:21] [0000m.03s.465ms] [1] CORE: Atlas fixed stage [fsSnapshotLoaded] successfully [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s5\cdbcatlg\catlgatl]
+[2018.06.21 13:56:21] [0000m.03s.465ms] [0] iCDB Database: Snapshot [5:parallella] upgraded to version [3400] in [39ms 662us]
+[2018.06.21 13:56:21] [0000m.03s.466ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [5:parallella]
+[2018.06.21 13:56:21] [0000m.03s.536ms] [0] iCDB Database: Constraint definitions for snapshot [5:parallella] upgraded in [70ms 514us]
+[2018.06.21 13:56:21] [0000m.03s.537ms] [0] iCDB Database: Saving upgraded snapshot [5:parallella]
+[2018.06.21 13:56:21] [0000m.03s.573ms] [0] iCDB Database: Upgraded snapshot [5:parallella] saved in [36ms 532us]
+[2018.06.21 13:56:22] [0000m.03s.652ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s5\cdbblks\3000000010000050.blk\blkatl.v] - auto-saving it
+[2018.06.21 13:56:22] [0000m.03s.652ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s5\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.06.21 13:56:22] [0000m.03s.653ms] [0] iCDB Database: Upgrading snapshot [6:parallella_RefSync] from version [3300]
+[2018.06.21 13:56:22] [0000m.03s.716ms] [1] CORE: Upgrade atlas from version 512 [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s6\cdbblks\3000000010000050.blk\blkatl]
+[2018.06.21 13:56:22] [0000m.03s.716ms] [1] CORE: Upgrade atlas from version 512 to 513 completed successfully [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s6\cdbblks\3000000010000050.blk\blkatl]
+[2018.06.21 13:56:22] [0000m.03s.837ms] [1] CORE: Upgrade snapshot parallella_RefSync completed successfully.
+[2018.06.21 13:56:22] [0000m.03s.837ms] [1] CORE: Applying a fix no 150 stage [fsSnapshotLoaded] to atlas [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s6\cdbcatlg\catlgatl]
+[2018.06.21 13:56:22] [0000m.03s.837ms] [1] CORE: Atlas fixed stage [fsSnapshotLoaded] successfully [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s6\cdbcatlg\catlgatl]
+[2018.06.21 13:56:22] [0000m.03s.838ms] [0] iCDB Database: Snapshot [6:parallella_RefSync] upgraded to version [3400] in [184ms 931us]
+[2018.06.21 13:56:22] [0000m.03s.838ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [6:parallella_RefSync]
+[2018.06.21 13:56:22] [0000m.03s.922ms] [0] iCDB Database: Constraint definitions for snapshot [6:parallella_RefSync] upgraded in [83ms 53us]
+[2018.06.21 13:56:22] [0000m.03s.922ms] [0] iCDB Database: Saving upgraded snapshot [6:parallella_RefSync]
+[2018.06.21 13:56:22] [0000m.03s.951ms] [0] iCDB Database: Upgraded snapshot [6:parallella_RefSync] saved in [29ms 64us]
+[2018.06.21 13:56:22] [0000m.03s.953ms] [1] Diagnostic: Warning: {[LineDxD] [23] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.953ms] [1] Diagnostic: Warning: {[LineDxD] [22] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.953ms] [1] Diagnostic: Warning: {[LineDxD] [21] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.953ms] [1] Diagnostic: Warning: {[LineDxD] [20] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.953ms] [1] Diagnostic: Warning: {[LineDxD] [19] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.953ms] [1] Diagnostic: Warning: {[LineDxD] [13] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.953ms] [1] Diagnostic: Warning: {[LineDxD] [12] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.953ms] [1] Diagnostic: Warning: {[LineDxD] [11] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.953ms] [1] Diagnostic: Warning: {[LineDxD] [7] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.953ms] [1] Diagnostic: Warning: {[LineDxD] [6] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.953ms] [1] Diagnostic: Warning: {[LineDxD] [5] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.953ms] [1] Diagnostic: Warning: {[LineDxD] [1] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.953ms] [1] Diagnostic: Warning: {[ArcDxD] [22] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.953ms] [1] Diagnostic: Warning: {[ArcDxD] [21] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.954ms] [1] Diagnostic: Warning: {[ArcDxD] [20] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.954ms] [1] Diagnostic: Warning: {[ArcDxD] [19] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.954ms] [1] Diagnostic: Warning: {[ArcDxD] [13] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.954ms] [1] Diagnostic: Warning: {[ArcDxD] [12] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.954ms] [1] Diagnostic: Warning: {[ArcDxD] [11] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.954ms] [1] Diagnostic: Warning: {[ArcDxD] [6] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.954ms] [1] Diagnostic: Warning: {[ArcDxD] [5] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.954ms] [1] Diagnostic: Warning: {[ArcDxD] [1] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.954ms] [1] Diagnostic: Warning: {[RectDxD] [23] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.954ms] [1] Diagnostic: Warning: {[RectDxD] [22] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.954ms] [1] Diagnostic: Warning: {[RectDxD] [19] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.954ms] [1] Diagnostic: Warning: {[RectDxD] [13] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.954ms] [1] Diagnostic: Warning: {[RectDxD] [12] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.954ms] [1] Diagnostic: Warning: {[TextDxD] [23] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.954ms] [1] Diagnostic: Warning: {[TextDxD] [22] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.954ms] [1] Diagnostic: Warning: {[TextDxD] [19] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.954ms] [1] Diagnostic: Warning: {[TextDxD] [11] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.03s.970ms] [1] Diagnostic: Warning: {[BlockViewDxD] [BLOCK DIAGRAM] [1253-1-68] [25] } --> Could not get sheet size
+[2018.06.21 13:56:22] [0000m.03s.974ms] [1] Diagnostic: Check failed on Block: parallella
+[2018.06.21 13:56:22] [0000m.04s.000ms] [1] Diagnostic: Snapshot [6:parallella_RefSync] integrity check FAILED
+[2018.06.21 13:56:22] [0000m.04s.022ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s6\cdbblks\3000000010000050.blk\blkatl.v] - auto-saving it
+[2018.06.21 13:56:22] [0000m.04s.023ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s6\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.06.21 13:56:22] [0000m.04s.023ms] [0] iCDB Database: Upgrading snapshot [7:parallella_LDDTemp] from version [3300]
+[2018.06.21 13:56:22] [0000m.04s.063ms] [1] CORE: Upgrade atlas from version 512 [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s7\cdbblks\3000000010000050.blk\blkatl]
+[2018.06.21 13:56:22] [0000m.04s.063ms] [1] CORE: Upgrade atlas from version 512 to 513 completed successfully [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s7\cdbblks\3000000010000050.blk\blkatl]
+[2018.06.21 13:56:22] [0000m.04s.120ms] [1] CORE: Upgrade snapshot parallella_LDDTemp completed successfully.
+[2018.06.21 13:56:22] [0000m.04s.120ms] [1] CORE: Applying a fix no 150 stage [fsSnapshotLoaded] to atlas [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s7\cdbcatlg\catlgatl]
+[2018.06.21 13:56:22] [0000m.04s.120ms] [1] CORE: Atlas fixed stage [fsSnapshotLoaded] successfully [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s7\cdbcatlg\catlgatl]
+[2018.06.21 13:56:22] [0000m.04s.120ms] [0] iCDB Database: Snapshot [7:parallella_LDDTemp] upgraded to version [3400] in [96ms 839us]
+[2018.06.21 13:56:22] [0000m.04s.121ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [7:parallella_LDDTemp]
+[2018.06.21 13:56:22] [0000m.04s.192ms] [0] iCDB Database: Constraint definitions for snapshot [7:parallella_LDDTemp] upgraded in [71ms 509us]
+[2018.06.21 13:56:22] [0000m.04s.192ms] [0] iCDB Database: Saving upgraded snapshot [7:parallella_LDDTemp]
+[2018.06.21 13:56:22] [0000m.04s.221ms] [0] iCDB Database: Upgraded snapshot [7:parallella_LDDTemp] saved in [28ms 497us]
+[2018.06.21 13:56:22] [0000m.04s.223ms] [1] Diagnostic: Warning: {[LineDxD] [23] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.223ms] [1] Diagnostic: Warning: {[LineDxD] [22] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.223ms] [1] Diagnostic: Warning: {[LineDxD] [21] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.223ms] [1] Diagnostic: Warning: {[LineDxD] [20] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.223ms] [1] Diagnostic: Warning: {[LineDxD] [19] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.223ms] [1] Diagnostic: Warning: {[LineDxD] [13] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.223ms] [1] Diagnostic: Warning: {[LineDxD] [12] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.223ms] [1] Diagnostic: Warning: {[LineDxD] [11] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.223ms] [1] Diagnostic: Warning: {[LineDxD] [7] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.223ms] [1] Diagnostic: Warning: {[LineDxD] [6] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.223ms] [1] Diagnostic: Warning: {[LineDxD] [5] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.223ms] [1] Diagnostic: Warning: {[LineDxD] [1] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.223ms] [1] Diagnostic: Warning: {[ArcDxD] [22] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.223ms] [1] Diagnostic: Warning: {[ArcDxD] [21] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.223ms] [1] Diagnostic: Warning: {[ArcDxD] [20] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.223ms] [1] Diagnostic: Warning: {[ArcDxD] [19] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.223ms] [1] Diagnostic: Warning: {[ArcDxD] [13] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.223ms] [1] Diagnostic: Warning: {[ArcDxD] [12] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.223ms] [1] Diagnostic: Warning: {[ArcDxD] [11] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.224ms] [1] Diagnostic: Warning: {[ArcDxD] [6] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.224ms] [1] Diagnostic: Warning: {[ArcDxD] [5] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.224ms] [1] Diagnostic: Warning: {[ArcDxD] [1] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.224ms] [1] Diagnostic: Warning: {[RectDxD] [23] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.224ms] [1] Diagnostic: Warning: {[RectDxD] [22] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.224ms] [1] Diagnostic: Warning: {[RectDxD] [19] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.224ms] [1] Diagnostic: Warning: {[RectDxD] [13] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.224ms] [1] Diagnostic: Warning: {[RectDxD] [12] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.224ms] [1] Diagnostic: Warning: {[TextDxD] [23] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.224ms] [1] Diagnostic: Warning: {[TextDxD] [22] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.224ms] [1] Diagnostic: Warning: {[TextDxD] [19] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.224ms] [1] Diagnostic: Warning: {[TextDxD] [11] } --> UID does not exist
+[2018.06.21 13:56:22] [0000m.04s.240ms] [1] Diagnostic: Warning: {[BlockViewDxD] [BLOCK DIAGRAM] [1253-1-68] [25] } --> Could not get sheet size
+[2018.06.21 13:56:22] [0000m.04s.243ms] [1] Diagnostic: Check failed on Block: parallella
+[2018.06.21 13:56:22] [0000m.04s.273ms] [1] Diagnostic: Snapshot [7:parallella_LDDTemp] integrity check FAILED
+[2018.06.21 13:56:22] [0000m.04s.298ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s7\cdbblks\3000000010000050.blk\blkatl.v] - auto-saving it
+[2018.06.21 13:56:22] [0000m.04s.299ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\s7\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.06.21 13:56:22] [0000m.04s.300ms] [0] iCDB Database: Constraint definitions upgraded to version [ce_ee.cns=7.10.57;user.cns=3784-725c-c62c-dbbd-370e-ada8-70ea-da50-9473-cc3d-2cfe-e93b]
+[2018.06.21 13:56:23] [0000m.04s.624ms] [0] iCDB Server PI: Initializing plugins
+[2018.06.21 13:56:23] [0000m.04s.625ms] [0] iCDB Server PI: Plugins initialized
+[2018.06.21 13:56:23] [0000m.04s.625ms] [0] S: iCDB database loaded
+[2018.06.21 13:56:24] [0000m.06s.589ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\Users\superstudent\Desktop\PCB\parallella_proj\ProjectBackup\backups\2018-06-21 13.56.23 - upgrade.zip] with GUID [2f22-625d-0adf-b65e-7629-b2bc-629b-2b50-da13-cc3d-2cfe-e93b]
+[2018.06.21 13:56:24] [0000m.06s.597ms] [1] PrjBackupMgr: Migrated iCDB content backup file [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\cdbback\2018-06-21 13.56.20-13112.zip] removed
+[2018.06.21 13:56:24] [0000m.06s.599ms] [0] S: Starting threads
+[2018.06.21 13:56:24] [0000m.06s.602ms] [0] MT: Listening for multicast messages [ff15::1] on port [10001]
+[2018.06.21 13:56:24] [0000m.06s.602ms] [0] BT: Listening for broadcast messages on port [10000]
+[2018.06.21 13:56:25] [0000m.06s.606ms] [0] IT: Session [3865] for host [S717-LAB07] user [superstudent] client type[0] clsvrPluginID[0] with process ID [13196] created
+[2018.06.21 13:56:25] [0000m.06s.606ms] [1] CMT: There are [1] clients now: 3865
+[2018.06.21 13:56:25] [0000m.06s.612ms] [1] SC[3865]: Registered sub-client [DxD] with ID [1] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:25] [0000m.06s.621ms] [0] MWT: WindowProc: WM_NCCREATE
+[2018.06.21 13:56:25] [0000m.06s.815ms] [1] SC[3865]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:25] [0000m.06s.819ms] [1] SC[3865]: Registered sub-client [xprob] with ID [3] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:25] [0000m.06s.969ms] [1] SC[3865]: Registered sub-client [StartServerClientb20] with ID [4] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:25] [0000m.06s.969ms] [1] SC[3865]: UnRegistered sub-client [StartServerClientb20] with ID [4] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:27] [0000m.09s.019ms] [1] SC[3865]: Registered sub-client [SymbolEditor] with ID [5] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:27] [0000m.09s.026ms] [1] SC[3865]: Registered sub-client [SelectionHolder] with ID [6] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:27] [0000m.09s.040ms] [1] SC[3865]: Registered sub-client [EEVM_EEVM_262521552] with ID [7] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:27] [0000m.09s.041ms] [1] SC[3865]: UnRegistered sub-client [EEVM_EEVM_262521552] with ID [7] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:27] [0000m.09s.048ms] [1] SC[3865]: Registered sub-client [EEVM_EEVM_262521552] with ID [8] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:27] [0000m.09s.117ms] [1] SC[3865]: UnRegistered sub-client [EEVM_EEVM_262521552] with ID [8] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:27] [0000m.09s.339ms] [1] SC[3865]: Registered sub-client [BlockCacheDxD:687287584] with ID [9] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.128ms] [1] SC[3865]: Registered sub-client [ObjectHolder_569725744] with ID [10] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.132ms] [1] SC[3865]: Registered sub-client [GlobalNetAliasUpdater_686946624] with ID [11] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.136ms] [1] SC[3865]: Registered sub-client [IcdbNetProcessorSubClientDxD:691193504] with ID [12] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.152ms] [1] SC[3865]: UnRegistered sub-client [GlobalNetAliasUpdater_686946624] with ID [11] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.152ms] [1] SC[3865]: UnRegistered sub-client [ObjectHolder_569725744] with ID [10] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.152ms] [1] SC[3865]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:691193504] with ID [12] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.252ms] [1] SC[3865]: Registered sub-client [ObjectHolder_569722000] with ID [13] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.256ms] [1] SC[3865]: Registered sub-client [GlobalNetAliasUpdater_686943360] with ID [14] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.260ms] [1] SC[3865]: Registered sub-client [IcdbNetProcessorSubClientDxD:691196416] with ID [15] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.269ms] [1] SC[3865]: UnRegistered sub-client [GlobalNetAliasUpdater_686943360] with ID [14] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.269ms] [1] SC[3865]: UnRegistered sub-client [ObjectHolder_569722000] with ID [13] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.269ms] [1] SC[3865]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:691196416] with ID [15] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.350ms] [1] SC[3865]: Registered sub-client [ObjectHolder_569727616] with ID [16] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.354ms] [1] SC[3865]: Registered sub-client [GlobalNetAliasUpdater_686940864] with ID [17] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.358ms] [1] SC[3865]: Registered sub-client [IcdbNetProcessorSubClientDxD:691196640] with ID [18] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.364ms] [1] SC[3865]: UnRegistered sub-client [GlobalNetAliasUpdater_686940864] with ID [17] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.365ms] [1] SC[3865]: UnRegistered sub-client [ObjectHolder_569727616] with ID [16] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.365ms] [1] SC[3865]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:691196640] with ID [18] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.460ms] [1] SC[3865]: Registered sub-client [ObjectHolder_569721376] with ID [19] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.464ms] [1] SC[3865]: Registered sub-client [GlobalNetAliasUpdater_686947200] with ID [20] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.468ms] [1] SC[3865]: Registered sub-client [IcdbNetProcessorSubClientDxD:691197312] with ID [21] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.475ms] [1] SC[3865]: UnRegistered sub-client [GlobalNetAliasUpdater_686947200] with ID [20] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.476ms] [1] SC[3865]: UnRegistered sub-client [ObjectHolder_569721376] with ID [19] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.476ms] [1] SC[3865]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:691197312] with ID [21] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.582ms] [1] SC[3865]: Registered sub-client [ObjectHolder_569725952] with ID [22] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.587ms] [1] SC[3865]: Registered sub-client [GlobalNetAliasUpdater_686942016] with ID [23] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.591ms] [1] SC[3865]: Registered sub-client [IcdbNetProcessorSubClientDxD:691193840] with ID [24] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.600ms] [1] SC[3865]: UnRegistered sub-client [GlobalNetAliasUpdater_686942016] with ID [23] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.600ms] [1] SC[3865]: UnRegistered sub-client [ObjectHolder_569725952] with ID [22] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:28] [0000m.10s.600ms] [1] SC[3865]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:691193840] with ID [24] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.10s.702ms] [1] SC[3865]: Registered sub-client [ObjectHolder_569725952] with ID [25] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.10s.706ms] [1] SC[3865]: Registered sub-client [GlobalNetAliasUpdater_686946624] with ID [26] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.10s.710ms] [1] SC[3865]: Registered sub-client [IcdbNetProcessorSubClientDxD:691198096] with ID [27] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.10s.719ms] [1] SC[3865]: UnRegistered sub-client [GlobalNetAliasUpdater_686946624] with ID [26] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.10s.720ms] [1] SC[3865]: UnRegistered sub-client [ObjectHolder_569725952] with ID [25] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.10s.720ms] [1] SC[3865]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:691198096] with ID [27] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.10s.836ms] [1] SC[3865]: Registered sub-client [ObjectHolder_569726160] with ID [28] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.10s.839ms] [1] SC[3865]: Registered sub-client [GlobalNetAliasUpdater_686941440] with ID [29] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.10s.843ms] [1] SC[3865]: Registered sub-client [IcdbNetProcessorSubClientDxD:691192160] with ID [30] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.10s.852ms] [1] SC[3865]: UnRegistered sub-client [GlobalNetAliasUpdater_686941440] with ID [29] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.10s.853ms] [1] SC[3865]: UnRegistered sub-client [ObjectHolder_569726160] with ID [28] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.10s.853ms] [1] SC[3865]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:691192160] with ID [30] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.10s.939ms] [1] SC[3865]: Registered sub-client [ObjectHolder_569722832] with ID [31] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.10s.942ms] [1] SC[3865]: Registered sub-client [GlobalNetAliasUpdater_686941248] with ID [32] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.10s.946ms] [1] SC[3865]: Registered sub-client [IcdbNetProcessorSubClientDxD:691196640] with ID [33] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.10s.952ms] [1] SC[3865]: UnRegistered sub-client [GlobalNetAliasUpdater_686941248] with ID [32] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.10s.953ms] [1] SC[3865]: UnRegistered sub-client [ObjectHolder_569722832] with ID [31] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.10s.953ms] [1] SC[3865]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:691196640] with ID [33] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.042ms] [1] SC[3865]: Registered sub-client [ObjectHolder_569728656] with ID [34] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.046ms] [1] SC[3865]: Registered sub-client [GlobalNetAliasUpdater_686946624] with ID [35] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.050ms] [1] SC[3865]: Registered sub-client [IcdbNetProcessorSubClientDxD:691196416] with ID [36] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.056ms] [1] SC[3865]: UnRegistered sub-client [GlobalNetAliasUpdater_686946624] with ID [35] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.056ms] [1] SC[3865]: UnRegistered sub-client [ObjectHolder_569728656] with ID [34] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.057ms] [1] SC[3865]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:691196416] with ID [36] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.183ms] [1] SC[3865]: Registered sub-client [ObjectHolder_569727616] with ID [37] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.187ms] [1] SC[3865]: Registered sub-client [GlobalNetAliasUpdater_686946624] with ID [38] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.191ms] [1] SC[3865]: Registered sub-client [IcdbNetProcessorSubClientDxD:691196640] with ID [39] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.205ms] [1] SC[3865]: UnRegistered sub-client [GlobalNetAliasUpdater_686946624] with ID [38] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.205ms] [1] SC[3865]: UnRegistered sub-client [ObjectHolder_569727616] with ID [37] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.206ms] [1] SC[3865]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:691196640] with ID [39] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.306ms] [1] SC[3865]: Registered sub-client [ObjectHolder_569723040] with ID [40] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.310ms] [1] SC[3865]: Registered sub-client [GlobalNetAliasUpdater_686943936] with ID [41] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.315ms] [1] SC[3865]: Registered sub-client [IcdbNetProcessorSubClientDxD:691197312] with ID [42] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.324ms] [1] SC[3865]: UnRegistered sub-client [GlobalNetAliasUpdater_686943936] with ID [41] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.324ms] [1] SC[3865]: UnRegistered sub-client [ObjectHolder_569723040] with ID [40] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.324ms] [1] SC[3865]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:691197312] with ID [42] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.406ms] [1] SC[3865]: Registered sub-client [ObjectHolder_569727408] with ID [43] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.410ms] [1] SC[3865]: Registered sub-client [GlobalNetAliasUpdater_686944512] with ID [44] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.413ms] [1] SC[3865]: Registered sub-client [IcdbNetProcessorSubClientDxD:691196416] with ID [45] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.421ms] [1] SC[3865]: UnRegistered sub-client [GlobalNetAliasUpdater_686944512] with ID [44] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.421ms] [1] SC[3865]: UnRegistered sub-client [ObjectHolder_569727408] with ID [43] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.421ms] [1] SC[3865]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:691196416] with ID [45] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.505ms] [1] SC[3865]: Registered sub-client [ObjectHolder_569721792] with ID [46] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.509ms] [1] SC[3865]: Registered sub-client [GlobalNetAliasUpdater_686940288] with ID [47] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.512ms] [1] SC[3865]: Registered sub-client [IcdbNetProcessorSubClientDxD:691194736] with ID [48] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.520ms] [1] SC[3865]: UnRegistered sub-client [GlobalNetAliasUpdater_686940288] with ID [47] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.520ms] [1] SC[3865]: UnRegistered sub-client [ObjectHolder_569721792] with ID [46] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.521ms] [1] SC[3865]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:691194736] with ID [48] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.591ms] [1] SC[3865]: Registered sub-client [ObjectHolder_569722208] with ID [49] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.595ms] [1] SC[3865]: Registered sub-client [GlobalNetAliasUpdater_686942592] with ID [50] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.598ms] [1] SC[3865]: Registered sub-client [IcdbNetProcessorSubClientDxD:691196640] with ID [51] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.605ms] [1] SC[3865]: UnRegistered sub-client [GlobalNetAliasUpdater_686942592] with ID [50] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.605ms] [1] SC[3865]: UnRegistered sub-client [ObjectHolder_569722208] with ID [49] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:29] [0000m.11s.605ms] [1] SC[3865]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:691196640] with ID [51] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.712ms] [1] SC[3865]: Registered sub-client [ObjectHolder_572523744] with ID [52] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.715ms] [1] SC[3865]: Registered sub-client [GlobalNetAliasUpdater_686941248] with ID [53] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.719ms] [1] SC[3865]: Registered sub-client [IcdbNetProcessorSubClientDxD:691191264] with ID [54] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.730ms] [1] SC[3865]: UnRegistered sub-client [GlobalNetAliasUpdater_686941248] with ID [53] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.731ms] [1] SC[3865]: UnRegistered sub-client [ObjectHolder_572523744] with ID [52] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.731ms] [1] SC[3865]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:691191264] with ID [54] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.784ms] [1] SC[3865]: Registered sub-client [ObjectHolder_569727408] with ID [55] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.788ms] [1] SC[3865]: Registered sub-client [GlobalNetAliasUpdater_686945472] with ID [56] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.792ms] [1] SC[3865]: Registered sub-client [IcdbNetProcessorSubClientDxD:691191936] with ID [57] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.796ms] [1] SC[3865]: UnRegistered sub-client [GlobalNetAliasUpdater_686945472] with ID [56] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.796ms] [1] SC[3865]: UnRegistered sub-client [ObjectHolder_569727408] with ID [55] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.797ms] [1] SC[3865]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:691191936] with ID [57] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.849ms] [1] SC[3865]: Registered sub-client [ObjectHolder_569724912] with ID [58] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.853ms] [1] SC[3865]: Registered sub-client [GlobalNetAliasUpdater_686942016] with ID [59] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.856ms] [1] SC[3865]: Registered sub-client [IcdbNetProcessorSubClientDxD:691192496] with ID [60] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.860ms] [1] SC[3865]: UnRegistered sub-client [GlobalNetAliasUpdater_686942016] with ID [59] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.860ms] [1] SC[3865]: UnRegistered sub-client [ObjectHolder_569724912] with ID [58] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.861ms] [1] SC[3865]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:691192496] with ID [60] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.929ms] [1] SC[3865]: Registered sub-client [ObjectHolder_569720960] with ID [61] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.933ms] [1] SC[3865]: Registered sub-client [GlobalNetAliasUpdater_686944896] with ID [62] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.936ms] [1] SC[3865]: Registered sub-client [IcdbNetProcessorSubClientDxD:691193504] with ID [63] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.941ms] [1] SC[3865]: UnRegistered sub-client [GlobalNetAliasUpdater_686944896] with ID [62] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.942ms] [1] SC[3865]: UnRegistered sub-client [ObjectHolder_569720960] with ID [61] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.11s.942ms] [1] SC[3865]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:691193504] with ID [63] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.12s.002ms] [1] SC[3865]: Registered sub-client [ObjectHolder_569727616] with ID [64] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.12s.006ms] [1] SC[3865]: Registered sub-client [GlobalNetAliasUpdater_686942784] with ID [65] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.12s.009ms] [1] SC[3865]: Registered sub-client [IcdbNetProcessorSubClientDxD:691191936] with ID [66] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.12s.015ms] [1] SC[3865]: UnRegistered sub-client [GlobalNetAliasUpdater_686942784] with ID [65] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.12s.015ms] [1] SC[3865]: UnRegistered sub-client [ObjectHolder_569727616] with ID [64] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.12s.015ms] [1] SC[3865]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:691191936] with ID [66] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.12s.046ms] [1] SC[3865]: Registered sub-client [ObjectHolder_569726368] with ID [67] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.12s.050ms] [1] SC[3865]: Registered sub-client [GlobalNetAliasUpdater_686945472] with ID [68] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.12s.053ms] [1] SC[3865]: Registered sub-client [IcdbNetProcessorSubClientDxD:691196416] with ID [69] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.12s.054ms] [1] SC[3865]: UnRegistered sub-client [GlobalNetAliasUpdater_686945472] with ID [68] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.12s.054ms] [1] SC[3865]: UnRegistered sub-client [ObjectHolder_569726368] with ID [67] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.12s.055ms] [1] SC[3865]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:691196416] with ID [69] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.12s.055ms] [1] SC[3865]: UnRegistered sub-client [BlockCacheDxD:687287584] with ID [9] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.12s.078ms] [1] SC[3865]: Registered sub-client [SystemDesignDll] with ID [70] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.12s.303ms] [1] SC[3865]: UnRegistered sub-client [SystemDesignDll] with ID [70] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:30] [0000m.12s.307ms] [1] SC[3865]: Registered sub-client [SystemDesignDll] with ID [71] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:33] [0000m.15s.416ms] [1] SC[3865]: Registered sub-client [DesignSearcher2] with ID [72] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:33] [0000m.15s.425ms] [1] SC[3865]: Registered sub-client [HdlProject] with ID [73] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:33] [0000m.15s.533ms] [1] SC[3865]: Registered sub-client [Navigator] with ID [74] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:33] [0000m.15s.570ms] [1] SC[3865]: Registered sub-client [OutputWindow] with ID [75] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:34] [0000m.15s.620ms] [1] SC[3865]: Registered sub-client [PlaceDevice] with ID [76] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:34] [0000m.16s.046ms] [1] SC[3865]: Registered sub-client [LocalSymbolsDataProvider] with ID [77] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:34] [0000m.16s.083ms] [1] SC[3865]: Registered sub-client [FFSearch_Controller_0] with ID [78] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:34] [0000m.16s.096ms] [1] SC[3865]: Registered sub-client [FFSearch_Controller_1] with ID [79] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:35] [0000m.17s.149ms] [1] SC[3865]: Registered sub-client [FFSearch_Controller_2] with ID [80] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:35] [0000m.17s.155ms] [1] SC[3865]: Registered sub-client [FFSearch_Controller_3] with ID [81] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:36] [0000m.18s.186ms] [1] SC[3865]: Registered sub-client [FFSearch_Controller_4] with ID [82] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:36] [0000m.18s.192ms] [1] SC[3865]: Registered sub-client [FFSearch_Controller_5] with ID [83] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:37] [0000m.19s.362ms] [1] SC[3865]: Registered sub-client [FFSearch_Controller_6] with ID [84] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:37] [0000m.19s.367ms] [1] SC[3865]: Registered sub-client [FFSearch_Controller_7] with ID [85] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:38] [0000m.20s.405ms] [1] SC[3865]: Registered sub-client [FFSearch_Controller_8] with ID [86] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:38] [0000m.20s.409ms] [1] SC[3865]: Registered sub-client [FFSearch_Controller_9] with ID [87] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:39] [0000m.21s.595ms] [1] SC[3865]: Registered sub-client [FFSSelListener] with ID [88] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:40] [0000m.21s.688ms] [1] SC[3865]: Registered sub-client [SAE] with ID [89] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:40] [0000m.21s.694ms] [1] SC[3865]: Registered sub-client [CCZAddin] with ID [90] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:40] [0000m.21s.699ms] [1] SC[3865]: Registered sub-client [DxThumbnails] with ID [91] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:40] [0000m.21s.706ms] [1] SC[3865]: Registered sub-client [MyParts] with ID [92] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:40] [0000m.21s.727ms] [1] SC[3865]: Registered sub-client [PinsList] with ID [93] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:40] [0000m.21s.736ms] [1] SC[3865]: Registered sub-client [MessagingBridge] with ID [94] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:40] [0000m.22s.211ms] [1] SC[3865]: Registered sub-client [RFGroupUngroupAddin] with ID [95] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:40] [0000m.22s.227ms] [1] SC[3865]: Registered sub-client [RFGroupUngroupAddinListener] with ID [96] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:40] [0000m.22s.366ms] [1] SC[3865]: Registered sub-client [RFTreeAddin] with ID [97] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:40] [0000m.22s.377ms] [1] SC[3865]: Registered sub-client [RFTreeAddinListener] with ID [98] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:40] [0000m.22s.432ms] [1] SC[3865]: Registered sub-client [RFProperties] with ID [99] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:40] [0000m.22s.446ms] [1] SC[3865]: Registered sub-client [RFPropertiesListener] with ID [100] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:41] [0000m.22s.666ms] [1] SC[3865]: Registered sub-client [toolboxes] with ID [101] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:41] [0000m.22s.707ms] [1] SC[3865]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:690713184] with ID [102] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:41] [0000m.22s.725ms] [1] SC[3865]: Registered sub-client [Core::DesignListener-27728] with ID [103] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:41] [0000m.22s.831ms] [1] SC[3865]: Registered sub-client [SheetConnectorsCacheDxD:1529582201] with ID [104] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:41] [0000m.23s.058ms] [1] SC[3865]: Registered sub-client [NetsNamesCollectorDxD:1529582201] with ID [105] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:41] [0000m.23s.132ms] [1] SC[3865]: Registered sub-client [PartReplaceUtils] with ID [106] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:41] [0000m.23s.137ms] [1] SC[3865]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [107] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:41] [0000m.23s.254ms] [1] SC[3865]: Registered sub-client [ObjectHolder_572525616] with ID [108] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:41] [0000m.23s.259ms] [1] SC[3865]: Registered sub-client [BlockCacheDxD:713823904] with ID [109] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:41] [0000m.23s.264ms] [1] SC[3865]: Registered sub-client [GlobalNetAliasUpdater_714513120] with ID [110] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:41] [0000m.23s.269ms] [1] SC[3865]: Registered sub-client [IcdbNetProcessorSubClientDxD:693737776] with ID [111] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:56:47] [0000m.28s.618ms] [0] DFAMT: File server access time: 77 us
+[2018.06.21 13:56:57] [0000m.38s.829ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\Users\superstudent\Desktop\PCB\parallella_proj\ProjectBackup\backups\2018-06-21 13.56.55 - auto.zip] with GUID [649b-58c4-3604-64dc-7829-b2bc-829b-2b50-50e2-cc3d-2cfe-e93b]
+[2018.06.21 13:56:57] [0000m.38s.836ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[4c24-ee71-eef6-d08f-0c13-82b5-c138-2b50-6bb2-8e1d-2c4b-ba98] CreationTime[Monday, June 18, 2018 22:27:12] Type[Autosave] Creator[iCDB Server (2018-06-18 21.34.11-3772)] ApplicationName[iCDB Server (2018-06-18 21.34.11-3772)] UserName[HOME] MachineName[HOME-PC-W7] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.2] FlowId[EEVX.2.2] GBSInstallId[1589114] GBSBuildId[7609897] IcdbVersion[3300] ReferenceLogFilePath[] BackupFilePath[C:\Users\superstudent\Desktop\PCB\parallella_proj\ProjectBackup\backups\2018-06-19 00.27.12 - auto.zip] BackupFileSize[7066174] Persistent[FALSE]
+[2018.06.21 13:56:57] [0000m.38s.843ms] [0] PrjBackupMgr: Project Backup file [C:\Users\superstudent\Desktop\PCB\parallella_proj\ProjectBackup\backups\2018-06-19 00.27.12 - auto.zip] with GUID [4c24-ee71-eef6-d08f-0c13-82b5-c138-2b50-6bb2-8e1d-2c4b-ba98] removed
+[2018.06.21 13:56:57] [0000m.38s.845ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[649b-58c4-3604-64dc-7829-b2bc-829b-2b50-50e2-cc3d-2cfe-e93b] CreationTime[Thursday, June 21, 2018 11:56:55] Type[Autosave] Creator[iCDB Server (2018-06-21 13.56.18-13112)] ApplicationName[iCDB Server (2018-06-21 13.56.18-13112)] UserName[superstudent] MachineName[S717-LAB07] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.3; Xpedition Enterprise X-ENTP VX.2.3 - Update 3] FlowId[EEVX.2.3] GBSInstallId[1706646; 1766365] GBSBuildId[10027396] IcdbVersion[3400] ReferenceLogFilePath[] BackupFilePath[C:\Users\superstudent\Desktop\PCB\parallella_proj\ProjectBackup\backups\2018-06-21 13.56.55 - auto.zip] BackupFileSize[7091878] Persistent[FALSE]
+[2018.06.21 13:57:22] [0001m.03s.943ms] [1] SC[3865]: UnRegistered sub-client [SystemDesignDll] with ID [71] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:22] [0001m.04s.165ms] [1] SC[3865]: UnRegistered sub-client [DesignSearcher2] with ID [72] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:22] [0001m.04s.299ms] [1] SC[3865]: UnRegistered sub-client [GlobalNetAliasUpdater_714513120] with ID [110] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:22] [0001m.04s.300ms] [1] SC[3865]: UnRegistered sub-client [BlockCacheDxD:713823904] with ID [109] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:22] [0001m.04s.300ms] [1] SC[3865]: UnRegistered sub-client [ObjectHolder_572525616] with ID [108] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:22] [0001m.04s.301ms] [1] SC[3865]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:693737776] with ID [111] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:22] [0001m.04s.343ms] [1] SC[3865]: UnRegistered sub-client [Navigator] with ID [74] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:22] [0001m.04s.344ms] [1] SC[3865]: UnRegistered sub-client [FFSSelListener] with ID [88] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:22] [0001m.04s.345ms] [1] SC[3865]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [77] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:22] [0001m.04s.376ms] [1] SC[3865]: UnRegistered sub-client [FFSearch_Controller_1] with ID [79] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:22] [0001m.04s.378ms] [1] SC[3865]: UnRegistered sub-client [FFSearch_Controller_0] with ID [78] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:22] [0001m.04s.393ms] [1] SC[3865]: UnRegistered sub-client [FFSearch_Controller_3] with ID [81] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:22] [0001m.04s.395ms] [1] SC[3865]: UnRegistered sub-client [FFSearch_Controller_2] with ID [80] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:22] [0001m.04s.408ms] [1] SC[3865]: UnRegistered sub-client [FFSearch_Controller_5] with ID [83] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:22] [0001m.04s.411ms] [1] SC[3865]: UnRegistered sub-client [FFSearch_Controller_4] with ID [82] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:22] [0001m.04s.423ms] [1] SC[3865]: UnRegistered sub-client [FFSearch_Controller_7] with ID [85] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:22] [0001m.04s.425ms] [1] SC[3865]: UnRegistered sub-client [FFSearch_Controller_6] with ID [84] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:22] [0001m.04s.439ms] [1] SC[3865]: UnRegistered sub-client [FFSearch_Controller_9] with ID [87] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:22] [0001m.04s.442ms] [1] SC[3865]: UnRegistered sub-client [FFSearch_Controller_8] with ID [86] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:23] [0001m.04s.625ms] [1] SC[3865]: UnRegistered sub-client [MyParts] with ID [92] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:23] [0001m.04s.627ms] [1] SC[3865]: UnRegistered sub-client [toolboxes] with ID [101] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:23] [0001m.05s.202ms] [1] SC[3865]: UnRegistered sub-client [SelectionHolder] with ID [6] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:23] [0001m.05s.203ms] [1] SC[3865]: UnRegistered sub-client [PartReplaceUtils] with ID [106] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:23] [0001m.05s.203ms] [1] SC[3865]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [107] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:23] [0001m.05s.204ms] [1] SC[3865]: UnRegistered sub-client [Core::DesignListener-27728] with ID [103] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:24] [0001m.05s.814ms] [1] SC[3865]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:690713184] with ID [102] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:24] [0001m.05s.814ms] [1] SC[3865]: UnRegistered sub-client [SheetConnectorsCacheDxD:1529582201] with ID [104] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:24] [0001m.05s.814ms] [1] SC[3865]: UnRegistered sub-client [NetsNamesCollectorDxD:1529582201] with ID [105] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:24] [0001m.05s.815ms] [1] SC[3865]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:24] [0001m.05s.815ms] [1] SC[3865]: UnRegistered sub-client [DxD] with ID [1] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:24] [0001m.05s.849ms] [1] SC[3865]: UnRegistered sub-client [xprob] with ID [3] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:24] [0001m.05s.850ms] [1] SC[3865]: UnRegistered sub-client [SymbolEditor] with ID [5] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:24] [0001m.05s.875ms] [1] SC[3865]: UnRegistered sub-client [OutputWindow] with ID [75] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:24] [0001m.05s.937ms] [1] SC[3865]: UnRegistered sub-client [SAE] with ID [89] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:24] [0001m.05s.991ms] [1] SC[3865]: UnRegistered sub-client [CCZAddin] with ID [90] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:24] [0001m.06s.002ms] [1] SC[3865]: UnRegistered sub-client [DxThumbnails] with ID [91] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:24] [0001m.06s.151ms] [1] SC[3865]: UnRegistered sub-client [MessagingBridge] with ID [94] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:24] [0001m.06s.180ms] [1] SC[3865]: UnRegistered sub-client [RFGroupUngroupAddin] with ID [95] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:24] [0001m.06s.181ms] [1] SC[3865]: UnRegistered sub-client [RFGroupUngroupAddinListener] with ID [96] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:24] [0001m.06s.206ms] [1] SC[3865]: UnRegistered sub-client [RFTreeAddin] with ID [97] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:24] [0001m.06s.207ms] [1] SC[3865]: UnRegistered sub-client [RFTreeAddinListener] with ID [98] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:24] [0001m.06s.222ms] [1] SC[3865]: UnRegistered sub-client [RFProperties] with ID [99] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:24] [0001m.06s.222ms] [1] SC[3865]: UnRegistered sub-client [RFPropertiesListener] with ID [100] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:33] [0001m.15s.430ms] [1] SC[3865]: UnRegistered sub-client [PinsList] with ID [93] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:33] [0001m.15s.541ms] [1] SC[3865]: UnRegistered sub-client [PlaceDevice] with ID [76] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:34] [0001m.15s.613ms] [1] SC[3865]: UnRegistered sub-client [HdlProject] with ID [73] for session ID [3865] host [S717-LAB07] user [superstudent] process ID [13196]
+[2018.06.21 13:57:34] [0001m.15s.677ms] [1] CMT: Removed client [3865]
+[2018.06.21 13:57:34] [0001m.15s.677ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2018.06.21 13:57:36] [0001m.17s.687ms] [0] CMT: Starting server auto-close
+[2018.06.21 13:57:36] [0001m.17s.740ms] [0] S: Closing server
+[2018.06.21 13:57:36] [0001m.17s.821ms] [0] iCDB Server PI: Closing plugins
+[2018.06.21 13:57:36] [0001m.17s.821ms] [0] iCDB Server PI: Plugins closed
+[2018.06.21 13:57:36] [0001m.17s.821ms] [0] iCDB Server PI: Unloading database
+[2018.06.21 13:57:36] [0001m.17s.821ms] [0] iCDB Server PI: Saving storage
+[2018.06.21 13:57:36] [0001m.17s.821ms] [0] iCDB Server PI: Closing database
+[2018.06.21 13:57:36] [0001m.17s.821ms] [1] Hole: zero line at 1556412 of size 16 bytes.
+[2018.06.21 13:57:36] [0001m.17s.836ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[2%] data[97%]
+[2018.06.21 13:57:36] [0001m.17s.836ms] [1] iCDB Server PI: Stats: Database file size [1556472 (1.5 MB)]
+[2018.06.21 13:57:36] [0001m.17s.836ms] [1] Hole: zero line at 1556412 of size 16 bytes.
+[2018.06.21 13:57:36] [0001m.17s.858ms] [0] iCDB Server PI: Database closed
+[2018.06.21 13:57:36] [0001m.17s.858ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [198027] ticks
+[2018.06.21 13:57:36] [0001m.17s.858ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [69302] microseconds
+[2018.06.21 13:57:36] [0001m.17s.858ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [47]
+[2018.06.21 13:57:36] [0001m.17s.858ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [678] commands per second
+[2018.06.21 13:57:36] [0001m.17s.866ms] [0] Single file [C:\Users\superstudent\Desktop\PCB\parallella_proj\database\icdb.dat] closed with size [1556472 (1.5 MB)]
+[2018.06.21 13:57:36] [0001m.18s.142ms] [0] MWT: Destroy the shutdown block reason.
+[2018.06.21 13:57:36] [0001m.18s.143ms] [0] MWT: STOP
+[2018.06.21 13:57:36] [0001m.18s.144ms] [0] S: STOP

@@ -1,0 +1,158 @@
+.FILETYPE GerberPlotSetupFile
+.VERSION "VB99.0"
+.CREATOR "Expedition PCB Gerber Output"
+.DATE "Monday, July 09, 2007 09:24 AM"
+
+.BaseUnits "1NM"
+
+.DataOffset 0 0
+.DataCopies 1 1
+ ..OriginOffset 0 0
+
+.GenerateMacro Yes 
+
+.GerberMachineFormatFile ".\\Config\\GerberMachineFile1.gmf"
+
+.GerberOutputFile "SoldermaskTop.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "G:\\Jobs\\2006\\LayoutTemplates\\4 Layer Template\\Output\\Gerber\\SoldermaskTop.gdo"
+ ..HeaderText
+   ...CommentLine "Mentor Graphics Example Gerber Output Definition"
+ ..BoardItem SoldermaskTop
+
+.GerberOutputFile "SoldermaskBottom.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "G:\\Jobs\\2006\\LayoutTemplates\\4 Layer Template\\Output\\Gerber\\SoldermaskBottom.gdo"
+ ..HeaderText
+   ...CommentLine "Mentor Graphics Example Gerber Output Definition"
+ ..BoardItem SoldermaskBottom
+
+.GerberOutputFile "SolderPasteTop.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "G:\\Jobs\\2006\\LayoutTemplates\\4 Layer Template\\Output\\Gerber\\SolderPasteTop.gdo"
+ ..HeaderText
+   ...CommentLine "Mentor Graphics Example Gerber Output Definition"
+ ..BoardItem SolderpasteTop
+
+.GerberOutputFile "SolderPasteBottom.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "G:\\Jobs\\2006\\LayoutTemplates\\4 Layer Template\\Output\\Gerber\\SolderPasteBottom.gdo"
+ ..HeaderText
+   ...CommentLine "Mentor Graphics Example Gerber Output Definition"
+ ..BoardItem SolderpasteBottom
+
+.GerberOutputFile "GeneratedSilkscreenTop.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "G:\\Jobs\\2006\\LayoutTemplates\\4 Layer Template\\Output\\Gerber\\GeneratedSilkscreenTop.gdo"
+ ..HeaderText
+   ...CommentLine "Mentor Graphics Example Gerber Output Definition"
+ ..BoardItem AlteredSilkscreenTop
+
+.GerberOutputFile "GeneratedSilkscreenBottom.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "G:\\Jobs\\2006\\LayoutTemplates\\4 Layer Template\\Output\\Gerber\\GeneratedSilkscreenBottom.gdo"
+ ..HeaderText
+   ...CommentLine "Mentor Graphics Example Gerber Output Definition"
+ ..BoardItem AlteredSilkscreenBottom
+
+.GerberOutputFile "EtchLayer4Bottom.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "G:\\Jobs\\2006\\LayoutTemplates\\4 Layer Template\\Output\\Gerber\\EtchLayer4Bottom.gdo"
+ ..HeaderText
+   ...CommentLine "Mentor Graphics Example Gerber Output Definition"
+ ..ConductiveLayer 4
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+
+.GerberOutputFile "EtchLayer3Neg.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "G:\\Jobs\\2006\\LayoutTemplates\\4 Layer Template\\Output\\Gerber\\EtchLayer3Neg.gdo"
+ ..HeaderText
+   ...CommentLine "Mentor Graphics Example Gerber Output for Negative Plane Layer"
+ ..ConductiveLayer 3
+   ...ConductiveItem PlaneData
+
+.GerberOutputFile "EtchLayer3.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "G:\\Jobs\\2006\\LayoutTemplates\\4 Layer Template\\Output\\Gerber\\EtchLayer3.gdo"
+ ..HeaderText
+   ...CommentLine "Mentor Graphics Example Gerber Output Definition"
+ ..ConductiveLayer 3
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+
+.GerberOutputFile "EtchLayer2Neg.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "G:\\Jobs\\2006\\LayoutTemplates\\4 Layer Template\\Output\\Gerber\\EtchLayer2Neg.gdo"
+ ..HeaderText
+   ...CommentLine "Mentor Graphics Example Gerber Output for Negative Plane Layer"
+ ..ConductiveLayer 2
+   ...ConductiveItem PlaneData
+
+.GerberOutputFile "EtchLayer2.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "G:\\Jobs\\2006\\LayoutTemplates\\4 Layer Template\\Output\\Gerber\\EtchLayer2.gdo"
+ ..HeaderText
+   ...CommentLine "Mentor Graphics Example Gerber Output Definition"
+ ..ConductiveLayer 2
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+
+.GerberOutputFile "EtchLayer1Top.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "G:\\Jobs\\2006\\LayoutTemplates\\4 Layer Template\\Output\\Gerber\\EtchLayer1Top.gdo"
+ ..HeaderText
+   ...CommentLine "Mentor Graphics Example Gerber Output Definition"
+ ..ConductiveLayer 1
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+
+.GerberOutputFile "DrillDrawingThrough.gdo"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "G:\\Jobs\\2006\\LayoutTemplates\\4 Layer Template\\Output\\Gerber\\DrillDrawingThrough.gdo"
+ ..HeaderText
+   ...CommentLine "Mentor Graphics Example Gerber Output Definition"
+ ..BoardItem DrillDrawingThru

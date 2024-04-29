@@ -1,0 +1,95 @@
+[2015.10.23 12:59:07] [0000m.00s.031ms] [0] WELCOME
+[2015.10.23 12:59:07] [0000m.00s.031ms] [1] iCDB Server ver.2.101, iK7v3K6aOA9JhLOrr/KU4g, build:682004 created 2015-07-08 06:54:12, sources stamp:iK7v3K6aOA9JhLOrr/KU4g
+[2015.10.23 12:59:07] [0000m.00s.031ms] [1] Copyright 2015 Mentor Graphics Corporation. All Rights Reserved.
+[2015.10.23 12:59:07] [0000m.00s.031ms] [1] Base flow version [VX.1.1]
+[2015.10.23 12:59:07] [0000m.00s.031ms] [1] GBS Install Id [43105], Flow Id [X-ENTP VX.1.1], Full Flow Name [Xpedition Enterprise X-ENTP VX.1.1], Exact Access Date [Feb 1 2015]
+[2015.10.23 12:59:07] [0000m.00s.031ms] [1] UPDATE Install Info, GBS Install Id [44598], UPDATE Name [Xpedition Enterprise X-ENTP VX.1.1 Update 6]
+[2015.10.23 12:59:07] [0000m.00s.031ms] [1] Machine [DOM_1-PC]  User [dom_1]  PID [3168]
+[2015.10.23 12:59:07] [0000m.00s.031ms] [1] Operating system [Microsoft Business Edition, 64-bit (build 9200)]
+[2015.10.23 12:59:07] [0000m.00s.031ms] [1] Current working dir [C:\]
+[2015.10.23 12:59:07] [0000m.00s.031ms] [1] PATH [C:\MentorGraphics\EEVX.1.1\SDD_HOME\common\win32\jre\default\bin\client;C:\MentorGraphics\EEVX.1.1\SDD_HOME\wg\win32\lib;C:\MentorGraphics\EEVX.1.1\SDD_HOME\wg\win32\bin;C:\MentorGraphics\EEVX.1.1\SDD_HOME\common\win32\_bin;C:\MentorGraphics\EEVX.1.1\SDD_HOME\common\win32\bin;C:\MentorGraphics\EEVX.1.1\SDD_HOME\common\win32\lib;C:\MentorGraphics\EEVX.1.1\MGC_HOME.ixn\bin;C:\MentorGraphics\EEVX.1.1\MGC_HOME.ixn\lib;C:\MentorGraphics\EEVX.1.1\SDD_HOME\common\win32\lib;C:\MentorGraphics\EEVX.1.1\SDD_HOME\common\win32\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static]
+[2015.10.23 12:59:07] [0000m.00s.031ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.1.1\SDD_HOME] on file system [NTFS]
+[2015.10.23 12:59:07] [0000m.00s.031ms] [1] SDD_PLATFORM [win32]
+[2015.10.23 12:59:07] [0000m.00s.031ms] [1] WDIR [C:\WDIR\EEVX.1.1;C:\MentorGraphics\EEVX.1.1\SDD_HOME\standard;]
+[2015.10.23 12:59:07] [0000m.00s.031ms] [1] Local iCDB working dir [C:\WDIR\EEVX.1.1\iCDB] on file system [NTFS]
+[2015.10.23 12:59:07] [0000m.00s.031ms] [2] S: Loading config files
+[2015.10.23 12:59:07] [0000m.00s.031ms] [1] Config file [C:\test1_lib\Templates\Layout\12 layer\keyin.icdb\cdbsvr\Server.cfg] not found
+[2015.10.23 12:59:07] [0000m.00s.031ms] [3] S: Config loaded
+[2015.10.23 12:59:07] [0000m.00s.031ms] [0] S: Project path [C:\test1_lib\Templates\Layout\12 layer\keyin.icdb] on file system [NTFS]
+[2015.10.23 12:59:07] [0000m.00s.031ms] [1] S: WARNING: No project file (.prj) path specified
+[2015.10.23 12:59:07] [0000m.00s.031ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2015.10.23 12:59:07] [0000m.00s.031ms] [0] S: Single-user mode (auto)
+[2015.10.23 12:59:07] [0000m.00s.031ms] [0] S: Event polling mode autodetection
+[2015.10.23 12:59:07] [0000m.00s.046ms] [0] S: Started up automatically by iCDB Client: DOM_1-PC:dom_1:4448
+[2015.10.23 12:59:07] [0000m.00s.046ms] [0] S: Auto close mode
+[2015.10.23 12:59:07] [0000m.00s.046ms] [0] S: Database ID [67c7-b1a5-58af-1653-af21-a26f-f21a-2650-8ae1-a0de-7c5c-8bf9]
+[2015.10.23 12:59:07] [0000m.00s.046ms] [0] PathTranslator: BEGIN dumping
+[2015.10.23 12:59:07] [0000m.00s.046ms] [0] PathTranslator: Local -> global path prefix list
+[2015.10.23 12:59:07] [0000m.00s.046ms] [0] PathTranslator: [C:\Windows\system32\spool\drivers] -> [\\DOM_1-PC\print$]
+[2015.10.23 12:59:07] [0000m.00s.046ms] [0] PathTranslator: [C:\Users] -> [\\DOM_1-PC\Users]
+[2015.10.23 12:59:07] [0000m.00s.046ms] [0] PathTranslator: Global -> local path prefix list
+[2015.10.23 12:59:07] [0000m.00s.046ms] [0] PathTranslator: [\\DOM_1-PC\print$] -> [C:\Windows\system32\spool\drivers]
+[2015.10.23 12:59:07] [0000m.00s.046ms] [0] PathTranslator: [\\DOM_1-PC\Users] -> [C:\Users]
+[2015.10.23 12:59:07] [0000m.00s.046ms] [0] PathTranslator: END dumping
+[2015.10.23 12:59:07] [0000m.00s.046ms] [0] S: START
+[2015.10.23 12:59:07] [0000m.00s.046ms] [0] S: Server startup lock file created
+[2015.10.23 12:59:07] [0000m.00s.046ms] [0] S: Listening for client connections on port [10002]
+[2015.10.23 12:59:07] [0000m.00s.046ms] [0] S: Server network ID [dom_1-PC:157.158.11.155,dom_1-PC:10002]
+[2015.10.23 12:59:07] [0000m.00s.046ms] [0] S: Server GUID [f0d0-9062-ee73-0c3c-bf21-a260-031a-2650-85f1-a0de-7c5c-8bf9]
+[2015.10.23 12:59:07] [0000m.00s.046ms] [0] S: Project GUID [67c7-b1a5-58af-1653-af21-a26f-f21a-2650-8ae1-a0de-7c5c-8bf9]
+[2015.10.23 12:59:07] [0000m.00s.046ms] [0] S: Wrote data to server address file
+[2015.10.23 12:59:07] [0000m.00s.046ms] [0] S: Server startup lock file removed
+[2015.10.23 12:59:07] [0000m.00s.046ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2015.10.23 12:59:07] [0000m.00s.078ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2015.10.23 12:59:07] [0000m.00s.078ms] [0] S: Local disc access time: 44 us
+[2015.10.23 12:59:07] [0000m.00s.078ms] [0] S: File server access time: 49 us
+[2015.10.23 12:59:07] [0000m.00s.078ms] [0] Single file [C:\test1_lib\Templates\Layout\12 layer\keyin.icdb\icdb.dat] size [88496 (86.4 kB)]
+[2015.10.23 12:59:07] [0000m.00s.078ms] [1] Single file [C:\test1_lib\Templates\Layout\12 layer\keyin.icdb\icdb.dat] opened in read-write mode
+[2015.10.23 12:59:07] [0000m.00s.078ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2015.10.23 12:59:07] [0000m.00s.078ms] [0] Database GUARD OK: [88496]
+[2015.10.23 12:59:07] [0000m.00s.093ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2015.10.23 12:59:07] [0000m.00s.093ms] [0] Database GUARD OK: [88496]
+[2015.10.23 12:59:07] [0000m.00s.093ms] [0] SingleFile: [81ea-f4d3-d716-d7ad] SFI version check [1009] [1009]
+[2015.10.23 12:59:07] [0000m.00s.093ms] [0] SingleFile: [81ea-f4d3-d716-d7ad] Database SFI header has been read in [2ms 186us]
+[2015.10.23 12:59:07] [0000m.00s.093ms] [0] iCDB Server PI: Server & plugin session [15]
+[2015.10.23 12:59:07] [0000m.00s.093ms] [0] iCDB Server PI: Opening database [C:\test1_lib\Templates\Layout\12 layer\keyin.icdb]
+[2015.10.23 12:59:07] [0000m.00s.093ms] [0] iCDB Server PI: Database [C:\test1_lib\Templates\Layout\12 layer\keyin.icdb] opened
+[2015.10.23 12:59:07] [0000m.00s.109ms] [0] iCDB Database: Checking existence of constraint definitions
+[2015.10.23 12:59:07] [0000m.00s.109ms] [0] iCDB Database: Checking constraint definitions version
+[2015.10.23 12:59:07] [0000m.00s.218ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.35;user.cns=ed25-9677-f80c-7960-1561-2656-5612-6550-5497-17a1-4f6c-0fdc] up to date
+[2015.10.23 12:59:07] [0000m.00s.718ms] [0] iCDB Server PI: Initializing plugins
+[2015.10.23 12:59:07] [0000m.00s.718ms] [0] iCDB Server PI: Plugins initialized
+[2015.10.23 12:59:07] [0000m.00s.718ms] [0] S: iCDB database loaded
+[2015.10.23 12:59:07] [0000m.00s.718ms] [0] S: Starting threads
+[2015.10.23 12:59:07] [0000m.00s.718ms] [0] BT: Listening for broadcast messages on port [10000]
+[2015.10.23 12:59:07] [0000m.00s.718ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2015.10.23 12:59:07] [0000m.00s.718ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2015.10.23 12:59:07] [0000m.00s.718ms] [0] IT: Session [16] for host [dom_1-PC] user [dom_1] with process ID [4448] created
+[2015.10.23 12:59:07] [0000m.00s.718ms] [1] SC[16]: Registered sub-client [usr_icdbLTDlg] with ID [1] for session ID [16] host [dom_1-PC] user [dom_1] process ID [4448]
+[2015.10.23 12:59:07] [0000m.00s.734ms] [0] IT: iCDB Server Monitor session [1] for host [dom_1-PC] user [dom_1] with process ID [4928] created
+[2015.10.23 12:59:07] [0000m.00s.734ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2015.10.23 12:59:07] [0000m.00s.734ms] [1] SC[16]: UnRegistered sub-client [usr_icdbLTDlg] with ID [1] for session ID [16] host [dom_1-PC] user [dom_1] process ID [4448]
+[2015.10.23 12:59:07] [0000m.00s.843ms] [1] CMT: There are [1] clients now: 16
+[2015.10.23 12:59:07] [0000m.00s.843ms] [1] CMT: Removed client [16]
+[2015.10.23 12:59:07] [0000m.00s.843ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2015.10.23 12:59:08] [0000m.01s.250ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2015.10.23 12:59:08] [0000m.01s.250ms] [1] IT: Server stop request received from host [DOM_1-PC] user [dom_1] with process ID [4448]
+[2015.10.23 12:59:08] [0000m.01s.250ms] [1] IT: Server stop request accepted
+[2015.10.23 12:59:08] [0000m.01s.359ms] [0] S: Closing server
+[2015.10.23 12:59:08] [0000m.01s.359ms] [0] ProjectBackupManager: WARNING: Could not shutdown Project Backup engine - not started yet
+[2015.10.23 12:59:08] [0000m.01s.421ms] [0] iCDB Server PI: Closing plugins
+[2015.10.23 12:59:08] [0000m.01s.421ms] [0] iCDB Server PI: Plugins closed
+[2015.10.23 12:59:08] [0000m.01s.421ms] [0] iCDB Server PI: Unloading database
+[2015.10.23 12:59:08] [0000m.01s.609ms] [0] iCDB Server PI: Saving storage
+[2015.10.23 12:59:08] [0000m.01s.609ms] [0] iCDB Server PI: Closing database
+[2015.10.23 12:59:08] [0000m.01s.625ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[0%] data[87%]
+[2015.10.23 12:59:08] [0000m.01s.625ms] [1] iCDB Server PI: Stats: Database file size [95032 (92.8 kB)]
+[2015.10.23 12:59:08] [0000m.01s.671ms] [0] iCDB Server PI: Database closed
+[2015.10.23 12:59:08] [0000m.01s.671ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [35] ticks
+[2015.10.23 12:59:08] [0000m.01s.671ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [13] microseconds
+[2015.10.23 12:59:08] [0000m.01s.671ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [1]
+[2015.10.23 12:59:08] [0000m.01s.671ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [74404] commands per second
+[2015.10.23 12:59:08] [0000m.01s.677ms] [0] Single file [C:\test1_lib\Templates\Layout\12 layer\keyin.icdb\icdb.dat] closed with size [95032 (92.8 kB)]
+[2015.10.23 12:59:08] [0000m.01s.678ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2015.10.23 12:59:08] [0000m.01s.688ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2015.10.23 12:59:08] [0000m.01s.813ms] [0] S: STOP

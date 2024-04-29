@@ -1,0 +1,810 @@
+
+                          Read Graphics Scheme Log File
+                          -----------------------------
+
+                      11:58 AM Saturday, February 03, 2018
+                                   Job Name: 
+
+
+Attempting to read Graphics Scheme file <C:\Users\superstudent\Desktop\PCBD\!projekt_i_bibioteka\parallella_proj\Schemat\DK_Schemat.ecp>
+
+Error: Unknown keyword <.FILETYPE> at line # 1
+Error: Unexpected string <"0.03">
+   in keyword <.VERSION> at line # 2
+Error: Bad constant value <.UNIT>
+   in keyword <.VERSION> at line # 3
+Error: Unexpected string <"(th)">
+   in keyword <.VERSION> at line # 3
+Error: Bad constant value <.PROFILE_NAME>
+   in keyword <.VERSION> at line # 5
+Error: Unexpected string <"DK_Schemat">
+   in keyword <.VERSION> at line # 5
+Error: Unexpected string <",">
+   in keyword <.VERSION> at line # 5
+Error: Unexpected string <" ">
+   in keyword <.VERSION> at line # 5
+Error: Bad constant value <..WINDOW_NAME>
+   in keyword <.VERSION> at line # 7
+Error: Unexpected string <"PlacePage">
+   in keyword <.VERSION> at line # 7
+Error: Bad constant value <...SECTION_NAME>
+   in keyword <.VERSION> at line # 9
+Error: Unexpected string <"GeneralOptionsPlaceSettings">
+   in keyword <.VERSION> at line # 9
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 10
+Error: Unexpected string <"OnlineDRC">
+   in keyword <.VERSION> at line # 10
+Error: Unexpected string <"2">
+   in keyword <.VERSION> at line # 10
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 11
+Error: Unexpected string <"ShoveParts">
+   in keyword <.VERSION> at line # 11
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 11
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 12
+Error: Unexpected string <"3DDRC">
+   in keyword <.VERSION> at line # 12
+Error: Unexpected string <"2">
+   in keyword <.VERSION> at line # 12
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 13
+Error: Unexpected string <"NetlineOptimizationPlace">
+   in keyword <.VERSION> at line # 13
+Error: Unexpected string <"2">
+   in keyword <.VERSION> at line # 13
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 14
+Error: Unexpected string <"NetlineOptimizationMove">
+   in keyword <.VERSION> at line # 14
+Error: Unexpected string <"3">
+   in keyword <.VERSION> at line # 14
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 15
+Error: Unexpected string <"DisplayLocalNetlines">
+   in keyword <.VERSION> at line # 15
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 15
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 16
+Error: Unexpected string <"DynamicNetlinesOrdering">
+   in keyword <.VERSION> at line # 16
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 16
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 17
+Error: Unexpected string <"PartAlignementSetting">
+   in keyword <.VERSION> at line # 17
+Error: Unexpected string <"2">
+   in keyword <.VERSION> at line # 17
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 18
+Error: Unexpected string <"MaxNoOfPinsToDisplay">
+   in keyword <.VERSION> at line # 18
+Error: Unexpected string <"500">
+   in keyword <.VERSION> at line # 18
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 19
+Error: Unexpected string <"AllowCellTextEdits">
+   in keyword <.VERSION> at line # 19
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 19
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 20
+Error: Unexpected string <"AllowCellGraphicsEdits">
+   in keyword <.VERSION> at line # 20
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 20
+Error: Bad constant value <....EXTERN_DIALOG>
+   in keyword <.VERSION> at line # 22
+Error: Unexpected string <"PartTextRotationsSettings">
+   in keyword <.VERSION> at line # 22
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 23
+Error: Unexpected string <"PartRotations">
+   in keyword <.VERSION> at line # 23
+Error: Unexpected string <"2">
+   in keyword <.VERSION> at line # 23
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 24
+Error: Unexpected string <"OrientationRules">
+   in keyword <.VERSION> at line # 24
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 24
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 25
+Error: Unexpected string <"TopHorizontalRules">
+   in keyword <.VERSION> at line # 25
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 25
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 26
+Error: Unexpected string <"TopVerticalRules">
+   in keyword <.VERSION> at line # 26
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 26
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 27
+Error: Unexpected string <"BottomHorizontalRules">
+   in keyword <.VERSION> at line # 27
+Error: Unexpected string <"2">
+   in keyword <.VERSION> at line # 27
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 28
+Error: Unexpected string <"BottomVerticalRules">
+   in keyword <.VERSION> at line # 28
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 28
+Error: Bad constant value <....EXTERN_DIALOG>
+   in keyword <.VERSION> at line # 30
+Error: Unexpected string <"CellRotationsSettings">
+   in keyword <.VERSION> at line # 30
+Error: Bad constant value <...SECTION_NAME>
+   in keyword <.VERSION> at line # 32
+Error: Unexpected string <"JumpersSettings">
+   in keyword <.VERSION> at line # 32
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 33
+Error: Unexpected string <"PressSpaceToAddSpacers">
+   in keyword <.VERSION> at line # 33
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 33
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 34
+Error: Unexpected string <"JumperPlacementAngle">
+   in keyword <.VERSION> at line # 34
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 34
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 35
+Error: Unexpected string <"SilverJumpersEnabled">
+   in keyword <.VERSION> at line # 35
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 35
+Error: Bad constant value <....EXTERN_DIALOG>
+   in keyword <.VERSION> at line # 37
+Error: Unexpected string <"JumperTableSettings">
+   in keyword <.VERSION> at line # 37
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 38
+Error: Unexpected string <"AssemblyAndSlikscreenLineWidth">
+   in keyword <.VERSION> at line # 38
+Error: Unexpected string <"10">
+   in keyword <.VERSION> at line # 38
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 39
+Error: Unexpected string <"LinePullbackDistance">
+   in keyword <.VERSION> at line # 39
+Error: Unexpected string <"50">
+   in keyword <.VERSION> at line # 39
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 40
+Error: Unexpected string <"JumperCreationOptions">
+   in keyword <.VERSION> at line # 40
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 40
+Error: Bad constant value <..WINDOW_NAME>
+   in keyword <.VERSION> at line # 42
+Error: Unexpected string <"RoutePage">
+   in keyword <.VERSION> at line # 42
+Error: Bad constant value <...SECTION_NAME>
+   in keyword <.VERSION> at line # 44
+Error: Unexpected string <"DialogsSettings">
+   in keyword <.VERSION> at line # 44
+Error: Bad constant value <....EXTERN_DIALOG>
+   in keyword <.VERSION> at line # 46
+Error: Unexpected string <"LayerSettings">
+   in keyword <.VERSION> at line # 46
+Error: Bad constant value <....EXTERN_DIALOG>
+   in keyword <.VERSION> at line # 48
+Error: Unexpected string <"TuningPatternsSettings">
+   in keyword <.VERSION> at line # 48
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 49
+Error: Unexpected string <"MinimumSpacing">
+   in keyword <.VERSION> at line # 49
+Error: Unexpected string <"10">
+   in keyword <.VERSION> at line # 49
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 50
+Error: Unexpected string <"PreferredMinimumHeight">
+   in keyword <.VERSION> at line # 50
+Error: Unexpected string <"50">
+   in keyword <.VERSION> at line # 50
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 51
+Error: Unexpected string <"MaximumHeight">
+   in keyword <.VERSION> at line # 51
+Error: Unexpected string <"250">
+   in keyword <.VERSION> at line # 51
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 52
+Error: Unexpected string <"MiterRatio">
+   in keyword <.VERSION> at line # 52
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 52
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 53
+Error: Unexpected string <"Serpentine">
+   in keyword <.VERSION> at line # 53
+Error: Unexpected string <"2">
+   in keyword <.VERSION> at line # 53
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 54
+Error: Unexpected string <"Trombone">
+   in keyword <.VERSION> at line # 54
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 54
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 55
+Error: Unexpected string <"Nonserpentine">
+   in keyword <.VERSION> at line # 55
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 55
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 56
+Error: Unexpected string <"PreventStairsteps">
+   in keyword <.VERSION> at line # 56
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 56
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 57
+Error: Unexpected string <"AllowViasInAnyPattern">
+   in keyword <.VERSION> at line # 57
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 57
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 58
+Error: Unexpected string <"UseArcs">
+   in keyword <.VERSION> at line # 58
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 58
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 59
+Error: Unexpected string <"ReduceLegth">
+   in keyword <.VERSION> at line # 59
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 59
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 60
+Error: Unexpected string <"AddLength">
+   in keyword <.VERSION> at line # 60
+Error: Unexpected string <"3">
+   in keyword <.VERSION> at line # 60
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 61
+Error: Unexpected string <"TunigEffort">
+   in keyword <.VERSION> at line # 61
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 61
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 62
+Error: Unexpected string <"InteractiveUrgency">
+   in keyword <.VERSION> at line # 62
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 62
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 63
+Error: Unexpected string <"AutomaticUrgency">
+   in keyword <.VERSION> at line # 63
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 63
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 64
+Error: Unexpected string <"SawtoothTuning">
+   in keyword <.VERSION> at line # 64
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 64
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 65
+Error: Unexpected string <"UncoupledTuning">
+   in keyword <.VERSION> at line # 65
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 65
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 66
+Error: Unexpected string <"SawtoothSpacing">
+   in keyword <.VERSION> at line # 66
+Error: Unexpected string <"3">
+   in keyword <.VERSION> at line # 66
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 67
+Error: Unexpected string <"SawtoothHeight">
+   in keyword <.VERSION> at line # 67
+Error: Unexpected string <"2">
+   in keyword <.VERSION> at line # 67
+Error: Bad constant value <....EXTERN_DIALOG>
+   in keyword <.VERSION> at line # 69
+Error: Unexpected string <"DiffPairRulesSettings">
+   in keyword <.VERSION> at line # 69
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 70
+Error: Unexpected string <"ConverganceDistanceTolerance">
+   in keyword <.VERSION> at line # 70
+Error: Unexpected string <"?">
+   in keyword <.VERSION> at line # 70
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 71
+Error: Unexpected string <"MaxDistanceToConvergance">
+   in keyword <.VERSION> at line # 71
+Error: Unexpected string <"?">
+   in keyword <.VERSION> at line # 71
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 72
+Error: Unexpected string <"MinLengthToMainParing">
+   in keyword <.VERSION> at line # 72
+Error: Unexpected string <"100">
+   in keyword <.VERSION> at line # 72
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 73
+Error: Unexpected string <"MaxSeparationDistance">
+   in keyword <.VERSION> at line # 73
+Error: Unexpected string <"?">
+   in keyword <.VERSION> at line # 73
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 74
+Error: Unexpected string <"DiffPairsPushAndShoweBehavior">
+   in keyword <.VERSION> at line # 74
+Error: Unexpected string <"3">
+   in keyword <.VERSION> at line # 74
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 75
+Error: Unexpected string <"MinimizeSplitting">
+   in keyword <.VERSION> at line # 75
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 75
+Error: Bad constant value <....EXTERN_DIALOG>
+   in keyword <.VERSION> at line # 77
+Error: Unexpected string <"PadEntrySettings">
+   in keyword <.VERSION> at line # 77
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 78
+Error: Unexpected string <"GirdlessPadEntry">
+   in keyword <.VERSION> at line # 78
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 78
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 79
+Error: Unexpected string <"FitView">
+   in keyword <.VERSION> at line # 79
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 79
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 80
+Error: Unexpected string <"ExposedMetalClearanceTopLr">
+   in keyword <.VERSION> at line # 80
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 80
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 81
+Error: Unexpected string <"ExposedMetalClearanceBottomLr">
+   in keyword <.VERSION> at line # 81
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 81
+Error: Bad constant value <....EXTERN_DIALOG>
+   in keyword <.VERSION> at line # 83
+Error: Unexpected string <"TraceExpansionSettings">
+   in keyword <.VERSION> at line # 83
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 84
+Error: Unexpected string <"MinimumDistanceAtPadEntry">
+   in keyword <.VERSION> at line # 84
+Error: Unexpected string <"25">
+   in keyword <.VERSION> at line # 84
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 85
+Error: Unexpected string <"TokenMinDistanceAtSameWidth">
+   in keyword <.VERSION> at line # 85
+Error: Unexpected string <"100">
+   in keyword <.VERSION> at line # 85
+Error: Bad constant value <.....CONTROL>
+   in keyword <.VERSION> at line # 86
+Error: Unexpected string <"ExpandTracesOrder">
+   in keyword <.VERSION> at line # 86
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 86
+Error: Bad constant value <...SECTION_NAME>
+   in keyword <.VERSION> at line # 88
+Error: Unexpected string <"PlowSettings">
+   in keyword <.VERSION> at line # 88
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 89
+Error: Unexpected string <"MouseUpStyle">
+   in keyword <.VERSION> at line # 89
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 89
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 90
+Error: Unexpected string <"MouseDragStyle">
+   in keyword <.VERSION> at line # 90
+Error: Unexpected string <"2">
+   in keyword <.VERSION> at line # 90
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 91
+Error: Unexpected string <"PlowDRC">
+   in keyword <.VERSION> at line # 91
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 91
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 92
+Error: Unexpected string <"DblClikcToAddVia">
+   in keyword <.VERSION> at line # 92
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 92
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 93
+Error: Unexpected string <"PreventLoops">
+   in keyword <.VERSION> at line # 93
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 93
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 94
+Error: Unexpected string <"Angles">
+   in keyword <.VERSION> at line # 94
+Error: Unexpected string <"2">
+   in keyword <.VERSION> at line # 94
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 95
+Error: Unexpected string <"AngleShift">
+   in keyword <.VERSION> at line # 95
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 95
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 96
+Error: Unexpected string <"NetlineOptimization">
+   in keyword <.VERSION> at line # 96
+Error: Unexpected string <"2">
+   in keyword <.VERSION> at line # 96
+Error: Bad constant value <...SECTION_NAME>
+   in keyword <.VERSION> at line # 98
+Error: Unexpected string <"GlossPushAndShoveSettings">
+   in keyword <.VERSION> at line # 98
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 99
+Error: Unexpected string <"GlossMode">
+   in keyword <.VERSION> at line # 99
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 99
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 100
+Error: Unexpected string <"MoveViasToReduceTraceSegments">
+   in keyword <.VERSION> at line # 100
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 100
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 101
+Error: Unexpected string <"AlowTracesToJumpPadsAndHoles">
+   in keyword <.VERSION> at line # 101
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 101
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 102
+Error: Unexpected string <"RemoveExcessMeand ers">
+   in keyword <.VERSION> at line # 102
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 102
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 103
+Error: Unexpected string <"GlossAroundDeletedTracesOfVias">
+   in keyword <.VERSION> at line # 103
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 103
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 104
+Error: Unexpected string <"GlossSpreadPad">
+   in keyword <.VERSION> at line # 104
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 104
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 105
+Error: Unexpected string <"GlossSpreadPadPercent">
+   in keyword <.VERSION> at line # 105
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 105
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 106
+Error: Unexpected string <"GlossSpreadPadPrefer">
+   in keyword <.VERSION> at line # 106
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 106
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 107
+Error: Unexpected string <"GlossSpreadOther">
+   in keyword <.VERSION> at line # 107
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 107
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 108
+Error: Unexpected string <"GlossSpreadOtherPercent">
+   in keyword <.VERSION> at line # 108
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 108
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 109
+Error: Unexpected string <"GlossSpreadOtherPrefer">
+   in keyword <.VERSION> at line # 109
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 109
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 110
+Error: Unexpected string <"ViaShowing">
+   in keyword <.VERSION> at line # 110
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 110
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 111
+Error: Unexpected string <"TraceShoving">
+   in keyword <.VERSION> at line # 111
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 111
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 112
+Error: Unexpected string <"BondpadShoving">
+   in keyword <.VERSION> at line # 112
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 112
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 113
+Error: Unexpected string <"ViaJumping">
+   in keyword <.VERSION> at line # 113
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 113
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 114
+Error: Unexpected string <"PadJumping">
+   in keyword <.VERSION> at line # 114
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 114
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 115
+Error: Unexpected string <"InteractiveRouteMode">
+   in keyword <.VERSION> at line # 115
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 115
+Error: Bad constant value <...SECTION_NAME>
+   in keyword <.VERSION> at line # 117
+Error: Unexpected string <"AnglesAndCornersSettings">
+   in keyword <.VERSION> at line # 117
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 118
+Error: Unexpected string <"AnyAngleTrace">
+   in keyword <.VERSION> at line # 118
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 118
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 119
+Error: Unexpected string <"Allow45DCorners">
+   in keyword <.VERSION> at line # 119
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 119
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 120
+Error: Unexpected string <"Radius">
+   in keyword <.VERSION> at line # 120
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 120
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 121
+Error: Unexpected string <"MinimumRadius">
+   in keyword <.VERSION> at line # 121
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 121
+Error: Bad constant value <...SECTION_NAME>
+   in keyword <.VERSION> at line # 123
+Error: Unexpected string <"ViasAndFanoutsSettings">
+   in keyword <.VERSION> at line # 123
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 124
+Error: Unexpected string <"AutoTrimTroughVias">
+   in keyword <.VERSION> at line # 124
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 124
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 125
+Error: Unexpected string <"AllowOneAdditionalViaPerSMDPin">
+   in keyword <.VERSION> at line # 125
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 125
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 126
+Error: Unexpected string <"UsePlaceOutlinesAsViaObstructs">
+   in keyword <.VERSION> at line # 126
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 126
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 127
+Error: Unexpected string <"EnableFanout">
+   in keyword <.VERSION> at line # 127
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 127
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 128
+Error: Unexpected string <"MaxPinsPerLane">
+   in keyword <.VERSION> at line # 128
+Error: Unexpected string <"3">
+   in keyword <.VERSION> at line # 128
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 129
+Error: Unexpected string <"MaxLengthOfRestrictedExternLayers">
+   in keyword <.VERSION> at line # 129
+Error: Unexpected string <"200">
+   in keyword <.VERSION> at line # 129
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 130
+Error: Unexpected string <"MaxLengthOfRestrictedInternLayers">
+   in keyword <.VERSION> at line # 130
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 130
+Error: Bad constant value <...SECTION_NAME>
+   in keyword <.VERSION> at line # 132
+Error: Unexpected string <"NetRuleOverridesSettings">
+   in keyword <.VERSION> at line # 132
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 133
+Error: Unexpected string <"StubLengths">
+   in keyword <.VERSION> at line # 133
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 133
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 134
+Error: Unexpected string <"LayerRestrictions">
+   in keyword <.VERSION> at line # 134
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 134
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 135
+Error: Unexpected string <"ViaRestrictions">
+   in keyword <.VERSION> at line # 135
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 135
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 136
+Error: Unexpected string <"MaxDelaysAndLengths">
+   in keyword <.VERSION> at line # 136
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 136
+Error: Bad constant value <..WINDOW_NAME>
+   in keyword <.VERSION> at line # 138
+Error: Unexpected string <"GridsPage">
+   in keyword <.VERSION> at line # 138
+Error: Bad constant value <...SECTION_NAME>
+   in keyword <.VERSION> at line # 140
+Error: Unexpected string <"PartGridsSettings">
+   in keyword <.VERSION> at line # 140
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 141
+Error: Unexpected string <"PrimaryPartGrid">
+   in keyword <.VERSION> at line # 141
+Error: Unexpected string <"10">
+   in keyword <.VERSION> at line # 141
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 142
+Error: Unexpected string <"SecondaryPartGrid">
+   in keyword <.VERSION> at line # 142
+Error: Unexpected string <"5">
+   in keyword <.VERSION> at line # 142
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 143
+Error: Unexpected string <"PlacementRelatedGridXOff">
+   in keyword <.VERSION> at line # 143
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 143
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 144
+Error: Unexpected string <"PlacementRelatedGridYOff">
+   in keyword <.VERSION> at line # 144
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 144
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 145
+Error: Unexpected string <"MinimumNumberOfPins">
+   in keyword <.VERSION> at line # 145
+Error: Unexpected string <"14">
+   in keyword <.VERSION> at line # 145
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 146
+Error: Unexpected string <"MountStyle">
+   in keyword <.VERSION> at line # 146
+Error: Unexpected string <"2">
+   in keyword <.VERSION> at line # 146
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 147
+Error: Unexpected string <"PartGridSnapSetting">
+   in keyword <.VERSION> at line # 147
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 147
+Error: Bad constant value <...SECTION_NAME>
+   in keyword <.VERSION> at line # 149
+Error: Unexpected string <"RouteGridsSettings">
+   in keyword <.VERSION> at line # 149
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 150
+Error: Unexpected string <"RouteGrid">
+   in keyword <.VERSION> at line # 150
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 150
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 151
+Error: Unexpected string <"ViaGrid">
+   in keyword <.VERSION> at line # 151
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 151
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 152
+Error: Unexpected string <"RouteRelatedGridXOff">
+   in keyword <.VERSION> at line # 152
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 152
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 153
+Error: Unexpected string <"RouteRelatedGridYOff">
+   in keyword <.VERSION> at line # 153
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 153
+Error: Bad constant value <...SECTION_NAME>
+   in keyword <.VERSION> at line # 155
+Error: Unexpected string <"OtherGridsSettings">
+   in keyword <.VERSION> at line # 155
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 156
+Error: Unexpected string <"DrawingGrid">
+   in keyword <.VERSION> at line # 156
+Error: Unexpected string <"25">
+   in keyword <.VERSION> at line # 156
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 157
+Error: Unexpected string <"JumperGrid">
+   in keyword <.VERSION> at line # 157
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 157
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 158
+Error: Unexpected string <"TestpointGrid">
+   in keyword <.VERSION> at line # 158
+Error: Unexpected string <"None">
+   in keyword <.VERSION> at line # 158
+Error: Bad constant value <..WINDOW_NAME>
+   in keyword <.VERSION> at line # 160
+Error: Unexpected string <"CommonSettingsPage">
+   in keyword <.VERSION> at line # 160
+Error: Bad constant value <...SECTION_NAME>
+   in keyword <.VERSION> at line # 162
+Error: Unexpected string <"CommonSettings">
+   in keyword <.VERSION> at line # 162
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 163
+Error: Unexpected string <"InteractveDRC">
+   in keyword <.VERSION> at line # 163
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 163
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 164
+Error: Unexpected string <"InteractiveAutoSaveInteval">
+   in keyword <.VERSION> at line # 164
+Error: Unexpected string <"60">
+   in keyword <.VERSION> at line # 164
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 165
+Error: Unexpected string <"AutoRouteAutoSaveInterval">
+   in keyword <.VERSION> at line # 165
+Error: Unexpected string <"60">
+   in keyword <.VERSION> at line # 165
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 166
+Error: Unexpected string <"MoveFixedObject">
+   in keyword <.VERSION> at line # 166
+Error: Unexpected string <"0">
+   in keyword <.VERSION> at line # 166
+Error: Bad constant value <....CONTROL>
+   in keyword <.VERSION> at line # 167
+Error: Unexpected string <"ZAxisRouteDRC">
+   in keyword <.VERSION> at line # 167
+Error: Unexpected string <"1">
+   in keyword <.VERSION> at line # 167
+Error: Expected <1> arguments
+   in keyword <.VERSION> above line # 167
+
+Errors encountered: 399
+There were errors reading the scheme file.

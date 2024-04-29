@@ -1,0 +1,186 @@
+C:\Users\HOME\Desktop\Projekt 3Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\PCB\parallella.pcb
+C:\MentorGraphics\EEVX.2.2\SDD_HOME\wg\win64\bin\ExpeditionPCB.exe
+Computer name: HOME-PC-W7
+Local host name: HOME-PC-W7
+Full computer name: HOME-PC-W7 (192.168.0.103)
+DNS computer name: HOME-PC-W7
+Microsoft Windows 7 Professional Service Pack 1 (Build 7601)
+RAM: 8153 Mb
+4 CPU Intel64 Family 6 Model 58 Stepping 9 3203 Mhz (Intel Core i5-3470 3.20GHz)
+
+
+Distributed Autorouter parameters:
+[Server]
+XAR MultiThreaded=0
+PushMode=1
+UseFreeClients=1
+UseFrames=1
+Out=0
+XDebugBreak=0
+RoutePlanning=1
+NoVia=0
+FanoutsPass2=0
+ReportOnlineHazards=0
+ReduceOnIdleCalls=1
+[Client]
+SyncOnAttempt=1
+SendObstacleMarks=0
+UnmarkObstacles=0
+AskInterruptFT=1
+XDebugBreak=0
+XRipupSleep=0
+PcbThingRefresh=1
+UpdateNetlines=0
+[Report]
+Digits=0
+Log=0
+ServiceTime=1
+
+UsedMemory: Init 32152 K ->Peak 407152 K
+
+====================================================================================================================
+Route 1-4 Selected Pins Layers:1, 5, 12
+====================================================================================================================
+                CPU Time CLK Time Svc Time Server FailTime SendTime Trans ExecTime LostTime Rte Time      UsedMemory
+Eff NoFTs Tries hh:mm:ss hh:mm:ss hh:mm:ss  Fails hh:mm:ss hh:mm:ss Execs hh:mm:ss hh:mm:ss hh:mm:ss   Start     End
+--------------------------------------------------------------------------------------------------------------------
+1       1     1 00:00:00 00:00:00 00:00:00      0 00:00:00 00:00:00     0 00:00:00 00:00:00 00:00:00  407060  407060
+2       0     0 00:00:00 00:00:00 00:00:00      0 00:00:00 00:00:00     0 00:00:00-00:00:00 00:00:00  407060  407060
+3       0     0 00:00:00 00:00:00 00:00:00      0 00:00:00 00:00:00     0 00:00:00 00:00:00 00:00:00  407060  407060
+4       0     0 00:00:00 00:00:00 00:00:00      0 00:00:00 00:00:00     0 00:00:00-00:00:00 00:00:00  407060  407060
+--------------------------------------------------------------------------------------------------------------------
+1-4     1     1 00:00:00 00:00:00 00:00:00      0 00:00:00 00:00:00     0 00:00:00-00:00:00 00:00:00  407060  407060
+
+All     1     1 00:00:01 00:00:01 00:00:00      0 00:00:00 00:00:00     0 00:00:00 00:00:00 00:00:01  407060  407060
+
+
+############################################### Additional Route Info ##############################################
+
+====================================================================================================================
+Route 1-4 Selected Pins Layers:1, 5, 12
+====================================================================================================================
+                                         CPU Time CLK Time    CPU Mean    CLK Mean In Server CPU Time CLK Time
+Eff                      Func      Calls hh:mm:ss hh:mm:ss hh:mm:ss.dd hh:mm:ss.dd     Fails hh:mm:ss hh:mm:ss
+--------------------------------------------------------------------------------------------------------------------
+1  
+    Attempts                           2
+    RouteFails                         0
+    PushFails                          1
+    FatalFails                         0
+    RerouteFails                       0
+    NoFails                            1
+    PRF_Route                          2 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    PRF_Resolve                        2 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    PRF_Straighten                     1 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    xTransaction                       2 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    StraightenNet                      6 00:00:00 00:00:00
+    UpdateRouterMap                    0 00:00:00 00:00:00
+    PumpWindowsMessages                0 00:00:00 00:00:00
+    WaitTime                             00:00:00
+      WaitEffort                         00:00:00
+    RouteTime                            00:00:00
+    Opens                            565 -3=562
+    TrackLength          (in)      17.40 +0.34=17.75
+    GlobalCheckSum            930a2aae->d64d77d8
+2  
+    Attempts                           0
+    RouteFails                         0
+    PushFails                          0
+    FatalFails                         0
+    RerouteFails                       0
+    NoFails                            0
+    PRF_Route                          0 00:00:00 00:00:00
+    PRF_Resolve                        0 00:00:00 00:00:00
+    PRF_Straighten                     0 00:00:00 00:00:00
+    xTransaction                       0 00:00:00 00:00:00
+    StraightenNet                      0 00:00:00 00:00:00
+    UpdateRouterMap                    0 00:00:00 00:00:00
+    PumpWindowsMessages                0 00:00:00 00:00:00
+    WaitTime                            -00:00:00
+      WaitEffort                        -00:00:00
+    RouteTime                            00:00:00
+    Opens                            562 -0=562
+    TrackLength          (in)      17.75 +0.00=17.75
+    GlobalCheckSum            d64d77d8->d64d77d8
+3  
+    Attempts                           0
+    RouteFails                         0
+    PushFails                          0
+    FatalFails                         0
+    RerouteFails                       0
+    NoFails                            0
+    PRF_Route                          0 00:00:00 00:00:00
+    PRF_Resolve                        0 00:00:00 00:00:00
+    PRF_Straighten                     0 00:00:00 00:00:00
+    xTransaction                       0 00:00:00 00:00:00
+    StraightenNet                      0 00:00:00 00:00:00
+    UpdateRouterMap                    0 00:00:00 00:00:00
+    PumpWindowsMessages                0 00:00:00 00:00:00
+    WaitTime                             00:00:00
+      WaitEffort                         00:00:00
+    RouteTime                            00:00:00
+    Opens                            562 -0=562
+    TrackLength          (in)      17.75 +0.00=17.75
+    GlobalCheckSum            d64d77d8->d64d77d8
+4  
+    Attempts                           0
+    RouteFails                         0
+    PushFails                          0
+    FatalFails                         0
+    RerouteFails                       0
+    NoFails                            0
+    PRF_Route                          0 00:00:00 00:00:00
+    PRF_Resolve                        0 00:00:00 00:00:00
+    PRF_Straighten                     0 00:00:00 00:00:00
+    xTransaction                       0 00:00:00 00:00:00
+    StraightenNet                      0 00:00:00 00:00:00
+    UpdateRouterMap                    1 00:00:00 00:00:00
+    PumpWindowsMessages                0 00:00:00 00:00:00
+    WaitTime                            -00:00:00
+      WaitEffort                        -00:00:00
+    RouteTime                            00:00:00
+    Opens                            562 -0=562
+    TrackLength          (in)      17.75 +0.00=17.75
+    GlobalCheckSum            d64d77d8->d64d77d8
+--------------------------------------------------------------------------------------------------------------------
+1-4
+    Attempts                           2
+    RouteFails                         0
+    PushFails                          1
+    FatalFails                         0
+    RerouteFails                       0
+    NoFails                            1
+    PRF_Route                          2 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    PRF_Resolve                        2 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    PRF_Straighten                     1 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    xTransaction                       2 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    StraightenNet                      6 00:00:00 00:00:00
+    UpdateRouterMap                    1 00:00:00 00:00:00
+    PumpWindowsMessages                0 00:00:00 00:00:00
+    WaitTime                            -00:00:00
+      WaitEffort                         00:00:00
+    RouteTime                            00:00:00
+    Opens                            565 -3=562
+    TrackLength          (in)      17.40 +0.34=17.75
+    GlobalCheckSum            930a2aae->d64d77d8
+
+All
+    Attempts                           2
+    RouteFails                         0
+    PushFails                          1
+    FatalFails                         0
+    RerouteFails                       0
+    NoFails                            1
+    PRF_Route                          2 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    PRF_Resolve                        2 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    PRF_Straighten                     1 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    xTransaction                       2 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    StraightenNet                      6 00:00:00 00:00:00
+    UpdateRouterMap                    5 00:00:00 00:00:00
+    PumpWindowsMessages                0 00:00:00 00:00:00
+    WaitTime                             00:00:00
+      WaitEffort                         00:00:00
+    RouteTime                            00:00:01
+    Opens                            565 -3=562
+    TrackLength          (in)      17.40 +0.34=17.75
+    GlobalCheckSum            930a2aae->d64d77d8

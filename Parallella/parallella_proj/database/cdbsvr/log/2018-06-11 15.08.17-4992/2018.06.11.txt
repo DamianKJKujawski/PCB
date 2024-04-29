@@ -1,0 +1,525 @@
+[2018.06.11 15:08:17] [0000m.00s.132ms] [0] WELCOME
+[2018.06.11 15:08:17] [0000m.00s.166ms] [1] iCDB Server ver.2.202, 88Zh1V4+7Fzqu6g9/cuD/w, build:7609897 created 2017-06-23 16:20:58, sources stamp:88Zh1V4+7Fzqu6g9/cuD/w
+[2018.06.11 15:08:17] [0000m.00s.166ms] [1] Copyright 2017 Mentor Graphics Corporation.  All Rights Reserved.
+[2018.06.11 15:08:17] [0000m.00s.166ms] [1] Base flow version [VX.2.2]
+[2018.06.11 15:08:17] [0000m.00s.166ms] [1] Install Id [1589114], Flow Id [X-ENTP VX.2.2], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.2], Exact Access Date [2017/05/01]
+[2018.06.11 15:08:17] [0000m.00s.171ms] [1] Machine [HOME-PC-W7]  IP [127.0.0.1,192.168.0.104]  User [HOME]  PID [4992]
+[2018.06.11 15:08:17] [0000m.00s.172ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2018.06.11 15:08:17] [0000m.00s.172ms] [1] Current working dir [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj]
+[2018.06.11 15:08:17] [0000m.00s.172ms] [1] PATH [C:\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\bin;C:\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\lib;C:\MentorGraphics\EEVX.2.2\MGC_HOME.ixw\bin;C:\MentorGraphics\EEVX.2.2\MGC_HOME.ixw\lib;C:\Program Files (x86)\Intel\MPI-RT\5.0.2.044\intel64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MATLAB\R2017a\bin;C:\Wincupl\WINCUPL\EXE;C:\Wincupl\WINCUPL\FITTERS]
+[2018.06.11 15:08:17] [0000m.00s.172ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.2\SDD_HOME] on file system [NTFS]
+[2018.06.11 15:08:17] [0000m.00s.172ms] [1] SDD_PLATFORM [win64]
+[2018.06.11 15:08:17] [0000m.00s.172ms] [1] WDIR [C:\WDIR\EEVX.2.2;C:\MentorGraphics\EEVX.2.2\SDD_HOME\standard;]
+[2018.06.11 15:08:17] [0000m.00s.172ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.2\iCDB] on file system [NTFS]
+[2018.06.11 15:08:17] [0000m.00s.172ms] [2] S: Loading config files
+[2018.06.11 15:08:17] [0000m.00s.183ms] [1] Config file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\cdbsvr\Server.cfg] not found
+[2018.06.11 15:08:17] [0000m.00s.185ms] [3] S: Config loaded
+[2018.06.11 15:08:17] [0000m.00s.303ms] [0] S: Project path [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] on file system [NTFS]
+[2018.06.11 15:08:17] [0000m.00s.303ms] [0] S: Project global path [\\HOME-PC-W7\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] on file system [NTFS]
+[2018.06.11 15:08:17] [0000m.00s.303ms] [0] S: Project file (.prj) path [\\HOME-PC-W7\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\parallella.prj] on file system [UNKNOWN]
+[2018.06.11 15:08:17] [0000m.00s.303ms] [0] S: Project file (.prj) local path [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\parallella.prj] on file system [NTFS]
+[2018.06.11 15:08:17] [0000m.00s.316ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2018.06.11 15:08:17] [0000m.00s.316ms] [0] S: Single-user mode (auto)
+[2018.06.11 15:08:17] [0000m.00s.316ms] [0] S: Event polling mode autodetection
+[2018.06.11 15:08:17] [0000m.00s.316ms] [0] S: Started up automatically by iCDB Client: HOME-PC-W7:HOME:3980
+[2018.06.11 15:08:17] [0000m.00s.317ms] [0] S: Auto close mode
+[2018.06.11 15:08:17] [0000m.00s.317ms] [0] S: Database ID [bf09-6b82-4c8e-7254-d6e8-61b2-7e86-1b50-a323-8e1d-0c4b-ba98]
+[2018.06.11 15:08:17] [0000m.00s.317ms] [0] PathTranslator: BEGIN dumping
+[2018.06.11 15:08:17] [0000m.00s.317ms] [0] PathTranslator: Local -> global path prefix list
+[2018.06.11 15:08:17] [0000m.00s.317ms] [0] PathTranslator: [C:\Users] -> [\\HOME-PC-W7\Users]
+[2018.06.11 15:08:17] [0000m.00s.317ms] [0] PathTranslator: Global -> local path prefix list
+[2018.06.11 15:08:17] [0000m.00s.317ms] [0] PathTranslator: [\\HOME-PC-W7\Users] -> [C:\Users]
+[2018.06.11 15:08:17] [0000m.00s.317ms] [0] PathTranslator: END dumping
+[2018.06.11 15:08:17] [0000m.00s.317ms] [0] S: START
+[2018.06.11 15:08:17] [0000m.00s.317ms] [0] S: Server startup lock file created
+[2018.06.11 15:08:17] [0000m.00s.318ms] [0] S: Listening for client connections on port [10000]
+[2018.06.11 15:08:17] [0000m.00s.328ms] [0] S: Server network ID [HOME-PC-W7:192.168.0.104,HOME-PC-W7:10000]
+[2018.06.11 15:08:17] [0000m.00s.328ms] [0] S: Server GUID [bbd7-64f7-9fe2-bd4e-1447-e1b6-447e-1b50-6e33-8e1d-2c4b-ba98]
+[2018.06.11 15:08:17] [0000m.00s.328ms] [0] S: Project GUID [bf09-6b82-4c8e-7254-d6e8-61b2-7e86-1b50-a323-8e1d-0c4b-ba98]
+[2018.06.11 15:08:17] [0000m.00s.328ms] [0] S: Wrote data to server address file
+[2018.06.11 15:08:17] [0000m.00s.328ms] [0] S: Server startup lock file removed
+[2018.06.11 15:08:17] [0000m.00s.330ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\parallella.prj]
+[2018.06.11 15:08:18] [0000m.01s.322ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2018.06.11 15:08:18] [0000m.01s.323ms] [1] ServerToolkit: INFO: Plugin found in SDD_COMMON_BIN [C:\MentorGraphics\EEVX.2.2\SDD_HOME\common\win64\bin]
+[2018.06.11 15:08:18] [0000m.01s.323ms] [0] S: Local disc access time: 45 us
+[2018.06.11 15:08:18] [0000m.01s.323ms] [0] S: File server access time: 49 us
+[2018.06.11 15:08:18] [0000m.01s.392ms] [0] Single file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] size [1538560 (1.5 MB)]
+[2018.06.11 15:08:18] [0000m.01s.392ms] [1] Single file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] opened in read-write mode
+[2018.06.11 15:08:18] [0000m.01s.392ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.11 15:08:18] [0000m.01s.392ms] [0] Database GUARD OK: [1538560]
+[2018.06.11 15:08:18] [0000m.01s.415ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.11 15:08:18] [0000m.01s.415ms] [0] Database GUARD OK: [1538560]
+[2018.06.11 15:08:18] [0000m.01s.415ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.11 15:08:18] [0000m.01s.415ms] [0] Database GUARD OK: [1538560]
+[2018.06.11 15:08:18] [0000m.01s.416ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.11 15:08:18] [0000m.01s.416ms] [0] Database GUARD OK: [1538560]
+[2018.06.11 15:08:18] [0000m.01s.428ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.06.11 15:08:18] [0000m.01s.428ms] [0] Database GUARD OK: [1538560]
+[2018.06.11 15:08:18] [0000m.01s.428ms] [0] SingleFile: [2a15-5b52-c660-584d] SFI version check [1009] [1009]
+[2018.06.11 15:08:18] [0000m.01s.466ms] [0] SingleFile: [2a15-5b52-c660-584d] Database SFI header has been read in [37ms 2us]
+[2018.06.11 15:08:18] [0000m.01s.476ms] [0] iCDB Server PI: Server & plugin session [2713]
+[2018.06.11 15:08:18] [0000m.01s.476ms] [0] iCDB Server PI: Opening database [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database]
+[2018.06.11 15:08:18] [0000m.01s.476ms] [0] iCDB Server PI: Database [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database] opened
+[2018.06.11 15:08:18] [0000m.01s.513ms] [0] iCDB Database: Checking existence of constraint definitions
+[2018.06.11 15:08:18] [0000m.01s.513ms] [0] iCDB Database: Checking constraint definitions version
+[2018.06.11 15:08:18] [0000m.01s.698ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.56;user.cns=e1f5-07a6-a6d1-219c-7533-43ac-5334-3a50-6533-8e1d-0c4b-ba98] up to date
+[2018.06.11 15:08:19] [0000m.01s.833ms] [0] iCDB Server PI: Initializing plugins
+[2018.06.11 15:08:19] [0000m.01s.836ms] [0] iCDB Server PI: Plugins initialized
+[2018.06.11 15:08:19] [0000m.01s.836ms] [0] S: iCDB database loaded
+[2018.06.11 15:08:19] [0000m.01s.837ms] [0] S: Starting threads
+[2018.06.11 15:08:19] [0000m.01s.838ms] [0] BT: Listening for broadcast messages on port [10000]
+[2018.06.11 15:08:19] [0000m.01s.838ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2018.06.11 15:08:19] [0000m.01s.841ms] [0] MWT: WindowProc: WM_NCCREATE
+[2018.06.11 15:08:19] [0000m.01s.847ms] [0] IT: Session [2714] for host [HOME-PC-W7] user [HOME] with process ID [3980] created
+[2018.06.11 15:08:19] [0000m.01s.926ms] [1] SC[2714]: Registered sub-client [DxD] with ID [1] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:19] [0000m.01s.938ms] [1] CMT: There are [1] clients now: 2714
+[2018.06.11 15:08:20] [0000m.03s.117ms] [1] SC[2714]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:20] [0000m.03s.145ms] [1] SC[2714]: Registered sub-client [xprob] with ID [3] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:20] [0000m.03s.338ms] [1] SC[2714]: Registered sub-client [StartServerClientf90] with ID [4] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:20] [0000m.03s.347ms] [1] SC[2714]: UnRegistered sub-client [StartServerClientf90] with ID [4] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:22] [0000m.05s.083ms] [1] SC[2714]: Registered sub-client [SymbolEditor] with ID [5] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:22] [0000m.05s.126ms] [1] SC[2714]: Registered sub-client [SelectionHolder] with ID [6] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:22] [0000m.05s.162ms] [1] SC[2714]: Registered sub-client [EEVM_EEVM_296788080] with ID [7] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:22] [0000m.05s.163ms] [1] SC[2714]: UnRegistered sub-client [EEVM_EEVM_296788080] with ID [7] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:22] [0000m.05s.166ms] [1] SC[2714]: Registered sub-client [EEVM_EEVM_296788080] with ID [8] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:22] [0000m.05s.372ms] [1] SC[2714]: UnRegistered sub-client [EEVM_EEVM_296788080] with ID [8] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:22] [0000m.05s.377ms] [1] SC[2714]: Registered sub-client [EEVM_EEVM_296788080] with ID [9] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:22] [0000m.05s.377ms] [1] SC[2714]: UnRegistered sub-client [EEVM_EEVM_296788080] with ID [9] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:22] [0000m.05s.381ms] [1] SC[2714]: Registered sub-client [EEVM_EEVM_296788080] with ID [10] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:22] [0000m.05s.440ms] [1] SC[2714]: UnRegistered sub-client [EEVM_EEVM_296788080] with ID [10] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:22] [0000m.05s.621ms] [1] SC[2714]: Registered sub-client [SystemDesignDll] with ID [11] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:22] [0000m.05s.660ms] [1] SC[2714]: UnRegistered sub-client [SystemDesignDll] with ID [11] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:22] [0000m.05s.663ms] [1] SC[2714]: Registered sub-client [SystemDesignDll] with ID [12] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:24] [0000m.06s.956ms] [1] SC[2714]: Registered sub-client [DesignSearcher2] with ID [13] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:24] [0000m.06s.958ms] [1] SC[2714]: Registered sub-client [HdlProject] with ID [14] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:24] [0000m.07s.078ms] [1] SC[2714]: Registered sub-client [Navigator] with ID [15] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:24] [0000m.07s.177ms] [1] SC[2714]: Registered sub-client [OutputWindow] with ID [16] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:24] [0000m.07s.180ms] [1] SC[2714]: Registered sub-client [PlaceDevice] with ID [17] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:24] [0000m.07s.336ms] [1] SC[2714]: Registered sub-client [LocalSymbolsDataProvider] with ID [18] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:24] [0000m.07s.402ms] [1] SC[2714]: Registered sub-client [FFSearch_Controller_0] with ID [19] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:24] [0000m.07s.446ms] [1] SC[2714]: Registered sub-client [FFSearch_Controller_1] with ID [20] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:24] [0000m.07s.728ms] [1] SC[2714]: Registered sub-client [FFSSelListener] with ID [21] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:24] [0000m.07s.733ms] [1] SC[2714]: Registered sub-client [SAE] with ID [22] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:24] [0000m.07s.735ms] [1] SC[2714]: Registered sub-client [CCZAddin] with ID [23] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:24] [0000m.07s.736ms] [1] SC[2714]: Registered sub-client [DxThumbnails] with ID [24] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:24] [0000m.07s.737ms] [1] SC[2714]: Registered sub-client [MyParts] with ID [25] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:24] [0000m.07s.747ms] [1] SC[2714]: Registered sub-client [PinsList] with ID [26] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:25] [0000m.08s.127ms] [1] SC[2714]: Registered sub-client [toolboxes] with ID [27] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:25] [0000m.08s.201ms] [1] SC[2714]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:236876112] with ID [28] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:25] [0000m.08s.241ms] [1] SC[2714]: Registered sub-client [Core::DesignListener-12374] with ID [29] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:25] [0000m.08s.361ms] [1] SC[2714]: Registered sub-client [SheetConnectorsCacheDxD:1528722505] with ID [30] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:25] [0000m.08s.441ms] [1] SC[2714]: Registered sub-client [NetsNamesCollectorDxD:1528722505] with ID [31] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:25] [0000m.08s.648ms] [1] SC[2714]: Registered sub-client [PartReplaceUtils] with ID [32] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:25] [0000m.08s.651ms] [1] SC[2714]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [33] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:26] [0000m.08s.976ms] [1] SC[2714]: Registered sub-client [ObjectHolder_482397040] with ID [34] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:26] [0000m.08s.977ms] [1] SC[2714]: Registered sub-client [BlockCacheDxD:507107264] with ID [35] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:26] [0000m.08s.980ms] [1] SC[2714]: Registered sub-client [GlobalNetAliasUpdater_454136656] with ID [36] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:26] [0000m.08s.986ms] [1] SC[2714]: Registered sub-client [IcdbNetProcessorSubClientDxD:507275264] with ID [37] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:27] [0000m.09s.947ms] [1] SC[2714]: Registered sub-client [DxDbSearch] with ID [38] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:38] [0000m.20s.839ms] [0] DFAMT: File server access time: 84 us
+[2018.06.11 15:08:55] [0000m.38s.023ms] [1] SC[2714]: Registered sub-client [Dx2Exp_140400] with ID [39] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:08:55] [0000m.38s.024ms] [1] SC[2714]: UnRegistered sub-client [Dx2Exp_140400] with ID [39] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 15:09:12] [0000m.55s.759ms] [0] IT: Session [2715] for host [HOME-PC-W7] user [HOME] with process ID [2620] created
+[2018.06.11 15:09:12] [0000m.55s.762ms] [1] SC[2715]: Registered sub-client [Expedition PCB_157997] with ID [1] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:09:13] [0000m.55s.839ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 15:09:13] [0000m.56s.008ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_329055792] with ID [2] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:09:13] [0000m.56s.143ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_329055792] with ID [2] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:09:13] [0000m.56s.145ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_329055792] with ID [3] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:09:13] [0000m.56s.168ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_329055792] with ID [3] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:09:14] [0000m.57s.400ms] [1] SC[2715]: Registered sub-client [JobPrefsDBPI_159776] with ID [4] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:09:14] [0000m.57s.470ms] [1] SC[2715]: UnRegistered sub-client [JobPrefsDBPI_159776] with ID [4] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:09:17] [0001m.00s.740ms] [1] SC[2715]: Registered sub-client [JobPrefsDBPI_163114] with ID [5] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:09:17] [0001m.00s.743ms] [1] SC[2715]: UnRegistered sub-client [JobPrefsDBPI_163114] with ID [5] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:09:19] [0001m.02s.000ms] [1] SC[2715]: Registered sub-client [ExpeditionCrossProber] with ID [6] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:09:19] [0001m.02s.004ms] [1] SC[2715]: Registered sub-client [StartServerClienta60] with ID [7] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:09:19] [0001m.02s.005ms] [1] SC[2715]: UnRegistered sub-client [StartServerClienta60] with ID [7] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:09:21] [0001m.04s.785ms] [1] SC[2715]: Registered sub-client [HOME] with ID [8] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:09:22] [0001m.04s.830ms] [1] SC[2715]: UnRegistered sub-client [HOME] with ID [8] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:09:22] [0001m.04s.962ms] [1] SC[2715]: Registered sub-client [HOME (Exp-iCES parallella)] with ID [9] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:09:22] [0001m.05s.095ms] [1] SC[2715]: Registered sub-client [HOME (Exp-iCES)] with ID [10] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:26:02] [0017m.45s.011ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [11] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:26:02] [0017m.45s.012ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [11] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:26:02] [0017m.45s.250ms] [0] IT: Session [2716] for host [HOME-PC-W7] user [HOME] with process ID [5164] created
+[2018.06.11 15:26:02] [0017m.45s.250ms] [1] SC[2716]: Registered sub-client [Expedition_1167511] with ID [1] for session ID [2716] host [HOME-PC-W7] user [HOME] process ID [5164]
+[2018.06.11 15:26:02] [0017m.45s.280ms] [1] CMT: There are [3] clients now: 2714, 2715, 2716
+[2018.06.11 15:26:02] [0017m.45s.383ms] [1] SC[2716]: UnRegistered sub-client [Expedition_1167511] with ID [1] for session ID [2716] host [HOME-PC-W7] user [HOME] process ID [5164]
+[2018.06.11 15:26:02] [0017m.45s.480ms] [1] CMT: Removed client [2716]
+[2018.06.11 15:26:02] [0017m.45s.480ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 15:26:19] [0018m.02s.591ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [12] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:26:19] [0018m.02s.592ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [12] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:26:19] [0018m.02s.784ms] [0] IT: Session [2717] for host [HOME-PC-W7] user [HOME] with process ID [4224] created
+[2018.06.11 15:26:19] [0018m.02s.785ms] [1] SC[2717]: Registered sub-client [Expedition_1185045] with ID [1] for session ID [2717] host [HOME-PC-W7] user [HOME] process ID [4224]
+[2018.06.11 15:26:20] [0018m.02s.881ms] [1] CMT: There are [3] clients now: 2714, 2715, 2717
+[2018.06.11 15:26:20] [0018m.02s.904ms] [1] SC[2717]: UnRegistered sub-client [Expedition_1185045] with ID [1] for session ID [2717] host [HOME-PC-W7] user [HOME] process ID [4224]
+[2018.06.11 15:26:20] [0018m.02s.981ms] [1] CMT: Removed client [2717]
+[2018.06.11 15:26:20] [0018m.02s.981ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 15:27:23] [0019m.06s.395ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [13] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:27:23] [0019m.06s.395ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [13] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:27:23] [0019m.06s.594ms] [0] IT: Session [2718] for host [HOME-PC-W7] user [HOME] with process ID [5440] created
+[2018.06.11 15:27:23] [0019m.06s.595ms] [1] SC[2718]: Registered sub-client [Expedition_1248850] with ID [1] for session ID [2718] host [HOME-PC-W7] user [HOME] process ID [5440]
+[2018.06.11 15:27:23] [0019m.06s.685ms] [1] CMT: There are [3] clients now: 2714, 2715, 2718
+[2018.06.11 15:27:23] [0019m.06s.713ms] [1] SC[2718]: UnRegistered sub-client [Expedition_1248850] with ID [1] for session ID [2718] host [HOME-PC-W7] user [HOME] process ID [5440]
+[2018.06.11 15:27:23] [0019m.06s.785ms] [1] CMT: Removed client [2718]
+[2018.06.11 15:27:23] [0019m.06s.785ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 15:27:31] [0019m.14s.643ms] [1] SC[2715]: Registered sub-client [JobPrefsDBPI_1257024] with ID [14] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:27:31] [0019m.14s.665ms] [1] SC[2715]: UnRegistered sub-client [JobPrefsDBPI_1257024] with ID [14] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:31:56] [0023m.39s.393ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [15] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:31:56] [0023m.39s.393ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [15] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:31:56] [0023m.39s.612ms] [0] IT: Session [2719] for host [HOME-PC-W7] user [HOME] with process ID [5376] created
+[2018.06.11 15:31:56] [0023m.39s.613ms] [1] SC[2719]: Registered sub-client [Expedition_1521867] with ID [1] for session ID [2719] host [HOME-PC-W7] user [HOME] process ID [5376]
+[2018.06.11 15:31:56] [0023m.39s.635ms] [1] CMT: There are [3] clients now: 2714, 2715, 2719
+[2018.06.11 15:31:56] [0023m.39s.730ms] [1] SC[2719]: UnRegistered sub-client [Expedition_1521867] with ID [1] for session ID [2719] host [HOME-PC-W7] user [HOME] process ID [5376]
+[2018.06.11 15:31:56] [0023m.39s.735ms] [1] CMT: Removed client [2719]
+[2018.06.11 15:31:56] [0023m.39s.735ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 15:32:41] [0024m.24s.462ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [16] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:32:41] [0024m.24s.462ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [16] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:32:41] [0024m.24s.673ms] [0] IT: Session [2720] for host [HOME-PC-W7] user [HOME] with process ID [1168] created
+[2018.06.11 15:32:41] [0024m.24s.674ms] [1] SC[2720]: Registered sub-client [Expedition_1566936] with ID [1] for session ID [2720] host [HOME-PC-W7] user [HOME] process ID [1168]
+[2018.06.11 15:32:41] [0024m.24s.738ms] [1] CMT: There are [3] clients now: 2714, 2715, 2720
+[2018.06.11 15:32:41] [0024m.24s.794ms] [1] SC[2720]: UnRegistered sub-client [Expedition_1566936] with ID [1] for session ID [2720] host [HOME-PC-W7] user [HOME] process ID [1168]
+[2018.06.11 15:32:42] [0024m.24s.838ms] [1] CMT: Removed client [2720]
+[2018.06.11 15:32:42] [0024m.24s.838ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 15:33:48] [0025m.31s.255ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [17] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:33:48] [0025m.31s.256ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [17] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:33:48] [0025m.31s.477ms] [0] IT: Session [2721] for host [HOME-PC-W7] user [HOME] with process ID [4300] created
+[2018.06.11 15:33:48] [0025m.31s.478ms] [1] SC[2721]: Registered sub-client [Expedition_1633736] with ID [1] for session ID [2721] host [HOME-PC-W7] user [HOME] process ID [4300]
+[2018.06.11 15:33:48] [0025m.31s.543ms] [1] CMT: There are [3] clients now: 2714, 2715, 2721
+[2018.06.11 15:33:48] [0025m.31s.597ms] [1] SC[2721]: UnRegistered sub-client [Expedition_1633736] with ID [1] for session ID [2721] host [HOME-PC-W7] user [HOME] process ID [4300]
+[2018.06.11 15:33:48] [0025m.31s.643ms] [1] CMT: Removed client [2721]
+[2018.06.11 15:33:48] [0025m.31s.643ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 15:34:07] [0025m.50s.529ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [18] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:34:07] [0025m.50s.530ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [18] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:34:07] [0025m.50s.737ms] [0] IT: Session [2722] for host [HOME-PC-W7] user [HOME] with process ID [1964] created
+[2018.06.11 15:34:07] [0025m.50s.738ms] [1] SC[2722]: Registered sub-client [Expedition_1653002] with ID [1] for session ID [2722] host [HOME-PC-W7] user [HOME] process ID [1964]
+[2018.06.11 15:34:07] [0025m.50s.755ms] [1] CMT: There are [3] clients now: 2714, 2715, 2722
+[2018.06.11 15:34:08] [0025m.50s.856ms] [1] SC[2722]: UnRegistered sub-client [Expedition_1653002] with ID [1] for session ID [2722] host [HOME-PC-W7] user [HOME] process ID [1964]
+[2018.06.11 15:34:08] [0025m.50s.955ms] [1] CMT: Removed client [2722]
+[2018.06.11 15:34:08] [0025m.50s.955ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 15:36:54] [0028m.37s.616ms] [1] SC[2715]: Registered sub-client [JobPrefsDBPI_1819985] with ID [19] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:36:54] [0028m.37s.640ms] [1] SC[2715]: UnRegistered sub-client [JobPrefsDBPI_1819985] with ID [19] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:48:30] [0040m.13s.322ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [20] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:48:30] [0040m.13s.322ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [20] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:48:30] [0040m.13s.516ms] [0] IT: Session [2723] for host [HOME-PC-W7] user [HOME] with process ID [1720] created
+[2018.06.11 15:48:30] [0040m.13s.517ms] [1] SC[2723]: Registered sub-client [Expedition_2515781] with ID [1] for session ID [2723] host [HOME-PC-W7] user [HOME] process ID [1720]
+[2018.06.11 15:48:30] [0040m.13s.562ms] [1] CMT: There are [3] clients now: 2714, 2715, 2723
+[2018.06.11 15:48:30] [0040m.13s.636ms] [1] SC[2723]: UnRegistered sub-client [Expedition_2515781] with ID [1] for session ID [2723] host [HOME-PC-W7] user [HOME] process ID [1720]
+[2018.06.11 15:48:30] [0040m.13s.662ms] [1] CMT: Removed client [2723]
+[2018.06.11 15:48:30] [0040m.13s.662ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 15:48:59] [0040m.41s.845ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [21] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:48:59] [0040m.41s.845ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [21] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:48:59] [0040m.42s.068ms] [0] IT: Session [2724] for host [HOME-PC-W7] user [HOME] with process ID [3068] created
+[2018.06.11 15:48:59] [0040m.42s.069ms] [1] SC[2724]: Registered sub-client [Expedition_2544329] with ID [1] for session ID [2724] host [HOME-PC-W7] user [HOME] process ID [3068]
+[2018.06.11 15:48:59] [0040m.42s.104ms] [1] CMT: There are [3] clients now: 2714, 2715, 2724
+[2018.06.11 15:48:59] [0040m.42s.226ms] [1] SC[2724]: UnRegistered sub-client [Expedition_2544329] with ID [1] for session ID [2724] host [HOME-PC-W7] user [HOME] process ID [3068]
+[2018.06.11 15:48:59] [0040m.42s.304ms] [1] CMT: Removed client [2724]
+[2018.06.11 15:48:59] [0040m.42s.304ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 15:50:32] [0042m.14s.871ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [22] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:50:32] [0042m.14s.871ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [22] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:50:32] [0042m.15s.080ms] [0] IT: Session [2725] for host [HOME-PC-W7] user [HOME] with process ID [1740] created
+[2018.06.11 15:50:32] [0042m.15s.081ms] [1] SC[2725]: Registered sub-client [Expedition_2637337] with ID [1] for session ID [2725] host [HOME-PC-W7] user [HOME] process ID [1740]
+[2018.06.11 15:50:32] [0042m.15s.106ms] [1] CMT: There are [3] clients now: 2714, 2715, 2725
+[2018.06.11 15:50:32] [0042m.15s.219ms] [1] SC[2725]: UnRegistered sub-client [Expedition_2637337] with ID [1] for session ID [2725] host [HOME-PC-W7] user [HOME] process ID [1740]
+[2018.06.11 15:50:32] [0042m.15s.306ms] [1] CMT: Removed client [2725]
+[2018.06.11 15:50:32] [0042m.15s.306ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 15:56:02] [0047m.45s.578ms] [1] SC[2715]: Registered sub-client [JobPrefsDBPI_2967950] with ID [23] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:56:02] [0047m.45s.581ms] [1] SC[2715]: UnRegistered sub-client [JobPrefsDBPI_2967950] with ID [23] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:56:02] [0047m.45s.594ms] [1] SC[2715]: Registered sub-client [JobPrefsDBPI_2967965] with ID [24] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:56:02] [0047m.45s.596ms] [1] SC[2715]: UnRegistered sub-client [JobPrefsDBPI_2967965] with ID [24] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:56:03] [0047m.46s.756ms] [1] SC[2715]: Registered sub-client [JobPrefsDBPI_2969135] with ID [25] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:56:03] [0047m.46s.759ms] [1] SC[2715]: UnRegistered sub-client [JobPrefsDBPI_2969135] with ID [25] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:56:03] [0047m.46s.782ms] [1] SC[2715]: Registered sub-client [JobPrefsDBPI_2969151] with ID [26] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:56:03] [0047m.46s.784ms] [1] SC[2715]: UnRegistered sub-client [JobPrefsDBPI_2969151] with ID [26] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:57:00] [0048m.43s.369ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [27] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:57:00] [0048m.43s.370ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [27] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:57:00] [0048m.43s.587ms] [0] IT: Session [2726] for host [HOME-PC-W7] user [HOME] with process ID [1336] created
+[2018.06.11 15:57:00] [0048m.43s.587ms] [1] SC[2726]: Registered sub-client [Expedition_3025826] with ID [1] for session ID [2726] host [HOME-PC-W7] user [HOME] process ID [1336]
+[2018.06.11 15:57:00] [0048m.43s.618ms] [1] CMT: There are [3] clients now: 2714, 2715, 2726
+[2018.06.11 15:57:00] [0048m.43s.719ms] [1] SC[2726]: UnRegistered sub-client [Expedition_3025826] with ID [1] for session ID [2726] host [HOME-PC-W7] user [HOME] process ID [1336]
+[2018.06.11 15:57:01] [0048m.43s.818ms] [1] CMT: Removed client [2726]
+[2018.06.11 15:57:01] [0048m.43s.818ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 15:59:14] [0050m.57s.656ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [28] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:59:14] [0050m.57s.656ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [28] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 15:59:15] [0050m.57s.873ms] [0] IT: Session [2727] for host [HOME-PC-W7] user [HOME] with process ID [6108] created
+[2018.06.11 15:59:15] [0050m.57s.873ms] [1] SC[2727]: Registered sub-client [Expedition_3160127] with ID [1] for session ID [2727] host [HOME-PC-W7] user [HOME] process ID [6108]
+[2018.06.11 15:59:15] [0050m.57s.879ms] [1] CMT: There are [3] clients now: 2714, 2715, 2727
+[2018.06.11 15:59:15] [0050m.58s.002ms] [1] SC[2727]: UnRegistered sub-client [Expedition_3160127] with ID [1] for session ID [2727] host [HOME-PC-W7] user [HOME] process ID [6108]
+[2018.06.11 15:59:15] [0050m.58s.079ms] [1] CMT: Removed client [2727]
+[2018.06.11 15:59:15] [0050m.58s.079ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:01:54] [0053m.37s.359ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [29] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:01:54] [0053m.37s.360ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [29] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:01:54] [0053m.37s.663ms] [0] IT: Session [2728] for host [HOME-PC-W7] user [HOME] with process ID [5356] created
+[2018.06.11 16:01:54] [0053m.37s.663ms] [1] SC[2728]: Registered sub-client [Expedition_3319826] with ID [1] for session ID [2728] host [HOME-PC-W7] user [HOME] process ID [5356]
+[2018.06.11 16:01:54] [0053m.37s.746ms] [1] CMT: There are [3] clients now: 2714, 2715, 2728
+[2018.06.11 16:01:54] [0053m.37s.814ms] [1] SC[2728]: UnRegistered sub-client [Expedition_3319826] with ID [1] for session ID [2728] host [HOME-PC-W7] user [HOME] process ID [5356]
+[2018.06.11 16:01:55] [0053m.37s.849ms] [1] CMT: Removed client [2728]
+[2018.06.11 16:01:55] [0053m.37s.849ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:09:30] [0061m.12s.934ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [30] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:09:30] [0061m.12s.935ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [30] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:09:30] [0061m.13s.125ms] [0] IT: Session [2729] for host [HOME-PC-W7] user [HOME] with process ID [5592] created
+[2018.06.11 16:09:30] [0061m.13s.126ms] [1] SC[2729]: Registered sub-client [Expedition_3775380] with ID [1] for session ID [2729] host [HOME-PC-W7] user [HOME] process ID [5592]
+[2018.06.11 16:09:30] [0061m.13s.215ms] [1] CMT: There are [3] clients now: 2714, 2715, 2729
+[2018.06.11 16:09:30] [0061m.13s.245ms] [1] SC[2729]: UnRegistered sub-client [Expedition_3775380] with ID [1] for session ID [2729] host [HOME-PC-W7] user [HOME] process ID [5592]
+[2018.06.11 16:09:30] [0061m.13s.315ms] [1] CMT: Removed client [2729]
+[2018.06.11 16:09:30] [0061m.13s.315ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:11:25] [0063m.08s.232ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [31] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:11:25] [0063m.08s.233ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [31] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:11:25] [0063m.08s.427ms] [0] IT: Session [2730] for host [HOME-PC-W7] user [HOME] with process ID [5684] created
+[2018.06.11 16:11:25] [0063m.08s.428ms] [1] SC[2730]: Registered sub-client [Expedition_3890680] with ID [1] for session ID [2730] host [HOME-PC-W7] user [HOME] process ID [5684]
+[2018.06.11 16:11:25] [0063m.08s.444ms] [1] CMT: There are [3] clients now: 2714, 2715, 2730
+[2018.06.11 16:11:25] [0063m.08s.548ms] [1] SC[2730]: UnRegistered sub-client [Expedition_3890680] with ID [1] for session ID [2730] host [HOME-PC-W7] user [HOME] process ID [5684]
+[2018.06.11 16:11:25] [0063m.08s.644ms] [1] CMT: Removed client [2730]
+[2018.06.11 16:11:25] [0063m.08s.644ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:13:27] [0065m.09s.849ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\ProjectBackup\backups\2018-06-11 16.13.24 - auto.zip] with GUID [6230-f861-42a9-88af-4838-e1b9-838e-1b50-e343-8e1d-2c4b-ba98]
+[2018.06.11 16:13:27] [0065m.09s.850ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[d059-95ff-d31b-04b6-cc52-c1b1-d52c-1b50-6213-8e1d-2c4b-ba98] CreationTime[Saturday, June 09, 2018 19:09:00] Type[Autosave] Creator[iCDB Server (2018-06-09 20.55.59-3776)] ApplicationName[iCDB Server (2018-06-09 20.55.59-3776)] UserName[HOME] MachineName[HOME-PC-W7] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.2] FlowId[EEVX.2.2] GBSInstallId[1589114] GBSBuildId[7609897] IcdbVersion[3300] ReferenceLogFilePath[] BackupFilePath[C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\ProjectBackup\backups\2018-06-09 21.09.00 - auto.zip] BackupFileSize[6469399] Persistent[FALSE]
+[2018.06.11 16:13:27] [0065m.09s.850ms] [0] PrjBackupMgr: Project Backup file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\ProjectBackup\backups\2018-06-09 21.09.00 - auto.zip] with GUID [d059-95ff-d31b-04b6-cc52-c1b1-d52c-1b50-6213-8e1d-2c4b-ba98] removed
+[2018.06.11 16:13:27] [0065m.09s.851ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[6230-f861-42a9-88af-4838-e1b9-838e-1b50-e343-8e1d-2c4b-ba98] CreationTime[Monday, June 11, 2018 14:13:24] Type[Autosave] Creator[iCDB Server (2018-06-11 15.08.17-4992)] ApplicationName[iCDB Server (2018-06-11 15.08.17-4992)] UserName[HOME] MachineName[HOME-PC-W7] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.2] FlowId[EEVX.2.2] GBSInstallId[1589114] GBSBuildId[7609897] IcdbVersion[3300] ReferenceLogFilePath[] BackupFilePath[C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\ProjectBackup\backups\2018-06-11 16.13.24 - auto.zip] BackupFileSize[6524326] Persistent[FALSE]
+[2018.06.11 16:17:27] [0069m.09s.921ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [32] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:17:27] [0069m.09s.922ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [32] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:17:27] [0069m.10s.132ms] [0] IT: Session [2731] for host [HOME-PC-W7] user [HOME] with process ID [2052] created
+[2018.06.11 16:17:27] [0069m.10s.133ms] [1] SC[2731]: Registered sub-client [Expedition_4252384] with ID [1] for session ID [2731] host [HOME-PC-W7] user [HOME] process ID [2052]
+[2018.06.11 16:17:27] [0069m.10s.214ms] [1] CMT: There are [3] clients now: 2714, 2715, 2731
+[2018.06.11 16:17:27] [0069m.10s.253ms] [1] SC[2731]: UnRegistered sub-client [Expedition_4252384] with ID [1] for session ID [2731] host [HOME-PC-W7] user [HOME] process ID [2052]
+[2018.06.11 16:17:27] [0069m.10s.314ms] [1] CMT: Removed client [2731]
+[2018.06.11 16:17:27] [0069m.10s.314ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:18:41] [0070m.23s.978ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [33] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:18:41] [0070m.23s.978ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [33] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:18:41] [0070m.24s.176ms] [0] IT: Session [2732] for host [HOME-PC-W7] user [HOME] with process ID [1920] created
+[2018.06.11 16:18:41] [0070m.24s.176ms] [1] SC[2732]: Registered sub-client [Expedition_4326438] with ID [1] for session ID [2732] host [HOME-PC-W7] user [HOME] process ID [1920]
+[2018.06.11 16:18:41] [0070m.24s.220ms] [1] CMT: There are [3] clients now: 2714, 2715, 2732
+[2018.06.11 16:18:41] [0070m.24s.298ms] [1] SC[2732]: UnRegistered sub-client [Expedition_4326438] with ID [1] for session ID [2732] host [HOME-PC-W7] user [HOME] process ID [1920]
+[2018.06.11 16:18:41] [0070m.24s.320ms] [1] CMT: Removed client [2732]
+[2018.06.11 16:18:41] [0070m.24s.320ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:19:22] [0071m.05s.098ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [34] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:19:22] [0071m.05s.098ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [34] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:19:22] [0071m.05s.287ms] [0] IT: Session [2733] for host [HOME-PC-W7] user [HOME] with process ID [1304] created
+[2018.06.11 16:19:22] [0071m.05s.287ms] [1] SC[2733]: Registered sub-client [Expedition_4367544] with ID [1] for session ID [2733] host [HOME-PC-W7] user [HOME] process ID [1304]
+[2018.06.11 16:19:22] [0071m.05s.322ms] [1] CMT: There are [3] clients now: 2714, 2715, 2733
+[2018.06.11 16:19:22] [0071m.05s.408ms] [1] SC[2733]: UnRegistered sub-client [Expedition_4367544] with ID [1] for session ID [2733] host [HOME-PC-W7] user [HOME] process ID [1304]
+[2018.06.11 16:19:22] [0071m.05s.422ms] [1] CMT: Removed client [2733]
+[2018.06.11 16:19:22] [0071m.05s.422ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:20:06] [0071m.49s.626ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [35] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:20:06] [0071m.49s.626ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [35] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:20:07] [0071m.49s.817ms] [0] IT: Session [2734] for host [HOME-PC-W7] user [HOME] with process ID [2320] created
+[2018.06.11 16:20:07] [0071m.49s.818ms] [1] SC[2734]: Registered sub-client [Expedition_4412067] with ID [1] for session ID [2734] host [HOME-PC-W7] user [HOME] process ID [2320]
+[2018.06.11 16:20:07] [0071m.49s.825ms] [1] CMT: There are [3] clients now: 2714, 2715, 2734
+[2018.06.11 16:20:07] [0071m.49s.941ms] [1] SC[2734]: UnRegistered sub-client [Expedition_4412067] with ID [1] for session ID [2734] host [HOME-PC-W7] user [HOME] process ID [2320]
+[2018.06.11 16:20:07] [0071m.50s.025ms] [1] CMT: Removed client [2734]
+[2018.06.11 16:20:07] [0071m.50s.025ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:21:10] [0072m.53s.643ms] [1] SC[2715]: Registered sub-client [JobPrefsDBPI_4476011] with ID [36] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:21:10] [0072m.53s.646ms] [1] SC[2715]: UnRegistered sub-client [JobPrefsDBPI_4476011] with ID [36] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:21:10] [0072m.53s.659ms] [1] SC[2715]: Registered sub-client [JobPrefsDBPI_4476043] with ID [37] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:21:10] [0072m.53s.660ms] [1] SC[2715]: UnRegistered sub-client [JobPrefsDBPI_4476043] with ID [37] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:21:13] [0072m.56s.197ms] [1] SC[2715]: Registered sub-client [JobPrefsDBPI_4478570] with ID [38] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:21:13] [0072m.56s.199ms] [1] SC[2715]: UnRegistered sub-client [JobPrefsDBPI_4478570] with ID [38] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:21:13] [0072m.56s.212ms] [1] SC[2715]: Registered sub-client [JobPrefsDBPI_4478585] with ID [39] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:21:13] [0072m.56s.214ms] [1] SC[2715]: UnRegistered sub-client [JobPrefsDBPI_4478585] with ID [39] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:22:19] [0074m.02s.296ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [40] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:22:19] [0074m.02s.297ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [40] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:22:19] [0074m.02s.555ms] [0] IT: Session [2735] for host [HOME-PC-W7] user [HOME] with process ID [5308] created
+[2018.06.11 16:22:19] [0074m.02s.555ms] [1] SC[2735]: Registered sub-client [Expedition_4544792] with ID [1] for session ID [2735] host [HOME-PC-W7] user [HOME] process ID [5308]
+[2018.06.11 16:22:19] [0074m.02s.622ms] [1] CMT: There are [3] clients now: 2714, 2715, 2735
+[2018.06.11 16:22:19] [0074m.02s.674ms] [1] SC[2735]: UnRegistered sub-client [Expedition_4544792] with ID [1] for session ID [2735] host [HOME-PC-W7] user [HOME] process ID [5308]
+[2018.06.11 16:22:19] [0074m.02s.722ms] [1] CMT: Removed client [2735]
+[2018.06.11 16:22:19] [0074m.02s.722ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:23:53] [0075m.36s.184ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [41] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:23:53] [0075m.36s.185ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [41] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:23:53] [0075m.36s.375ms] [0] IT: Session [2736] for host [HOME-PC-W7] user [HOME] with process ID [3592] created
+[2018.06.11 16:23:53] [0075m.36s.376ms] [1] SC[2736]: Registered sub-client [Expedition_4638627] with ID [1] for session ID [2736] host [HOME-PC-W7] user [HOME] process ID [3592]
+[2018.06.11 16:23:53] [0075m.36s.428ms] [1] CMT: There are [3] clients now: 2714, 2715, 2736
+[2018.06.11 16:23:53] [0075m.36s.497ms] [1] SC[2736]: UnRegistered sub-client [Expedition_4638627] with ID [1] for session ID [2736] host [HOME-PC-W7] user [HOME] process ID [3592]
+[2018.06.11 16:23:53] [0075m.36s.528ms] [1] CMT: Removed client [2736]
+[2018.06.11 16:23:53] [0075m.36s.528ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:27:13] [0078m.56s.085ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [42] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:27:13] [0078m.56s.086ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [42] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:27:13] [0078m.56s.285ms] [0] IT: Session [2737] for host [HOME-PC-W7] user [HOME] with process ID [6100] created
+[2018.06.11 16:27:13] [0078m.56s.285ms] [1] SC[2737]: Registered sub-client [Expedition_4838527] with ID [1] for session ID [2737] host [HOME-PC-W7] user [HOME] process ID [6100]
+[2018.06.11 16:27:13] [0078m.56s.374ms] [1] CMT: There are [3] clients now: 2714, 2715, 2737
+[2018.06.11 16:27:13] [0078m.56s.404ms] [1] SC[2737]: UnRegistered sub-client [Expedition_4838527] with ID [1] for session ID [2737] host [HOME-PC-W7] user [HOME] process ID [6100]
+[2018.06.11 16:27:13] [0078m.56s.474ms] [1] CMT: Removed client [2737]
+[2018.06.11 16:27:13] [0078m.56s.474ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:27:43] [0079m.26s.351ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [43] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:27:43] [0079m.26s.352ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [43] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:27:43] [0079m.26s.540ms] [0] IT: Session [2738] for host [HOME-PC-W7] user [HOME] with process ID [1956] created
+[2018.06.11 16:27:43] [0079m.26s.541ms] [1] SC[2738]: Registered sub-client [Expedition_4868791] with ID [1] for session ID [2738] host [HOME-PC-W7] user [HOME] process ID [1956]
+[2018.06.11 16:27:43] [0079m.26s.576ms] [1] CMT: There are [3] clients now: 2714, 2715, 2738
+[2018.06.11 16:27:43] [0079m.26s.659ms] [1] SC[2738]: UnRegistered sub-client [Expedition_4868791] with ID [1] for session ID [2738] host [HOME-PC-W7] user [HOME] process ID [1956]
+[2018.06.11 16:27:43] [0079m.26s.676ms] [1] CMT: Removed client [2738]
+[2018.06.11 16:27:43] [0079m.26s.676ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:28:08] [0079m.51s.659ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [44] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:28:08] [0079m.51s.660ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [44] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:28:09] [0079m.51s.957ms] [0] IT: Session [2739] for host [HOME-PC-W7] user [HOME] with process ID [5736] created
+[2018.06.11 16:28:09] [0079m.51s.958ms] [1] SC[2739]: Registered sub-client [Expedition_4894188] with ID [1] for session ID [2739] host [HOME-PC-W7] user [HOME] process ID [5736]
+[2018.06.11 16:28:09] [0079m.51s.989ms] [1] CMT: There are [3] clients now: 2714, 2715, 2739
+[2018.06.11 16:28:09] [0079m.52s.098ms] [1] SC[2739]: UnRegistered sub-client [Expedition_4894188] with ID [1] for session ID [2739] host [HOME-PC-W7] user [HOME] process ID [5736]
+[2018.06.11 16:28:09] [0079m.52s.189ms] [1] CMT: Removed client [2739]
+[2018.06.11 16:28:09] [0079m.52s.189ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:28:28] [0080m.11s.024ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [45] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:28:28] [0080m.11s.024ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [45] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:28:28] [0080m.11s.255ms] [0] IT: Session [2740] for host [HOME-PC-W7] user [HOME] with process ID [2308] created
+[2018.06.11 16:28:28] [0080m.11s.256ms] [1] SC[2740]: Registered sub-client [Expedition_4913501] with ID [1] for session ID [2740] host [HOME-PC-W7] user [HOME] process ID [2308]
+[2018.06.11 16:28:28] [0080m.11s.297ms] [1] CMT: There are [3] clients now: 2714, 2715, 2740
+[2018.06.11 16:28:28] [0080m.11s.379ms] [1] SC[2740]: UnRegistered sub-client [Expedition_4913501] with ID [1] for session ID [2740] host [HOME-PC-W7] user [HOME] process ID [2308]
+[2018.06.11 16:28:28] [0080m.11s.397ms] [1] CMT: Removed client [2740]
+[2018.06.11 16:28:28] [0080m.11s.397ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:29:00] [0080m.42s.912ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [46] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:29:00] [0080m.42s.912ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [46] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:29:00] [0080m.43s.114ms] [0] IT: Session [2741] for host [HOME-PC-W7] user [HOME] with process ID [5152] created
+[2018.06.11 16:29:00] [0080m.43s.114ms] [1] SC[2741]: Registered sub-client [Expedition_4945372] with ID [1] for session ID [2741] host [HOME-PC-W7] user [HOME] process ID [5152]
+[2018.06.11 16:29:00] [0080m.43s.122ms] [1] CMT: There are [3] clients now: 2714, 2715, 2741
+[2018.06.11 16:29:00] [0080m.43s.233ms] [1] SC[2741]: UnRegistered sub-client [Expedition_4945372] with ID [1] for session ID [2741] host [HOME-PC-W7] user [HOME] process ID [5152]
+[2018.06.11 16:29:00] [0080m.43s.322ms] [1] CMT: Removed client [2741]
+[2018.06.11 16:29:00] [0080m.43s.322ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:29:20] [0081m.03s.183ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [47] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:29:20] [0081m.03s.184ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [47] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:29:20] [0081m.03s.372ms] [0] IT: Session [2742] for host [HOME-PC-W7] user [HOME] with process ID [3116] created
+[2018.06.11 16:29:20] [0081m.03s.372ms] [1] SC[2742]: Registered sub-client [Expedition_4965636] with ID [1] for session ID [2742] host [HOME-PC-W7] user [HOME] process ID [3116]
+[2018.06.11 16:29:20] [0081m.03s.423ms] [1] CMT: There are [3] clients now: 2714, 2715, 2742
+[2018.06.11 16:29:20] [0081m.03s.490ms] [1] SC[2742]: UnRegistered sub-client [Expedition_4965636] with ID [1] for session ID [2742] host [HOME-PC-W7] user [HOME] process ID [3116]
+[2018.06.11 16:29:20] [0081m.03s.523ms] [1] CMT: Removed client [2742]
+[2018.06.11 16:29:20] [0081m.03s.523ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:31:04] [0082m.47s.001ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [48] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:31:04] [0082m.47s.001ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [48] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:31:04] [0082m.47s.195ms] [0] IT: Session [2743] for host [HOME-PC-W7] user [HOME] with process ID [3952] created
+[2018.06.11 16:31:04] [0082m.47s.195ms] [1] SC[2743]: Registered sub-client [Expedition_5069455] with ID [1] for session ID [2743] host [HOME-PC-W7] user [HOME] process ID [3952]
+[2018.06.11 16:31:04] [0082m.47s.255ms] [1] CMT: There are [3] clients now: 2714, 2715, 2743
+[2018.06.11 16:31:04] [0082m.47s.312ms] [1] SC[2743]: UnRegistered sub-client [Expedition_5069455] with ID [1] for session ID [2743] host [HOME-PC-W7] user [HOME] process ID [3952]
+[2018.06.11 16:31:04] [0082m.47s.355ms] [1] CMT: Removed client [2743]
+[2018.06.11 16:31:04] [0082m.47s.355ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:32:03] [0083m.46s.290ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [49] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:32:03] [0083m.46s.290ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [49] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:32:03] [0083m.46s.480ms] [0] IT: Session [2744] for host [HOME-PC-W7] user [HOME] with process ID [4892] created
+[2018.06.11 16:32:03] [0083m.46s.481ms] [1] SC[2744]: Registered sub-client [Expedition_5128735] with ID [1] for session ID [2744] host [HOME-PC-W7] user [HOME] process ID [4892]
+[2018.06.11 16:32:03] [0083m.46s.564ms] [1] CMT: There are [3] clients now: 2714, 2715, 2744
+[2018.06.11 16:32:03] [0083m.46s.600ms] [1] SC[2744]: UnRegistered sub-client [Expedition_5128735] with ID [1] for session ID [2744] host [HOME-PC-W7] user [HOME] process ID [4892]
+[2018.06.11 16:32:03] [0083m.46s.664ms] [1] CMT: Removed client [2744]
+[2018.06.11 16:32:03] [0083m.46s.664ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:33:45] [0085m.28s.710ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [50] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:33:45] [0085m.28s.711ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [50] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:33:46] [0085m.28s.903ms] [0] IT: Session [2745] for host [HOME-PC-W7] user [HOME] with process ID [5224] created
+[2018.06.11 16:33:46] [0085m.28s.904ms] [1] SC[2745]: Registered sub-client [Expedition_5231150] with ID [1] for session ID [2745] host [HOME-PC-W7] user [HOME] process ID [5224]
+[2018.06.11 16:33:46] [0085m.28s.985ms] [1] CMT: There are [3] clients now: 2714, 2715, 2745
+[2018.06.11 16:33:46] [0085m.29s.044ms] [1] SC[2745]: UnRegistered sub-client [Expedition_5231150] with ID [1] for session ID [2745] host [HOME-PC-W7] user [HOME] process ID [5224]
+[2018.06.11 16:33:46] [0085m.29s.085ms] [1] CMT: Removed client [2745]
+[2018.06.11 16:33:46] [0085m.29s.085ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:34:05] [0085m.47s.893ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [51] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:34:05] [0085m.47s.894ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [51] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:34:05] [0085m.48s.081ms] [0] IT: Session [2746] for host [HOME-PC-W7] user [HOME] with process ID [4932] created
+[2018.06.11 16:34:05] [0085m.48s.081ms] [1] SC[2746]: Registered sub-client [Expedition_5250338] with ID [1] for session ID [2746] host [HOME-PC-W7] user [HOME] process ID [4932]
+[2018.06.11 16:34:05] [0085m.48s.091ms] [1] CMT: There are [3] clients now: 2714, 2715, 2746
+[2018.06.11 16:34:05] [0085m.48s.202ms] [1] SC[2746]: UnRegistered sub-client [Expedition_5250338] with ID [1] for session ID [2746] host [HOME-PC-W7] user [HOME] process ID [4932]
+[2018.06.11 16:34:05] [0085m.48s.291ms] [1] CMT: Removed client [2746]
+[2018.06.11 16:34:05] [0085m.48s.291ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:35:09] [0086m.51s.916ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [52] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:35:09] [0086m.51s.916ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [52] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:35:09] [0086m.52s.049ms] [0] IT: Session [2747] for host [HOME-PC-W7] user [HOME] with process ID [6124] created
+[2018.06.11 16:35:09] [0086m.52s.049ms] [1] SC[2747]: Registered sub-client [Expedition_5314361] with ID [1] for session ID [2747] host [HOME-PC-W7] user [HOME] process ID [6124]
+[2018.06.11 16:35:09] [0086m.52s.094ms] [1] CMT: There are [3] clients now: 2714, 2715, 2747
+[2018.06.11 16:35:09] [0086m.52s.166ms] [1] SC[2747]: UnRegistered sub-client [Expedition_5314361] with ID [1] for session ID [2747] host [HOME-PC-W7] user [HOME] process ID [6124]
+[2018.06.11 16:35:09] [0086m.52s.194ms] [1] CMT: Removed client [2747]
+[2018.06.11 16:35:09] [0086m.52s.194ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:36:54] [0088m.37s.115ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [53] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:36:54] [0088m.37s.116ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [53] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:36:54] [0088m.37s.326ms] [0] IT: Session [2748] for host [HOME-PC-W7] user [HOME] with process ID [5212] created
+[2018.06.11 16:36:54] [0088m.37s.327ms] [1] SC[2748]: Registered sub-client [Expedition_5419583] with ID [1] for session ID [2748] host [HOME-PC-W7] user [HOME] process ID [5212]
+[2018.06.11 16:36:54] [0088m.37s.400ms] [1] CMT: There are [3] clients now: 2714, 2715, 2748
+[2018.06.11 16:36:54] [0088m.37s.448ms] [1] SC[2748]: UnRegistered sub-client [Expedition_5419583] with ID [1] for session ID [2748] host [HOME-PC-W7] user [HOME] process ID [5212]
+[2018.06.11 16:36:54] [0088m.37s.500ms] [1] CMT: Removed client [2748]
+[2018.06.11 16:36:54] [0088m.37s.500ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:37:46] [0089m.29s.285ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [54] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:37:46] [0089m.29s.286ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [54] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:37:46] [0089m.29s.479ms] [0] IT: Session [2749] for host [HOME-PC-W7] user [HOME] with process ID [4776] created
+[2018.06.11 16:37:46] [0089m.29s.480ms] [1] SC[2749]: Registered sub-client [Expedition_5471735] with ID [1] for session ID [2749] host [HOME-PC-W7] user [HOME] process ID [4776]
+[2018.06.11 16:37:46] [0089m.29s.512ms] [1] CMT: There are [3] clients now: 2714, 2715, 2749
+[2018.06.11 16:37:46] [0089m.29s.598ms] [1] SC[2749]: UnRegistered sub-client [Expedition_5471735] with ID [1] for session ID [2749] host [HOME-PC-W7] user [HOME] process ID [4776]
+[2018.06.11 16:37:46] [0089m.29s.612ms] [1] CMT: Removed client [2749]
+[2018.06.11 16:37:46] [0089m.29s.612ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:41:26] [0093m.09s.556ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [55] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:41:26] [0093m.09s.556ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [55] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:41:26] [0093m.09s.783ms] [0] IT: Session [2750] for host [HOME-PC-W7] user [HOME] with process ID [5784] created
+[2018.06.11 16:41:26] [0093m.09s.783ms] [1] SC[2750]: Registered sub-client [Expedition_5692039] with ID [1] for session ID [2750] host [HOME-PC-W7] user [HOME] process ID [5784]
+[2018.06.11 16:41:27] [0093m.09s.850ms] [1] CMT: There are [3] clients now: 2714, 2715, 2750
+[2018.06.11 16:41:27] [0093m.09s.906ms] [1] SC[2750]: UnRegistered sub-client [Expedition_5692039] with ID [1] for session ID [2750] host [HOME-PC-W7] user [HOME] process ID [5784]
+[2018.06.11 16:41:27] [0093m.09s.950ms] [1] CMT: Removed client [2750]
+[2018.06.11 16:41:27] [0093m.09s.950ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:48:30] [0100m.13s.102ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [56] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:48:30] [0100m.13s.102ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [56] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:48:30] [0100m.13s.290ms] [0] IT: Session [2751] for host [HOME-PC-W7] user [HOME] with process ID [5484] created
+[2018.06.11 16:48:30] [0100m.13s.290ms] [1] SC[2751]: Registered sub-client [Expedition_6115551] with ID [1] for session ID [2751] host [HOME-PC-W7] user [HOME] process ID [5484]
+[2018.06.11 16:48:30] [0100m.13s.304ms] [1] CMT: There are [3] clients now: 2714, 2715, 2751
+[2018.06.11 16:48:30] [0100m.13s.409ms] [1] SC[2751]: UnRegistered sub-client [Expedition_6115551] with ID [1] for session ID [2751] host [HOME-PC-W7] user [HOME] process ID [5484]
+[2018.06.11 16:48:30] [0100m.13s.504ms] [1] CMT: Removed client [2751]
+[2018.06.11 16:48:30] [0100m.13s.504ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:53:49] [0105m.32s.770ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [57] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:53:49] [0105m.32s.770ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [57] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:53:50] [0105m.32s.968ms] [0] IT: Session [2752] for host [HOME-PC-W7] user [HOME] with process ID [5244] created
+[2018.06.11 16:53:50] [0105m.32s.969ms] [1] SC[2752]: Registered sub-client [Expedition_6435228] with ID [1] for session ID [2752] host [HOME-PC-W7] user [HOME] process ID [5244]
+[2018.06.11 16:53:50] [0105m.33s.027ms] [1] CMT: There are [3] clients now: 2714, 2715, 2752
+[2018.06.11 16:53:50] [0105m.33s.086ms] [1] SC[2752]: UnRegistered sub-client [Expedition_6435228] with ID [1] for session ID [2752] host [HOME-PC-W7] user [HOME] process ID [5244]
+[2018.06.11 16:53:50] [0105m.33s.127ms] [1] CMT: Removed client [2752]
+[2018.06.11 16:53:50] [0105m.33s.127ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:54:24] [0106m.07s.029ms] [1] SC[2715]: Registered sub-client [EEVM_EEVM_20241768] with ID [58] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:54:24] [0106m.07s.030ms] [1] SC[2715]: UnRegistered sub-client [EEVM_EEVM_20241768] with ID [58] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:54:24] [0106m.07s.239ms] [0] IT: Session [2753] for host [HOME-PC-W7] user [HOME] with process ID [5124] created
+[2018.06.11 16:54:24] [0106m.07s.239ms] [1] SC[2753]: Registered sub-client [Expedition_6469501] with ID [1] for session ID [2753] host [HOME-PC-W7] user [HOME] process ID [5124]
+[2018.06.11 16:54:24] [0106m.07s.333ms] [1] CMT: There are [3] clients now: 2714, 2715, 2753
+[2018.06.11 16:54:24] [0106m.07s.356ms] [1] SC[2753]: UnRegistered sub-client [Expedition_6469501] with ID [1] for session ID [2753] host [HOME-PC-W7] user [HOME] process ID [5124]
+[2018.06.11 16:54:24] [0106m.07s.433ms] [1] CMT: Removed client [2753]
+[2018.06.11 16:54:24] [0106m.07s.433ms] [1] CMT: There are [2] clients now: 2714, 2715
+[2018.06.11 16:54:31] [0106m.13s.969ms] [1] SC[2715]: UnRegistered sub-client [HOME (Exp-iCES parallella)] with ID [9] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:54:31] [0106m.13s.971ms] [1] SC[2715]: UnRegistered sub-client [HOME (Exp-iCES)] with ID [10] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:54:31] [0106m.14s.009ms] [1] SC[2715]: UnRegistered sub-client [ExpeditionCrossProber] with ID [6] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:54:31] [0106m.14s.564ms] [1] SC[2715]: UnRegistered sub-client [Expedition PCB_157997] with ID [1] for session ID [2715] host [HOME-PC-W7] user [HOME] process ID [2620]
+[2018.06.11 16:54:31] [0106m.14s.633ms] [1] CMT: Removed client [2715]
+[2018.06.11 16:54:31] [0106m.14s.633ms] [1] CMT: There are [1] clients now: 2714
+[2018.06.11 16:55:32] [0107m.15s.376ms] [1] SC[2714]: UnRegistered sub-client [SystemDesignDll] with ID [12] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:32] [0107m.15s.479ms] [1] SC[2714]: UnRegistered sub-client [DesignSearcher2] with ID [13] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:32] [0107m.15s.575ms] [1] SC[2714]: UnRegistered sub-client [GlobalNetAliasUpdater_454136656] with ID [36] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:32] [0107m.15s.575ms] [1] SC[2714]: UnRegistered sub-client [BlockCacheDxD:507107264] with ID [35] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:32] [0107m.15s.575ms] [1] SC[2714]: UnRegistered sub-client [ObjectHolder_482397040] with ID [34] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:32] [0107m.15s.575ms] [1] SC[2714]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:507275264] with ID [37] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:32] [0107m.15s.617ms] [1] SC[2714]: UnRegistered sub-client [Navigator] with ID [15] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:32] [0107m.15s.617ms] [1] SC[2714]: UnRegistered sub-client [FFSSelListener] with ID [21] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:32] [0107m.15s.619ms] [1] SC[2714]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [18] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:32] [0107m.15s.622ms] [1] SC[2714]: UnRegistered sub-client [FFSearch_Controller_1] with ID [20] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:32] [0107m.15s.624ms] [1] SC[2714]: UnRegistered sub-client [FFSearch_Controller_0] with ID [19] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:32] [0107m.15s.676ms] [1] SC[2714]: UnRegistered sub-client [MyParts] with ID [25] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:32] [0107m.15s.677ms] [1] SC[2714]: UnRegistered sub-client [toolboxes] with ID [27] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:33] [0107m.15s.831ms] [1] SC[2714]: UnRegistered sub-client [SelectionHolder] with ID [6] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:33] [0107m.15s.831ms] [1] SC[2714]: UnRegistered sub-client [PartReplaceUtils] with ID [32] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:33] [0107m.15s.831ms] [1] SC[2714]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [33] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:33] [0107m.15s.831ms] [1] SC[2714]: UnRegistered sub-client [Core::DesignListener-12374] with ID [29] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:33] [0107m.16s.431ms] [1] SC[2714]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:236876112] with ID [28] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:33] [0107m.16s.431ms] [1] SC[2714]: UnRegistered sub-client [SheetConnectorsCacheDxD:1528722505] with ID [30] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:33] [0107m.16s.431ms] [1] SC[2714]: UnRegistered sub-client [NetsNamesCollectorDxD:1528722505] with ID [31] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:33] [0107m.16s.432ms] [1] SC[2714]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:33] [0107m.16s.432ms] [1] SC[2714]: UnRegistered sub-client [DxD] with ID [1] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:33] [0107m.16s.436ms] [1] SC[2714]: UnRegistered sub-client [xprob] with ID [3] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:33] [0107m.16s.436ms] [1] SC[2714]: UnRegistered sub-client [SymbolEditor] with ID [5] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:33] [0107m.16s.437ms] [1] SC[2714]: UnRegistered sub-client [OutputWindow] with ID [16] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:33] [0107m.16s.439ms] [1] SC[2714]: UnRegistered sub-client [DxDbSearch] with ID [38] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:33] [0107m.16s.440ms] [1] SC[2714]: UnRegistered sub-client [SAE] with ID [22] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:33] [0107m.16s.442ms] [1] SC[2714]: UnRegistered sub-client [CCZAddin] with ID [23] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:33] [0107m.16s.442ms] [1] SC[2714]: UnRegistered sub-client [DxThumbnails] with ID [24] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:33] [0107m.16s.616ms] [1] SC[2714]: UnRegistered sub-client [PinsList] with ID [26] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:33] [0107m.16s.626ms] [1] SC[2714]: UnRegistered sub-client [PlaceDevice] with ID [17] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:33] [0107m.16s.641ms] [1] SC[2714]: UnRegistered sub-client [HdlProject] with ID [14] for session ID [2714] host [HOME-PC-W7] user [HOME] process ID [3980]
+[2018.06.11 16:55:33] [0107m.16s.747ms] [1] CMT: Removed client [2714]
+[2018.06.11 16:55:33] [0107m.16s.747ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2018.06.11 16:55:35] [0107m.17s.847ms] [0] CMT: Starting server auto-close
+[2018.06.11 16:55:35] [0107m.17s.866ms] [0] S: Closing server
+[2018.06.11 16:55:35] [0107m.17s.959ms] [0] iCDB Server PI: Closing plugins
+[2018.06.11 16:55:35] [0107m.17s.959ms] [0] iCDB Server PI: Plugins closed
+[2018.06.11 16:55:35] [0107m.17s.959ms] [0] iCDB Server PI: Unloading database
+[2018.06.11 16:55:35] [0107m.17s.959ms] [0] iCDB Server PI: Saving storage
+[2018.06.11 16:55:35] [0107m.17s.959ms] [0] iCDB Server PI: Closing database
+[2018.06.11 16:55:35] [0107m.18s.019ms] [1] iCDB Server PI: Stats: Database defragmentation: max[3] avg[1] holes[9%] data[99%]
+[2018.06.11 16:55:35] [0107m.18s.019ms] [1] iCDB Server PI: Stats: Database file size [1839456 (1.8 MB)]
+[2018.06.11 16:55:35] [0107m.18s.045ms] [0] iCDB Server PI: Database closed
+[2018.06.11 16:55:35] [0107m.18s.045ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [3672889] ticks
+[2018.06.11 16:55:35] [0107m.18s.045ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [1174150] microseconds
+[2018.06.11 16:55:35] [0107m.18s.045ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [37743]
+[2018.06.11 16:55:35] [0107m.18s.045ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [32144] commands per second
+[2018.06.11 16:55:35] [0107m.18s.046ms] [0] Single file [C:\Users\HOME\Desktop\Projekt 8Parallella\PCBD\!projekt_i_bibioteka\parallella_proj\database\icdb.dat] closed with size [1839456 (1.8 MB)]
+[2018.06.11 16:55:35] [0107m.18s.196ms] [0] MWT: Destroy the shutdown block reason.
+[2018.06.11 16:55:35] [0107m.18s.197ms] [0] MWT: STOP
+[2018.06.11 16:55:35] [0107m.18s.197ms] [0] S: STOP
