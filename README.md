@@ -2,7 +2,7 @@ GOTO: [Base-Projects](https://github.com/DamianKJKujawski/Base-Projects) [Ideas-
 
 # My PCB Projects:
 
-### Parallella:
+## Parallella:
 
 ### 3D Layout:
 
